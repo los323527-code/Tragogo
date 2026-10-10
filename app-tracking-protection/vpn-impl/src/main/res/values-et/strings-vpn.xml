@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Kõik rakendused</string>
     <string name="atp_ExcludedAppsFeature">Rakenduse jälgimise kaitse tuvastab ja blokeerib teiste ettevõtete rakenduste jälgurid, näiteks siis, kui Facebook püüab sind terviserakenduses jälgida. Ettevõtted võivad sind enda rakendustes ikkagi jälgida.\n\nKui rakendus ei tööta ootuspäraselt, proovi keelata selle rakenduse kaitse.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo võib mõne rakenduse kaitse keelata, et lahendada teadaolevaid sisu laadimisega seotud probleeme. Sinu kohandatud sätted ei muutu, kui sa just vaikesätteid ei taasta.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo võib mõne rakenduse kaitse keelata, et lahendada teadaolevaid sisu laadimisega seotud probleeme. Sinu kohandatud sätted ei muutu, kui sa just vaikesätteid ei taasta.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Rakenduse jälgimise kaitse on keelatud</b> Kas rakenduse jälgimise kaitse põhjustas sinu rakendustega probleeme <annotation type="report_issues_link">Teavita probleemidest</annotation></string>
     <string name="atp_ExcludedAppsReport">Teavita probleemist teise rakendusega</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Käsitsi keelatud</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Käsitsi lubatud</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Tühista</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Taasta</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Kaitse lubamine saadab rakenduse nime DuckDuckGo\'le.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Kaitse lubamine saadab rakenduse nime Tragogo\'le.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">See lakkas ootuspäraselt töötamast</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Mulle sobib, et mind selles rakenduses jälgitakse</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Muudel põhjustel</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Kas taastada vaikimisi kaitse?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Sinu kohandatud kaitse sätteid värskendatakse meie uusimate vaikimisi kaitsetega. Saad hiljem alati oma kaitsesätteid uuesti muuta.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Kaitse taastati vaikesätetele</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Kaitse lubamine saadab rakenduse nime DuckDuckGo\'le.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Kaitse lubamine saadab rakenduse nime Tragogo\'le.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Teata probleemist</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Järgmine</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Palun kirjelda, mis toimub, mida sa ootasid ja mis viis probleemi tekkimiseni.</string>
     <string name="atp_ReportBreakageFormInputHint">Räägi meile oma probleemist lähemalt</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Nuppu „Saada“ vajutades nõustun, et DuckDuckGo võib kasutada selles teavituses sisalduvat teavet rakenduse funktsioonide täiustamiseks.
+    <string name="atp_ReportBreakageFormCheckboxText">Nuppu „Saada“ vajutades nõustun, et Tragogo võib kasutada selles teavituses sisalduvat teavet rakenduse funktsioonide täiustamiseks.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Peale selles vormis sisestatud andmete sisaldab sinu rakenduseprobleemi teavitus järgmist.<br/>• Rakendusepaketi nimi<br/>• Rakenduses blokeeritud jälgurite loetelu<br/>• Kas DuckDuckGo teatud funktsioonid on lubatud<br/>• DuckDuckGo rakenduse koondatud diagnostika<br/>]]>
+        <![CDATA[Peale selles vormis sisestatud andmete sisaldab sinu rakenduseprobleemi teavitus järgmist.<br/>• Rakendusepaketi nimi<br/>• Rakenduses blokeeritud jälgurite loetelu<br/>• Kas Tragogo teatud funktsioonid on lubatud<br/>• Tragogo rakenduse koondatud diagnostika<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Teavitus saadetud, aitäh. Sinu tagasiside aitab meil rakenduse jälgimise kaitset kõigi jaoks täiustada.</string>
     <string name="atp_ThanksForTheFeedback">Aitäh tagasiside eest!</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Rakendusejälgurite teave</string>
     <string name="atp_ProfilingInfoTitle">Mis on rakendusejälgurid?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Oled ilmselt kuulnud sellest, et ettevõtted nagu Google ja Facebook jälgivad sind kulisside taga kolmandate poolte veebisaitidel. Aga kas teadsid, et nad jälgivad sinu isiklikke andmeid ka sinu seadmes olevate rakenduste kaudu?\n\n<b>Enam kui 96\\% meie testitud 100 populaarsest tasuta Androidi rakendusest</b> sisaldas peidetud kolmanda poole jälgureid. Neist 87\\% saatis andmeid Google\'ile ja 68\\% Facebookile. See juhtub isegi siis, kui sa oma seadet ei kasuta.\n\n<b>Rakendusejälguritel võib olla juurdepääs palju rohkemale teabele</b> kui nende veebisaidijälguritest sugulastel, näiteks sinu asukoht isegi hoone korruse täpsusega, kui tihti mängid tööl olles mänge ning millal ja kui kaua sa iga päev magad. <b>Isegi kui sul ei ole näiteks Google\'i või Facebooki kontot, saavad nad ikkagi sinu rakendustest sinu kohta andmeid koguda.</b>\n\nJälgimisvõrgustikud nagu Facebook ja Google kasutavad neid väikeseid infokillukesi, <b>et luua sinu kohta digitaalne profiil.</b> Selle abil saavad jälgimisvõrgustikud manipuleerida sellega, mida sa internetis näed ja võimaldada reklaamijatel teha sinu andmete põhjal pakkumisi sinuni jõudmiseks.\n\nRakendustes peituvad jälgurid on privaatsusele SUUR probleem. <b>Kuid DuckDuckGo pakub lahendust, mis võib aidata.</b>\n\nKui see on DuckDuckGo\' privaatse brauseri rakenduses lubatud, blokeerib rakenduse jälgimise kaitse paljud sinu seadme teistes rakendustes olevad jälgurid, samal ajal kui DuckDuckGo rakendus blokeerib veebisaitidel sirvimise ajal leitud jälgurid. <b>Need kahekihilised kaitsed vähendavad seda, mida jälgimisettevõtted sinu kohta üldiselt teavad,</b> nii et saad oma rakendusi kasutada suurema meelerahuga, teades, et oled paremini kaitstud.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Oled ilmselt kuulnud sellest, et ettevõtted nagu Google ja Facebook jälgivad sind kulisside taga kolmandate poolte veebisaitidel. Aga kas teadsid, et nad jälgivad sinu isiklikke andmeid ka sinu seadmes olevate rakenduste kaudu?\n\n<b>Enam kui 96\\% meie testitud 100 populaarsest tasuta Androidi rakendusest</b> sisaldas peidetud kolmanda poole jälgureid. Neist 87\\% saatis andmeid Google\'ile ja 68\\% Facebookile. See juhtub isegi siis, kui sa oma seadet ei kasuta.\n\n<b>Rakendusejälguritel võib olla juurdepääs palju rohkemale teabele</b> kui nende veebisaidijälguritest sugulastel, näiteks sinu asukoht isegi hoone korruse täpsusega, kui tihti mängid tööl olles mänge ning millal ja kui kaua sa iga päev magad. <b>Isegi kui sul ei ole näiteks Google\'i või Facebooki kontot, saavad nad ikkagi sinu rakendustest sinu kohta andmeid koguda.</b>\n\nJälgimisvõrgustikud nagu Facebook ja Google kasutavad neid väikeseid infokillukesi, <b>et luua sinu kohta digitaalne profiil.</b> Selle abil saavad jälgimisvõrgustikud manipuleerida sellega, mida sa internetis näed ja võimaldada reklaamijatel teha sinu andmete põhjal pakkumisi sinuni jõudmiseks.\n\nRakendustes peituvad jälgurid on privaatsusele SUUR probleem. <b>Kuid Tragogo pakub lahendust, mis võib aidata.</b>\n\nKui see on Tragogo\' privaatse brauseri rakenduses lubatud, blokeerib rakenduse jälgimise kaitse paljud sinu seadme teistes rakendustes olevad jälgurid, samal ajal kui Tragogo rakendus blokeerib veebisaitidel sirvimise ajal leitud jälgurid. <b>Need kahekihilised kaitsed vähendavad seda, mida jälgimisettevõtted sinu kohta üldiselt teavad,</b> nii et saad oma rakendusi kasutada suurema meelerahuga, teades, et oled paremini kaitstud.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Viimased 7 päeva</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">Teave</string>
     <string name="atp_ActivityManage">Halda</string>
     <string name="atp_ActivityRemoveFeature">Keela ja kustuta andmed</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo blokeerib varjatud jälgijaid sinu rakendustes.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo blokeerib varjatud jälgijaid sinu rakendustes.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Luba uuesti App Tracking Protection, et jätkata jälgijate blokeerimist oma rakendustes.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">%1$s DuckDuckGo poolt blokeeritud</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">%1$s DuckDuckGo poolt blokeeritud</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">%1$s Tragogo poolt blokeeritud</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">%1$s Tragogo poolt blokeeritud</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">KKK</string>
@@ -243,7 +243,7 @@
     <string name="atp_FAQFifthHeader">Mille poolest erineb rakenduse jälgimise kaitse VPN-ist?</string>
     <string name="atp_FAQFifthText">VPN saadab andmed seadmest oma serverisse, kus see turvab ja muudab sinu andmed uudishimulike silmade eest anonüümseks. See võimaldab aga VPN-ettevõttel sinu võrguliiklust näha.\n\n<b>Rakenduse jälgimise kaitse on erinev.</b> Selle asemel, et saata andmeid VPN-serverisse, töötab <b>rakenduse jälgimise kaitse kohalikult sinu seadmes</b>, asudes sinu rakenduste ja nende serverite vahel, millega nad suhtlevad.\n\nKui rakenduse jälgimise kaitse tuvastab teada oleva jälguri, <b>takistab see jälguril isiklikku teavet (nagu sinu IP-aadress, tegevus ja seadme andmed) seadmest välja saata.</b> Kogu muu liiklus jõuab sihtkohta, nii et sinu rakendused töötavad normaalselt.</string>
     <string name="atp_FAQSixthHeader">Kas minu andmed on privaatsed?</string>
-    <string name="atp_FAQSixthText">Rakenduse jälgimise kaitse töötab seadmes ja ei saada sinu isikuandmeid seadmest välja DuckDuckGo\'le.</string>
+    <string name="atp_FAQSixthText">Rakenduse jälgimise kaitse töötab seadmes ja ei saada sinu isikuandmeid seadmest välja Tragogo\'le.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Sinu rakenduse jälgimise kaitse kutse on siin.</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d katset. Teada olevalt kogutakse järgmist:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo blokeeris %1$d jälgimiskatse</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo blokeeris %1$d jälgimiskatset</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo blokeeris %1$d jälgimiskatse</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo blokeeris %1$d jälgimiskatset</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Teata selle rakendusega seotud probleemist</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Kuva %1$d rohkem</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Ava Sätted</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Mitte praegu</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Ava oma seadmes DuckDuckGo VPN-i sätted ja luba VPN-i <b>alati sees</b> hoidmine, et Android ei keelaks kaitset.\n\nKontrolli, et teine säte oleks VÄLJA lülitatud.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Rakenduseprobleemide vältimiseks ava oma seadmes <b>DuckDuckGo VPN-i sätted</b> ja keela <b>ilma VPN-ita ühenduste blokeerimine</b>]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Ava oma seadmes Tragogo VPN-i sätted ja luba VPN-i <b>alati sees</b> hoidmine, et Android ei keelaks kaitset.\n\nKontrolli, et teine säte oleks VÄLJA lülitatud.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Rakenduseprobleemide vältimiseks ava oma seadmes <b>Tragogo VPN-i sätted</b> ja keela <b>ilma VPN-ita ühenduste blokeerimine</b>]]></string>
     <string name="atp_AlwaysOnModalHeading">Vali Alati sees</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Muuda oma VPN-i sätteid</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Sekkumine on vajalik!</b> Rakenduseprobleemide vältimiseks tuleb muuta Androidi sätteid. <annotation type="open_settings_link">Muuda sätteid</annotation></string>
@@ -422,14 +422,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Saad uuendusi blokeeritud jälgimiskatsete kohta oma teavituste sahtlis.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Kas te ei saa oma VPN-i tõttu kasutada App Tracking Protectionit? Kasutage DuckDuckGo VPN-i — see on ainus VPN, mis ühildub. <annotation type="ppro_upsell_link">Lisateave</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kas sa ei saa oma VPN-i tõttu kasutada App Tracking Protectionit? Kasutage DuckDuckGo VPN-i — see on ainus VPN, mis ühildub. <annotation type="ppro_upsell_link">Proovi tasuta!</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection on inaktiveeritud</b>\nKas teie VPN keelas App Tracking Protectioni? Taasaktiveerimiseks kasutage ülaltoodud lülitit.\n\nHankige DuckDuckGo VPN — ainus VPN, mis töötab koos App Tracking Protectioniga. <annotation type="ppro_upsell_link">Lisateave</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection on inaktiveeritud</b>\nKas sinu VPN keelas App Tracking Protectioni? Taasaktiveerimiseks kasuta ülaltoodud lülitit.\n\nMine üle DuckDuckGo VPN-ile — ainus VPN, mis töötab koos App Tracking Protectioniga. <annotation type="ppro_upsell_link">Proovi tasuta!</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled">Kas te ei saa oma VPN-i tõttu kasutada App Tracking Protectionit? Kasutage Tragogo VPN-i — see on ainus VPN, mis ühildub. <annotation type="ppro_upsell_link">Lisateave</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kas sa ei saa oma VPN-i tõttu kasutada App Tracking Protectionit? Kasutage Tragogo VPN-i — see on ainus VPN, mis ühildub. <annotation type="ppro_upsell_link">Proovi tasuta!</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection on inaktiveeritud</b>\nKas teie VPN keelas App Tracking Protectioni? Taasaktiveerimiseks kasutage ülaltoodud lülitit.\n\nHankige Tragogo VPN — ainus VPN, mis töötab koos App Tracking Protectioniga. <annotation type="ppro_upsell_link">Lisateave</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection on inaktiveeritud</b>\nKas sinu VPN keelas App Tracking Protectioni? Taasaktiveerimiseks kasuta ülaltoodud lülitit.\n\nMine üle Tragogo VPN-ile — ainus VPN, mis töötab koos App Tracking Protectioniga. <annotation type="ppro_upsell_link">Proovi tasuta!</annotation></string>
     <string name="apptp_PproUpsellBannerTitle">Viige oma privaatsus järgmisele tasemele</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGol on ainus VPN, mis ühildub App Tracking Protectioniga. Aktiveerige tasulise Privacy Pro tellimusega.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogol on ainus VPN, mis ühildub App Tracking Protectioniga. Aktiveerige tasulise Privacy Pro tellimusega.</string>
     <string name="apptp_PproUpsellBannerAction">Loe edasi</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Telli DuckDuckGo ja saa ainus VPN, mis ühildub App Tracking Protectioniga.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Telli Tragogo ja saa ainus VPN, mis ühildub App Tracking Protectioniga.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Proovi tasuta!</string>
 
     <!-- Content Descriptions -->

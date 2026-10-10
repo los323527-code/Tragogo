@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Încarcă o imagine</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Alege fișierul</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Fă o fotografie</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Permite ca DuckDuckGo să solicite accesul la cameră pe acest dispozitiv</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Site-urile îți pot utiliza camera numai dacă permiți ca DuckDuckGo să solicite accesul.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Permite ca Tragogo să solicite accesul la cameră pe acest dispozitiv</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Site-urile îți pot utiliza camera numai dacă permiți ca Tragogo să solicite accesul.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Deschide Setări</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Anulare</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Nu s-a putut accesa înregistratorul de sunet</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Permite ca DuckDuckGo să solicite accesul la înregistratorul de sunet pe acest dispozitiv</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Site-urile pot utiliza înregistratorul de sunet numai dacă permiți ca DuckDuckGo să solicite accesul.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Permite ca Tragogo să solicite accesul la înregistratorul de sunet pe acest dispozitiv</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Site-urile pot utiliza înregistratorul de sunet numai dacă permiți ca Tragogo să solicite accesul.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Caracteristici AI</string>
-    <string name="duck_chat_settings_activity_description">Funcțiile IA ale DuckDuckGo sunt private și opționale.Datele tale nu sunt folosite pentru a antrena IA.\n<annotation type="learn_more_link">Află mai multe</annotation></string>
+    <string name="duck_chat_settings_activity_description">Funcțiile IA ale Tragogo sunt private și opționale.Datele tale nu sunt folosite pentru a antrena IA.\n<annotation type="learn_more_link">Află mai multe</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Discută în privat cu modele AI populare de la entități externe</string>
     <string name="duck_chat_visibility_setting">Meniu browser</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Adesea</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Folosește DuckDuckGo fără IA</string>
+    <string name="duckAiUseWithoutAiTitle">Folosește Tragogo fără IA</string>
     <string name="duckAiUseWithoutAiDescription">Dezactivează Duck.ai, ascunde răspunsurile asistate de IA în căutare și filtrează site-urile de spam cunoscute bazate pe IA din rezultatele căutării de imagini.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">IA este în prezent dezactivată în browser, așa că nu vei mai vedea răspunsuri asistate de IA și vei vedea mai puține imagini generate de IA în rezultatele căutării de imagini.</string>
 
@@ -276,7 +276,7 @@
     <string name="duck_ai_chat_history_download_error">Nu s-a putut exporta chatul</string>
     <string name="duck_ai_chat_history_bulk_download_error">Nu s-au putut exporta chaturile</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Caută pe DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Caută pe Tragogo</string>
     <string name="native_input_chat_hint">Întreabă orice în mod privat…</string>
     <string name="native_input_chat_duck_mode_hint">Răspunde…</string>
 

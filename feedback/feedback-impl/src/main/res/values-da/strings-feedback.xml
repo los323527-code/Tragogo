@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problemer med indlæsning af websted</string>
     <string name="websiteNotLoadingTitleShort">Problemer med indlæsning af websted</string>
     <string name="websiteNotLoadingSubtitle">Hvilket websted er ødelagt?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo-søgningen er ikke god nok</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo-søgeproblemer</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo-søgningen er ikke god nok</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo-søgeproblemer</string>
     <string name="searchNotGoodEnoughSubtitle">Hvilken søgefunktion kan vi tilføje eller forbedre?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmering/teknisk søgning</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Layoutet bør være mere som Google</string>

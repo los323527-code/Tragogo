@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="appName" translatable="false">DuckDuckGo</string>
-    <string name="appDescription" translatable="false">DuckDuckGo</string>
-    <string name="duckDuckGoLogoDescription">DuckDuckGo logotips</string>
+    <string name="appName" translatable="false">Tragogo</string>
+    <string name="appDescription" translatable="false">Tragogo</string>
+    <string name="duckDuckGoLogoDescription">Tragogo logotips</string>
     <string name="duckDuckGoProtectionPrivacyPeaceTagLine">Aizsardzība. Privātums. Sirds miers.</string>
     <string name="yes">Jā</string>
     <string name="no">Nē</string>
@@ -31,15 +31,15 @@
     <string name="duckAiChatDeletedSnackbar">Saruna izdzēsta</string>
 
     <!-- Onboarding Activity -->
-    <string name="onboardingDefaultBrowserDescription">Atver iestatījumu sadaļu, lai katru reizi meklētu un pārlūkotu ar DuckDuckGo.</string>
-    <string name="onboardingDefaultBrowserTitle">Padarīt DuckDuckGo par noklusējumu</string>
+    <string name="onboardingDefaultBrowserDescription">Atver iestatījumu sadaļu, lai katru reizi meklētu un pārlūkotu ar Tragogo.</string>
+    <string name="onboardingDefaultBrowserTitle">Padarīt Tragogo par noklusējumu</string>
 
     <!-- Default Browser -->
     <string name="cannotLaunchDefaultAppSettings">Nevar palaist lietotnes noklusējuma iestatījumu ekrānu</string>
     <string name="setAsDefaultBrowser">Iestatīt kā noklusējuma pārlūku</string>
     <string name="defaultBrowserMaybeLater">Varbūt vēlāk</string>
     <string name="defaultBrowserDescriptionNoDefault">Katru reizi atver saites bez raizēm.</string>
-    <string name="defaultBrowserInstructions">Atlasi DuckDuckGo un pieskaries <font color="#678fff">Vienmēr</font>.</string>
+    <string name="defaultBrowserInstructions">Atlasi Tragogo un pieskaries <font color="#678fff">Vienmēr</font>.</string>
 
     <!-- Browser Activity -->
     <string name="browserPopupMenu">Pārlūka izvēlne</string>
@@ -95,11 +95,11 @@
     <!-- Opening external apps -->
     <string name="openExternalApp">Atvērt ārējo lietotni</string>
     <string name="launchingExternalApp">Atvērt citā lietotnē</string>
-    <string name="confirmOpenExternalApp">Vai vēlies iziet no DuckDuckGo, lai skatītu šo saturu?</string>
+    <string name="confirmOpenExternalApp">Vai vēlies iziet no Tragogo, lai skatītu šo saturu?</string>
     <string name="unableToOpenLink">Nevar atvērt šāda veida saites</string>
 
     <!-- Tabs -->
-    <string name="homeTab" translatable="false">DuckDuckGo</string>
+    <string name="homeTab" translatable="false">Tragogo</string>
     <string name="tabActivityTitle">Cilnes</string>
     <string name="tabsMenuItem">Cilnes</string>
     <string name="newTabMenuItem">Jauna cilne</string>
@@ -134,7 +134,7 @@
     <string name="settingsHeadingAppearance">Izskats</string>
     <string name="settingsWhatsNew">Kas jauns</string>
     <string name="settingsHeadingAbout">Par</string>
-    <string name="settingsAboutDuckduckgo">Par DuckDuckGo</string>
+    <string name="settingsAboutDuckduckgo">Par Tragogo</string>
     <string name="settingsVersion">Versija</string>
     <string name="leaveFeedback">Kopīgot atsauksmi</string>
     <string name="leaveFeedbackNew">Sūtīt atsauksmi</string>
@@ -165,12 +165,12 @@
     <string name="settingsAddWidget">Pievienot logrīku sākuma ekrānam</string>
     <string name="settingsAddressBarPosition">Iestati adreses joslas pozīciju</string>
     <string name="settingsEnableVoiceSearch">Iespējo privātu balss meklēšanu</string>
-    <string name="settingsDDGOnOtherPlatforms">DuckDuckGo citās platformās</string>
+    <string name="settingsDDGOnOtherPlatforms">Tragogo citās platformās</string>
     <string name="settingsDuckAi">Mākslīgā intelekta funkcijas</string>
 
     <!-- Private Search -->
     <string name="privateSearchActivityTitle">Privāta meklēšana</string>
-    <string name="privateSearchDescription">DuckDuckGo Private Search ir tava noklusējuma meklētājprogramma, tāpēc vari meklēt tīmeklī, netiekot izsekotam.</string>
+    <string name="privateSearchDescription">Tragogo Private Search ir tava noklusējuma meklētājprogramma, tāpēc vari meklēt tīmeklī, netiekot izsekotam.</string>
     <string name="privateSearchMoreSearchSettingsPrimaryText">Vairāk meklēšanas iestatījumu</string>
     <string name="privateSearchMoreSearchSettingsSecondaryText">Pielāgo savu meklēšanas valodu, reģionu un citus iestatījumus</string>
     <string name="privateSearchMoreSearchSettingsTitle">Vairāk meklēšanas iestatījumu</string>
@@ -188,7 +188,7 @@
     <string name="webTrackingProtectionActivityTitle">Tīmekļa izsekošanas aizsardzība</string>
     <string name="webTrackingProtectionLearnMoreTitle">Tīmekļa izsekošanas aizsardzība</string>
     <string name="webTrackingProtectionTitle">Tīmekļa izsekošanas aizsardzība</string>
-    <string name="webTrackingProtectionExplanationDescription"><![CDATA[DuckDuckGo pārlūkprogramma nodrošina izsekošanas aizsardzības, kas vienmēr ir aktīvas.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
+    <string name="webTrackingProtectionExplanationDescription"><![CDATA[Tragogo pārlūkprogramma nodrošina izsekošanas aizsardzības, kas vienmēr ir aktīvas.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
     <string name="webTrackingProtectionExplanationTitle">Kā mēs tevi aizsargājam</string>
     <string name="webTrackingProtectionThirdPartyTrackersTitle">Bloķē trešo pušu izsekotājus</string>
     <string name="webTrackingProtectionThirdPartyTrackersDescription">Palīdz bloķēt trešo pušu sīkfailus, kas izseko tevi no vietnes uz vietni un neļauj ielādēt trešo pušu izsekotājus.</string>
@@ -213,7 +213,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Iegūsti galddatora pārlūku</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo operētājsistēmām Mac un Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo operētājsistēmām Mac un Windows</string>
     <string name="getDesktopBrowserHideItem">Paslēpt</string>
 
     <!-- Cookie Pop-Up Protection -->
@@ -286,10 +286,10 @@
     <string name="settingsClearAiDataTitle">Dzēst Duck.ai tērzēšanas sarunas</string>
     <string name="settingsClearAiDataDeleteMessage">Fire Button izdzēsīs arī Duck.ai vēsturi, ieskaitot piespraustās tērzēšanas.</string>
     <!-- About Activity -->
-    <string name="aboutActivityTitle">Par DuckDuckGo</string>
+    <string name="aboutActivityTitle">Par Tragogo</string>
     <string name="aboutActivityTitleNew">Par</string>
     <string name="aboutHeaderNewTagLine">Aizsardzība. Privātums. Sirds miers.</string>
-    <string name="aboutDescriptionBrandUpdate2025">Laipni lūgti Duck pusē!\n\nDuckDuckGo ir neatkarīgs tiešsaistes aizsardzības uzņēmums ikvienam, kurš vēlas atgūt kontroli pār savu personisko informāciju.\n\nMēs uzskatām, ka labākais veids, kā aizsargāt savu personisko informāciju no hakeriem, krāpniekiem un privātumu apdraudošiem uzņēmumiem, ir to neievākt vispār. Tāpēc miljoniem cilvēku <annotation type="chart_comparison">izvēlas DuckDuckGo, nevis Chrome un citas pārlūkprogrammas</annotation> meklēšanai un pārlūkošanai tiešsaistē. Mūsu iebūvētā meklētājprogramma ir līdzīga Google, taču tā neizsekotavus meklēšanas vaicājumus. Mūsu pārlūkošanas aizsardzība, piemēram, reklāmu izsekotāju bloķēšana un sīkfailu bloķēšana neļauj citiem uzņēmumiem ievākt tavus datus. Turklāt mūsu pārlūkprogramma ir bezmaksas — mēs pelnām ar <annotation type="privacy_respecting_ads">meklēšanas laikā rādītām reklāmām, kas ievēro privātumu</annotation>, nevis izmantojot tavus datus.Turklāt mēs piedāvājam arī <annotation type="ppro_help_page">DuckDuckGo abonementu</annotation>, kas ir integrēts mūsu pārlūkprogrammā. Abonenti saņem vēl lielāku privātuma aizsardzību ar ātru un vienkāršu <annotation type="vpn_help_page">VPN</annotation>, kas palīdz pasargāt tavas darbības tiešsaistē, piekļuvi uzlabotiem MI modeļiem mūsu privātajā MI tērzēšanas pakalpojumā Duck.ai, pakalpojumu, kas atrod un izdzēš tavu personisko informāciju no cilvēku meklētāju vietnēm, un pakalpojumu, kas atjauno tavu identitāti, ja tā tiek nozagta.\n\nAtgūsti kontroli pār savu personisko informāciju ar pārlūkprogrammu, kas paredzēta datu aizsardzībai, nevis datu apkopošanai.</string>
+    <string name="aboutDescriptionBrandUpdate2025">Laipni lūgti Duck pusē!\n\nTragogo ir neatkarīgs tiešsaistes aizsardzības uzņēmums ikvienam, kurš vēlas atgūt kontroli pār savu personisko informāciju.\n\nMēs uzskatām, ka labākais veids, kā aizsargāt savu personisko informāciju no hakeriem, krāpniekiem un privātumu apdraudošiem uzņēmumiem, ir to neievākt vispār. Tāpēc miljoniem cilvēku <annotation type="chart_comparison">izvēlas Tragogo, nevis Chrome un citas pārlūkprogrammas</annotation> meklēšanai un pārlūkošanai tiešsaistē. Mūsu iebūvētā meklētājprogramma ir līdzīga Google, taču tā neizsekotavus meklēšanas vaicājumus. Mūsu pārlūkošanas aizsardzība, piemēram, reklāmu izsekotāju bloķēšana un sīkfailu bloķēšana neļauj citiem uzņēmumiem ievākt tavus datus. Turklāt mūsu pārlūkprogramma ir bezmaksas — mēs pelnām ar <annotation type="privacy_respecting_ads">meklēšanas laikā rādītām reklāmām, kas ievēro privātumu</annotation>, nevis izmantojot tavus datus.Turklāt mēs piedāvājam arī <annotation type="ppro_help_page">Tragogo abonementu</annotation>, kas ir integrēts mūsu pārlūkprogrammā. Abonenti saņem vēl lielāku privātuma aizsardzību ar ātru un vienkāršu <annotation type="vpn_help_page">VPN</annotation>, kas palīdz pasargāt tavas darbības tiešsaistē, piekļuvi uzlabotiem MI modeļiem mūsu privātajā MI tērzēšanas pakalpojumā Duck.ai, pakalpojumu, kas atrod un izdzēš tavu personisko informāciju no cilvēku meklētāju vietnēm, un pakalpojumu, kas atjauno tavu identitāti, ja tā tiek nozagta.\n\nAtgūsti kontroli pār savu personisko informāciju ar pārlūkprogrammu, kas paredzēta datu aizsardzībai, nevis datu apkopošanai.</string>
     <string name="no_suggestions">Nav ieteikumu</string>
 
     <!-- Broken Site Activity -->
@@ -300,7 +300,7 @@
     <string name="brokenSiteProtectionsOnBannerMessage">Aizsardzības IZSLĒGŠANA var palīdzēt.</string>
 
     <!-- Widget -->
-    <string name="searchWidgetTextHint">Meklēt DuckDuckGo</string>
+    <string name="searchWidgetTextHint">Meklēt Tragogo</string>
 
     <!-- Favorites widget -->
     <string name="addFavoriteMenuTitleHighlighted">👋 Pievienot izlasei</string>
@@ -340,14 +340,14 @@
     <string name="addWidgetInstruction1Label">1</string>
     <string name="addWidgetInstruction1">Ilgi nospied sākuma ekrānā, pēc tam atver logrīku izvēlni.</string>
     <string name="addWidgetInstruction2Label">2</string>
-    <string name="addWidgetInstruction2">Atrodi DuckDuckGo logrīku.</string>
+    <string name="addWidgetInstruction2">Atrodi Tragogo logrīku.</string>
     <string name="addWidgetInstruction3Label">3</string>
     <string name="addWidgetInstruction3">Velc logrīku uz sākuma ekrānu.</string>
     <string name="addWidgetInstructionsButtonGoHome">Doties uz sākuma ekrānu</string>
     <string name="addWidgetInstructionsButtonClose">Aizvērt</string>
 
     <!-- App Enjoyment / Rating / Feedback -->
-    <string name="appEnjoymentDialogTitle">Vai tev patīk DuckDuckGo?</string>
+    <string name="appEnjoymentDialogTitle">Vai tev patīk Tragogo?</string>
     <string name="appEnjoymentDialogMessage">Mēs labprāt uzzinātu tavas domas.</string>
     <string name="appEnjoymentDialogPositiveButton">Man patīk</string>
     <string name="appEnjoymentDialogNegativeButton">Nepieciešami uzlabojumi</string>
@@ -369,15 +369,15 @@
 
     <!-- Clear Notification -->
     <string name="clearNotificationTitle">Datu notīrīšana ir iestatīta uz manuālu notīrīšanu</string>
-    <string name="clearNotificationDescription">Pielāgo DuckDuckGo, lai pēc katras sesijas automātiski notīrītu pārlūkošanas datus.</string>
+    <string name="clearNotificationDescription">Pielāgo Tragogo, lai pēc katras sesijas automātiski notīrītu pārlūkošanas datus.</string>
 
     <!-- Privacy Protection Notification -->
     <string name="privacyProtectionNotificationDefaultTitle">Mēs aizsargājam tavu privātumu</string>
     <string name="privacyProtectionNotificationReportTitle">Tavs privātuma ziņojums</string>
-    <string name="privacyProtectionNotificationDefaultDescription">Izmantojot lietotni DuckDuckGo, tavi dati tiek aizsargāti, bloķējot izsekotājus un šifrējot savienojumus.</string>
-    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">DuckDuckGo izmantošanas laikā tu aizsargāji savus datus, nodrošinot %1$d nešifrētos savienojumus.</string>
-    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">DuckDuckGo izmantošanas laikā tu aizsargāji savus datus, bloķējot %1$d izsekotājus.</string>
-    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">DuckDuckGo izmantošanas laikā tu aizsargāji savus datus, bloķējot %1$d izsekotājus un nodrošinot %2$d nešifrētos savienojumus.</string>
+    <string name="privacyProtectionNotificationDefaultDescription">Izmantojot lietotni Tragogo, tavi dati tiek aizsargāti, bloķējot izsekotājus un šifrējot savienojumus.</string>
+    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Tragogo izmantošanas laikā tu aizsargāji savus datus, nodrošinot %1$d nešifrētos savienojumus.</string>
+    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Tragogo izmantošanas laikā tu aizsargāji savus datus, bloķējot %1$d izsekotājus.</string>
+    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Tragogo izmantošanas laikā tu aizsargāji savus datus, bloķējot %1$d izsekotājus un nodrošinot %2$d nešifrētos savienojumus.</string>
     <string name="privacyProtectionNotificationLaunchButton">Atsākt pārlūkošanu</string>
 
     <!-- Authentication -->
@@ -389,7 +389,7 @@
     <string name="authenticationDialogPasswordHint">Parole</string>
 
     <!-- User-facing label for when a user selects text and might want to search for that text -->
-    <string name="systemTextSearchMessage">Meklēt DuckDuckGo</string>
+    <string name="systemTextSearchMessage">Meklēt Tragogo</string>
 
     <!-- Webview Recovery -->
     <string name="crashedWebViewErrorMessage">"Vietni nevarēja parādīt."</string>
@@ -397,8 +397,8 @@
 
     <!-- System Search-->
     <string name="systemSearchAppNotFound">Lietojumprogrammu nevarēja atrast</string>
-    <string name="systemSearchOnboardingThanks">Paldies, ka izvēlējies DuckDuckGo!\nMūsu pārlūkprogrammas izmantošana palīdz aizsargāt tevi no hakeriem, krāpniekiem un uzņēmumiem, kas alkst pēc personu datiem.</string>
-    <string name="systemSearchOnboardingFeaturesIntroText">Tāpat DuckDuckGo lietotne:</string>
+    <string name="systemSearchOnboardingThanks">Paldies, ka izvēlējies Tragogo!\nMūsu pārlūkprogrammas izmantošana palīdz aizsargāt tevi no hakeriem, krāpniekiem un uzņēmumiem, kas alkst pēc personu datiem.</string>
+    <string name="systemSearchOnboardingFeaturesIntroText">Tāpat Tragogo lietotne:</string>
     <string name="systemSearchOnboardingFeatureOneText">Bloķē nedrošus izsekotājus.</string>
     <string name="systemSearchOnboardingFeatureTwoText">Veic piespiedu šifrēšanu vietnēs.</string>
     <string name="systemSearchOnboardingFeatureThreeText">Notīra datus ar vienu pieskārienu.</string>
@@ -416,7 +416,7 @@
     <string name="daxDialogAppTpRetentionSecondaryButtonText">Ne tagad</string>
 
     <!-- New Onboarding Experience -->
-    <string name="onboardingWelcomeTitle">"Laipni lūdzam DuckDuckGo!"</string>
+    <string name="onboardingWelcomeTitle">"Laipni lūdzam Tragogo!"</string>
     <string name="onboardingDaxText"><![CDATA[Internets var būt diezgan “mežonīgs”.\n\nBet neuztraucies! Meklēt un pārlūkot privātā režīmā ir vieglāk, nekā tu domā.]]></string>
     <string name="onboardingLetsDoItButton">Aiziet!</string>
     <string name="daxNonSerpCtaText"><![CDATA[Tev pieskaroties un ritinot, es bloķēšu uzmācīgos izsekotājus. <br/><br/>Aiziet! Turpini pārlūkot!]]></string>
@@ -506,7 +506,7 @@
     <string name="dosErrorMessage">Savienojums pārtraukts. Šī vietne var kaitēt tavai ierīcei.</string>
 
     <!-- Precise Location -->
-    <string name="preciseLocationSystemDialogTitle">Vai iespējot ierīces atrašanās vietu DuckDuckGo privātuma pārlūkprogrammai?</string>
+    <string name="preciseLocationSystemDialogTitle">Vai iespējot ierīces atrašanās vietu Tragogo privātuma pārlūkprogrammai?</string>
     <string name="preciseLocationSystemDialogSubtitle" instruction="%1$s and %2$s are both the name of the website requesting the location">%1$s pieprasa tavas ierīces atrašanās vietu. Vispirms tev ir jāatļauj lietotnei nosūtīt tavas ierīces atrašanās vietu, pēc tam %2$s var pieprasīt atļauju.</string>
     <string name="preciseLocationSystemDialogAllow">Iespējot</string>
     <string name="preciseLocationSystemDialogDeny">Varbūt vēlāk</string>
@@ -518,7 +518,7 @@
     <string name="preciseLocationSiteDialogAllowOnce">Tikai šai sesijai</string>
     <string name="preciseLocationSiteDialogDenyAlways">Vienmēr aizliegt</string>
     <string name="preciseLocationSiteDialogDenyOnce">Aizliegt šai sesijai</string>
-    <string name="preciseLocationFeatureDescription">Apmeklētās vietnes var prasīt atklāt tavas ierīces atrašanās vietu. Tās nevarēs tai piekļūt, ja tu skaidri nepiešķirsi atļauju. DuckDuckGo izmanto tavu atrašanās vietu tikai anonīmi, lai nodrošinātu lokālās meklēšanas rezultātus.</string>
+    <string name="preciseLocationFeatureDescription">Apmeklētās vietnes var prasīt atklāt tavas ierīces atrašanās vietu. Tās nevarēs tai piekļūt, ja tu skaidri nepiešķirsi atļauju. Tragogo izmanto tavu atrašanās vietu tikai anonīmi, lai nodrošinātu lokālās meklēšanas rezultātus.</string>
     <string name="preciseLocationToggleText">Vietnes var pieprasīt manu atrašanās vietu</string>
     <string name="preciseLocationEmptyListHint">Nevienai vietnei nav piešķirta atļauja piekļūt atrašanās vietai</string>
     <string name="preciseLocationNoSystemPermission">Lai pārvaldītu savas atsevišķām vietnēm piešķirtās atrašanās vietas piekļuves atļaujas, šai lietotnei iespējo atrašanās vietu Android iestatījumos.</string>
@@ -534,7 +534,7 @@
 
     <!--  Global Privacy Control-->
     <string name="globalPrivacyControlActivityTitle">Globālā privātuma kontrole (GPC)</string>
-    <string name="globalPrivacyControlDescription"><![CDATA[DuckDuckGo automātiski bloķē daudzus izsekotājus. Izmantojot globālo privātuma kontroli (GPC), vari arī lūgt iesaistītajām vietnēm ierobežot savu personas datu pārdošanu vai kopīgošanu ar citiem uzņēmumiem. <u><a href=\"\">Uzzini vairāk</a><u/>]]></string>
+    <string name="globalPrivacyControlDescription"><![CDATA[Tragogo automātiski bloķē daudzus izsekotājus. Izmantojot globālo privātuma kontroli (GPC), vari arī lūgt iesaistītajām vietnēm ierobežot savu personas datu pārdošanu vai kopīgošanu ar citiem uzņēmumiem. <u><a href=\"\">Uzzini vairāk</a><u/>]]></string>
     <string name="globalPrivacyControlSetting">Globālā privātuma kontrole (GPC)</string>
     <string name="globalPrivacyControlToggle">Globālā privātuma kontrole (GPC)</string>
     <string name="disabled">Atspējots</string>
@@ -570,11 +570,11 @@
     <string name="settingsAccessibility">Pieejamība</string>
     <string name="accessibilityActivityTitle">Pieejamība</string>
     <string name="accessibilityFontSizeTitle">Burtu izmērs</string>
-    <string name="accessibilityFontSizeHint">Velc slīdni, līdz vari šo ērti izlasīt. Vietnes tavā DuckDuckGo tam pielāgosies.</string>
+    <string name="accessibilityFontSizeHint">Velc slīdni, līdz vari šo ērti izlasīt. Vietnes tavā Tragogo tam pielāgosies.</string>
     <string name="accessibilityForceZoomTitle">Ieviest manuālu lapas tālummaiņu</string>
     <string name="accessibilityForceZoomSubtitle">Savelc un tuvini jebkurā vietnē, pat tajās, kas parasti to neļautu</string>
     <string name="accessibilityTextSizeOverrideTitle">Pārvaldīt teksta lielumu</string>
-    <string name="accessibilityTextSizeOverrideSubtitle">Teksts vietnēs, kuras skati pakalpojumā DuckDuckGo, tiks pielāgots, lai atbilstu tālāk norādītajam iestatījumam</string>
+    <string name="accessibilityTextSizeOverrideSubtitle">Teksts vietnēs, kuras skati pakalpojumā Tragogo, tiks pielāgots, lai atbilstu tālāk norādītajam iestatījumam</string>
 
     <!-- Privacy Policy -->
     <string name="settingsPrivacyPolicyDuckduckgo">Privātuma politika</string>
@@ -627,7 +627,7 @@
     <string name="tabSelectedIndicator">Atlasītās cilnes indikators</string>
     <string name="tabNotSelectedIndicator">Nav atlasīts cilnes indikators</string>
 
-    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d saites no DuckDuckGo</string>
+    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d saites no Tragogo</string>
     <plurals name="shareLinksMenuItem" tools:ignore="ImpliedQuantity,MissingInstruction">
         <item quantity="zero">Kopīgot %1$d saites</item>
         <item quantity="one">Kopīgot saiti</item>
@@ -701,7 +701,7 @@
     </plurals>
 
     <!-- Private voice search -->
-    <string name="accessibilityVoiceSearchSubtitle">Pievienot adreses joslai opciju \"Privātā meklēšana ar balsi\". Audioieraksti netiek saglabāti un kopīgoti ar citiem, pat ne ar DuckDuckGo.</string>
+    <string name="accessibilityVoiceSearchSubtitle">Pievienot adreses joslai opciju \"Privātā meklēšana ar balsi\". Audioieraksti netiek saglabāti un kopīgoti ar citiem, pat ne ar Tragogo.</string>
     <string name="accessibilityVoiceSearchTitle">Privātā balss meklēšana</string>
 
     <!-- Uploading an image from the camera or choosing to use existing image -->
@@ -709,8 +709,8 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Augšupielādēt attēlu</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Izvēlēties failu</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Uzņemt foto</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Atļaut DuckDuckGo pieprasīt piekļuvi kamerai šajā ierīcē</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Vietnes var izmantot tavu kameru tikai tad, ja tu atļauj DuckDuckGo prasīt piekļuvi.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Atļaut Tragogo pieprasīt piekļuvi kamerai šajā ierīcē</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Vietnes var izmantot tavu kameru tikai tad, ja tu atļauj Tragogo prasīt piekļuvi.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Atvērt iestatījumus</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Atcelt</string>
 
@@ -724,7 +724,7 @@
     <string name="sslErrorHeadline" instruction="Placeholder is domain with certificate issues">Šīs vietnes sertifikāts nav derīgs. Tu, iespējams, izveido savienojumu ar serveri, kas izliekas par %1$s un var pakļaut riskam tavu konfidenciālo informāciju.</string>
     <string name="sslErrorLeaveCTA">Pamest šo vietni</string>
     <string name="sslErrorAdvancedCTA">Detalizēti</string>
-    <string name="sslErrorExpandedHeadline">DuckDuckGo brīdina tevi, ja vietnei ir nederīgs sertifikāts.</string>
+    <string name="sslErrorExpandedHeadline">Tragogo brīdina tevi, ja vietnei ir nederīgs sertifikāts.</string>
     <string name="sslErrorExpandedCTA"><![CDATA[<u>Pieņemt risku un apmeklēt vietni</u>]]></string>
     <string name="sslErrorExpiredMessage" instruction="Placeholder is domain with certificate issues">%1$s drošības sertifikāta derīguma termiņš ir beidzies. Iespējams, ka vietne ir nepareizi konfigurēta, ka tavu savienojumu ir apdraudējis kāds uzbrucējs vai ka tavas sistēmas pulkstenis ir nepareizs.</string>
     <string name="sslErrorWrongHostMessage" instruction="Placeholder is domain with certificate issues">%1$s drošības sertifikāts neatbilst *.%2$s. Iespējams, ka vietne ir nepareizi konfigurēta, ka tavu savienojumu ir apdraudējis kāds uzbrucējs vai ka tavas sistēmas pulkstenis ir nepareizs.</string>
@@ -761,7 +761,7 @@
     <string name="highlightsPreOnboardingAddressBarOption2Title">Apakšā</string>
     <string name="highlightsPreOnboardingAddressBarOption2Description">Viegli pieejama</string>
     <string name="onboardingSearchDaxDialogTitle">Izmēģini meklēt!</string>
-    <string name="onboardingSearchDaxDialogDescription">Tavi DuckDuckGo meklējumi vienmēr ir privāti.</string>
+    <string name="onboardingSearchDaxDialogDescription">Tavi Tragogo meklējumi vienmēr ir privāti.</string>
     <string name="onboardingSearchDaxDialogOption1" instruction="translate &apos;duck&apos; too.">"kā angliski pateikt “pīle”"</string>
     <string name="onboardingSearchDaxDialogOption1English" instruction="translate &apos;duck&apos; too. Don&apos;t add question mark">"kā spāniski pateikt “pīle”"</string>
     <string name="onboardingSearchQueryOption1">kā angliski pateikt “pīle”</string>
@@ -777,8 +777,8 @@
     <string name="onboardingSitesDaxDialogOption2">yahoo.com</string>
     <string name="onboardingSitesDaxDialogOption3">ebay.com</string>
     <string name="onboardingSitesDaxDialogOption4">Pārsteidz mani!</string>
-    <string name="onboardingSerpDaxDialogDescription"><![CDATA[Tas ir <b>DuckDuckGo Search</b>! Privāti. Ātri. Mazāk reklāmu.]]></string>
-    <string name="onboardingSerpDaxDialogBrandDesignTitle">Tas ir DuckDuckGo Search!</string>
+    <string name="onboardingSerpDaxDialogDescription"><![CDATA[Tas ir <b>Tragogo Search</b>! Privāti. Ātri. Mazāk reklāmu.]]></string>
+    <string name="onboardingSerpDaxDialogBrandDesignTitle">Tas ir Tragogo Search!</string>
     <string name="onboardingSerpDaxDialogBrandDesignDescription">Privāti. Ātri. Mazāk reklāmu.</string>
     <string name="onboardingSerpDaxDialogButton">Sapratu!</string>
     <string name="onboardingSitesSuggestionsDaxDialogTitle">Tagad pamēģini atvērt kādu vietni!</string>
@@ -801,7 +801,7 @@
     <string name="onboardingInContextEndDaxDialogDescription">Atceries: katru reizi, kad pārlūkosi kopā ar mani, uzmācīgās reklāmas zaudēs savu spēku! 👌</string>
     <string name="onboardingEndDaxDialogButton">Dod pieci!</string>
     <string name="onboardingPrivacyProDaxDialogTitle">Ak, pirms es aizmirsu...</string>
-    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[DuckDuckGo piedāvā arī <b>neobligātu maksas abonementu</b> ar drošu <b>VPN</b> un <b>uzlabotu, privātu mākslīgo intelektu</b>.]]></string>
+    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[Tragogo piedāvā arī <b>neobligātu maksas abonementu</b> ar drošu <b>VPN</b> un <b>uzlabotu, privātu mākslīgo intelektu</b>.]]></string>
     <string name="onboardingPrivacyProDaxDialogOkButton">Uzzināt vairāk</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButton">Izmēģini bez maksas!</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButtonBrandDesign">Izmēģini bez maksas!</string>
@@ -816,7 +816,7 @@
 
     <!--Onboarding Reinstall Quick Setup-->
     <string name="preOnboardingReinstallQuickSetupTitle">Laipni lūdzam atpakaļ!&lt;br/&gt;Vai gribi kaut ko pielāgot?</string>
-    <string name="preOnboardingReinstallSetDefaultLabel">Iestatī DuckDuckGo kā noklusējumu</string>
+    <string name="preOnboardingReinstallSetDefaultLabel">Iestatī Tragogo kā noklusējumu</string>
     <string name="preOnboardingReinstallAddHomeScreenWidgetLabel">Pievienot sākuma ekrāna logrīku</string>
     <string name="preOnboardingReinstallAddressBarLabel">Adreses joslas pozīcija</string>
     <string name="preOnboardingReinstallAddressBarSearchOptionsLabel">Adreses joslas meklēšanas opcijas</string>
@@ -848,23 +848,23 @@
     <string name="showOnAppLaunchOptionSpecificPage">Konkrēta lapa</string>
 
     <!-- Privacy Dashboard -->
-    <string name="brokenSiteSubmittedReportMessage">Paldies! Tavs ziņojums palīdz padarīt DuckDuckGo labāku visiem lietotājiem!</string>
+    <string name="brokenSiteSubmittedReportMessage">Paldies! Tavs ziņojums palīdz padarīt Tragogo labāku visiem lietotājiem!</string>
 
     <!--    Default Browser Bottom Sheet Dialog -->
-    <string name="defaultBrowserBottomSheetDialogTitle">Ļauj DuckDuckGo vairāk aizsargāt to, ko dari tiešsaistē</string>
-    <string name="defaultBrowserBottomSheetDialogSubTitle">Pārslēdz savu noklusējuma pārlūkprogrammu, lai saites tiktu atvērtas DuckDuckGo.</string>
+    <string name="defaultBrowserBottomSheetDialogTitle">Ļauj Tragogo vairāk aizsargāt to, ko dari tiešsaistē</string>
+    <string name="defaultBrowserBottomSheetDialogSubTitle">Pārslēdz savu noklusējuma pārlūkprogrammu, lai saites tiktu atvērtas Tragogo.</string>
     <string name="defaultBrowserBottomSheetDialogGhostButton" instruction="This text appears on a button">Ne tagad</string>
 
     <!-- Default Browser message -->
-    <string name="newTabPageDefaultBrowserMessageHeading">DuckDuckGo nav tava noklusējuma pārlūkprogramma. Iegūsti vairāk aizsardzības.</string>
+    <string name="newTabPageDefaultBrowserMessageHeading">Tragogo nav tava noklusējuma pārlūkprogramma. Iegūsti vairāk aizsardzības.</string>
     <string name="newTabPageDefaultBrowserMessagePrimaryCta" instruction="This text appears on a button">Iestatīt kā noklusējumu</string>
     <string name="newTabPageDefaultBrowserMessageSecondaryCta" instruction="This text appears on a button">Vairs nejautāt</string>
 
     <!-- Threat protection -->
     <string name="maliciousSiteTitle">Brīdinājums: šī vietne var radīt drošības risku</string>
-    <string name="maliciousSiteMalwareHeadline"><![CDATA[DuckDuckGo bloķēja šo lapu, jo tajā, iespējams, tiek izplatīta ļaunprātīga programmatūra, kas paredzēta, lai apdraudētu tavu ierīci vai nozagtu tavu personisko informāciju.\n<a href=\"\">Uzzini vairāk</a>]]></string>
+    <string name="maliciousSiteMalwareHeadline"><![CDATA[Tragogo bloķēja šo lapu, jo tajā, iespējams, tiek izplatīta ļaunprātīga programmatūra, kas paredzēta, lai apdraudētu tavu ierīci vai nozagtu tavu personisko informāciju.\n<a href=\"\">Uzzini vairāk</a>]]></string>
     <string name="maliciousSitePhishingHeadline"><![CDATA[Iespējams, ka šī vietne uzdodas par likumīgu vietni, lai tevi maldinātu sniegt personisku informāciju, piemēram, paroles vai kredītkartes numurus.\n<a href=\"\">Uzzini vairāk</a>]]></string>
-    <string name="maliciousSiteScamHeadline"><![CDATA[DuckDuckGo bloķēja šo lapu, jo tā, iespējams, mēģina tevi apkrāpt vai manipulēt ar tevi, lai tu pārskaitītu naudu, iegādātos viltotas preces vai maldināšanas rezultātā instalētu ļaunprātīgu programmatūru.\n<a href=\"\">Uzzini vairāk</a>]]></string>
+    <string name="maliciousSiteScamHeadline"><![CDATA[Tragogo bloķēja šo lapu, jo tā, iespējams, mēģina tevi apkrāpt vai manipulēt ar tevi, lai tu pārskaitītu naudu, iegādātos viltotas preces vai maldināšanas rezultātā instalētu ļaunprātīgu programmatūru.\n<a href=\"\">Uzzini vairāk</a>]]></string>
     <string name="maliciousSiteLeaveCTA">Pamest šo vietni</string>
     <string name="maliciousSiteAdvancedCTA">Detalizēti</string>
     <string name="maliciousSiteExpandedHeadline"><![CDATA[Ja uzskati, ka šī vietne ir droša, vari <a href=\"\">ziņot par kļūdu</a>. Tu joprojām vari apmeklēt šo vietni, apzinoties savu risku.]]></string>
@@ -876,7 +876,7 @@
     <string name="maliciousSiteSettingLearnMore"><annotation type="learn_more_link">Uzzināt vairāk</annotation></string>
     <string name="maliciousSiteSettingDisabled">Šī līdzekļa atspējošana var apdraudēt tavu informāciju.</string>
     <string name="threatProtectionTitle">Draudu aizsardzība</string>
-    <string name="threatProtectionDescription">DuckDuckGo uzlabotā aizsardzība aptur izplatītākos draudus, vienlaikus nodrošinot drošu savienojumu.</string>
+    <string name="threatProtectionDescription">Tragogo uzlabotā aizsardzība aptur izplatītākos draudus, vienlaikus nodrošinot drošu savienojumu.</string>
     <string name="smarterEncryptionTitle">Gudrāka šifrēšana</string>
     <string name="smarterEncryptionDescription"><![CDATA[Automātiski jaunina saites uz HTTPS, kad vien iespējams.<a href=\"\">Uzzināt vairāk</a>]]></string>
     <string name="scamBlockerTitle">Krāpniecības bloķētājs</string>
@@ -888,7 +888,7 @@
     <string name="experimentHomeScreenWidgetBottomSheetDialogSubTitle">Pievieno mūsu meklēšanas logrīku savam sākuma ekrānam ātrai un vienkāršai piekļuvei.</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogPrimaryButton">Pievienot logrīku</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogGhostButton">Ne tagad</string>
-    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Meklēt DuckDuckGo</string>
+    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Meklēt Tragogo</string>
 
     <!-- Change under remote feature flag: Widget as a Protection -->
     <string name="settingsAddHomeWidgetTitle">Sākuma ekrāna logrīks</string>
@@ -910,19 +910,19 @@
 
     <!-- Widgets -->
     <string name="searchOnlyWidgetLabel" instruction="Label for the search-only widget">Meklēt tikai</string>
-    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Ātri sāc privātu meklēšanu ar DuckDuckGo.</string>
-    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Meklē privāti ar DuckDuckGo vai jautā Duck.ai. Ja ir iespējota balss meklēšana un Duck.ai.</string>
+    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Ātri sāc privātu meklēšanu ar Tragogo.</string>
+    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Meklē privāti ar Tragogo vai jautā Duck.ai. Ja ir iespējota balss meklēšana un Duck.ai.</string>
     <string name="searchAndFavoritesWidgetDescription" instruction="Description for the search and favorites widget">Savas iecienītākās vietnes meklē vai apmeklē privāti ar vienu pieskārienu. Balss meklēšana un Duck.ai ir pieejami, ja tie iespējoti.</string>
     <string name="duckAiOnlyPinShortcutLabel" instruction="Label for the Duck.ai pinned shortcut. Should be Duck.ai in all languages">Duck.ai</string>
 
     <!-- Sync Restore (onboarding) -->
     <string name="syncRestoreDialogTitle">Turpināsim no vietas, kur beidzi</string>
-    <string name="syncRestoreDialogDescription">Vai vēlies atjaunot grāmatzīmes, paroles un citus datus no iepriekšējās DuckDuckGo sinhronizācijas?</string>
+    <string name="syncRestoreDialogDescription">Vai vēlies atjaunot grāmatzīmes, paroles un citus datus no iepriekšējās Tragogo sinhronizācijas?</string>
     <string name="syncRestoreDialogPrimaryCta">Manas lietas atjaunošana</string>
     <string name="syncRestoreDialogSecondaryCta">Izlaist</string>
 
     <!-- Sync Restore (brand-design onboarding) -->
-    <string name="syncRestoreDialogBrandDesignTitle">Turpināsim darbu ar DuckDuckGo no vietas, kur beidzāt.</string>
+    <string name="syncRestoreDialogBrandDesignTitle">Turpināsim darbu ar Tragogo no vietas, kur beidzāt.</string>
     <string name="syncRestoreDialogBrandDesignBody1">Tavas saglabātās grāmatzīmes, paroles un citi dati ir gatavi.</string>
 
     <!-- PDF download tooltip -->
@@ -971,7 +971,7 @@
     <!-- Pre-onboarding: input demo screen -->
     <string name="preOnboardingInputModeDemoTitleCustomAi">Tagad izmēģini privātu tērzēšanu ar mākslīgo intelektu!</string>
     <!-- Pre-onboarding: browser comparison screen -->
-    <string name="preOnboardingDaxDialog2TitleCustomAi">Vai vēlies padarīt DuckDuckGo par savu noklusējuma pārlūku?</string>
+    <string name="preOnboardingDaxDialog2TitleCustomAi">Vai vēlies padarīt Tragogo par savu noklusējuma pārlūku?</string>
 
     <!-- Pre-onboarding: widget prompt -->
     <string name="preOnboardingWidgetPromptTitle">Pamēģini mūsu sākuma ekrāna logrīku.</string>
@@ -1005,7 +1005,7 @@
     <string name="input_screen_user_pref_with_ai_updated">Pārslēdzies starp\nmeklēšanu un Duck.ai</string>
 
     <!-- New Address Bar Picker -->
-    <string name="newAddressBarPickerDuckDuckGo" translatable="false">DuckDuckGo</string>
+    <string name="newAddressBarPickerTragogo" translatable="false">Tragogo</string>
     <string name="newAddressBarPickerConfirm">Apstiprināt</string>
 
     <!-- App feedback -->
@@ -1031,7 +1031,7 @@
     <string name="downloadsCannotOpenFileErrorMessage">Nevar atvērt failu. Pārbaudīt saderīgu lietotni.</string>
 
     <!-- Error pages -->
-    <string name="webViewErrorTitle" instruction="Title shown on the error pages">DuckDuckGo nevar ielādēt šo lapu</string>
+    <string name="webViewErrorTitle" instruction="Title shown on the error pages">Tragogo nevar ielādēt šo lapu</string>
     <string name="webViewErrorNoConnection" instruction="Message shown when the page fails to load because the device has no internet connection">Šķiet, ka nav pieejams Interneta savienojums.</string>
     <string name="webViewErrorBadUrl" instruction="Message shown when the hostname of the website could not be resolved">Neizdevās atrast serveri ar norādīto resursdatora nosaukumu.</string>
     <string name="webViewErrorSslProtocol" instruction="Message shown when the website&apos;s SSL certificate is invalid. Placeholder is the website&apos;s address"><![CDATA[Šī servera sertifikāts ir nederīgs. Tu, iespējams, veido savienojumu ar serveri, kas izliekas par <b>%1$s</b> un var pakļaut riskam tavu konfidenciālo informāciju.]]></string>

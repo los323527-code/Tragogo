@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
     <string name="duck_player_cancel">Zrušiť</string>
     <string name="duck_player_setting_title">Duck Player</string>
     <string name="duck_player_settings_activity_title">Duck Player</string>
-    <string name="duck_player_settings_activity_description">Duck Player vám umožňuje sledovať YouTube v DuckDuckGo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.\n<annotation type="learn_more_link">Zistiť viac</annotation></string>
+    <string name="duck_player_settings_activity_description">Duck Player vám umožňuje sledovať YouTube v Tragogo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.\n<annotation type="learn_more_link">Zistiť viac</annotation></string>
     <string name="duck_player_settings_video_preferences_header">Nastavenia videa</string>
-    <string name="duck_player_settings_unavailable_description">Prehrávač Duck Player vám umožňuje sledovať YouTube v prehliadači DuckDuckGo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.</string>
+    <string name="duck_player_settings_unavailable_description">Prehrávač Duck Player vám umožňuje sledovať YouTube v prehliadači Tragogo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.</string>
     <string name="duck_player_mode_always">Vždy</string>
     <string name="duck_player_mode_never">Nikdy</string>
     <string name="duck_player_mode_always_ask">Vždy sa opýtať</string>
@@ -31,7 +31,7 @@
     <string name="duck_player_close_modal_content_description">Zatvoriť</string>
     <string name="duck_player_info_modal_title_from_duck_player_page">Utápať sa v reklamách na YouTube? Nie s Duck Player!</string>
     <string name="duck_player_info_modal_title_from_overlay">Utápať sa v reklamách na YouTube? Vyskúšajte Duck Player!</string>
-    <string name="duck_player_info_modal_text">Prehrávač Duck Player vám umožňuje sledovať YouTube v prehliadači DuckDuckGo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.</string>
+    <string name="duck_player_info_modal_text">Prehrávač Duck Player vám umožňuje sledovať YouTube v prehliadači Tragogo bez cielených reklám a to, čo sledujete, nebude mať vplyv na vaše odporúčania.</string>
     <string name="duck_player_info_modal_button">Rozumiem!</string>
     <string name="duck_player_unavailable">Duck Player nie je dostupný</string>
     <string name="duck_player_unavailable_learn_more">Zistite viac</string>

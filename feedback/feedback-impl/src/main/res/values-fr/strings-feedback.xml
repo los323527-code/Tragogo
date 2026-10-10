@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problèmes de chargement de sites Web</string>
     <string name="websiteNotLoadingTitleShort">Problèmes de chargement de sites Web</string>
     <string name="websiteNotLoadingSubtitle">Quel site Web pose problème ?</string>
-    <string name="searchNotGoodEnoughTitleLong">La recherche DuckDuckGo n’est pas satisfaisante</string>
-    <string name="searchNotGoodEnoughTitleShort">Problèmes liés à la recherche DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">La recherche Tragogo n’est pas satisfaisante</string>
+    <string name="searchNotGoodEnoughTitleShort">Problèmes liés à la recherche Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Quelle fonctionnalité de recherche pouvons-nous ajouter ou améliorer ?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmation/recherche technique</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">La mise en page devrait ressembler davantage à Google</string>

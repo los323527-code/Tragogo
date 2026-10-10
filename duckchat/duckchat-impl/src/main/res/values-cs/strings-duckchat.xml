@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Nahrát obrázek</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Vyber soubor</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Vyfotit se</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Povolit DuckDuckGo žádat na tomto zařízení o přístup k fotoaparátu</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Weby můžou používat fotoaparát, jen když službě DuckDuckGo povolíš žádat o přístup.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Povolit Tragogo žádat na tomto zařízení o přístup k fotoaparátu</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Weby můžou používat fotoaparát, jen když službě Tragogo povolíš žádat o přístup.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Otevřít nastavení</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Zrušit</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Nemáme přístup k záznamu zvuku</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Povolit DuckDuckGo žádat na tomto zařízení o přístup k záznamu zvuku</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Weby můžou používat záznam zvuku, jen když službě DuckDuckGo povolíš žádat o přístup.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Povolit Tragogo žádat na tomto zařízení o přístup k záznamu zvuku</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Weby můžou používat záznam zvuku, jen když službě Tragogo povolíš žádat o přístup.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Funkce AI</string>
-    <string name="duck_chat_settings_activity_description">Funkce AI na DuckDuckGo jsou soukromé a volitelné.Tvoje data se nepoužívají k trénování umělé inteligence.\n<annotation type="learn_more_link">Další informace</annotation></string>
+    <string name="duck_chat_settings_activity_description">Funkce AI na Tragogo jsou soukromé a volitelné.Tvoje data se nepoužívají k trénování umělé inteligence.\n<annotation type="learn_more_link">Další informace</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">S populárními AI modely třetích stran můžeš chatovat soukromě</string>
     <string name="duck_chat_visibility_setting">Menu prohlížeče</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Často</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Používat DuckDuckGo bez umělé inteligence</string>
+    <string name="duckAiUseWithoutAiTitle">Používat Tragogo bez umělé inteligence</string>
     <string name="duckAiUseWithoutAiDescription">Zakáže Duck.ai, skryje ve vyhledávání odpovědi generované AI a vyfiltruje známé weby s AI spamem z výsledků vyhledávání obrázků.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI je v prohlížeči momentálně zakázaná. Proto v něm neuvidíš odpovědi, které generovala umělá inteligence, a zobrazí se ti méně obrázků generovaných umělou inteligencí ve výsledcích vyhledávání obrázků.</string>
 
@@ -277,7 +277,7 @@
     <string name="duck_ai_chat_history_download_error">Nepodařilo se exportovat chat</string>
     <string name="duck_ai_chat_history_bulk_download_error">Nepodařilo se exportovat chaty</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Hledat DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Hledat Tragogo</string>
     <string name="native_input_chat_hint">Zeptej se soukromě na cokoli…</string>
     <string name="native_input_chat_duck_mode_hint">Odpovědět…</string>
 

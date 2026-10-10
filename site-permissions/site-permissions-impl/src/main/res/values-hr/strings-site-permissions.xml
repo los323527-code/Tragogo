@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Zapamti moj izbor</string>
     <string name="preciseLocationDDGDialogSubtitle">Tvoju anonimnu lokaciju koristimo samo za postizanje boljih rezultata, bliže tebi. U postavkama možeš upravljati dozvolama za pristup lokaciji koje si dodijelio pojedinim web-mjestima.</string>
     <string name="preciseLocationSiteDialogSubtitle">U postavkama možete upravljati dozvolama za pristup lokaciji koje ste dodijelili pojedinim web-mjestima.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Dopusti DuckDuckGou da zatraži pristup lokaciji na ovom uređaju</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Web-mjesta mogu koristiti tvoju lokaciju samo ako dopustiš DuckDuckGou da zatraži pristup.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Dopusti DuckDuckGou da zatraži pristup lokaciji</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Dopusti Tragogou da zatraži pristup lokaciji na ovom uređaju</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Web-mjesta mogu koristiti tvoju lokaciju samo ako dopustiš Tragogou da zatraži pristup.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Dopusti Tragogou da zatraži pristup lokaciji</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Dozvole web lokacija</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Upravljajte odobrenim dopuštenjima u postavkama</string>
     <string name="sitePermissionsDialogDenyButton">Odbij</string>
     <string name="sitePermissionsDialogAllowButton">Dopusti</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Dopusti DuckDuckGou da zatraži pristup kameri i mikrofonu</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Dopusti DuckDuckGou da zatraži pristup kameri</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Dopusti DuckDuckGou da zatraži pristup mikrofonu</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Dopusti Tragogou da zatraži pristup kameri i mikrofonu</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Dopusti Tragogou da zatraži pristup kameri</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Dopusti Tragogou da zatraži pristup mikrofonu</string>
     <string name="sitePermissionsDeniedSnackBarAction">Dopusti</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Dopusti DuckDuckGou da zatraži pristup kameri na ovom uređaju</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Stranice mogu koristiti tvoju kameru samo ako dopustiš DuckDuckGou da zatraži pristup.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Dopusti DuckDuckGou da zatraži pristup mikrofonu na ovom uređaju</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Stranice mogu koristiti tvoj mikrofon samo ako dopustiš DuckDuckGou da zatraži pristup.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Dopusti DuckDuckGou da zatraži pristup kameri i mikrofonu na ovom uređaju</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Stranice mogu koristiti tvoju kameru i mikrofon samo ako dopustiš DuckDuckGou da zatraži pristup.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Dopusti Tragogou da zatraži pristup kameri na ovom uređaju</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Stranice mogu koristiti tvoju kameru samo ako dopustiš Tragogou da zatraži pristup.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Dopusti Tragogou da zatraži pristup mikrofonu na ovom uređaju</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Stranice mogu koristiti tvoj mikrofon samo ako dopustiš Tragogou da zatraži pristup.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Dopusti Tragogou da zatraži pristup kameri i mikrofonu na ovom uređaju</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Stranice mogu koristiti tvoju kameru i mikrofon samo ako dopustiš Tragogou da zatraži pristup.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Otvori postavke</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Otkaži</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Za glasovne funkcije potrebno je dopuštenje za mikrofon</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo treba pristupiti tvom mikrofonu</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo treba pristupiti tvom mikrofonu</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Dozvole za mikrofon potrebne su ako želiš koristiti Glasovno čavrljanje u Duck.ai</string>
 
     <string name="sitePermissionsSettingsDescription">Stranice koje posjećuješ mogu tražiti pristup lokaciji tvog uređaja, fotoaparatu, mikrofonu ili DRM (Digital Rights Management) softveru. Neće im moći pristupiti osim ako im za to izričito ne daš dopuštenje.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Ako ne dopustiš, videozapise na web-mjestu možda neće biti moguće reproducirati, ali ovo web-mjesto neće imati pristup identifikatorima uređaja koje pruža DRM softver.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Promijeni dozvole</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo treba pristupiti tvojoj lokaciji</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Promijeni dozvole</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo treba pristupiti tvojoj lokaciji</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Dopuštenja za lokaciju potrebna su ako želiš koristiti značajke lokacije na ovom web-mjestu.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo treba pristupiti tvojoj kameri</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo treba pristupiti tvojoj kameri</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Dopuštenja za kameru potrebna su ako želiš koristiti značajke kamere na ovom web-mjestu.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo treba pristupiti tvom mikrofonu</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo treba pristupiti tvom mikrofonu</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Dozvole za mikrofon potrebne su ako želiš koristiti značajke mikrofona na ovom web-mjestu.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo treba pristupiti tvojoj kameri i mikrofonu</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo treba pristupiti tvojoj kameri i mikrofonu</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Dopuštenja za kameru i mikrofon potrebna su ako želiš koristiti značajke kamere i mikrofona na ovom web-mjestu.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo nije mogao podijeliti lokaciju s ovom stranicom</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo nije mogao dati pristup kameri ovoj stranici</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo nije mogao dati pristup mikrofonu ovoj stranici</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo nije mogao dati pristup kameri i mikrofonu ovoj stranici</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo nije mogao podijeliti lokaciju s ovom stranicom</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo nije mogao dati pristup kameri ovoj stranici</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo nije mogao dati pristup mikrofonu ovoj stranici</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo nije mogao dati pristup kameri i mikrofonu ovoj stranici</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Uvijek dopusti</string>

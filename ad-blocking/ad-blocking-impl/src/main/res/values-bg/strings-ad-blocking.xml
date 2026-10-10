@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Блокиране на реклами в YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Блокирайте рекламите в YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo блокира рекламите на видеоклипове в YouTube, за да можете да ги гледате без прекъсване. Когато функцията е включена, DuckDuckGo анонимно ще открива смущения от блокиране на реклами или грешки в YouTube, за да подобри изживяването за всички. DuckDuckGo никога не вижда кои видеоклипове гледате или каквато и да е лична информация. <annotation type="learn_more_link">Научете повече</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo премахва рекламите на видеоклипове в YouTube, за да можете да гледате видеоклипове без прекъсване. <annotation type="learn_more_link">Научете повече</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo блокира рекламите на видеоклипове в YouTube, за да можете да ги гледате без прекъсване. Когато функцията е включена, Tragogo анонимно ще открива смущения от блокиране на реклами или грешки в YouTube, за да подобри изживяването за всички. Tragogo никога не вижда кои видеоклипове гледате или каквато и да е лична информация. <annotation type="learn_more_link">Научете повече</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo премахва рекламите на видеоклипове в YouTube, за да можете да гледате видеоклипове без прекъсване. <annotation type="learn_more_link">Научете повече</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Отваря видеоклипове в режим на киносалон без разсейване, който предотвратява влиянието на гледаното съдържание върху емисията в YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Блокиране на реклами</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Деактивиране до рестартиране</string>
     <string name="ad_blocking_menu_always_off">Винаги изключено</string>
     <string name="ad_blocking_disabled_popup_title">Блокирането на реклами в YouTube не работи?</string>
-    <string name="ad_blocking_disabled_popup_description">Изпратете анонимен сигнал до DuckDuckGo и помогнете за подобряване на блокирането на реклами за всички!</string>
+    <string name="ad_blocking_disabled_popup_description">Изпратете анонимен сигнал до Tragogo и помогнете за подобряване на блокирането на реклами за всички!</string>
     <string name="ad_blocking_disabled_primary_action">Изпращане на сигнал за повреда</string>
     <string name="ad_blocking_disabled_secondary_action">Отмяна</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Деактивирано до рестартиране</string>

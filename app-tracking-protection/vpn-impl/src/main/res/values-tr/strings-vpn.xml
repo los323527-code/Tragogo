@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Tüm Uygulamalar</string>
     <string name="atp_ExcludedAppsFeature">Uygulama İzleme Koruması, Facebook\'un sizi bir sağlık uygulamasında izlemeye çalışması gibi diğer şirketlerin uygulama izleyicilerini algılar ve engeller. Şirketler, sahip oldukları uygulamalarda sizi izlemeye devam edebilir.\n\nBir uygulama beklendiği gibi çalışmıyorsa, o uygulama için korumayı devre dışı bırakmayı deneyin.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo, bilinen içerik yükleme sorunlarını çözmek üzere bazı uygulamalar için korumayı devre dışı bırakabilir. Varsayılan ayarlara geri dönmediğiniz sürece özel ayarlarınız değişmez.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo, bilinen içerik yükleme sorunlarını çözmek üzere bazı uygulamalar için korumayı devre dışı bırakabilir. Varsayılan ayarlara geri dönmediğiniz sürece özel ayarlarınız değişmez.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Uygulama İzleme Koruması devre dışı</b> Uygulama İzleme Koruması uygulamalarınızda bir soruna mı neden oldu? <annotation type="report_issues_link">Sorunları Bildirin</annotation></string>
     <string name="atp_ExcludedAppsReport">Başka Bir Uygulamayla İlgili Sorun Bildir</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Manuel olarak devre dışı bırakıldı</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Manuel olarak etkinleştirildi</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">İptal</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Geri Yükle</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Korumayı etkinleştirdiğinizde, uygulamanın adı DuckDuckGo\'ya gönderilir.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Korumayı etkinleştirdiğinizde, uygulamanın adı Tragogo\'ya gönderilir.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Beklendiği gibi çalışmayı durdurdu</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Bu uygulamada izlenmek benim için sorun değil</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Başka bir nedenden dolayı</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Varsayılan koruma geri yüklensin mi?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Özel koruma ayarlarınız en son varsayılan korumalarımıza güncellenecektir. Koruma ayarlarınızı daha sonra istediğiniz zaman tekrar değiştirebilirsiniz.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Koruma varsayılan ayarları geri yüklendi</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Korumayı etkinleştirdiğinizde, uygulamanın adı DuckDuckGo\'ya gönderilir.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Korumayı etkinleştirdiğinizde, uygulamanın adı Tragogo\'ya gönderilir.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Bir Sorun Bildir</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Sonraki</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Lütfen neler olduğunu, ne olmasını beklediğinizi ve soruna yol açan adımları açıklayın.</string>
     <string name="atp_ReportBreakageFormInputHint">Yaşadığınız sorun hakkında daha fazla bilgi verin</string>
-    <string name="atp_ReportBreakageFormCheckboxText">\"Gönder\"e tıkladığımda, DuckDuckGo\'nun bu rapordaki bilgileri uygulamanın özelliklerini geliştirmek amacıyla kullanabileceğini kabul etmiş olacağımı anlıyorum.
+    <string name="atp_ReportBreakageFormCheckboxText">\"Gönder\"e tıkladığımda, Tragogo\'nun bu rapordaki bilgileri uygulamanın özelliklerini geliştirmek amacıyla kullanabileceğini kabul etmiş olacağımı anlıyorum.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Bu forma girilen ayrıntılara ek olarak, uygulama sorun raporunuz şunları içerecektir:<br/>• Uygulama paketi adı<br/>• Uygulamada engellenen izleyicilerin bir listesi<br/>• Spesifik DuckDuckGo özelliklerinin etkin olup olmadığı<br/>• Toplu DuckDuckGo uygulama teşhisi<br/>]]>
+        <![CDATA[Bu forma girilen ayrıntılara ek olarak, uygulama sorun raporunuz şunları içerecektir:<br/>• Uygulama paketi adı<br/>• Uygulamada engellenen izleyicilerin bir listesi<br/>• Spesifik Tragogo özelliklerinin etkin olup olmadığı<br/>• Toplu Tragogo uygulama teşhisi<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Rapor gönderildi, teşekkürler! Geri bildiriminiz herkes için Uygulama İzleme Koruması\'nı geliştirmemize yardımcı oluyor.</string>
     <string name="atp_ThanksForTheFeedback">Geri dönüşünüz için teşekkür ederiz!</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Uygulama İzleyiciler Hakkında</string>
     <string name="atp_ProfilingInfoTitle">Uygulama izleyici nedir?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Büyük olasılıkla Google ve Facebook gibi şirketlerin sizi üçüncü taraf web sitelerinde perde arkasında izlediğini duymuşsunuzdur. Ancak cihazınızdaki uygulamalar aracılığıyla kişisel bilgilerinizi de izlediklerini biliyor muydunuz?\n\nTest ettiğimiz <b>100 popüler ücretsiz Android uygulamasının %96\'sından fazlası</b> gizli üçüncü taraf izleyiciler içeriyordu. Bunların %87\'si Google\'a ve %68\'i Facebook\'a veri gönderiyordu. Bu, cihazınızı kullanmadığınızda bile gerçekleşmektedir.\n\n<b>Uygulamalardaki izleyiciler, kuzenleri sayılabilecek web sitesi izleyicilere göre çok daha fazla bilgiye erişebilir</b>. Bunlar, bir binada çıktığınız kata varana kadar konumunuz, işteyken ne sıklıkta oyun oynadığınız ve her gün ne zaman ve ne kadar uyuduğunuz gibi bilgilerdir. <b>Örneğin, bir Google veya Facebook hesabınız olmasa bile, uygulamalarınızdan sizin hakkınızda veri toplayabilirler.</b>\n\nFacebook ve Google gibi izleme ağları, <b>sizinle ilgili dijital bir profil oluşturmak için</b> bu bilgi parçacıklarını kullanır. Bu bilgiler yardımıyla, izleme ağları internette kendilerinin istediği şeyleri görmenizi sağlayabilir ve verilerinize dayalı olarak reklam verenlerin size erişmek için teklif vermelerine olanak tanıyabilir.\n\nUygulamalardaki izleyiciler gizlilik açısından BÜYÜK bir sorundur. <b>Ancak DuckDuckGo\'nun size yardımcı olabilecek bir çözümü var.</b>\n\nDuckDuckGo Gizlilik Tarayıcı uygulamasında etkinleştirildiğinde, Uygulama İzleme Koruması, DuckDuckGo uygulamasının siz internette gezinirken web sitelerinde bulduğumuz izleyicileri engellemesi gibi, cihazınızdaki diğer uygulamalarda bulunan birçok izleyiciyi engeller. <b>Bu çift koruma katmanı, izleme şirketlerinin genel olarak sizin hakkınızda bildiklerini azaltır</b>, böylece uygulamalarınızı daha fazla korunduğunuzu bilerek daha rahat kullanabilirsiniz.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Büyük olasılıkla Google ve Facebook gibi şirketlerin sizi üçüncü taraf web sitelerinde perde arkasında izlediğini duymuşsunuzdur. Ancak cihazınızdaki uygulamalar aracılığıyla kişisel bilgilerinizi de izlediklerini biliyor muydunuz?\n\nTest ettiğimiz <b>100 popüler ücretsiz Android uygulamasının %96\'sından fazlası</b> gizli üçüncü taraf izleyiciler içeriyordu. Bunların %87\'si Google\'a ve %68\'i Facebook\'a veri gönderiyordu. Bu, cihazınızı kullanmadığınızda bile gerçekleşmektedir.\n\n<b>Uygulamalardaki izleyiciler, kuzenleri sayılabilecek web sitesi izleyicilere göre çok daha fazla bilgiye erişebilir</b>. Bunlar, bir binada çıktığınız kata varana kadar konumunuz, işteyken ne sıklıkta oyun oynadığınız ve her gün ne zaman ve ne kadar uyuduğunuz gibi bilgilerdir. <b>Örneğin, bir Google veya Facebook hesabınız olmasa bile, uygulamalarınızdan sizin hakkınızda veri toplayabilirler.</b>\n\nFacebook ve Google gibi izleme ağları, <b>sizinle ilgili dijital bir profil oluşturmak için</b> bu bilgi parçacıklarını kullanır. Bu bilgiler yardımıyla, izleme ağları internette kendilerinin istediği şeyleri görmenizi sağlayabilir ve verilerinize dayalı olarak reklam verenlerin size erişmek için teklif vermelerine olanak tanıyabilir.\n\nUygulamalardaki izleyiciler gizlilik açısından BÜYÜK bir sorundur. <b>Ancak Tragogo\'nun size yardımcı olabilecek bir çözümü var.</b>\n\nTragogo Gizlilik Tarayıcı uygulamasında etkinleştirildiğinde, Uygulama İzleme Koruması, Tragogo uygulamasının siz internette gezinirken web sitelerinde bulduğumuz izleyicileri engellemesi gibi, cihazınızdaki diğer uygulamalarda bulunan birçok izleyiciyi engeller. <b>Bu çift koruma katmanı, izleme şirketlerinin genel olarak sizin hakkınızda bildiklerini azaltır</b>, böylece uygulamalarınızı daha fazla korunduğunuzu bilerek daha rahat kullanabilirsiniz.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Son 7 Gün</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">Hakkında</string>
     <string name="atp_ActivityManage">Yönet</string>
     <string name="atp_ActivityRemoveFeature">Verileri Devre Dışı Bırak ve Sil</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo, uygulamalarınızdaki gizli izleyicileri engelliyor.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo, uygulamalarınızdaki gizli izleyicileri engelliyor.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Uygulamalarınızda izleyicileri engellemeye devam etmek için App Tracking Protection\'ı yeniden etkinleştirin.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">DuckDuckGo tarafından %1$s engellendi</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">DuckDuckGo tarafından %1$s günü engellendi</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Tragogo tarafından %1$s engellendi</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Tragogo tarafından %1$s günü engellendi</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">SSS</string>
@@ -243,7 +243,7 @@
     <string name="atp_FAQFifthHeader">Uygulama İzleme Koruması\'nın VPN\'den farkı nedir?</string>
     <string name="atp_FAQFifthText">Bir VPN, verilerinizi cihazdan kendi sunucusuna gönderir ve burada verilerinizi meraklı gözlerden korur ve anonimleştirir. Ancak bu, VPN şirketinin ağ trafiğinizi görmesini sağlar.\n\n<b>Uygulama İzleme Koruması farklıdır.</b> Verilerinizi bir VPN sunucusuna göndermek yerine, <b>Uygulama İzleme Koruması cihazınızda yerel olarak çalışır</b> ve uygulamalarınız ile haberleştikleri sunucular arasında konumlanır.\n\nUygulama İzleme Koruması bilinen bir izleyiciyi tanıdığında, <b>izleyicinin cihazınızdan kişisel bilgilerinizi (IP adresiniz, etkinliğiniz ve cihaz bilgileriniz gibi) göndermesini engeller.</b> Diğer tüm trafik hedefine ulaşır, böylece uygulamalarınız normal şekilde çalışır.</string>
     <string name="atp_FAQSixthHeader">Verilerim gizli tutulur mu?</string>
-    <string name="atp_FAQSixthText">Uygulama İzleme Koruması, cihazınızda çalışır ve kişisel verilerinizi cihazınızdan DuckDuckGo\'ya göndermez.</string>
+    <string name="atp_FAQSixthText">Uygulama İzleme Koruması, cihazınızda çalışır ve kişisel verilerinizi cihazınızdan Tragogo\'ya göndermez.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Uygulama İzleme Koruması Davetiyeniz Burada!</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d girişimi. Şunları topladığı biliniyor:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo, %1$d İzleme Girişimini Engelledi</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo, %1$d İzleme Girişimini Engelledi</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo, %1$d İzleme Girişimini Engelledi</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo, %1$d İzleme Girişimini Engelledi</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Bu Uygulamayla İlgili Bir Sorun Bildirin</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">%1$d tane daha göster</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Ayarlar\'a gidin</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Şimdi Değil</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[DuckDuckGo için cihazınızın VPN Ayarlarına gidin ve Android\'in korumayı devre dışı bırakmasını önlemek için <b>Her zaman açık</b> VPN\'i etkinleştirin.\n\nDiğer ayarı KAPALI bıraktığınızdan emin olun.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Uygulama sorunlarını önlemek için cihazınızın <b>DuckDuckGo için VPN Ayarları</b> bölümüne gidin ve <b>VPN\'siz bağlantıları engelle</b> seçeneğini devre dışı bırakın]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Tragogo için cihazınızın VPN Ayarlarına gidin ve Android\'in korumayı devre dışı bırakmasını önlemek için <b>Her zaman açık</b> VPN\'i etkinleştirin.\n\nDiğer ayarı KAPALI bıraktığınızdan emin olun.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Uygulama sorunlarını önlemek için cihazınızın <b>Tragogo için VPN Ayarları</b> bölümüne gidin ve <b>VPN\'siz bağlantıları engelle</b> seçeneğini devre dışı bırakın]]></string>
     <string name="atp_AlwaysOnModalHeading">Her zaman açık olarak ayarla</string>
     <string name="atp_AlwaysOnLockdownModalHeading">VPN ayarlarınızı değiştirin</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>İşlem gerekli!</b> Uygulama sorunlarını önlemek için Android ayarlarınızı değiştirmeniz gerekiyor. <annotation type="open_settings_link">Ayarları değiştir</annotation></string>
@@ -422,14 +422,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Bildirim çekmecenizde engellenen izleme girişimleri hakkında güncellemeler alın.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Kullandığınız VPN yüzünden App Tracking Protection\'ı kullanamıyor musunuz? Uyumlu tek VPN olan DuckDuckGo VPN\'e geçin. <annotation type="ppro_upsell_link">Daha fazla bilgi edinin</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kullandığınız VPN yüzünden App Tracking Protection\'ı kullanamıyor musunuz? Uyumlu tek VPN olan DuckDuckGo VPN\'e geçin. <annotation type="ppro_upsell_link">Ücretsiz deneyin!</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection Devre Dışı Bırakıldı</b>\nKullandığınız VPN App Tracking Protection\'ı devre dışı mı bıraktı? Yeniden etkinleştirmek için yukarıdaki düğmeyi kullanın.\n\nApp Tracking Protection ile çalışan tek VPN olan DuckDuckGo VPN\'i edinin. <annotation type="ppro_upsell_link">Daha fazla bilgi edinin</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection Devre Dışı Bırakıldı</b>\nKullandığınız VPN App Tracking Protection\'ı devre dışı mı bıraktı? Yeniden etkinleştirmek için yukarıdaki düğmeyi kullanın.\n\nApp Tracking Protection ile çalışan tek VPN olan DuckDuckGo VPN\'e geçin. <annotation type="ppro_upsell_link">Ücretsiz deneyin!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled">Kullandığınız VPN yüzünden App Tracking Protection\'ı kullanamıyor musunuz? Uyumlu tek VPN olan Tragogo VPN\'e geçin. <annotation type="ppro_upsell_link">Daha fazla bilgi edinin</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kullandığınız VPN yüzünden App Tracking Protection\'ı kullanamıyor musunuz? Uyumlu tek VPN olan Tragogo VPN\'e geçin. <annotation type="ppro_upsell_link">Ücretsiz deneyin!</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection Devre Dışı Bırakıldı</b>\nKullandığınız VPN App Tracking Protection\'ı devre dışı mı bıraktı? Yeniden etkinleştirmek için yukarıdaki düğmeyi kullanın.\n\nApp Tracking Protection ile çalışan tek VPN olan Tragogo VPN\'i edinin. <annotation type="ppro_upsell_link">Daha fazla bilgi edinin</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection Devre Dışı Bırakıldı</b>\nKullandığınız VPN App Tracking Protection\'ı devre dışı mı bıraktı? Yeniden etkinleştirmek için yukarıdaki düğmeyi kullanın.\n\nApp Tracking Protection ile çalışan tek VPN olan Tragogo VPN\'e geçin. <annotation type="ppro_upsell_link">Ücretsiz deneyin!</annotation>.</string>
     <string name="apptp_PproUpsellBannerTitle">Gizliliğinizi bir üst seviyeye taşıyın</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo, App Tracking Protection ile uyumlu olan tek VPN\'i sunuyor. Ücretli bir Privacy Pro aboneliğiyle etkinleştirebilirsiniz.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo, App Tracking Protection ile uyumlu olan tek VPN\'i sunuyor. Ücretli bir Privacy Pro aboneliğiyle etkinleştirebilirsiniz.</string>
     <string name="apptp_PproUpsellBannerAction">Daha Fazla Bilgi</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">DuckDuckGo\'ya abone olun ve App Tracking Protection ile uyumlu tek VPN\'e sahip olun.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Tragogo\'ya abone olun ve App Tracking Protection ile uyumlu tek VPN\'e sahip olun.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Ücretsiz deneyin!</string>
 
     <!-- Content Descriptions -->

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Värskenda kasutajanime</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Kas värskendada kasutajanime \n%1$s parooli?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo värskendab selle salvestatud parooli sinu seadmes.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo värskendab selle salvestatud parooli sinu seadmes.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Sulge automaatse täitmise dialoog</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Kasutajanimi on kopeeritud</string>
     <string name="autofillManagementPasswordCopied">Parool on kopeeritud</string>
 
-    <string name="autofill_password_generation_offer_title">Kas kasutada DuckDuckGo tugevat parooli?</string>
+    <string name="autofill_password_generation_offer_title">Kas kasutada Tragogo tugevat parooli?</string>
     <string name="autofill_password_generation_offer_accept">Kasuta tugevat parooli</string>
     <string name="autofill_password_generation_offer_decline">Loon selle ise</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Paroolide salvestamine ja automaatne sisestamine</string>
     <string name="credentialManagementAutofillSubtitle">Paroolid on krüpteeritud. Keegi peale sinu ei näe neid, isegi mitte meie. <annotation type="learn_more_link">Lisateave</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Paroolihalduri turvalisus</string>
-    <string name="saveLoginDialogSubtitle">Salvesta oma parool turvaliselt seadmesse DuckDuckGo paroolide ja automaatse täitmisega.</string>
+    <string name="saveLoginDialogSubtitle">Salvesta oma parool turvaliselt seadmesse Tragogo paroolide ja automaatse täitmisega.</string>
     <string name="autofillManagementAddLogin">Parooli lisamine</string>
     <string name="credentialManagementEditLoginTitleHint">Pealkiri</string>
     <string name="autofillManagementDeletedConfirmation">Parool on kustutatud</string>
@@ -194,34 +194,34 @@
         <item quantity="other">Veendu, et sulle jääks endiselt mõni viis oma kontodele pääsemiseks.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Salvestatud paroole saad importida teisest brauserist DuckDuckGo-sse.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Salvestatud paroole saad importida teisest brauserist Tragogo-sse.</string>
 
     <string name="autofillManagementImportPasswords">Impordi paroolid</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Töölaua paroolide sünkroonimine</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Kuidas importida paroole</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Kuidas sünkroonida töölaua paroole</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Impordi paroolid DuckDuckGo brauseri töölauaversiooni, seejärel sünkrooni need kõigis seadmetes.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Impordi paroolid Tragogo brauseri töölauaversiooni, seejärel sünkrooni need kõigis seadmetes.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Hangi töölaua brauser</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Hangi DuckDuckGo brauser Maci või Windowsi jaoks</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Otsi privaatselt ja blokeeri jälgurid DuckDuckGo töölaua brauseriga. Külasta oma arvutis seda linki, et laadida see alla juba täna.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Hangi Tragogo brauser Maci või Windowsi jaoks</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Otsi privaatselt ja blokeeri jälgurid Tragogo töölaua brauseriga. Külasta oma arvutis seda linki, et laadida see alla juba täna.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Sünkrooni töölauaga</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Impordi töölaua brauserist:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Ava DuckDuckGo Macis või Windowsis</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Ava Tragogo Macis või Windowsis</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Ava <b>Seaded</b> > <b>Paroolid</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Vali <b>Impordi paroolid</b>... ja järgi samme importimiseks]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Kui need on arvutisse imporditud, saad seadistada selle seadme sünkroonimise</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Hangi töölaua rakendus</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Hangi DuckDuckGo Maci või Windowsi jaoks</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Hangi Tragogo Maci või Windowsi jaoks</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Ava oma arvutis:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Teata automaatse täitmise probleemist</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Teata anonüümselt, et automaatne täitmine sellel saidil ei tööta. Paroole ei jagata kunagi.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Teata, et automaatne täitmine ei tööta saidil %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">DuckDuckGo\'le saadetud aruanded on anonüümsed ega sisalda sinu kasutajanime, parooli ega muid isikuandmeid.\n\nAruanne sisaldab ainult veebisaidi url-i ja mõne automaatse täitmise sätete olekut.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Tragogo\'le saadetud aruanded on anonüümsed ega sisalda sinu kasutajanime, parooli ega muid isikuandmeid.\n\nAruanne sisaldab ainult veebisaidi url-i ja mõne automaatse täitmise sätete olekut.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Saada aruanne</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Loobu</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Aitäh! Sinu aruanne aitab meil muuta DuckDuckGo kõigi jaoks paremaks.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Aitäh! Sinu aruanne aitab meil muuta Tragogo kõigi jaoks paremaks.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Peamised omadused</string>
@@ -253,14 +253,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Vali CSV-fail</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Impordi töölaua brauserist</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Impordi DuckDuckGo-sse</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Impordi Tragogo-sse</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Import on lõpetatud</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Sain aru</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Parooli import ebaõnnestus</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Vahele jäetud (duplikaat või kehtetu): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Imporditud paroolid: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Ava paroolid</string>
     <string name="autofill_service_select_password_activity">Vali salvestatud parool</string>
 
@@ -278,16 +278,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Töölaua paroolide sünkroonimine</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Lähtesta välistatud saidid</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Too oma paroolid Google\'ist DuckDuckGo\'sse</string>
-    <string name="passwords_import_promo_subtitle">Impordi oma paroolid kiiresti ja turvaliselt DuckDuckGosse. Google võib paluda sul oma parooli sisestada.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Too oma paroolid Google\'ist Tragogo\'sse</string>
+    <string name="passwords_import_promo_subtitle">Impordi oma paroolid kiiresti ja turvaliselt Tragogosse. Google võib paluda sul oma parooli sisestada.</string>
     <string name="passwords_import_promo_action">Impordi Google\'ist</string>
-    <string name="passwords_import_promo_in_browser_title">Too oma paroolid Google\'ist DuckDuckGo\'sse</string>
+    <string name="passwords_import_promo_in_browser_title">Too oma paroolid Google\'ist Tragogo\'sse</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Ära enam küsi</string>
     <string name="passwords_import_promo_in_settings_title">Impordi paroolid Google\'ist</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Peida</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Impordi DuckDuckGo-sse</string>
+    <string name="importToTragogo">Impordi Tragogo-sse</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Imporditud Chrome\'ist</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Impordi järjehoidjad Google\'ist</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google võib paluda sul sisse logida või sisestada kinnitamiseks parooli.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Tühista importimine</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Jätka</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Järjehoidjad: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Sulge</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Midagi läks valesti</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Veenduge, et olete internetiga ühendatud ja proovige uuesti.</string>
 

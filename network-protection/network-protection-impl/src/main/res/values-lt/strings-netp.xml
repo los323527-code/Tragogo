@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,17 +17,17 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="netp_name" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementTitle" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementHeadlineStatusOn">„DuckDuckGo“ VPN įjungtas</string>
-    <string name="netpManagementHeadlineStatusOff">„DuckDuckGo“ VPN išjungtas</string>
+    <string name="netp_name" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementTitle" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementHeadlineStatusOn">„Tragogo“ VPN įjungtas</string>
+    <string name="netpManagementHeadlineStatusOff">„Tragogo“ VPN išjungtas</string>
     <string name="netpManagementDescriptionOff">Prisijunkite, kad apsaugotumėte visų savo įrenginių\ninterneto srautą.</string>
     <string name="netpManagementDescriptionOn">Visas įrenginio interneto srautas yra apsaugotas\nnaudojant VPN.</string>
     <string name="netpManagementToggleTitle" translatable="false">VPN</string>
     <string name="netpManagementToggleSubtitleConnecting">Jungiamasi...</string>
     <string name="netpManagementToggleSubtitleConnected" instruction="Placeholder is elapsed time in hh:MM:ss format.">Prisijungta · %1$s</string>
     <string name="netpManagementToggleSubtitleDisconnected">Neprijungta</string>
-    <string name="netpManagementBetaDescription">„DuckDuckGo“ VPN šiuo metu yra beta versijoje. <annotation type="report_issues_link">Pasidalink atsiliepimais</annotation>, kad padėtum mums tobulėti!</string>
+    <string name="netpManagementBetaDescription">„Tragogo“ VPN šiuo metu yra beta versijoje. <annotation type="report_issues_link">Pasidalink atsiliepimais</annotation>, kad padėtum mums tobulėti!</string>
 
     <!-- Exclude App Prompt -->
     <string name="netpManagementExcludeAppPromptTitle">Ar VPN sukelia problemų su programėle?</string>
@@ -55,19 +55,19 @@
 
     <!-- VPN conflict -->
     <string name="netpVpnConflictTitle">Jūsų VPN programa gali būti atjungta</string>
-    <string name="netpVpnConflictMessage">„Android“ vienu metu leidžia tik vieną aktyvų VPN ryšį. Įjungus „DuckDuckGo“ VPN, gali būti atjungtas bet koks aktyvus VPN jūsų įrenginyje.</string>
+    <string name="netpVpnConflictMessage">„Android“ vienu metu leidžia tik vieną aktyvų VPN ryšį. Įjungus „Tragogo“ VPN, gali būti atjungtas bet koks aktyvus VPN jūsų įrenginyje.</string>
     <string name="netpActionGotIt">Supratau</string>
 
     <!-- Always on -->
-    <string name="netpAlwaysOnVpnConflictTitle">Tavo VPN programa blokuoja „DuckDuckGo“ VPN.</string>
+    <string name="netpAlwaysOnVpnConflictTitle">Tavo VPN programa blokuoja „Tragogo“ VPN.</string>
     <string name="netpAlwaysOnVpnConflictMessage">„Android“ vienu metu leidžia tik vieną aktyvų VPN ryšį. Atidarykite „Tinklo nustatymai“ &gt; VPN. Raskite VPN programą, kuri yra „visada įjungta“, ir ją išjunkite, kad galėtumėte tęsti darbą.</string>
     <string name="netpActionOpenSettings">Atidaryti nustatymus</string>
     <string name="netpActionCancel">Atšaukti</string>
     <string name="netpActionNotNow">Ne dabar</string>
     <string name="netpActionGoToSettings">Eikite į „Nustatymai“</string>
     <string name="netpAlwaysOnPromotionHeading">Nustatykite kaip „Visada įjungti“</string>
-    <string name="netpAlwaysOnPromotionBody">Eik į savo įrenginio „DuckDuckGo“ VPN nustatymus ir įjunk <b>Visada įjungtas VPN</b>, kad „Android“ neišjungtų apsaugos.\n\nBūtinai palik kitą nustatymą išjungtą.</string>
-    <string name="netpAlwaysOnLockdownBody">Jei nori išvengti programėlių problemų, eik į savo įrenginio <b>„DuckDuckGo“ VPN nustatymus</b> ir išjunk <b>Blokuoti ryšius be VPN.</b></string>
+    <string name="netpAlwaysOnPromotionBody">Eik į savo įrenginio „Tragogo“ VPN nustatymus ir įjunk <b>Visada įjungtas VPN</b>, kad „Android“ neišjungtų apsaugos.\n\nBūtinai palik kitą nustatymą išjungtą.</string>
+    <string name="netpAlwaysOnLockdownBody">Jei nori išvengti programėlių problemų, eik į savo įrenginio <b>„Tragogo“ VPN nustatymus</b> ir išjunk <b>Blokuoti ryšius be VPN.</b></string>
     <string name="netpAlwaysOnLockdownHeading">Pakeiskite VPN nustatymus</string>
     <string name="netpBannerVpnRevoked"><b>VPN yra išjungtas.</b>\nGali būti, kad ją išjungė tavo įrenginio VPN programėlė. Norėdami vėl įjungti, naudokite perjungiklį.</string>
     <string name="netpBannerAlwaysOnLockDownEnabled"><b>Reikia imtis veiksmų!</b> Kad išvengtumėte programėlių problemų, turite pakeisti savo „Android“ nustatymus. <annotation type="open_settings_link">Keisti nustatymus</annotation></string>
@@ -82,7 +82,7 @@
     <string name="netpReportBreakageCategoryFeatureRequest">Funkcionalumo prašymas</string>
     <string name="netpReportBreakageCategoryOther">Kažkas kito</string>
 
-    <string name="netpBetaDisclaimerFooter">„DuckDuckGo“ VPN galima nemokamai naudoti beta versijos metu.</string>
+    <string name="netpBetaDisclaimerFooter">„Tragogo“ VPN galima nemokamai naudoti beta versijos metu.</string>
 
     <!-- Manage -->
     <string name="netpManagementManageHeader">Tvarkyti</string>
@@ -110,7 +110,7 @@
     <string name="netpVpnSettingAlwaysOnByline">Automatiškai atkurti VPN ryšį po nutrūkimo.</string>
     <string name="netpVpnSettingExcludeLocalNetworks">Neįtraukti vietinių tinklų</string>
     <string name="netpVpnSettingExcludeLocalNetworksByline">Leisk apeiti VPN vietinio tinklo ryšiams, pavyzdžiui, spausdintuvui.</string>
-    <string name="netpVpnSettingDnsLeak">„DuckDuckGo“ VPN apsaugo nuo DNS nutekėjimo tavo interneto paslaugų teikėjui, nukreipdama DNS užklausas per VPN tunelį į mūsų nuosavą sprendiklį.</string>
+    <string name="netpVpnSettingDnsLeak">„Tragogo“ VPN apsaugo nuo DNS nutekėjimo tavo interneto paslaugų teikėjui, nukreipdama DNS užklausas per VPN tunelį į mūsų nuosavą sprendiklį.</string>
     <string name="netpVpnSettingGeoswitching">Pageidaujama vieta</string>
     <string name="netpVpnSettingGeoswitchingDefault">Artimiausias galimas</string>
 
@@ -124,7 +124,7 @@
 
     <!-- Pause during calls -->
     <string name="netpGrantPhonePermissionTitle">Būtinas telefono leidimas</string>
-    <string name="netpGrantPhonePermissionByline">Kad įjungtumėte šį nustatymą, turite leisti „DuckDuckGo“ skambinti ir valdyti telefono skambučius per sistemos nustatymus.</string>
+    <string name="netpGrantPhonePermissionByline">Kad įjungtumėte šį nustatymą, turite leisti „Tragogo“ skambinti ir valdyti telefono skambučius per sistemos nustatymus.</string>
     <string name="netpGrantPhonePermissionActionPositive">Nustatymai</string>
     <string name="netpGrantPhonePermissionActionNegative">Atšaukti</string>
 
@@ -134,8 +134,8 @@
 
     <!-- Exclusion list -->
     <string name="netpExclusionListTitle">Tvarkyti programėles</string>
-    <string name="netpExclusionListHeaderDefault">Pagal numatytuosius nustatymus „DuckDuckGo VPN“ veikia visose programose. Jei su įjungtu VPN susiduriate su programėlių problemomis, pabandykite išjungti tos programėlės apsaugą.</string>
-    <string name="netpExclusionListHeaderDisabled">„DuckDuckGo“ VPN yra išjungtas.</string>
+    <string name="netpExclusionListHeaderDefault">Pagal numatytuosius nustatymus „Tragogo VPN“ veikia visose programose. Jei su įjungtu VPN susiduriate su programėlių problemomis, pabandykite išjungti tos programėlės apsaugą.</string>
+    <string name="netpExclusionListHeaderDisabled">„Tragogo“ VPN yra išjungtas.</string>
     <string name="netpExclusionListExcludedReasonManuallyDisabled">Rankiniu būdu išjungta</string>
     <string name="netpExclusionListExcludedReasonManuallyEnabled">Rankiniu būdu įjungta</string>
     <string name="netpExclusionListExcludedReasonIssuesMayOccur">Jei įjungta, gali kilti programėlių problemų</string>
@@ -153,7 +153,7 @@
     <string name="netpExclusionListRestoreDefaultsTitle">Atkurti visų programų apsaugą?</string>
     <string name="netpExclusionListRestoreDefaultsMessage">Tai atnaujins tavo pasirinktinius apsaugos nustatymus ir įjungs VPN visoms programėlėms. Vėliau visada galėsite vėl pakeisti apsaugos nustatymus.</string>
     <string name="netpExclusionListRestoreDefaultSnackbar">Apsauga atkurta į numatytuosius nustatymus</string>
-    <string name="netpExclusionListRestoreDefaultsDisclaimer">Įjungus apsaugą, programos pavadinimas siunčiamas „DuckDuckGo“.</string>
+    <string name="netpExclusionListRestoreDefaultsDisclaimer">Įjungus apsaugą, programos pavadinimas siunčiamas „Tragogo“.</string>
 
     <!-- System apps exclusion list -->
     <string name="netpExclusionListSystemAppsHeader">„Android“ sistemos programėlės</string>
@@ -168,33 +168,33 @@
 
     <!-- FAQS -->
     <string name="netpFaqTitle">DUK ir pagalba</string>
-    <string name="netpFaqQuestionOne">Kaip veikia „DuckDuckGo“ VPN?</string>
+    <string name="netpFaqQuestionOne">Kaip veikia „Tragogo“ VPN?</string>
     <string name="netpFaqAnswerOne">VPN naudoja atvirojo kodo „WireGuard“ protokolą, kad sukonfigūruotų virtualų privatų tinklą (VPN) tavo įrenginyje. Kai ši funkcija įjungta, visas jūsų įrenginio duomenų srautas pirmiausia užšifruojamas ir nukreipiamas per artimiausią VPN serverį, kad jūsų naršymo veikla būtų apsaugota nuo interneto paslaugų teikėjų ir paslėpta jūsų buvimo vieta nuo programėlių ir lankomų svetainių.</string>
     <string name="netpFaqQuestionTwo">Ar apsaugotas tik mano naršymas internete?</string>
     <string name="netpFaqAnswerTwo">Visa tinklo veikla tavo įrenginyje yra apsaugota.</string>
-    <string name="netpFaqQuestionThree">Ar „DuckDuckGo“ saugo mano duomenų įrašus?</string>
+    <string name="netpFaqQuestionThree">Ar „Tragogo“ saugo mano duomenų įrašus?</string>
     <string name="netpFaqAnswerThree">Ne, mes nesaugome žurnalų.</string>
     <string name="netpFaqQuestionFour">Kur yra VPN serveriai įsikūrę?</string>
-    <string name="netpFaqAnswerFour">„DuckDuckGo“ nukreipia DNS užklausas per mūsų DNS serverius, kad jūsų interneto paslaugų teikėjas nematytų, kokiose svetainėse lankotės.</string>
+    <string name="netpFaqAnswerFour">„Tragogo“ nukreipia DNS užklausas per mūsų DNS serverius, kad jūsų interneto paslaugų teikėjas nematytų, kokiose svetainėse lankotės.</string>
     <string name="netpFaqQuestionSix">Kodėl kai kurios programėlės neveikia, kai įjungtas VPN?</string>
-    <string name="netpFaqAnswerSix">Kai kurios svetainės ir programėlės sąmoningai riboja prieigą žmonėms, naudojantiems VPN. Pavyzdžiui, jos gali paprašyti išspręsti CAPTCHA, kad įsitikintų, jog esate tikras žmogus, o ne robotas. Jei su kokia nors programėle nuolat kyla problemų, galite visiškai pašalinti ją iš VPN DuckDuckGo VPN nustatymuose.</string>
+    <string name="netpFaqAnswerSix">Kai kurios svetainės ir programėlės sąmoningai riboja prieigą žmonėms, naudojantiems VPN. Pavyzdžiui, jos gali paprašyti išspręsti CAPTCHA, kad įsitikintų, jog esate tikras žmogus, o ne robotas. Jei su kokia nors programėle nuolat kyla problemų, galite visiškai pašalinti ją iš VPN Tragogo VPN nustatymuose.</string>
     <string name="netpFaqQuestionSeven">Kodėl negaliu išjungti VPN pranešimų?</string>
     <string name="netpFaqAnswerSeven">„Android“ reikalauja, kad VPN rodytų nuolatinį pranešimą, kol VPN yra įjungtas.</string>
     <string name="netpFaqQuestionEight">Ar VPN suderinamas su „App Tracking Protection“?</string>
-    <string name="netpFaqAnswerEight">Taip, vienu metu gali būti įjungtas ir VPN, ir programėlių sekimo apsauga. Jokie kiti VPN nėra suderinami su „DuckDuckGo“ „App Tracking Protection“.</string>
+    <string name="netpFaqAnswerEight">Taip, vienu metu gali būti įjungtas ir VPN, ir programėlių sekimo apsauga. Jokie kiti VPN nėra suderinami su „Tragogo“ „App Tracking Protection“.</string>
     <string name="netpFaqQuestionNine">Ar VPN naudojimas yra nemokamas?</string>
-    <string name="netpFaqAnswerNine">„DuckDuckGo“ VPN galima naudoti nemokamai, kol veikia beta versija. Ilgainiui ji bus siūloma kaip mokama paslauga.</string>
+    <string name="netpFaqAnswerNine">„Tragogo“ VPN galima naudoti nemokamai, kol veikia beta versija. Ilgainiui ji bus siūloma kaip mokama paslauga.</string>
 
     <!-- Notifications -->
     <string name="netpNotificationCTAEnableNetp">Prijungti</string>
     <string name="netpNotificationCTAReportIssue">Turite sunkumų su programėle?</string>
     <string name="netpNotificationDisabled">VPN yra atjungtas. Bakstelėk, kad toliau apsaugotum savo įrenginio srautą.</string>
-    <string name="netpNotificationDisabledByVpn">VPN programa tavo įrenginyje atjungė „DuckDuckGo“ VPN. Palieskite, kad vėl prisijungtum.</string>
+    <string name="netpNotificationDisabledByVpn">VPN programa tavo įrenginyje atjungė „Tragogo“ VPN. Palieskite, kad vėl prisijungtum.</string>
     <string name="netpUnsafeWifi">Prisijungta prie nesaugaus WIFI.</string>
     <string name="netpNotificationCTAReconnectNow">Prisijunk iš naujo dabar</string>
     <string name="netpNotificationSnoozeTitle">VPN pristabdytas</string>
     <string name="netpNotificationSnoozeBody" instruction="Placeholder is time in hh:mm format">VPN vėl prisijungs %1$s</string>
-    <string name="netpNotificationVpnAccessRevoked">VPN atjungtas dėl pasibaigusios prenumeratos. Prenumeruokite „DuckDuckGo“, kad iš naujo prisijungtumėte prie VPN.</string>
+    <string name="netpNotificationVpnAccessRevoked">VPN atjungtas dėl pasibaigusios prenumeratos. Prenumeruokite „Tragogo“, kad iš naujo prisijungtumėte prie VPN.</string>
 
     <!-- Geoswitching -->
     <string name="netpGeoswitchingTitle">VPN vieta</string>
@@ -206,7 +206,7 @@
 
     <!-- Access revoked-->
     <string name="netpDialogVpnAccessRevokedTitle">VPN atjungtas dėl pasibaigusios prenumeratos.</string>
-    <string name="netpDialogVpnAccessRevokedBody">Prenumeruokite „DuckDuckGo“, kad iš naujo prisijungtumėte prie VPN.</string>
+    <string name="netpDialogVpnAccessRevokedBody">Prenumeruokite „Tragogo“, kad iš naujo prisijungtumėte prie VPN.</string>
     <string name="netpDialogVpnAccessRevokedPositiveAction">Prenumeruoti</string>
     <string name="netpDialogVpnAccessRevokedNegativeAction">Atmesti</string>
 
@@ -214,7 +214,7 @@
     <string name="netpVerifySubscriptionLabel">Patikrink prenumeratą</string>
     <string name="netpVerifySubscriptionInProgress">Palauk, kol patikrinsime tavo prenumeratą…</string>
     <string name="netpVerifySubscriptionNoSubscription">Oi! Neturi galiojančios prenumeratos.</string>
-    <string name="netpVerifySubscriptionNoEntitlement">Oi! Tavo „DuckDuckGo VPN“ prenumerata negalioja.</string>
+    <string name="netpVerifySubscriptionNoEntitlement">Oi! Tavo „Tragogo VPN“ prenumerata negalioja.</string>
 
     <!-- NetP Settings-->
     <string name="netpSubscriptionSettingsTitle" translatable="false">VPN</string>
@@ -223,16 +223,16 @@
     <string name="netpSetttingDnsHeader" translatable="false">DNS</string>
     <string name="netpCustomDnsSettingText">DNS serveris</string>
     <string name="netpPrivateDns">Privatus DNS</string>
-    <string name="netpCustomDnsDefault" translatable="false">DuckDuckGo</string>
-    <string name="netpCustomDnsDefaultBlockMalware">„DuckDuckGo“ (sukčiavimo blokatorius)</string>
-    <string name="netpCustomDnsDefaultOption">„DuckDuckGo“ (rekomenduojama)</string>
+    <string name="netpCustomDnsDefault" translatable="false">Tragogo</string>
+    <string name="netpCustomDnsDefaultBlockMalware">„Tragogo“ (sukčiavimo blokatorius)</string>
+    <string name="netpCustomDnsDefaultOption">„Tragogo“ (rekomenduojama)</string>
     <string name="netpCustomDnsCustom">Pasirinkti kitą</string>
     <string name="netpCustomDnsInputAddressHint">IPv4 adresas</string>
     <string name="netpCustomDnsApply">Taikyti</string>
     <string name="netpCustomDnsCustomHeader">DNS serveris</string>
-    <string name="netpCustomDnsPrivateDnsWarning">Privatus DNS jau nurodytas sistemos DNS nustatymuose. Išjunkite privatų DNS, kad nustatytumėte pasirinktinį „DuckDuckGo VPN“ DNS. <annotation type="open_settings_link">Atidarykite sistemos nustatymus</annotation></string>
+    <string name="netpCustomDnsPrivateDnsWarning">Privatus DNS jau nurodytas sistemos DNS nustatymuose. Išjunkite privatų DNS, kad nustatytumėte pasirinktinį „Tragogo VPN“ DNS. <annotation type="open_settings_link">Atidarykite sistemos nustatymus</annotation></string>
     <string name="netpCustomDnsWarning">Pasirinktinio DNS serverio naudojimas gali turėti įtakos naršymo greičiui ir atskleisti jūsų veiklą trečiosioms šalims, jei serveris nėra saugus ar patikimas.</string>
-    <string name="netpDdgDnsByLine">„DuckDuckGo“ nukreipia DNS užklausas per mūsų DNS serverius, kad tavo interneto tiekėjas negalėtų matyti, kokiose svetainėse lankaisi.</string>
+    <string name="netpDdgDnsByLine">„Tragogo“ nukreipia DNS užklausas per mūsų DNS serverius, kad tavo interneto tiekėjas negalėtų matyti, kokiose svetainėse lankaisi.</string>
 
     <!-- Block malware DNS -->
     <string name="netpDnsBlockMalwareHeader">Kenksmingo turinio blokavimas</string>

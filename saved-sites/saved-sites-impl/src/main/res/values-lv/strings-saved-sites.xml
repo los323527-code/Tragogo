@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -90,7 +90,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Dzēst grāmatzīmi %1$s?"</string>
     <string name="addToFavorites">Pievienot izlasei</string>
     <string name="editBookmark">Rediģēt grāmatzīmi</string>
-    <string name="importBookmarksDescription">Ja tavas grāmatzīmes ir saglabātas citā pārlūkā,\nvari tās importēt DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Ja tavas grāmatzīmes ir saglabātas citā pārlūkā,\nvari tās importēt Tragogo.</string>
     <string name="importBookmarks">Importēt grāmatzīmes</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Vaicājumam “%1$s” nav rezultātu</string>
     <string name="removeFromFavorites">Noņemt no izlases</string>

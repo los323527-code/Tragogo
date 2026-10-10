@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -93,7 +93,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Usunąć zakładkę %1$s?"</string>
     <string name="addToFavorites">Dodaj do ulubionych</string>
     <string name="editBookmark">Edytuj zakładkę</string>
-    <string name="importBookmarksDescription">Jeśli zakładki są zapisane w innej przeglądarce, możesz\nzaimportować je do DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Jeśli zakładki są zapisane w innej przeglądarce, możesz\nzaimportować je do Tragogo.</string>
     <string name="importBookmarks">Importuj zakładki</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Nie znaleziono wyników dla frazy „%1$s”</string>
     <string name="removeFromFavorites">Usuń z ulubionych</string>

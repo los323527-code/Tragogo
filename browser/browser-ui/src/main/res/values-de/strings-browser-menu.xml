@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Passwörter</string>
     <string name="browserMenuDownloads">Downloads</string>
     <string name="browserMenuSettings">Einstellungen</string>
-    <string name="browserMenuOpenInDDG">In DuckDuckGo öffnen</string>
-    <string name="browserMenuRunningInDDG">Laufen in DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">In Tragogo öffnen</string>
+    <string name="browserMenuRunningInDDG">Laufen in Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Als Standard-Browser festlegen</string>
     <string name="browserMenuNewChat">Neuer Chat</string>
     <string name="browserMenuNewAIChat">Neuer AI Chat</string>

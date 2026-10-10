@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Актуализиране на потребителското име</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Актуализиране на паролата за \n%1$s?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo ще актуализира запазената парола във Вашето устройство.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo ще актуализира запазената парола във Вашето устройство.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Затваряне на диалоговия прозорец за автоматично попълване</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Потребителското име е копирано</string>
     <string name="autofillManagementPasswordCopied">Паролата е копирана</string>
 
-    <string name="autofill_password_generation_offer_title">Използване на силна парола от DuckDuckGo?</string>
+    <string name="autofill_password_generation_offer_title">Използване на силна парола от Tragogo?</string>
     <string name="autofill_password_generation_offer_accept">Използване на силна парола</string>
     <string name="autofill_password_generation_offer_decline">Създаване на собствена</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Запазване и автоматично попълване на паролите</string>
     <string name="credentialManagementAutofillSubtitle">Паролите са криптирани. Никой освен Вас не може да ги види, дори ние. <annotation type="learn_more_link">Научете повече</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Сигурност на инструмента за управление на пароли</string>
-    <string name="saveLoginDialogSubtitle">С DuckDuckGo Passwords &amp; Autofill можете да съхранявате паролата по сигурен начин на устройството.</string>
+    <string name="saveLoginDialogSubtitle">С Tragogo Passwords &amp; Autofill можете да съхранявате паролата по сигурен начин на устройството.</string>
     <string name="autofillManagementAddLogin">Добавяне на парола</string>
     <string name="credentialManagementEditLoginTitleHint">Заглавие</string>
     <string name="autofillManagementDeletedConfirmation">Паролата е изтрита</string>
@@ -194,34 +194,34 @@
         <item quantity="other">Уверете се, че все още имате друг начин за достъп до Вашите акаунти.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Можете да импортирате запазени пароли от друг браузър в DuckDuckGo.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Можете да импортирате запазени пароли от друг браузър в Tragogo.</string>
 
     <string name="autofillManagementImportPasswords">Импортиране на пароли</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Синхронизиране на паролите от работния плот</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Как се импортират пароли</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Как да синхронизирате паролите от работния плот</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Импортирайте пароли в десктоп версията на браузъра DuckDuckGo, след което ги синхронизирайте с различни устройства.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Импортирайте пароли в десктоп версията на браузъра Tragogo, след което ги синхронизирайте с различни устройства.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Вземете браузъра за работен плот</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Вземете браузъра DuckDuckGo за Mac или Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Търсете поверително и блокирайте тракерите с браузъра за настолен компютър DuckDuckGo. Посетете тази връзка на своя компютър, за да го изтеглите още днес.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Вземете браузъра Tragogo за Mac или Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Търсете поверително и блокирайте тракерите с браузъра за настолен компютър Tragogo. Посетете тази връзка на своя компютър, за да го изтеглите още днес.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Синхронизиране с браузъра на работния плот</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Импортиране от браузъра на работния плот:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Отворете DuckDuckGo на Mac или Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Отворете Tragogo на Mac или Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Отворете <b>Настройки</b> > <b>Пароли</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Изберете <b>Импортиране на пароли</b>… и следвайте стъпките за импортиране]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">След като бъдат импортирани на вашия компютър, можете да настроите синхронизирането на това устройство</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Изтеглете приложението за настолен компютър</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Вземете DuckDuckGo за Mac или Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Вземете Tragogo за Mac или Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">На компютъра си отидете на:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Докладване на проблем с автоматичното попълване</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Анонимно докладвайте, че автоматичното попълване не работи на този сайт. Паролите никога няма да бъдат споделяни.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Искате ли да докладвате, че автоматичното попълване не работи на %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Докладите, изпратени до DuckDuckGo, са анонимни и не включват вашите потребителско име, парола или друга лична информация.\n\nДокладът съдържа само URL адреса на уебсайта и статуса на някои настройки за автоматично попълване.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Докладите, изпратени до Tragogo, са анонимни и не включват вашите потребителско име, парола или друга лична информация.\n\nДокладът съдържа само URL адреса на уебсайта и статуса на някои настройки за автоматично попълване.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Изпращане на доклад</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Отмени</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Благодарим ви! Вашето докладване ще ни помогне да направим DuckDuckGo по-добър за всички.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Благодарим ви! Вашето докладване ще ни помогне да направим Tragogo по-добър за всички.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Основни характеристики</string>
@@ -253,14 +253,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Избор на CSV файл</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Импортиране от браузър на работния плот</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Импортиране в DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Импортиране в Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Импортирането е завършено</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Разбрах</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Импортирането на паролата е неуспешно</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Пропуснати (дублирани или невалидни): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Импортирани пароли: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Отваряне на паролите</string>
     <string name="autofill_service_select_password_activity">Изберете запазена парола</string>
 
@@ -278,16 +278,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Синхронизиране на паролите от работния плот</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Нулиране на изключените сайтове</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Пренесете паролите си от&lt;br /&gt;Google в DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Можете бързо и сигурно да импортирате паролите си в DuckDuckGo. Google може да поиска да въведете парола.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Пренесете паролите си от&lt;br /&gt;Google в Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Можете бързо и сигурно да импортирате паролите си в Tragogo. Google може да поиска да въведете парола.</string>
     <string name="passwords_import_promo_action">Импортиране от Google</string>
-    <string name="passwords_import_promo_in_browser_title">Прехвърли паролите си от Google в DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Прехвърли паролите си от Google в Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Не ме питай повече</string>
     <string name="passwords_import_promo_in_settings_title">Импортиране на пароли от Google</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Скрий</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Импортиране в DuckDuckGo</string>
+    <string name="importToTragogo">Импортиране в Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Импортирано от Chrome</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Импортирай отметки от Google</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google може да ви помоли да влезете или да въведете паролата си, за да потвърдите.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Отмени импортирането</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Продължи</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Отметки: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Затваряне</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Възникна някаква грешка</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Моля, увери се, че имаш връзка с интернет и опитай отново.</string>
 

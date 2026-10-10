@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Anulează</string>
     <string name="ok">OK</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">Abonament DuckDuckGo</string>
+    <string name="ddg_subscription">Abonament Tragogo</string>
     <string name="manageEmail">Gestionează adresa de e-mail</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Adaugă abonamentul tău pe alte dispozitive</string>
     <string name="addToDevicePrimaryText">Adaugă pe dispozitiv</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Adaugă abonamentul pe celelalte dispozitive ale tale prin Google Play sau prin asocierea unei adrese de e-mail.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Folosește adresa de e-mail de mai sus pentru a-ți adăuga abonamentul pe celelalte dispozitive în aplicația DuckDuckGo. Accesează Setări &gt; Setări abonament &gt; Am un abonament.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Folosește adresa de e-mail de mai sus pentru a-ți adăuga abonamentul pe celelalte dispozitive în aplicația Tragogo. Accesează Setări &gt; Setări abonament &gt; Am un abonament.</string>
     <string name="editEmailPrimaryText">Editează adresa de e-mail</string>
     <string name="learnMore">Află mai multe</string>
     <string name="privacyProFaq">Ai nevoie de ajutor cu privire la abonamentul tău?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Abonații beneficiază de VPN, Personal Information Removal și Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Abonații beneficiază de VPN și Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Abonează-te la DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Abonează-te la Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Încearcă gratuit</string>
     <string name="subscriptionSettingRestore">Am un abonament</string>
-    <string name="subscriptionSettingExpired">Abonamentul tău DuckDuckGo a expirat</string>
+    <string name="subscriptionSettingExpired">Abonamentul tău Tragogo a expirat</string>
     <string name="subscriptionSettingExpiredViewPlans">Vezi planurile</string>
     <string name="subscriptionSettingSectionSubscription">Abonament</string>
     <string name="subscriptionSettingRemoveFromDevice">Elimină de pe acest dispozitiv</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Abonamentul tău a fost achiziționat prin Apple App Store. Pentru a-ți modifica planul sau setările de facturare, accesează Setări &gt; Cont Apple &gt; Abonamente pe un dispozitiv conectat la același cont Apple folosit pentru achiziționarea abonamentului.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Activează abonamentul DuckDuckGo pe desktop pentru a configura Personal Information Removal</string>
-    <string name="pirDescription">În browserul DuckDuckGo pentru desktop, accesează <b>Setări &gt; Abonează-te la DuckDuckGo</b> și dă click pe <b>Am un abonament</b> pentru a începe.</string>
+    <string name="pirTitle">Activează abonamentul Tragogo pe desktop pentru a configura Personal Information Removal</string>
+    <string name="pirDescription">În browserul Tragogo pentru desktop, accesează <b>Setări &gt; Abonează-te la Tragogo</b> și dă click pe <b>Am un abonament</b> pentru a începe.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Ai găsit o problemă care nu este prezentată în <annotation type="faqs_link">centrul nostru de ajutor</annotation> ? Ne dorim foarte mult să știm acest lucru.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Spune-ne ce se întâmplă...</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Pe lângă detaliile introduse mai sus, trimitem câteva informații anonimizate împreună cu feedbackul tău:\n\n• Dacă unele caracteristici ale browserului sunt active\n• Diagnosticarea agregată a aplicației (de exemplu, coduri de eroare)\n\nFăcând click pe Trimite, ești de acord că DuckDuckGo poate utiliza informațiile trimise pentru a îmbunătăți aplicația."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Pe lângă detaliile introduse mai sus, trimitem câteva informații anonimizate împreună cu feedbackul tău:\n\n• Dacă unele caracteristici ale browserului sunt active\n• Diagnosticarea agregată a aplicației (de exemplu, coduri de eroare)\n\nFăcând click pe Trimite, ești de acord că Tragogo poate utiliza informațiile trimise pentru a îmbunătăți aplicația."</string>
     <string name="feedbackSubmitVpnSubmit">Trimite</string>
     <string name="feedbackSubmitCompletedMessage">Mulțumesc! Feedback trimis.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Nu pot accesa Duck.ai cu abonamentul meu în alte browsere</string>
     <string name="feedbackSubCategoryDuckAiOther">Alt feedback privind Duck.ai</string>
 
-    <string name="subscriptionSettingSectionTitle">Abonament DuckDuckGo</string>
+    <string name="subscriptionSettingSectionTitle">Abonament Tragogo</string>
     <string name="subscriptionSettingSubscribeSecure">Asigură-ți rețeaua Wi-Fi și discută în privat cu modele avansate de IA</string>
 
     <string name="feedbackGeneralSubscription">Abonament</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Slaptažodžiai</string>
     <string name="browserMenuDownloads">Atsisiuntimai</string>
     <string name="browserMenuSettings">Nustatymai</string>
-    <string name="browserMenuOpenInDDG">Atidaryti „DuckDuckGo“</string>
-    <string name="browserMenuRunningInDDG">Veikia sistemoje „DuckDuckGo“</string>
+    <string name="browserMenuOpenInDDG">Atidaryti „Tragogo“</string>
+    <string name="browserMenuRunningInDDG">Veikia sistemoje „Tragogo“</string>
     <string name="browserMenuSetAsDefaultBrowser">Nustatyti kaip numatytąją naršyklę</string>
     <string name="browserMenuNewChat">Naujas pokalbis</string>
     <string name="browserMenuNewAIChat">Naujas DI pokalbis</string>

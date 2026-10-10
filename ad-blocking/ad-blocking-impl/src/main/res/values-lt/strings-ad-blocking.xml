@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">„YouTube“ reklamų blokavimas</string>
     <string name="ad_blocking_settings_toggle_title">Blokuoti „YouTube“ reklamas</string>
-    <string name="ad_blocking_settings_description_with_consent">„DuckDuckGo“ blokuoja vaizdo įrašų reklamas platformoje „YouTube“, todėl galite žiūrėti vaizdo įrašus be trukdžių.Kai įjungta, „DuckDuckGo“ anonimiškai aptiks skelbimų blokavimo trukdžius arba „YouTube“ klaidas, kad pagerintų patirtį visiems. „DuckDuckGo“ niekada nemato, kokius vaizdo įrašus žiūrite, ar bet kokios asmenį identifikuojančios informacijos. <annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
-    <string name="ad_blocking_settings_description">„DuckDuckGo“ blokuoja vaizdo įrašų reklamas platformoje „YouTube“, todėl galite žiūrėti vaizdo įrašus be trukdžių. <annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">„Tragogo“ blokuoja vaizdo įrašų reklamas platformoje „YouTube“, todėl galite žiūrėti vaizdo įrašus be trukdžių.Kai įjungta, „Tragogo“ anonimiškai aptiks skelbimų blokavimo trukdžius arba „YouTube“ klaidas, kad pagerintų patirtį visiems. „Tragogo“ niekada nemato, kokius vaizdo įrašus žiūrite, ar bet kokios asmenį identifikuojančios informacijos. <annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
+    <string name="ad_blocking_settings_description">„Tragogo“ blokuoja vaizdo įrašų reklamas platformoje „YouTube“, todėl galite žiūrėti vaizdo įrašus be trukdžių. <annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Atidaro vaizdo įrašus neblaškančiu kino teatro režimu, kad tai, ką žiūri, nedarytų įtakos tavo „YouTube“ srautui.</string>
     <string name="ad_blocking_settings_title_v2">Reklamų blokavimas</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Išjungti iki paleidimo iš naujo</string>
     <string name="ad_blocking_menu_always_off">Visada išjungta</string>
     <string name="ad_blocking_disabled_popup_title">Neveikia „YouTube“ reklamų blokavimas?</string>
-    <string name="ad_blocking_disabled_popup_description">Siųsk anoniminį pranešimą „DuckDuckGo“ ir padėk tobulinti skelbimų blokavimą visiems!</string>
+    <string name="ad_blocking_disabled_popup_description">Siųsk anoniminį pranešimą „Tragogo“ ir padėk tobulinti skelbimų blokavimą visiems!</string>
     <string name="ad_blocking_disabled_primary_action">Siųsti pranešimą apie triktį</string>
     <string name="ad_blocking_disabled_secondary_action">Atšaukti</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Išjungta iki paleidimo iš naujo</string>

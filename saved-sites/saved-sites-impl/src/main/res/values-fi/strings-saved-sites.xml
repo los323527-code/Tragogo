@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Poista %1$s kirjanmerkki?"</string>
     <string name="addToFavorites">Lisää suosikkeihin</string>
     <string name="editBookmark">Muokkaa kirjanmerkkiä</string>
-    <string name="importBookmarksDescription">Jos kirjanmerkkisi on tallennettu toiseen selaimeen, voit\ntuoda ne takaisin DuckDuckGo-selaimeen.</string>
+    <string name="importBookmarksDescription">Jos kirjanmerkkisi on tallennettu toiseen selaimeen, voit\ntuoda ne takaisin Tragogo-selaimeen.</string>
     <string name="importBookmarks">Kirjanmerkkien tuominen</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Ei tuloksia haulla \'%1$s\'</string>
     <string name="removeFromFavorites">Poista suosikeista</string>

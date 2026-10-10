@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Bladwijzer '%1$s' verwijderen?"</string>
     <string name="addToFavorites">Toevoegen aan favorieten</string>
     <string name="editBookmark">Bladwijzer bewerken</string>
-    <string name="importBookmarksDescription">Als je bladwijzers in een andere browser zijn opgeslagen,\nkun je ze in DuckDuckGo importeren.</string>
+    <string name="importBookmarksDescription">Als je bladwijzers in een andere browser zijn opgeslagen,\nkun je ze in Tragogo importeren.</string>
     <string name="importBookmarks">Bladwijzers importeren</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Geen resultaten voor \'%1$s\'</string>
     <string name="removeFromFavorites">Verwijderen uit favorieten</string>

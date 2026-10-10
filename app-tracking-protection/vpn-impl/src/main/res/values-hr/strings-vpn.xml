@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -141,14 +141,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Sve aplikacije</string>
     <string name="atp_ExcludedAppsFeature">Zaštita od praćenja aplikacija (App Tracking Protection) blokira poznate alate za praćenje aplikacija drugih tvrtki, primjerice kad te Facebook pokuša pratiti u zdravstvenoj aplikaciji. Tvrtke te mogu i dalje pratiti u njihovim vlastitim aplikacijama.\n\nAko aplikacija ne radi prema očekivanjima, pokušaj onemogućiti zaštitu za tu aplikaciju.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo može onemogućiti zaštitu za neke aplikacije kako bismo riješili poznate probleme s učitavanjem sadržaja. Tvoje prilagođene postavke neće se promijeniti osim ako ih ne vratiš na zadane postavke.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo može onemogućiti zaštitu za neke aplikacije kako bismo riješili poznate probleme s učitavanjem sadržaja. Tvoje prilagođene postavke neće se promijeniti osim ako ih ne vratiš na zadane postavke.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Zaštita od praćenja aplikacija onemogućena je</b> Je li zaštita od praćenja aplikacija uzrokovala problem s tvojim aplikacijama <annotation type="report_issues_link">Prijavljivanje problema</annotation></string>
     <string name="atp_ExcludedAppsReport">Prijavi problem s drugom aplikacijom</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Ručno onemogućeno</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Ručno omogućeno</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Otkaži</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Vrati</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Omogućavanje zaštite šalje naziv aplikacije DuckDuckGou.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Omogućavanje zaštite šalje naziv aplikacije Tragogou.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Više ne radi kao što se očekuje</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Ne smeta mi što me prate u ovoj aplikaciji</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Iz drugog razloga</string>
@@ -157,7 +157,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Želiš li vratiti zadanu zaštitu?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Tvoje prilagođene postavke zaštite ažurirat će se na naše najnovije zadane zaštite. Postavke zaštite uvijek možeš promijeniti kasnije.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Zaštita je vraćena na zadane postavke</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Omogućavanje zaštite šalje naziv aplikacije DuckDuckGou.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Omogućavanje zaštite šalje naziv aplikacije Tragogou.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Prijava problema</string>
@@ -167,10 +167,10 @@
     <string name="atp_ReportBreakageAppNextCta">Dalje</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Opiši što se događa, što si očekivao da će se dogoditi i korake koji su doveli do problema.</string>
     <string name="atp_ReportBreakageFormInputHint">Reci nam više o svom problemu</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Klikom na \"Pošalji\" slažem se da DuckDuckGo smije koristiti informacije u ovom izvješću u svrhu poboljšanja značajki aplikacije.
+    <string name="atp_ReportBreakageFormCheckboxText">Klikom na \"Pošalji\" slažem se da Tragogo smije koristiti informacije u ovom izvješću u svrhu poboljšanja značajki aplikacije.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Osim podataka unesenih u ovaj obrazac, prijava problema s aplikacijom sadržavat će:<br/>• naziv paketa aplikacije,<br/>• popis alata za praćenje blokiranih u aplikaciji,<br/>• informaciju o tome jesu li omogućene određene značajke aplikacije DuckDuckGo,<br/>• skupnu dijagnostiku aplikacije DuckDuckGo<br/>]]>
+        <![CDATA[Osim podataka unesenih u ovaj obrazac, prijava problema s aplikacijom sadržavat će:<br/>• naziv paketa aplikacije,<br/>• popis alata za praćenje blokiranih u aplikaciji,<br/>• informaciju o tome jesu li omogućene određene značajke aplikacije Tragogo,<br/>• skupnu dijagnostiku aplikacije Tragogo<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Prijava poslana, hvala! Tvoje nam povratne informacije pomažu poboljšati zaštitu od praćenja aplikacija za sve.</string>
     <string name="atp_ThanksForTheFeedback">Hvala na povratnim informacijama!</string>
@@ -189,7 +189,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">O alatima za praćenje aplikacija</string>
     <string name="atp_ProfilingInfoTitle">Što su alati za praćenje aplikacija?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Vjerojatno si čuo za tvrtke poput Googlea i Facebooka koje te potajno prate na web stranicama trećih strana. Ali jesi li znao da oni također prate tvoje osobne podatke putem aplikacija na tvom uređaju?\n\n<b>Preko 96\\% od 100 popularnih besplatnih Android aplikacija</b> koje smo testirali sadržavalo je skrivene vanjske alate za praćenje. Od toga je 87\\% poslalo podatke Googleu, a 68\\% Facebooku. To se događa čak i kada ne koristiš svoj uređaj.\n\n<b>Alati za praćenje u aplikacijama mogu imati pristup do puno više informacija</b> od njihovih \'rođaka\' za praćenje na web stranicama, kao što su tvoja lokacija (čak i detaljno to toga na kojem se katu zgrade nalaziš), koliko često igraš igre dok si na poslu te kada i koliko dugo spavaš svaki dan. <b>Čak i ako nemaš Google ili Facebook račun, oni i dalje (primjerice) mogu prikupljati podatke o tebi iz tvojih aplikacija.</b>\n\nMreže za praćenje kao što su Facebook i Google koriste ove male komadiće informacija <b>za izradu digitalnog profila o tebi.</b> Uz to, mreže za praćenje mogu manipulirati onim što vidiš na mreži i omogućiti oglašivačima da doslovno licitiraju za pristup tebi na temelju tvojih podataka.\n\nAlati za praćenje u aplikacijama VELIKI su problem za privatnost. <b>Ali DuckDuckGo ima rješenje koje može pomoći.</b>\n\nKada je omogućena u aplikaciji DuckDuckGo Privacy Browser, App Tracking Protection (zaštita od praćenja aplikacija) blokira mnoge alate za praćenje u drugim aplikacijama na tvom uređaju, a istovremeno aplikacija DuckDuckGo blokira alate za praćenje koje nalazimo na web stranicama prilikom njihovog pregledavanja. <b>Ovi dvostruki slojevi zaštite smanjuju ono što tvrtke za praćenje znaju o tebi općenito</b>, tako da s više sigurnosti možeš koristiti svoje aplikacije, znajući da si zaštićen.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Vjerojatno si čuo za tvrtke poput Googlea i Facebooka koje te potajno prate na web stranicama trećih strana. Ali jesi li znao da oni također prate tvoje osobne podatke putem aplikacija na tvom uređaju?\n\n<b>Preko 96\\% od 100 popularnih besplatnih Android aplikacija</b> koje smo testirali sadržavalo je skrivene vanjske alate za praćenje. Od toga je 87\\% poslalo podatke Googleu, a 68\\% Facebooku. To se događa čak i kada ne koristiš svoj uređaj.\n\n<b>Alati za praćenje u aplikacijama mogu imati pristup do puno više informacija</b> od njihovih \'rođaka\' za praćenje na web stranicama, kao što su tvoja lokacija (čak i detaljno to toga na kojem se katu zgrade nalaziš), koliko često igraš igre dok si na poslu te kada i koliko dugo spavaš svaki dan. <b>Čak i ako nemaš Google ili Facebook račun, oni i dalje (primjerice) mogu prikupljati podatke o tebi iz tvojih aplikacija.</b>\n\nMreže za praćenje kao što su Facebook i Google koriste ove male komadiće informacija <b>za izradu digitalnog profila o tebi.</b> Uz to, mreže za praćenje mogu manipulirati onim što vidiš na mreži i omogućiti oglašivačima da doslovno licitiraju za pristup tebi na temelju tvojih podataka.\n\nAlati za praćenje u aplikacijama VELIKI su problem za privatnost. <b>Ali Tragogo ima rješenje koje može pomoći.</b>\n\nKada je omogućena u aplikaciji Tragogo Privacy Browser, App Tracking Protection (zaštita od praćenja aplikacija) blokira mnoge alate za praćenje u drugim aplikacijama na tvom uređaju, a istovremeno aplikacija Tragogo blokira alate za praćenje koje nalazimo na web stranicama prilikom njihovog pregledavanja. <b>Ovi dvostruki slojevi zaštite smanjuju ono što tvrtke za praćenje znaju o tebi općenito</b>, tako da s više sigurnosti možeš koristiti svoje aplikacije, znajući da si zaštićen.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Proteklih 7 dana</string>
@@ -237,10 +237,10 @@
     <string name="atp_ActivityAbout">O</string>
     <string name="atp_ActivityManage">Upravljanje</string>
     <string name="atp_ActivityRemoveFeature">Onemogućavanje i brisanje podataka</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo blokira skrivene alate za praćenje u tvojim aplikacijama.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo blokira skrivene alate za praćenje u tvojim aplikacijama.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Ponovo omogući zaštitu od praćenja aplikacija App Tracking Protection kako bi se nastavili blokirati alati za praćenje u tvojim aplikacijama.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">Blokirao DuckDuckGo %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">Blokirao DuckDuckGo %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Blokirao Tragogo %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Blokirao Tragogo %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">Često postavljana pitanja</string>
@@ -255,7 +255,7 @@
     <string name="atp_FAQFifthHeader">Kako se zaštita od praćenja aplikacija - App Tracking Protection - razlikuje od VPN-a?</string>
     <string name="atp_FAQFifthText">VPN šalje tvoje podatke s uređaja na vlastiti poslužitelj, gdje ih štiti i anonimizira od znatiželjnih očiju. Međutim, to omogućuje VPN tvrtki da vidi tvoj mrežni promet.\n\n<b>App Tracking Protection je drugačiji program.</b> Umjesto slanja podataka na VPN poslužitelj, <b>App Tracking Protection radi lokalno na tvoj uređaju</b>, postavljajući se između tvojih aplikacija i poslužitelja s kojima razgovaraju.\n\nKad god App Tracking Protection prepozna poznati alat za praćenje, <b>blokira tom alatu slanje osobnih podataka (kao što su tvoja IP adresa, aktivnost i podaci o uređaju) s tvog uređaja.</b> Sav ostali promet stiže do odredišta, tako da tvoje aplikacije rade normalno.</string>
     <string name="atp_FAQSixthHeader">Jesu li moji podaci privatni?</string>
-    <string name="atp_FAQSixthText">App Tracking Protection radi na tvom uređaju i ne šalje tvoje osobne podatke s tvog uređaja DuckDuckGou.</string>
+    <string name="atp_FAQSixthText">App Tracking Protection radi na tvom uređaju i ne šalje tvoje osobne podatke s tvog uređaja Tragogou.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Tvoja pozivnica za App Tracking Protection je ovdje!</string>
@@ -287,10 +287,10 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d pokušaja. Poznato je da prikuplja:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo je blokirao %1$d pokušaj praćenja</item>
-        <item quantity="few">DuckDuckGo je blokirao %1$d pokušaja praćenja</item>
-        <item quantity="many">DuckDuckGo je blokirao %1$d pokušaja praćenja</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo je blokirao %1$d pokušaja praćenja</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo je blokirao %1$d pokušaj praćenja</item>
+        <item quantity="few">Tragogo je blokirao %1$d pokušaja praćenja</item>
+        <item quantity="many">Tragogo je blokirao %1$d pokušaja praćenja</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo je blokirao %1$d pokušaja praćenja</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Prijavi problem s ovom aplikacijom</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Prikaži još %1$d</string>
@@ -392,8 +392,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Idi na Postavke</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Ne sada</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Idi na VPN postavke svog uređaja za DuckDuckGo i omogući <b>Uvijek uključeno</b> za VPN - time ćeš spriječiti Androidovo onemogućavanje zaštite.\n\nObavezno ostavi drugu postavku isključenu (OFF).]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Kako bi se izbjegli problemi s aplikacijom, idi na <b>VPN postavke uređaja za DuckDuckGo</b> i onemogući <b>Blokiranje veza bez VPN-a</b>]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Idi na VPN postavke svog uređaja za Tragogo i omogući <b>Uvijek uključeno</b> za VPN - time ćeš spriječiti Androidovo onemogućavanje zaštite.\n\nObavezno ostavi drugu postavku isključenu (OFF).]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Kako bi se izbjegli problemi s aplikacijom, idi na <b>VPN postavke uređaja za Tragogo</b> i onemogući <b>Blokiranje veza bez VPN-a</b>]]></string>
     <string name="atp_AlwaysOnModalHeading">Postavi na \"Uvijek uključeno\" (Always-on)</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Promijeni svoje VPN postavke</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Potrebno je izvršiti radnju!</b> Za izbjegavanje problema s aplikacijom, moraš promijeniti postavke za Android. <annotation type="open_settings_link">Promjena postavki</annotation></string>
@@ -442,14 +442,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Primaj ažuriranja o blokiranim pokušajima praćenja u svoju ladicu s obavijestima.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Ne možeš koristiti App Tracking Protection zbog svog VPN-a? Prebaci se na DuckDuckGo VPN – jedini VPN koji je kompatibilan. <annotation type="ppro_upsell_link">Saznaj više</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Ne možeš koristiti App Tracking Protection zbog svog VPN-a? Prebaci se na DuckDuckGo VPN – jedini VPN koji je kompatibilan. <annotation type="ppro_upsell_link">Isprobaj besplatno!</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>Zaštita App Tracking Protection je onemogućena</b>\nJe li tvoj VPN onemogućio App Tracking Protection? Koristi gornji gumb za ponovno uključivanje.\n\nNabavi DuckDuckGo VPN — jedini VPN koji radi s uslugom za zaštitu App Tracking Protection. <annotation type="ppro_upsell_link">Saznaj više</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Zaštita App Tracking Protection je onemogućena</b>\nJe li tvoj VPN onemogućio App Tracking Protection? Koristi gore prikazani gumb za ponovno uključivanje.\n\nPrebaci se na DuckDuckGo VPN – jedini VPN koji radi s uslugom za zaštitu App Tracking Protection. <annotation type="ppro_upsell_link">Isprobaj besplatno!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled">Ne možeš koristiti App Tracking Protection zbog svog VPN-a? Prebaci se na Tragogo VPN – jedini VPN koji je kompatibilan. <annotation type="ppro_upsell_link">Saznaj više</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Ne možeš koristiti App Tracking Protection zbog svog VPN-a? Prebaci se na Tragogo VPN – jedini VPN koji je kompatibilan. <annotation type="ppro_upsell_link">Isprobaj besplatno!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>Zaštita App Tracking Protection je onemogućena</b>\nJe li tvoj VPN onemogućio App Tracking Protection? Koristi gornji gumb za ponovno uključivanje.\n\nNabavi Tragogo VPN — jedini VPN koji radi s uslugom za zaštitu App Tracking Protection. <annotation type="ppro_upsell_link">Saznaj više</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Zaštita App Tracking Protection je onemogućena</b>\nJe li tvoj VPN onemogućio App Tracking Protection? Koristi gore prikazani gumb za ponovno uključivanje.\n\nPrebaci se na Tragogo VPN – jedini VPN koji radi s uslugom za zaštitu App Tracking Protection. <annotation type="ppro_upsell_link">Isprobaj besplatno!</annotation>.</string>
     <string name="apptp_PproUpsellBannerTitle">Podigni svoju privatnost na višu razinu</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo ima jedini VPN koji je kompatibilan s uslugom App Tracking Protection. Aktiviraj uz plaćenu pretplatu na Privacy Pro.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo ima jedini VPN koji je kompatibilan s uslugom App Tracking Protection. Aktiviraj uz plaćenu pretplatu na Privacy Pro.</string>
     <string name="apptp_PproUpsellBannerAction">Saznajte više</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Pretplati se na DuckDuckGo i nabavi jedini VPN koji je kompatibilan sa zaštitom App Tracking Protection.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Pretplati se na Tragogo i nabavi jedini VPN koji je kompatibilan sa zaštitom App Tracking Protection.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Isprobaj besplatno!</string>
 
     <!-- Content Descriptions -->

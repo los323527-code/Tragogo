@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Atnaujinti naudotojo vardą</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Atnaujinti \n%1$s slaptažodį?</string>
-    <string name="updateLoginUpdatePasswordExplanation">„DuckDuckGo“ atnaujins šį jūsų įrenginyje išsaugotą slaptažodį.</string>
+    <string name="updateLoginUpdatePasswordExplanation">„Tragogo“ atnaujins šį jūsų įrenginyje išsaugotą slaptažodį.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Uždaryti automatinio pildymo dialogo langą</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Naudotojo vardas nukopijuotas</string>
     <string name="autofillManagementPasswordCopied">Slaptažodis nukopijuotas</string>
 
-    <string name="autofill_password_generation_offer_title">Naudoti stiprų „DuckDuckGo“ slaptažodį?</string>
+    <string name="autofill_password_generation_offer_title">Naudoti stiprų „Tragogo“ slaptažodį?</string>
     <string name="autofill_password_generation_offer_accept">Naudoti stiprų slaptažodį</string>
     <string name="autofill_password_generation_offer_decline">Sukurti savo</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Išsaugokite ir automatiškai užpildykite slaptažodžius</string>
     <string name="credentialManagementAutofillSubtitle">Slaptažodžiai yra užšifruoti. Niekas, išskyrus jus, negali jų matyti – net mes. <annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Slaptažodžių tvarkytuvės saugumas</string>
-    <string name="saveLoginDialogSubtitle">Saugiai išsaugokite slaptažodį įrenginyje naudodami „DuckDuckGo“ slaptažodžių ir automatinio pildymo parinktį.</string>
+    <string name="saveLoginDialogSubtitle">Saugiai išsaugokite slaptažodį įrenginyje naudodami „Tragogo“ slaptažodžių ir automatinio pildymo parinktį.</string>
     <string name="autofillManagementAddLogin">Pridėti slaptažodį</string>
     <string name="credentialManagementEditLoginTitleHint">Pavadinimas</string>
     <string name="autofillManagementDeletedConfirmation">Slaptažodis ištrintas</string>
@@ -206,34 +206,34 @@
         <item quantity="other">Įsitikinkite, kad vis dar turite būdą, kaip pasiekti paskyras.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Galite importuoti išsaugotus slaptažodžius iš kitos naršyklės į „DuckDuckGo“.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Galite importuoti išsaugotus slaptažodžius iš kitos naršyklės į „Tragogo“.</string>
 
     <string name="autofillManagementImportPasswords">Importuoti slaptažodžius</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Sinchronizuoti darbalaukio slaptažodžius</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Kaip importuoti slaptažodžius</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Kaip sinchronizuoti darbalaukio slaptažodžius</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importuokite slaptažodžius „DuckDuckGo“ naršyklės versijoje kompiuteriui, tada sinchronizuokite juos visuose įrenginiuose.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importuokite slaptažodžius „Tragogo“ naršyklės versijoje kompiuteriui, tada sinchronizuokite juos visuose įrenginiuose.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Gaukite kompiuterio naršyklę</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Gaukite „DuckDuckGo“ naršyklę, skirtą „Mac“ arba „Windows“</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Ieškokite privačiai ir blokuokite sekimo priemones naudodami „DuckDuckGo“ naršyklę kompiuteriui. Spustelėkite šią nuorodą kompiuteryje, kad atsisiųstumėte šiandien.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Gaukite „Tragogo“ naršyklę, skirtą „Mac“ arba „Windows“</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Ieškokite privačiai ir blokuokite sekimo priemones naudodami „Tragogo“ naršyklę kompiuteriui. Spustelėkite šią nuorodą kompiuteryje, kad atsisiųstumėte šiandien.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Sinchronizavimas su kompiuteriu</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Importuoti iš kompiuterio naršyklės:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Atidarykite „DuckDuckGo“ sistemoje „Mac“ arba „Windows“</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Atidarykite „Tragogo“ sistemoje „Mac“ arba „Windows“</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Eikite į <b>Nustatymai</b> > <b>Slaptažodžiai</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Pasirinkite <b>Importuoti slaptažodžius</b>... ir atlikite veiksmus, kad importuotumėte]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Kai importuosite į savo kompiuterį, galite nustatyti sinchronizavimą šiame įrenginyje</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Gauti kompiuterio programą</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Gaukite „DuckDuckGo“, skirtą „Mac“ arba „Windows“</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Gaukite „Tragogo“, skirtą „Mac“ arba „Windows“</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Kompiuteryje eikite į:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Praneškite apie funkcijos „Automatinis užpildymas“ problemą</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Anonimiškai praneškite apie automatinį užpildymą, kuris neveikia šioje svetainėje. Slaptažodžiai niekada nėra bendrinami.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Pranešti, kad automatinis užpildymas neveikia %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">„DuckDuckGo“ siunčiami pranešimai yra anoniminiai, juose nėra jūsų naudotojo vardo, slaptažodžio ar kitos jūsų tapatybę identifikuojančios informacijos.\n\nPranešime pateikiamas tik interneto svetainės URL adresas ir kai kurių automatinio užpildymo nustatymų būsena.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">„Tragogo“ siunčiami pranešimai yra anoniminiai, juose nėra jūsų naudotojo vardo, slaptažodžio ar kitos jūsų tapatybę identifikuojančios informacijos.\n\nPranešime pateikiamas tik interneto svetainės URL adresas ir kai kurių automatinio užpildymo nustatymų būsena.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Siųsti ataskaitą</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Atšaukti</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Dėkojame! Jūsų pranešimas padės mums tobulinti „DuckDuckGo“ visiems.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Dėkojame! Jūsų pranešimas padės mums tobulinti „Tragogo“ visiems.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Pagrindinės savybės</string>
@@ -265,14 +265,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Pasirink CSV failą</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Importuoti iš darbalaukio naršyklės</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importuoti į „DuckDuckGo“</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importuoti į „Tragogo“</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Importavimas baigtas</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Supratau</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Nepavyko importuoti slaptažodžio</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Praleista (dublikatas arba netinkamas): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Importuoti slaptažodžiai: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Atidaryk slaptažodžius</string>
     <string name="autofill_service_select_password_activity">Pasirink išsaugotą slaptažodį</string>
 
@@ -290,16 +290,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Sinchronizuoti darbalaukio slaptažodžius</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Iš naujo nustatyti neįtrauktas svetaines</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Perkelk savo slaptažodžius iš&lt;br /&gt;Google“ į „DuckDuckGo“</string>
-    <string name="passwords_import_promo_subtitle">Greitai ir saugiai importuok savo slaptažodžius į „DuckDuckGo“. „Google“ gali paprašyti tavęs įvesti slaptažodį.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Perkelk savo slaptažodžius iš&lt;br /&gt;Google“ į „Tragogo“</string>
+    <string name="passwords_import_promo_subtitle">Greitai ir saugiai importuok savo slaptažodžius į „Tragogo“. „Google“ gali paprašyti tavęs įvesti slaptažodį.</string>
     <string name="passwords_import_promo_action">Importuok iš „Google“</string>
-    <string name="passwords_import_promo_in_browser_title">Perkelk savo slaptažodžius iš „Google“ į „DuckDuckGo“</string>
+    <string name="passwords_import_promo_in_browser_title">Perkelk savo slaptažodžius iš „Google“ į „Tragogo“</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Neklausk dar kartą</string>
     <string name="passwords_import_promo_in_settings_title">Importuok slaptažodžius iš „Google“</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Slėpti</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Importuoti į „DuckDuckGo“</string>
+    <string name="importToTragogo">Importuoti į „Tragogo“</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Importuota iš „Chrome“</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Importuoti žymes iš „Google“</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">„Google“ gali paprašyti tavęs prisijungti arba įvesti slaptažodį patvirtinimui.</string>
@@ -315,9 +315,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Atšaukti importavimą</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Tęsti</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Žymės: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Uždaryti</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Įvyko klaida</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Įsitikinkite, kad esate prisijungę prie interneto, ir bandykite dar kartą.</string>
 

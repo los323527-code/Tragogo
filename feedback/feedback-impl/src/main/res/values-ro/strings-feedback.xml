@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Probleme privind încărcarea site-ului web</string>
     <string name="websiteNotLoadingTitleShort">Probleme privind încărcarea site-ului web</string>
     <string name="websiteNotLoadingSubtitle">Ce site este defect?</string>
-    <string name="searchNotGoodEnoughTitleLong">Căutarea DuckDuckGo nu este suficient de bună</string>
-    <string name="searchNotGoodEnoughTitleShort">Probleme privind funcția de căutare a DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">Căutarea Tragogo nu este suficient de bună</string>
+    <string name="searchNotGoodEnoughTitleShort">Probleme privind funcția de căutare a Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Ce funcție de căutare putem adăuga sau îmbunătăți?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Căutare privind programarea/tehnica</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Aspectul ar trebui să semene mai mult cu Google</string>

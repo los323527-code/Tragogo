@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Benutzernamen aktualisieren</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Passwort für \n%1$s aktualisieren?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo aktualisiert dieses gespeicherte Passwort auf deinem Gerät.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo aktualisiert dieses gespeicherte Passwort auf deinem Gerät.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Autovervollständigen-Dialog schließen</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Benutzername kopiert</string>
     <string name="autofillManagementPasswordCopied">Passwort kopiert</string>
 
-    <string name="autofill_password_generation_offer_title">Ein sicheres Passwort von DuckDuckGo verwenden?</string>
+    <string name="autofill_password_generation_offer_title">Ein sicheres Passwort von Tragogo verwenden?</string>
     <string name="autofill_password_generation_offer_accept">Sicheres Passwort verwenden</string>
     <string name="autofill_password_generation_offer_decline">Eigenes erstellen</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Passwörter speichern und automatisch ausfüllen</string>
     <string name="credentialManagementAutofillSubtitle">Passwörter sind verschlüsselt. Niemand außer dir kann sie sehen, nicht einmal wir. <annotation type="learn_more_link">Mehr erfahren</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Passwort-Manager-Sicherheit</string>
-    <string name="saveLoginDialogSubtitle">Speichere dein Passwort mit DuckDuckGo Passwörter &amp; Autovervollständigen sicher auf dem Gerät.</string>
+    <string name="saveLoginDialogSubtitle">Speichere dein Passwort mit Tragogo Passwörter &amp; Autovervollständigen sicher auf dem Gerät.</string>
     <string name="autofillManagementAddLogin">Passwort hinzufügen</string>
     <string name="credentialManagementEditLoginTitleHint">Titel</string>
     <string name="autofillManagementDeletedConfirmation">Passwort gelöscht</string>
@@ -194,34 +194,34 @@
         <item quantity="other">Vergewissere dich, dass du weiterhin eine Möglichkeit hast, auf deine Konten zuzugreifen.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Du kannst gespeicherte Passwörter aus einem anderen Browser in DuckDuckGo importieren.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Du kannst gespeicherte Passwörter aus einem anderen Browser in Tragogo importieren.</string>
 
     <string name="autofillManagementImportPasswords">Passwörter importieren</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Desktop-Passwörter synchronisieren</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Wie man Passwörter importiert</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">So synchronisierst du Desktop-Passwörter</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importiere Passwörter in der Desktop-Version des DuckDuckGo-Browsers und synchronisiere sie dann auf allen Geräten.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importiere Passwörter in der Desktop-Version des Tragogo-Browsers und synchronisiere sie dann auf allen Geräten.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Desktop-Browser herunterladen</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Hole dir den DuckDuckGo-Browser für Mac oder Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Suche privat und blockiere Tracker mit dem DuckDuckGo Desktop-Browser. Besuche zum Herunterladen diesen Link auf deinem Computer.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Hole dir den Tragogo-Browser für Mac oder Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Suche privat und blockiere Tracker mit dem Tragogo Desktop-Browser. Besuche zum Herunterladen diesen Link auf deinem Computer.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Mit Desktop synchronisieren</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Aus dem Desktop-Browser importieren:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Öffne DuckDuckGo auf Mac oder Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Öffne Tragogo auf Mac oder Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Geh zu <b>Einstellungen</b> > <b>Passwörter</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Wähle <b>Passwörter importieren</b> ... und folge den Schritten zum Importieren]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Sobald du sie auf deinen Computer importiert hast, kannst du die Synchronisierung auf diesem Gerät einrichten</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Lade dir die Desktop-App herunter</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Hole dir DuckDuckGo für Mac oder Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Hole dir Tragogo für Mac oder Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Gehe auf deinem Computer zu:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Problem mit Autofill melden</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Melde anonym, dass das automatische Ausfüllen auf dieser Seite nicht funktioniert. Passwörter werden niemals geteilt.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Funktioniert das automatische Ausfüllen des Berichts nicht auf %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Berichte, die an DuckDuckGo gesendet werden, sind anonym und enthalten weder deinen Benutzernamen, dein Passwort noch andere personenbezogene Informationen.\n\nDer Bericht enthält nur die Website-URL und den Status einiger Einstellungen für das automatische Ausfüllen.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Berichte, die an Tragogo gesendet werden, sind anonym und enthalten weder deinen Benutzernamen, dein Passwort noch andere personenbezogene Informationen.\n\nDer Bericht enthält nur die Website-URL und den Status einiger Einstellungen für das automatische Ausfüllen.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Bericht senden</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Abbrechen</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Vielen Dank! Dein Bericht hilft uns, DuckDuckGo für alle zu verbessern.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Vielen Dank! Dein Bericht hilft uns, Tragogo für alle zu verbessern.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Hauptmerkmale</string>
@@ -253,14 +253,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">CSV-Datei wählen</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Aus Desktop-Browser importieren</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">In DuckDuckGo importieren</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">In Tragogo importieren</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Import abgeschlossen</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Verstanden</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Passwortimport fehlgeschlagen</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Übersprungen (doppelt oder ungültig): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Passwörter importiert: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Passwörter öffnen</string>
     <string name="autofill_service_select_password_activity">Gespeichertes Passwort auswählen</string>
 
@@ -278,16 +278,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Desktop-Passwörter synchronisieren</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Ausgeschlossene Websites zurücksetzen</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Übertrage deine Passwörter von&lt;br /&gt;Google zu DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Importiere deine Passwörter schnell und sicher zu DuckDuckGo. Google fordert dich möglicherweise auf, dein Passwort einzugeben.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Übertrage deine Passwörter von&lt;br /&gt;Google zu Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Importiere deine Passwörter schnell und sicher zu Tragogo. Google fordert dich möglicherweise auf, dein Passwort einzugeben.</string>
     <string name="passwords_import_promo_action">Von Google importieren</string>
-    <string name="passwords_import_promo_in_browser_title">Übertrage deine Passwörter von Google zu DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Übertrage deine Passwörter von Google zu Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Nicht erneut fragen</string>
     <string name="passwords_import_promo_in_settings_title">Passwörter von Google importieren</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Ausblenden</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">In DuckDuckGo importieren</string>
+    <string name="importToTragogo">In Tragogo importieren</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Von Chrome importiert</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Lesezeichen von Google importieren</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google fordert dich eventuell auf, dich anzumelden oder dein Passwort zur Bestätigung einzugeben.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Import abbrechen</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Fortsetzen</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Lesezeichen: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Schließen</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Etwas ist schiefgelaufen</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Bitte stelle sicher, dass du mit dem Internet verbunden bist, und versuche es erneut.</string>
 

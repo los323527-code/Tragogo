@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje trenutačno nisu dostupni. Pokušaj ponovno nešto kasnije.</string>
-    <string name="sync_flows_disabled_new_version"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak, ažuriraj DuckDuckGo na najnoviju verziju.</string>
+    <string name="sync_flows_disabled_new_version"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak, ažuriraj Tragogo na najnoviju verziju.</string>
     <string name="sync_create_account_disabled"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje trenutačno nisu dostupni. Pokušaj ponovno nešto kasnije.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak ažuriraj DuckDuckGo na najnoviju verziju.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Sinkronizacija i sigurnosno kopiranje nisu dostupni</b>\nNažalost, sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak ažuriraj Tragogo na najnoviju verziju.</string>
     <string name="sync_disabled_authenticated_user"><b>Sinkronizacija i sigurnosno kopiranje pauzirani</b>\nŽao nam je, ali sinkronizacija i sigurnosno kopiranje trenutačno nisu dostupni. Pokušaj ponovno nešto kasnije.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Sinkronizacija i sigurnosno kopiranje pauzirani</b>\nŽao nam je, ali sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak ažuriraj DuckDuckGo na najnoviju verziju.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Sinkronizacija i sigurnosno kopiranje pauzirani</b>\nŽao nam je, ali sinkronizacija i sigurnosno kopiranje više nisu dostupni u ovoj verziji aplikacije. Za nastavak ažuriraj Tragogo na najnoviju verziju.</string>
     <string name="sync_paused_notification"><b>Sinkronizacija i sigurnosno kopiranje su pauzirani</b>\nNažalost, sinkronizacija i sigurnosno kopiranje trenutačno nisu dostupni. Pokušaj ponovno nešto kasnije.</string>
     <string name="sync_error_notification"><b>Pogreška u sinkronizaciji</b>\nZnačajka Sync &amp; Backup privremeno je nedostupna.</string>
     <string name="sync_error_warning"><b>Pogreška u sinkronizaciji</b>\nZnačajka Sync &amp; Backup privremeno je nedostupna.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Sinkronizacija s drugim uređajem</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Sigurno sinkroniziraj oznake i lozinke između svojih uređaja.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Sigurno sinkroniziraj oznake, lozinke i Duck.ai čavrljanja između svojih uređaja.</string>
-    <string name="sync_off_hint">Tvoji su podaci šifrirani od početka do kraja, a DuckDuckGo nema pristup ključu za šifriranje.</string>
+    <string name="sync_off_hint">Tvoji su podaci šifrirani od početka do kraja, a Tragogo nema pristup ključu za šifriranje.</string>
     <string name="sync_setup_single_device_title">Postavljanje jednog uređaja</string>
     <string name="sync_setup_other_options_title">Ostale mogućnosti</string>
     <string name="sync_setup_single_recover_data_cta_title">Oporavak sinkroniziranih podataka</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Sinkroniziraj i izradi sigurnosnu kopiju ovog uređaja</string>
 
-    <string name="sync_off_encrypted_hint">Tvoji su podaci šifrirani od početka do kraja, a DuckDuckGo nema pristup ključu za šifriranje.</string>
+    <string name="sync_off_encrypted_hint">Tvoji su podaci šifrirani od početka do kraja, a Tragogo nema pristup ključu za šifriranje.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Postavljanje sinkronizacije i sigurnosnog kopiranja!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Automatski preuzmi ikone za sinkronizirane oznake.</string>
     <string name="sync_enable_connecting">Povezivanje u tijeku...</string>
     <string name="sync_intro_enable_title">Sinkroniziraj i izradi sigurnosnu kopiju ovog uređaja</string>
-    <string name="sync_intro_enable_content">Time se stvara šifrirana sigurnosna kopija tvojih oznaka i lozinki na sigurnom poslužitelju DuckDuckGo, koja se može sinkronizirati s tvojim drugim uređajima. \n\n Ključ za šifriranje pohranjen je samo na tvom uređaju, DuckDuckGo mu ne može pristupiti.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Time se stvara šifrirana sigurnosna kopija tvojih oznaka, lozinki i Duck.ai čavrljanja na sigurnom poslužitelju DuckDuckGo, koja se može sinkronizirati s tvojim drugim uređajima. \n\n Ključ za šifriranje pohranjen je samo na tvom uređaju, DuckDuckGo mu ne može pristupiti.</string>
+    <string name="sync_intro_enable_content">Time se stvara šifrirana sigurnosna kopija tvojih oznaka i lozinki na sigurnom poslužitelju Tragogo, koja se može sinkronizirati s tvojim drugim uređajima. \n\n Ključ za šifriranje pohranjen je samo na tvom uređaju, Tragogo mu ne može pristupiti.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Time se stvara šifrirana sigurnosna kopija tvojih oznaka, lozinki i Duck.ai čavrljanja na sigurnom poslužitelju Tragogo, koja se može sinkronizirati s tvojim drugim uređajima. \n\n Ključ za šifriranje pohranjen je samo na tvom uređaju, Tragogo mu ne može pristupiti.</string>
     <string name="sync_intro_enable_footer">Kasnije možeš sinkronizirati s drugim uređajima.</string>
     <string name="sync_intro_enable_cta">Uključi sinkronizaciju i sigurnosno kopiranje</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Skeniraj QR kôd</string>
-    <string name="connect_screen_scan_qr_hint">Otvori aplikaciju DuckDuckGo na svom drugom uređaju i idi na <b>Postavke &gt; Sinkronizacija i sigurnosno kopiranje &gt; Sinkronizacija s drugim uređajem</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Otvori aplikaciju Tragogo na svom drugom uređaju i idi na <b>Postavke &gt; Sinkronizacija i sigurnosno kopiranje &gt; Sinkronizacija s drugim uređajem</b>.</string>
     <string name="connect_screen_enter_code_cta">Ručno unesi šifru</string>
-    <string name="connect_screen_connect_qr_hint_title">Ili skeniraj s DuckDuckGoom na svom drugom uređaju</string>
-    <string name="connect_screen_connect_qr_hint_content">Otvori DuckDuckGo na svom drugom uređaju i skeniraj ovu šifru za sinkronizaciju.</string>
+    <string name="connect_screen_connect_qr_hint_title">Ili skeniraj s Tragogoom na svom drugom uređaju</string>
+    <string name="connect_screen_connect_qr_hint_content">Otvori Tragogo na svom drugom uređaju i skeniraj ovu šifru za sinkronizaciju.</string>
     <string name="connect_screen_share_code">Kopiraj šifru</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Ručno unesi šifru</string>
-    <string name="sync_enter_code_hint">Idi na <b>Postavke &gt; Sinkronizacija i sigurnosno kopiranje &gt; Sinkronizacija s drugim uređajem</b> i odaberi <b>Prikaz tekstne šifre</b> u aplikaciji DuckDuckGo na drugom sinkroniziranom uređaju i tamo zalijepi šifru za sinkroniziranje ovog uređaja.</string>
+    <string name="sync_enter_code_hint">Idi na <b>Postavke &gt; Sinkronizacija i sigurnosno kopiranje &gt; Sinkronizacija s drugim uređajem</b> i odaberi <b>Prikaz tekstne šifre</b> u aplikaciji Tragogo na drugom sinkroniziranom uređaju i tamo zalijepi šifru za sinkroniziranje ovog uređaja.</string>
     <string name="sync_enter_code_verifying">Potvrda šifre u tijeku</string>
     <string name="sync_enter_code_invalid">⚠️ Šifra nije valjana</string>
     <string name="sync_enter_code_paste">Zalijepi šifru</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Sinkronizirani uređaji</string>
     <string name="sync_new_device_section_title">Sinkroniziraj novi uređaj</string>
-    <string name="sync_new_device_hint">Idi na Postavke › Sinkronizacija i sigurnosno kopiranje u aplikaciji DuckDuckGo na drugom uređaju i skeniraj za trenutno povezivanje.</string>
+    <string name="sync_new_device_hint">Idi na Postavke › Sinkronizacija i sigurnosno kopiranje u aplikaciji Tragogo na drugom uređaju i skeniraj za trenutno povezivanje.</string>
     <string name="sync_show_text_code_item">Pokaži tekstnu šifru</string>
     <string name="sync_show_qr_code_item">Skeniraj QR kôd</string>
     <string name="sync_save_recovery_code_item">Spremi PDF za oporavak</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Kôd za oporavak omogućuje ti sinkronizaciju lozinki, podataka za automatsko popunjavanje i Duck.ai čavrljanja na više uređaja te oporavak sinkroniziranih podataka ako izgubiš pristup uređaju.</string>
     <string name="sync_code_box_title">Čuvaj ove podatke na sigurnom.</string>
     <string name="sync_instructions_title">Kako ovaj kôd funkcionira?</string>
-    <string name="sync_instructions_step1">Otvori DuckDuckGo na uređaju koji želiš sinkronizirati i idi na Sync &amp; Backup u Postavkama.</string>
+    <string name="sync_instructions_step1">Otvori Tragogo na uređaju koji želiš sinkronizirati i idi na Sync &amp; Backup u Postavkama.</string>
     <string name="sync_instructions_step2">Odaberi \'Sinkroniziraj s drugim uređajem\' i skeniraj QR kôd ili unesi tekstualni kôd.</string>
     <string name="sync_instructions_step3">Sinkronizacija će se aktivirati i opet ćeš imati pristup svim svojim podacima.</string>
-    <string name="sync_pdf_retention_notice">Ako više od 18 mjeseci ne koristiš DuckDuckGo preglednik s uključenom opcijom Sync &amp; Backup, tvoji podaci će biti izbrisani s poslužitelja i neće se moći vratiti.</string>
+    <string name="sync_pdf_retention_notice">Ako više od 18 mjeseci ne koristiš Tragogo preglednik s uključenom opcijom Sync &amp; Backup, tvoji podaci će biti izbrisani s poslužitelja i neće se moći vratiti.</string>
     <string name="remove_device_dialog_title">Želiš li ukloniti uređaj?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">\"%1$s\" više neće moći pristupiti tvojim sinkroniziranim podacima.</string>
     <string name="remove_device_dialog_primary_button">Ukloni</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Ne, hvala</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Nabavi DuckDuckGo na drugim uređajima</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Nabavi DuckDuckGo na drugim uređajima za sinkronizaciju s ovim</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Nabavi DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Za preuzimanje DuckDuckGoa na stolno računalo ili neki drugi mobilni uređaj, posjetite:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Nabavi Tragogo na drugim uređajima</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Nabavi Tragogo na drugim uređajima za sinkronizaciju s ovim</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Nabavi Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Za preuzimanje Tragogoa na stolno računalo ili neki drugi mobilni uređaj, posjetite:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Podijeli poveznicu za preuzimanje</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Poveznica je kopirana</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Sinkronizirati novi uređaj?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" će moći pristupiti tvojim sinkroniziranim podacima DuckDuckGoa.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" će moći pristupiti tvojim sinkroniziranim podacima Tragogoa.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Sinkroniziraj</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Odustani</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Nabavi preglednik za PC</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo za Mac i Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo za Mac i Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Oporavak</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Vratiti podatke Sync &amp; Backup iz prethodne instalacije?</string>
-    <string name="sync_previous_session_ready_body">Vrati u svhu vraćanja svojih prethodnih oznaka, lozinki i ostalih podataka u DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Vrati u svhu vraćanja svojih prethodnih oznaka, lozinki i ostalih podataka u Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Vrati Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Postavljanje nove sinkronizacije</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Kôd za oporavak</string>
     <string name="sync_recover_data_download_pdf">Preuzmi kao PDF</string>
     <string name="sync_restore_on_reinstall_title">Vraćanje prilikom ponovne instalacije aplikacije</string>
-    <string name="sync_restore_on_reinstall_description">Ako ponovno instaliraš aplikaciju DuckDuckGo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
+    <string name="sync_restore_on_reinstall_description">Ako ponovno instaliraš aplikaciju Tragogo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Pristupi svojim čavrljanjima na svim uređajima pomoću opcije Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Sinkronizacija s drugim uređajem</string>
     <string name="sync_chat_bottom_sheet_title">Sinkroniziraj svoje razgovore na\nsvim svojim uređajima!</string>
-    <string name="sync_chat_bottom_sheet_description">Pronađi QR kôd u aplikaciji DuckDuckGo na drugom uređaju tako da odeš na Postavke › Sync &amp; Backup › Sinkroniziraj s drugim uređajem.</string>
+    <string name="sync_chat_bottom_sheet_description">Pronađi QR kôd u aplikaciji Tragogo na drugom uređaju tako da odeš na Postavke › Sync &amp; Backup › Sinkroniziraj s drugim uređajem.</string>
     <string name="sync_chat_bottom_sheet_positive">Skeniraj QR kôd</string>
     <string name="sync_chat_bottom_sheet_negative">Ne sada</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Otkaži</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" će moći pristupiti tvojim sinkroniziranim DuckDuckGo lozinkama, podacima za automatsko popunjavanje i Duck.ai čavrljanjima.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" će moći pristupiti tvojim sinkroniziranim Tragogo lozinkama, podacima za automatsko popunjavanje i Duck.ai čavrljanjima.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" će moći pristupiti tvojim sinkroniziranim Duck.ai čavrljanjima.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Drugi uređaj će moći pristupiti tvojim sinkroniziranim DuckDuckGo lozinkama, podacima za automatsko popunjavanje i Duck.ai čavrljanjima.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Drugi uređaj će moći pristupiti tvojim sinkroniziranim Tragogo lozinkama, podacima za automatsko popunjavanje i Duck.ai čavrljanjima.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Drugi uređaj će moći pristupiti tvojim sinkroniziranim Duck.ai čavrljanjima.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Sinkronizacija nije uspjela.</string>
     <string name="sync_v2_error_pairing_rejected">Sinkronizacija je otkazana s tvog drugog uređaja.</string>
     <string name="sync_v2_error_pairing_canceled">Sinkronizacija je otkazana.</string>
-    <string name="sync_v2_error_upgrade_required">Ažuriraj DuckDuckGo preglednik i pokušaj ponovno.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Sinkroniziraj ovaj uređaj s već povezanog DuckDuckGo preglednika na drugom uređaju</string>
+    <string name="sync_v2_error_upgrade_required">Ažuriraj Tragogo preglednik i pokušaj ponovno.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Sinkroniziraj ovaj uređaj s već povezanog Tragogo preglednika na drugom uređaju</string>
     <string name="sync_v2_error_try_again">Pokušaj ponovno.</string>
     <string name="sync_v2_error_got_it">Shvatio/la sam</string>
     <string name="sync_v2_already_paired_title">Već sinkronizirano.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Održavaj DuckDuckGo sinkroniziranim!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo je sinkroniziran.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Sinkroniziraj i sigurnosno pohrani svoje podatke za automatsko popunjavanje i oznake uz end-to-end enkripciju u svim svojim DuckDuckGo aplikacijama.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sinkroniziraj i sigurnosno pohrani svoje podatke za automatsko popunjavanje, oznake i Duck.ai čavrljanja, uz end-to-end enkripciju, u svim svojim DuckDuckGo aplikacijama.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Održavaj Tragogo sinkroniziranim!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo je sinkroniziran.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Sinkroniziraj i sigurnosno pohrani svoje podatke za automatsko popunjavanje i oznake uz end-to-end enkripciju u svim svojim Tragogo aplikacijama.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sinkroniziraj i sigurnosno pohrani svoje podatke za automatsko popunjavanje, oznake i Duck.ai čavrljanja, uz end-to-end enkripciju, u svim svojim Tragogo aplikacijama.</string>
     <string name="sync_simplified_settings_header_body_enabled">Tvoje oznake i podaci za automatsko popunjavanje sinkroniziraju se i sigurnosno pohranjuju uz end-to-end enkripciju.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Tvoje oznake, podaci za automatsko popunjavanje i Duck.ai čavrljanja sinkroniziraju se i sigurnosno pohranjuju uz end-to-end enkripciju.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Knjižne oznake</string>
     <string name="sync_simplified_settings_recovery_section_header">Oporavak</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Vraćanje prilikom ponovne instalacije aplikacije</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Ako ponovno instaliraš aplikaciju DuckDuckGo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Ako ponovno instaliraš aplikaciju Tragogo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Kopiraj svoj kôd za oporavak</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Preuzmi svoj kôd za oporavak</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Upotrijebi ovaj kôd za oporavak podataka ako izgubiš pristup ovom uređaju — čuvaj ga na sigurnom.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Obavijesti su onemogućene</string>
     <string name="sync_simplified_settings_notify_me_body">Primi obavijest u slučaju da Sync &amp; Backup naiđe na pogrešku.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Nabavi DuckDuckGo na drugim uređajima</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Nabavi Tragogo na drugim uređajima</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Nabavi preglednik za PC</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Skeniraj QR kôd za sinkronizaciju</string>
-    <string name="sync_simplified_scanner_camera_header_body">Otvori <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo za računala</annotation></b>\n<annotation type="gap">\n</annotation>i idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Otvori <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo za računala</annotation></b>\n<annotation type="gap">\n</annotation>i idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Spreman sam za skeniranje</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Nažalost, skenirani je kôd nevažeći.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Potrebna je dozvola za kameru</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Unesi kôd za sinkronizaciju</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Otvori svoju drugu <annotation type="icon">￼</annotation> <b><annotation type="highlight">aplikaciju DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>Idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation> › <annotation type="highlight">Kopiraj tekstualni kôd</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Otvori svoju drugu <annotation type="icon">￼</annotation> <b><annotation type="highlight">aplikaciju Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>Idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation> › <annotation type="highlight">Kopiraj tekstualni kôd</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Primjer kôda:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Zalijepi kôd za sinkronizaciju</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Nažalost, zalijepljeni je kôd nevažeći.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR kôd</string>
     <string name="sync_simplified_qr_code_header_headline">Skeniraj s drugog uređaja</string>
-    <string name="sync_simplified_qr_code_header_body">Na drugom uređaju otvori <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>i idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation> i skeniraj ovaj kôd:</string>
+    <string name="sync_simplified_qr_code_header_body">Na drugom uređaju otvori <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>i idi na <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinkroniziraj s drugim uređajem</annotation> i skeniraj ovaj kôd:</string>
     <string name="sync_simplified_qr_code_copy_button">Kopiraj tekstnu šifru</string>
     <string name="sync_simplified_qr_code_share_button">Podijeli</string>
     <string name="sync_simplified_qr_code_copied_message">Šifra za oporavak je kopirana</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Kôd za oporavak</string>
     <string name="sync_simplified_recovery_code_download_button">Preuzmi svoj kôd za oporavak</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Vraćanje prilikom ponovne instalacije aplikacije</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Ako ponovno instaliraš aplikaciju DuckDuckGo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Ako ponovno instaliraš aplikaciju Tragogo, pitat ćemo te želiš li vratiti podatke na ovom uređaju.</string>
     <string name="sync_simplified_recovery_code_primary_button">Gotovo</string>
     <string name="sync_simplified_recovery_code_copied_message">Kôd za oporavak je kopiran</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Spremanje PDF-a za oporavak zahtijeva dopuštenje za pohranu</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Sinkronizirati novi uređaj?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">“%1$s” će moći pristupiti tvojim sinkroniziranim podacima DuckDuckGoa.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">“%1$s” će moći pristupiti tvojim sinkroniziranim podacima Tragogoa.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Sinkroniziraj</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Otkaži</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Postavi Sync &amp; Backup</string>

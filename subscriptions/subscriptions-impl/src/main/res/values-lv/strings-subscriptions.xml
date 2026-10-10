@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Atcelt</string>
     <string name="ok">Labi</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">DuckDuckGo abonements</string>
+    <string name="ddg_subscription">Tragogo abonements</string>
     <string name="manageEmail">Pārvaldīt e-pastu</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Pievieno savu abonementu citām ierīcēm</string>
     <string name="addToDevicePrimaryText">Pievienot ierīcei</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Pievieno savu abonementu citām ierīcēm, izmantojot Google Play vai piesaistot e-pasta adresi.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Izmanto iepriekš norādīto e-pasta adresi, lai pievienotu abonementu citām ierīcēm DuckDuckGo lietotnē. Iet uz Iestatījumi &gt; Abonementu iestatījumi &gt; Man ir abonements.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Izmanto iepriekš norādīto e-pasta adresi, lai pievienotu abonementu citām ierīcēm Tragogo lietotnē. Iet uz Iestatījumi &gt; Abonementu iestatījumi &gt; Man ir abonements.</string>
     <string name="editEmailPrimaryText">Rediģēt e-pasta adresi</string>
     <string name="learnMore">Uzzināt vairāk</string>
     <string name="privacyProFaq">Nepieciešama palīdzība saistībā ar abonēšanu?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Abonenti saņem mūsu VPN, Personal Information Removal un Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Abonenti saņem mūsu VPN un Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Abonē DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Abonē Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Izmēģini bez maksas</string>
     <string name="subscriptionSettingRestore">Man ir abonements</string>
-    <string name="subscriptionSettingExpired">Tavs DuckDuckGo abonements ir beidzies.</string>
+    <string name="subscriptionSettingExpired">Tavs Tragogo abonements ir beidzies.</string>
     <string name="subscriptionSettingExpiredViewPlans">Skatīt plānus</string>
     <string name="subscriptionSettingSectionSubscription">Abonements</string>
     <string name="subscriptionSettingRemoveFromDevice">Noņemt no šīs ierīces</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Tavs abonements tika iegādāts Apple App Store veikalā. Lai mainītu plāna vai norēķinu iestatījumus, atver sadaļu Iestatījumi &gt; Apple konts &gt; Abonementi ierīcē, kas pierakstīta tajā pašā Apple kontā, kas izmantots abonementa iegādei.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Aktivizē DuckDuckGo abonementu datorā, lai iestatītu Personal Information Removal</string>
-    <string name="pirDescription">DuckDuckGo pārlūkprogrammā datora versijā atver <b>Iestatījumi &gt; Abonēt DuckDuckGo</b> un noklikšķini uz <b>Man ir abonements</b>, lai sāktu.</string>
+    <string name="pirTitle">Aktivizē Tragogo abonementu datorā, lai iestatītu Personal Information Removal</string>
+    <string name="pirDescription">Tragogo pārlūkprogrammā datora versijā atver <b>Iestatījumi &gt; Abonēt Tragogo</b> un noklikšķini uz <b>Man ir abonements</b>, lai sāktu.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Vai atradi problēmu, kas nav aplūkota mūsu <annotation type="faqs_link">palīdzības centrā</annotation> ? Mēs noteikti gribam par to uzzināt.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Pastāsti, kas notiek…</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Papildus iepriekš ievadītajai informācijai mēs kopā ar tavām atsauksmēm nosūtām anonimizētu informāciju:\n\n• Vai ir aktīvas noteiktas pārlūkprogrammas funkcijas\n• Apkopoti lietotnes diagnostikas dati (piemēram, kļūdu kodi)\n\nNoklikšķinot uz Iesniegt, tu piekrīti, ka DuckDuckGo var izmantot iesniegto informāciju, lai uzlabotu lietotni."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Papildus iepriekš ievadītajai informācijai mēs kopā ar tavām atsauksmēm nosūtām anonimizētu informāciju:\n\n• Vai ir aktīvas noteiktas pārlūkprogrammas funkcijas\n• Apkopoti lietotnes diagnostikas dati (piemēram, kļūdu kodi)\n\nNoklikšķinot uz Iesniegt, tu piekrīti, ka Tragogo var izmantot iesniegto informāciju, lai uzlabotu lietotni."</string>
     <string name="feedbackSubmitVpnSubmit">Iesniegt</string>
     <string name="feedbackSubmitCompletedMessage">Paldies! Tava atsauksme ir iesniegta.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Nevaru piekļūt Duck.ai ar savu abonementu citās pārlūkprogrammās.</string>
     <string name="feedbackSubCategoryDuckAiOther">Citas Duck.ai atsauksmes</string>
 
-    <string name="subscriptionSettingSectionTitle">DuckDuckGo abonements</string>
+    <string name="subscriptionSettingSectionTitle">Tragogo abonements</string>
     <string name="subscriptionSettingSubscribeSecure">Nodrošini sava Wi-Fi drošību un privāti tērzē ar uzlabotiem mākslīgā intelekta modeļiem</string>
 
     <string name="feedbackGeneralSubscription">Abonements</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet šiuo metu sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami. Pabandykite dar kartą vėliau.</string>
-    <string name="sync_flows_disabled_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „DuckDuckGo“ į naujausią versiją.</string>
+    <string name="sync_flows_disabled_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „Tragogo“ į naujausią versiją.</string>
     <string name="sync_create_account_disabled"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet šiuo metu sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami. Pabandykite dar kartą vėliau.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „DuckDuckGo“ į naujausią versiją.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas nepasiekiami</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „Tragogo“ į naujausią versiją.</string>
     <string name="sync_disabled_authenticated_user"><b>Sinchronizavimas ir atsarginės kopijos kūrimas pristabdyti</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šiuo metu nepasiekiami. Pabandykite dar kartą vėliau.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas pristabdyti</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „DuckDuckGo“ į naujausią versiją.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Sinchronizavimas ir atsarginės kopijos kūrimas pristabdyti</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šioje programos versijoje nebepasiekiami. Norėdami tęsti, atnaujinkite „Tragogo“ į naujausią versiją.</string>
     <string name="sync_paused_notification"><b>Sinchronizavimas ir atsarginės kopijos kūrimas pristabdyti</b>\nAtsiprašome, bet sinchronizavimas ir atsarginės kopijos kūrimas šiuo metu nepasiekiami. Pabandykite dar kartą vėliau.</string>
     <string name="sync_error_notification"><b>Sinchronizavimo klaida</b>\n„Sync &amp; Backup“ laikinai nepasiekiamas.</string>
     <string name="sync_error_warning"><b>Sinchronizavimo klaida</b>\n„Sync &amp; Backup“ laikinai nepasiekiamas.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Sinchronizuoti su kitu įrenginiu</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Saugiai sinchronizuokite žymes ir slaptažodžius tarp savo įrenginių.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Saugiai sinchronizuokite žymes, slaptažodžius ir Duck.ai pokalbius tarp savo įrenginių.</string>
-    <string name="sync_off_hint">Jūsų duomenys šifruojami ištisiniu būdu, o „DuckDuckGo“ neturi prieigos prie šifravimo rakto.</string>
+    <string name="sync_off_hint">Jūsų duomenys šifruojami ištisiniu būdu, o „Tragogo“ neturi prieigos prie šifravimo rakto.</string>
     <string name="sync_setup_single_device_title">Vieno įrenginio sąranka</string>
     <string name="sync_setup_other_options_title">Kitos parinktys</string>
     <string name="sync_setup_single_recover_data_cta_title">Atkurti sinchronizuotus duomenis</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Sinchronizuokite ir sukurkite atsarginę šio įrenginio kopiją</string>
 
-    <string name="sync_off_encrypted_hint">Jūsų duomenys šifruojami ištisiniu būdu, o „DuckDuckGo“ neturi prieigos prie iššifravimo rakto.</string>
+    <string name="sync_off_encrypted_hint">Jūsų duomenys šifruojami ištisiniu būdu, o „Tragogo“ neturi prieigos prie iššifravimo rakto.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Nustatome sinchronizavimą ir atsarginės kopijos kūrimą!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Automatiškai atsisiųskite sinchronizuotų žymių piktogramas.</string>
     <string name="sync_enable_connecting">Jungiamasi...</string>
     <string name="sync_intro_enable_title">Sinchronizuokite ir sukurkite atsarginę šio įrenginio kopiją</string>
-    <string name="sync_intro_enable_content">Taip „DuckDuckGo“ saugiame serveryje sukuriama užšifruota atsarginė žymių ir slaptažodžių kopija, kurią galima sinchronizuoti su kitais įrenginiais. \n\n Šifravimo raktas saugomas tik jūsų įrenginyje, „DuckDuckGo“ negali jo pasiekti.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Tai sukuria užšifruotą jūsų žymių, slaptažodžių ir Duck.ai pokalbių atsarginę kopiją “DuckDuckGo” saugiame serveryje, kurią galima sinchronizuoti su kitais jūsų įrenginiais. \n\n Šifravimo raktas saugomas tik jūsų įrenginyje, „DuckDuckGo“ negali jo pasiekti.</string>
+    <string name="sync_intro_enable_content">Taip „Tragogo“ saugiame serveryje sukuriama užšifruota atsarginė žymių ir slaptažodžių kopija, kurią galima sinchronizuoti su kitais įrenginiais. \n\n Šifravimo raktas saugomas tik jūsų įrenginyje, „Tragogo“ negali jo pasiekti.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Tai sukuria užšifruotą jūsų žymių, slaptažodžių ir Duck.ai pokalbių atsarginę kopiją “Tragogo” saugiame serveryje, kurią galima sinchronizuoti su kitais jūsų įrenginiais. \n\n Šifravimo raktas saugomas tik jūsų įrenginyje, „Tragogo“ negali jo pasiekti.</string>
     <string name="sync_intro_enable_footer">Vėliau galėsite sinchronizuoti su kitais įrenginiais.</string>
     <string name="sync_intro_enable_cta">Įjunkite sinchronizavimą ir atsarginės kopijos kūrimą</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Nuskaityti QR kodą</string>
-    <string name="connect_screen_scan_qr_hint">Kitame įrenginyje atidaryk „DuckDuckGo“ programėlę ir eik į <b>Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas &gt; Sinchronizuoti su kitu įrenginiu</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Kitame įrenginyje atidaryk „Tragogo“ programėlę ir eik į <b>Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas &gt; Sinchronizuoti su kitu įrenginiu</b>.</string>
     <string name="connect_screen_enter_code_cta">Įveskite kodą ranka</string>
-    <string name="connect_screen_connect_qr_hint_title">Arba nuskaityk su „DuckDuckGo“ savo kitame įrenginyje</string>
-    <string name="connect_screen_connect_qr_hint_content">Kitame įrenginyje atidaryk „DuckDuckGo“ ir nuskaityk šį kodą, kad sinchronizuotum.</string>
+    <string name="connect_screen_connect_qr_hint_title">Arba nuskaityk su „Tragogo“ savo kitame įrenginyje</string>
+    <string name="connect_screen_connect_qr_hint_content">Kitame įrenginyje atidaryk „Tragogo“ ir nuskaityk šį kodą, kad sinchronizuotum.</string>
     <string name="connect_screen_share_code">Kopijuoti kodą</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Įveskite kodą ranka</string>
-    <string name="sync_enter_code_hint">Eikite į <b>Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas &gt; Sinchronizuoti su kitu įrenginiu</b> ir pasirinkite <b>Rodyti teksto kodą</b> „DuckDuckGo“ programoje kitame sinchronizuotame įrenginyje ir įklijuokite čia kodą, kad sinchronizuotumėte šį įrenginį.</string>
+    <string name="sync_enter_code_hint">Eikite į <b>Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas &gt; Sinchronizuoti su kitu įrenginiu</b> ir pasirinkite <b>Rodyti teksto kodą</b> „Tragogo“ programoje kitame sinchronizuotame įrenginyje ir įklijuokite čia kodą, kad sinchronizuotumėte šį įrenginį.</string>
     <string name="sync_enter_code_verifying">Tikrinamas kodas</string>
     <string name="sync_enter_code_invalid">⚠️ Netinkamas kodas</string>
     <string name="sync_enter_code_paste">Įklijuoti kodą</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Sinchronizuoti įrenginiai</string>
     <string name="sync_new_device_section_title">Sinchronizuoti naują įrenginį</string>
-    <string name="sync_new_device_hint">Eikite į Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas „DuckDuckGo“ programoje kitame įrenginyje ir nuskaitykite, kad iš karto prisijungtumėte.</string>
+    <string name="sync_new_device_hint">Eikite į Nustatymai &gt; Sinchronizavimas ir atsarginės kopijos kūrimas „Tragogo“ programoje kitame įrenginyje ir nuskaitykite, kad iš karto prisijungtumėte.</string>
     <string name="sync_show_text_code_item">Rodyti teksto kodą</string>
     <string name="sync_show_qr_code_item">Nuskaityti QR kodą</string>
     <string name="sync_save_recovery_code_item">Išsaugoti atkūrimo PDF</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Atkūrimo kodas leidžia sinchronizuoti slaptažodžius, automatinio pildymo duomenis ir „Duck.ai“ pokalbius keliuose įrenginiuose bei atkurti sinchronizuotus duomenis, jei prarandate prieigą prie įrenginio.</string>
     <string name="sync_code_box_title">Saugokite šią informaciją.</string>
     <string name="sync_instructions_title">Kaip naudoti šį kodą?</string>
-    <string name="sync_instructions_step1">Atidarykite „DuckDuckGo“ įrenginyje, kurį norite sinchronizuoti, ir eikite į „Nustatymai“ skiltį „Sync &amp; Backup“.</string>
+    <string name="sync_instructions_step1">Atidarykite „Tragogo“ įrenginyje, kurį norite sinchronizuoti, ir eikite į „Nustatymai“ skiltį „Sync &amp; Backup“.</string>
     <string name="sync_instructions_step2">Pasirinkite „Sinchronizuoti su kitu įrenginiu“ ir nuskaitykite QR kodą arba įveskite tekstinį kodą.</string>
     <string name="sync_instructions_step3">Sinchronizavimas bus aktyvuotas ir vėl turėsite prieigą prie visų savo duomenų.</string>
-    <string name="sync_pdf_retention_notice">Jei daugiau nei 18 mėnesių nenaudosite naršyklės „DuckDuckGo“ su įjungta funkcija „Sync &amp; Backup“, jūsų duomenys bus ištrinti iš serverio ir jų nebus galima atkurti.</string>
+    <string name="sync_pdf_retention_notice">Jei daugiau nei 18 mėnesių nenaudosite naršyklės „Tragogo“ su įjungta funkcija „Sync &amp; Backup“, jūsų duomenys bus ištrinti iš serverio ir jų nebus galima atkurti.</string>
     <string name="remove_device_dialog_title">Pašalinti įrenginį?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">„%1$s“ nebegalės pasiekti jūsų sinchronizuotų duomenų.</string>
     <string name="remove_device_dialog_primary_button">Pašalinti</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Ne, dėkoju</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Atsisiųskite „DuckDuckGo“ į kitus įrenginius</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Atsisiųskite „DuckDuckGo“ į kitus įrenginius, kad sinchronizuotumėte su šiuo įrenginiu</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Atsisiųskite „DuckDuckGo“</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Norėdami atsisiųsti „DuckDuckGo“ į kompiuterį arba kitą mobilųjį įrenginį, apsilankykite:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Atsisiųskite „Tragogo“ į kitus įrenginius</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Atsisiųskite „Tragogo“ į kitus įrenginius, kad sinchronizuotumėte su šiuo įrenginiu</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Atsisiųskite „Tragogo“</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Norėdami atsisiųsti „Tragogo“ į kompiuterį arba kitą mobilųjį įrenginį, apsilankykite:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Bendrinti atsisiuntimo nuorodą</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Nuoroda nukopijuota</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Sinchronizuoti naują įrenginį?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ galės pasiekti tavo sinchronizuotus „DuckDuckGo“ duomenis.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ galės pasiekti tavo sinchronizuotus „Tragogo“ duomenis.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Sinchronizuok dabar</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Atšaukti</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Gaukite kompiuterio naršyklę</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">„DuckDuckGo“, skirta „Mac“ ir „Windows“</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">„Tragogo“, skirta „Mac“ ir „Windows“</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Atkūrimas</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Ar atkurti sinchronizavimo ir atsarginio kopijavimo duomenis iš ankstesnio įdiegimo?</string>
-    <string name="sync_previous_session_ready_body">Atkurk, kad susigrąžintum ankstesnes parankines, slaptažodžius ir kitus duomenis į „DuckDuckGo“.</string>
+    <string name="sync_previous_session_ready_body">Atkurk, kad susigrąžintum ankstesnes parankines, slaptažodžius ir kitus duomenis į „Tragogo“.</string>
     <string name="sync_previous_session_ready_resume_cta">Atkurti „Sync &amp; Backup“</string>
     <string name="sync_previous_session_ready_continue_cta">Nustatyk naują sinchronizavimą</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Atkūrimo kodas</string>
     <string name="sync_recover_data_download_pdf">Atsisiųsti kaip PDF</string>
     <string name="sync_restore_on_reinstall_title">Atkurti iš naujo įdiegus programą</string>
-    <string name="sync_restore_on_reinstall_description">Jei iš naujo įdiegsi programą „DuckDuckGo“, paklausime, ar nori atkurti duomenis šiame įrenginyje.</string>
+    <string name="sync_restore_on_reinstall_description">Jei iš naujo įdiegsi programą „Tragogo“, paklausime, ar nori atkurti duomenis šiame įrenginyje.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Pasiekite savo pokalbius visuose įrenginiuose – naudokite „Sync &amp; Backup“.</string>
     <string name="sync_chat_promo_banner_cta_title">Sinchronizuoti su kitu įrenginiu</string>
     <string name="sync_chat_bottom_sheet_title">Sinchronizuokime pokalbius visuose įrenginiuose!</string>
-    <string name="sync_chat_bottom_sheet_description">Kitame įrenginyje esančioje programėlėje „DuckDuckGo“ rasite QR kodą nuėję į Nustatymai › Sync &amp; Backup › Sinchronizuoti su kitu įrenginiu.</string>
+    <string name="sync_chat_bottom_sheet_description">Kitame įrenginyje esančioje programėlėje „Tragogo“ rasite QR kodą nuėję į Nustatymai › Sync &amp; Backup › Sinchronizuoti su kitu įrenginiu.</string>
     <string name="sync_chat_bottom_sheet_positive">Nuskaityti QR kodą</string>
     <string name="sync_chat_bottom_sheet_negative">Ne dabar</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Atšaukti</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s“ turės prieigą prie tavo sinchronizuotų „DuckDuckGo“ slaptažodžių, automatinio pildymo duomenų ir „Duck.ai“ pokalbių.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s“ turės prieigą prie tavo sinchronizuotų „Tragogo“ slaptažodžių, automatinio pildymo duomenų ir „Duck.ai“ pokalbių.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s“ turės prieigą prie tavo sinchronizuotų „Duck.ai“ pokalbių.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Kitas įrenginys turės prieigą prie tavo sinchronizuotų „DuckDuckGo“ slaptažodžių, automatinio pildymo duomenų ir „Duck.ai“ pokalbių.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Kitas įrenginys turės prieigą prie tavo sinchronizuotų „Tragogo“ slaptažodžių, automatinio pildymo duomenų ir „Duck.ai“ pokalbių.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Kitas įrenginys turės prieigą prie tavo sinchronizuotų „Duck.ai“ pokalbių.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Sinchronizavimas nepavyko.</string>
     <string name="sync_v2_error_pairing_rejected">Sinchronizavimas atšauktas iš kito tavo įrenginio.</string>
     <string name="sync_v2_error_pairing_canceled">Sinchronizavimas atšauktas.</string>
-    <string name="sync_v2_error_upgrade_required">Atnaujink „DuckDuckGo“ naršyklę ir bandyk dar kartą.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Sinchronizuok šį įrenginį naudodamas jau prijungtą „DuckDuckGo“ naršyklę kitame įrenginyje.</string>
+    <string name="sync_v2_error_upgrade_required">Atnaujink „Tragogo“ naršyklę ir bandyk dar kartą.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Sinchronizuok šį įrenginį naudodamas jau prijungtą „Tragogo“ naršyklę kitame įrenginyje.</string>
     <string name="sync_v2_error_try_again">Bandyk dar kartą.</string>
     <string name="sync_v2_error_got_it">Supratau</string>
     <string name="sync_v2_already_paired_title">Jau sinchronizuota.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Sinchronizuokite „DuckDuckGo“!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">„DuckDuckGo“ yra sinchronizuota.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Sinchronizuokite ir kurkite atsargines automatinio pildymo duomenų ir žymių kopijas visose savo programose „DuckDuckGo“ su ištisiniu šifravimu.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sinchronizuokite ir kurkite atsargines automatinio pildymo duomenų, žymių ir „Duck.ai“ pokalbių kopijas visose savo programose „DuckDuckGo“ su ištisiniu šifravimu.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Sinchronizuokite „Tragogo“!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">„Tragogo“ yra sinchronizuota.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Sinchronizuokite ir kurkite atsargines automatinio pildymo duomenų ir žymių kopijas visose savo programose „Tragogo“ su ištisiniu šifravimu.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sinchronizuokite ir kurkite atsargines automatinio pildymo duomenų, žymių ir „Duck.ai“ pokalbių kopijas visose savo programose „Tragogo“ su ištisiniu šifravimu.</string>
     <string name="sync_simplified_settings_header_body_enabled">Jūsų žymių ir automatinio pildymo duomenų sinchronizavimas bei atsarginių kopijų kūrimas vyksta naudojant ištisinį šifravimą.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Jūsų parankinių, automatinio pildymo duomenų ir „Duck.ai“ pokalbių sinchronizavimas bei atsarginių kopijų kūrimas vyksta naudojant ištisinį šifravimą.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Žymės</string>
     <string name="sync_simplified_settings_recovery_section_header">Atkūrimas</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Atkurti iš naujo įdiegus programą</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Jei iš naujo įdiegsite programą „DuckDuckGo“, paklausime, ar norite atkurti duomenis šiame įrenginyje.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Jei iš naujo įdiegsite programą „Tragogo“, paklausime, ar norite atkurti duomenis šiame įrenginyje.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Nukopijuoti atkūrimo kodą</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Atsisiųsti atkūrimo kodą</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Naudokite šį kodą duomenims atkurti, jei prarastumėte prieigą prie šio įrenginio. Saugokite šį kodą.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Pranešimai yra išjungti</string>
     <string name="sync_simplified_settings_notify_me_body">Gaukite pranešimą, kai „Sync &amp; Backup“ susiduria su klaida.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Atsisiųskite „DuckDuckGo“ į kitus įrenginius</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Atsisiųskite „Tragogo“ į kitus įrenginius</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Gaukite kompiuterio naršyklę</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Nuskaitykite QR kodą, kad sinchronizuotumėte</string>
-    <string name="sync_simplified_scanner_camera_header_body">Atidarykite <annotation type="icon">￼</annotation> <b><annotation type="highlight">„DuckDuckGo“ kompiuteriui</annotation></b>\n<annotation type="gap">\n</annotation>ir eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Atidarykite <annotation type="icon">￼</annotation> <b><annotation type="highlight">„Tragogo“ kompiuteriui</annotation></b>\n<annotation type="gap">\n</annotation>ir eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Galima nuskaityti</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Deja, nuskaitytas kodas yra netinkamas.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Būtinas leidimas naudotis kamera</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Įveskite sinchronizavimo kodą</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Atverkite kitoje <annotation type="icon">￼</annotation> <b><annotation type="highlight">programoje „DuckDuckGo“</annotation></b>\n<annotation type="gap">\n</annotation>Eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation> › <annotation type="highlight">Kopijuoti tekstinį kodą</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Atverkite kitoje <annotation type="icon">￼</annotation> <b><annotation type="highlight">programoje „Tragogo“</annotation></b>\n<annotation type="gap">\n</annotation>Eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation> › <annotation type="highlight">Kopijuoti tekstinį kodą</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Kodo pavyzdys:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Įklijuoti sinchronizavimo kodą</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Deja, įklijuotas kodas yra netinkamas.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR kodas</string>
     <string name="sync_simplified_qr_code_header_headline">Nuskaityti iš kito įrenginio</string>
-    <string name="sync_simplified_qr_code_header_body">Kitame įrenginyje atidarykite <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>ir eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation> ir nuskaityk šį kodą:</string>
+    <string name="sync_simplified_qr_code_header_body">Kitame įrenginyje atidarykite <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>ir eikite į <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sinchronizuoti su kitu įrenginiu</annotation> ir nuskaityk šį kodą:</string>
     <string name="sync_simplified_qr_code_copy_button">Kopijuoti teksto kodą</string>
     <string name="sync_simplified_qr_code_share_button">Bendrinti</string>
     <string name="sync_simplified_qr_code_copied_message">Atkūrimo kodas nukopijuotas</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Atkūrimo kodas</string>
     <string name="sync_simplified_recovery_code_download_button">Atsisiųsti atkūrimo kodą</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Atkurti iš naujo įdiegus programą</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Jei iš naujo įdiegsite programą „DuckDuckGo“, paklausime, ar norite atkurti duomenis šiame įrenginyje.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Jei iš naujo įdiegsite programą „Tragogo“, paklausime, ar norite atkurti duomenis šiame įrenginyje.</string>
     <string name="sync_simplified_recovery_code_primary_button">Atlikta</string>
     <string name="sync_simplified_recovery_code_copied_message">Atkūrimo kodas nukopijuotas</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Išsaugoti atkūrimo PDF reikia saugojimo leidimo</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Ar sinchronizuoti naują įrenginį?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ galės pasiekti jūsų sinchronizuotus „DuckDuckGo“ duomenis.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ galės pasiekti jūsų sinchronizuotus „Tragogo“ duomenis.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Sinchronizuoti dabar</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Atšaukti</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Nustatyti „Sync &amp; Backup“</string>

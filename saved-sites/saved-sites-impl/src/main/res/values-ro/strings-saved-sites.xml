@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -90,7 +90,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Ștergi marcajul %1$s?"</string>
     <string name="addToFavorites">Adaugă la preferințe</string>
     <string name="editBookmark">Editează marcaj</string>
-    <string name="importBookmarksDescription">Dacă marcajele tale sunt salvate într-un alt browser, \nle poți importa în DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Dacă marcajele tale sunt salvate într-un alt browser, \nle poți importa în Tragogo.</string>
     <string name="importBookmarks">Importă marcaje</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Nu există rezultate pentru „%1$s”</string>
     <string name="removeFromFavorites">Elimină din favorite</string>

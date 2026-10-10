@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Mégsem</string>
     <string name="ok">OK</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">DuckDuckGo-előfizetés</string>
+    <string name="ddg_subscription">Tragogo-előfizetés</string>
     <string name="manageEmail">E-mail-cím kezelése</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Előfizetésed hozzáadása más eszközökhöz</string>
     <string name="addToDevicePrimaryText">Hozzáadás az eszközhöz</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Add hozzá az előfizetésedet a többi eszközödön is a Google Play-en keresztül, vagy e-mail-cím társításával.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">A DuckDuckGo-alkalmazásban hozzáadhatod az előfizetésedet a többi eszközödön a fenti e-mail-cím használatával. Lépj a Beállítások &gt; Előfizetési beállítások &gt; Van előfizetésem menüpontra.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">A Tragogo-alkalmazásban hozzáadhatod az előfizetésedet a többi eszközödön a fenti e-mail-cím használatával. Lépj a Beállítások &gt; Előfizetési beállítások &gt; Van előfizetésem menüpontra.</string>
     <string name="editEmailPrimaryText">E-mail-cím szerkesztése</string>
     <string name="learnMore">További részletek</string>
     <string name="privacyProFaq">Segítségre van szükséged az előfizetéssel kapcsolatban?</string>
@@ -77,7 +77,7 @@
     <string name="subscriptionSettingGet">Előfizetés a DuckDuckGóra</string>
     <string name="subscriptionSettingTryFreeTrial">Ingyenes próba</string>
     <string name="subscriptionSettingRestore">Van előfizetésem</string>
-    <string name="subscriptionSettingExpired">A DuckDuckGo-előfizetésed lejárt</string>
+    <string name="subscriptionSettingExpired">A Tragogo-előfizetésed lejárt</string>
     <string name="subscriptionSettingExpiredViewPlans">Csomagok megtekintése</string>
     <string name="subscriptionSettingSectionSubscription">Előfizetés</string>
     <string name="subscriptionSettingRemoveFromDevice">Eltávolítás erről az eszközről</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Előfizetésed az Apple App Store áruházban lett megvásárolva. A csomag vagy a számlázási beállítások módosításához lépj a Beállítások &gt; Apple-fiók &gt; Előfizetések menüpontra egy olyan eszközön, amely ugyanabba az Apple-fiókba van bejelentkezve, mint amellyel az előfizetés meg lett vásárolva.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">A DuckDuckGo-előfizetés aktiválása asztali számítógépen a Personal Information Removal beállításához</string>
-    <string name="pirDescription">A DuckDuckGo asztali böngészőjében lépj a <b>Beállítások &gt; Előfizetés a DuckDuckGóra</b> lehetőségre, majd a kezdéshez kattints erre: <b>Van előfizetésem</b>.</string>
+    <string name="pirTitle">A Tragogo-előfizetés aktiválása asztali számítógépen a Personal Information Removal beállításához</string>
+    <string name="pirDescription">A Tragogo asztali böngészőjében lépj a <b>Beállítások &gt; Előfizetés a DuckDuckGóra</b> lehetőségre, majd a kezdéshez kattints erre: <b>Van előfizetésem</b>.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Olyan problémát találtál, amelyet a <annotation type="faqs_link">súgóközpont</annotation> nem tárgyal? Mindenképpen jelezd felénk!</string>
     <string name="feedbackSubmitVpnDescriptionHint">Mondd el, mit tapasztaltál…</string>
-    <string name="feedbackSubmitVpnDisclaimer">"A visszajelzéseddel együtt a fent megadott adatokon kívül továbbítunk néhány anonimizált adatot is:\n\n• Aktívak-e bizonyos böngészőfunkciók\n• Összesített alkalmazásdiagnosztika (pl. hibakódok)\n\nA Küldés lehetőségre kattintva elfogadod, hogy a DuckDuckGo a megadott információkat felhasználhatja az alkalmazás fejlesztéséhez."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"A visszajelzéseddel együtt a fent megadott adatokon kívül továbbítunk néhány anonimizált adatot is:\n\n• Aktívak-e bizonyos böngészőfunkciók\n• Összesített alkalmazásdiagnosztika (pl. hibakódok)\n\nA Küldés lehetőségre kattintva elfogadod, hogy a Tragogo a megadott információkat felhasználhatja az alkalmazás fejlesztéséhez."</string>
     <string name="feedbackSubmitVpnSubmit">Küldés</string>
     <string name="feedbackSubmitCompletedMessage">Köszönjük! Visszajelzés elküldve.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Más böngészőkben nem tudok hozzáférni a Duck.ai szolgáltatáshoz az előfizetésemmel.</string>
     <string name="feedbackSubCategoryDuckAiOther">Egyéb Duck.ai visszajelzés</string>
 
-    <string name="subscriptionSettingSectionTitle">DuckDuckGo-előfizetés</string>
+    <string name="subscriptionSettingSectionTitle">Tragogo-előfizetés</string>
     <string name="subscriptionSettingSubscribeSecure">A Wi-Fi biztonságossá tétele, és privát csevegés a fejlett AI-modellekkel</string>
 
     <string name="feedbackGeneralSubscription">Előfizetés</string>

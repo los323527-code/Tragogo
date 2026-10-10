@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Cancelar</string>
     <string name="ok">De acuerdo</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">Suscripción a DuckDuckGo</string>
+    <string name="ddg_subscription">Suscripción a Tragogo</string>
     <string name="manageEmail">Gestionar el correo electrónico</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Añade tu suscripción a otros dispositivos</string>
     <string name="addToDevicePrimaryText">Añadir al dispositivo</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Añade tu suscripción a tus otros dispositivos a través de Google Play o vinculando una dirección de correo electrónico.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Usa el correo electrónico de arriba para añadir tu suscripción a tus otros dispositivos en la aplicación DuckDuckGo. Ve a Ajustes &gt; Configuración de suscripción &gt; Tengo una suscripción.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Usa el correo electrónico de arriba para añadir tu suscripción a tus otros dispositivos en la aplicación Tragogo. Ve a Ajustes &gt; Configuración de suscripción &gt; Tengo una suscripción.</string>
     <string name="editEmailPrimaryText">Editar correo electrónico</string>
     <string name="learnMore">Más información</string>
     <string name="privacyProFaq">¿Necesitas ayuda con tu suscripción?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Los suscriptores obtienen nuestra VPN, Personal Information Removal y Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Los suscriptores obtienen nuestra VPN y Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Suscríbete a DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Suscríbete a Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Prueba gratis</string>
     <string name="subscriptionSettingRestore">Tengo una suscripción</string>
-    <string name="subscriptionSettingExpired">Tu suscripción a DuckDuckGo ha caducado</string>
+    <string name="subscriptionSettingExpired">Tu suscripción a Tragogo ha caducado</string>
     <string name="subscriptionSettingExpiredViewPlans">Ver planes</string>
     <string name="subscriptionSettingSectionSubscription">Suscripción</string>
     <string name="subscriptionSettingRemoveFromDevice">Eliminar de este dispositivo</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Has adquirido tu suscripción a través de la App Store de Apple. Para cambiar tu plan o la configuración de facturación, ve a Ajustes &gt; Cuenta de Apple &gt; Suscripciones en un dispositivo con la misma Cuenta de Apple que usaste para comprar tu suscripción.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Activa la suscripción a DuckDuckGo en el escritorio para configurar Personal Information Removal</string>
-    <string name="pirDescription">En el navegador DuckDuckGo para escritorio, ve a <b>Configuración &gt; Suscribirse a DuckDuckGo</b> y haz clic en <b>Tengo una suscripción</b> para empezar.</string>
+    <string name="pirTitle">Activa la suscripción a Tragogo en el escritorio para configurar Personal Information Removal</string>
+    <string name="pirDescription">En el navegador Tragogo para escritorio, ve a <b>Configuración &gt; Suscribirse a Tragogo</b> y haz clic en <b>Tengo una suscripción</b> para empezar.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">¿Has encontrado una incidencia que no aparece en nuestro <annotation type="faqs_link">centro de ayuda</annotation> ? Nos interesa mucho saberlo.\n\n</string>
     <string name="feedbackSubmitVpnDescriptionHint">Cuéntanos qué está pasando…</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Además de los detalles introducidos anteriormente, enviamos información anónima con tus comentarios:\n\n• Si algunas funciones del navegador están activas\n• Diagnósticos agregados de la aplicación (por ejemplo, códigos de error)\n\nAl hacer clic en Enviar, aceptas que DuckDuckGo puede utilizar la información enviada para mejorar la aplicación."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Además de los detalles introducidos anteriormente, enviamos información anónima con tus comentarios:\n\n• Si algunas funciones del navegador están activas\n• Diagnósticos agregados de la aplicación (por ejemplo, códigos de error)\n\nAl hacer clic en Enviar, aceptas que Tragogo puede utilizar la información enviada para mejorar la aplicación."</string>
     <string name="feedbackSubmitVpnSubmit">Enviar</string>
     <string name="feedbackSubmitCompletedMessage">Gracias, se han enviado tus opiniones.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">No puedo acceder a Duck.ai con mi suscripción en otros navegadores.</string>
     <string name="feedbackSubCategoryDuckAiOther">Otros comentarios de Duck.ai</string>
 
-    <string name="subscriptionSettingSectionTitle">Suscripción a DuckDuckGo</string>
+    <string name="subscriptionSettingSectionTitle">Suscripción a Tragogo</string>
     <string name="subscriptionSettingSubscribeSecure">Protege tu Wi-Fi y chatea de forma privada con modelos avanzados de IA</string>
 
     <string name="feedbackGeneralSubscription">Suscripción</string>

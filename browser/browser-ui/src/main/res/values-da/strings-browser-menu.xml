@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Adgangskoder</string>
     <string name="browserMenuDownloads">Downloads</string>
     <string name="browserMenuSettings">Indstillinger</string>
-    <string name="browserMenuOpenInDDG">Åben i DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">Kører i DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">Åben i Tragogo</string>
+    <string name="browserMenuRunningInDDG">Kører i Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Angiv som standardbrowser</string>
     <string name="browserMenuNewChat">Ny chat</string>
     <string name="browserMenuNewAIChat">Ny AI-chat</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Lataa kuva</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Valitse tiedosto</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Ota valokuva</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Salli DuckDuckGon pyytää kameran käyttöoikeutta tällä laitteella</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Sivustot voivat käyttää kameraa vain, jos sallit DuckDuckGon pyytää sen käyttöoikeutta.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Salli Tragogon pyytää kameran käyttöoikeutta tällä laitteella</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Sivustot voivat käyttää kameraa vain, jos sallit Tragogon pyytää sen käyttöoikeutta.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Avaa asetukset</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Peruuta</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Äänentallenninta ei voitu käyttää</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Salli DuckDuckGon pyytää äänitallentimen käyttöoikeutta tällä laitteella</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sivustot voivat käyttää äänitallenninta vain, jos sallit DuckDuckGon pyytää sen käyttöoikeutta.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Salli Tragogon pyytää äänitallentimen käyttöoikeutta tällä laitteella</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sivustot voivat käyttää äänitallenninta vain, jos sallit Tragogon pyytää sen käyttöoikeutta.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Tekoälyominaisuudet</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGon tekoälyominaisuudet ovat yksityisiä ja valinnaisia.\nTietojasi ei käytetä tekoälyn kouluttamiseen.\n<annotation type="learn_more_link">Lue lisää</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogon tekoälyominaisuudet ovat yksityisiä ja valinnaisia.\nTietojasi ei käytetä tekoälyn kouluttamiseen.\n<annotation type="learn_more_link">Lue lisää</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Keskustele yksityisesti suosittujen kolmannen osapuolen tekoälymallien kanssa</string>
     <string name="duck_chat_visibility_setting">Selainvalikko</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Usein</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Käytä DuckDuckGo:ta ilman tekoälyä</string>
+    <string name="duckAiUseWithoutAiTitle">Käytä Tragogo:ta ilman tekoälyä</string>
     <string name="duckAiUseWithoutAiDescription">Poistaa Duck.ai:n käytöstä, piilottaa tekoälyavusteiset vastaukset haussa ja suodattaa tunnetut tekoälyroskapostisivustot kuvahaun tuloksista.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Tekoäly on tällä hetkellä poistettu käytöstä selaimessa, joten et enää näe tekoälyavusteisia vastauksia ja näet vähemmän tekoälyn luomia kuvia kuvahaun tuloksissa.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Keskustelua ei voitu viedä</string>
     <string name="duck_ai_chat_history_bulk_download_error">Keskusteluja ei voitu viedä</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Hae DuckDuckGosta</string>
+    <string name="duckAiChatSearchTragogo">Hae Tragogosta</string>
     <string name="native_input_chat_hint">Kysy mitä tahansa yksityisesti…</string>
     <string name="native_input_chat_duck_mode_hint">Vastaa…</string>
 

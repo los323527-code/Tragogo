@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blokkering van YouTube-advertenties</string>
     <string name="ad_blocking_settings_toggle_title">Blokkeer advertenties op YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokkeert videoadvertenties op YouTube, zodat je ongestoord video\'s kunt bekijken. \n\nAls deze optie is ingeschakeld, detecteert DuckDuckGo anoniem verstoring van advertentieblokkeringen of YouTube-fouten, om de ervaring voor iedereen te verbeteren. DuckDuckGo ziet niet welke video\'s je bekijkt en heeft geen toegang tot je persoonlijk identificeerbare informatie. <annotation type="learn_more_link">Meer informatie</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokkeert videoadvertenties op YouTube, zodat je video\'s zonder onderbreking kunt bekijken. <annotation type="learn_more_link">Meer informatie</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokkeert videoadvertenties op YouTube, zodat je ongestoord video\'s kunt bekijken. \n\nAls deze optie is ingeschakeld, detecteert Tragogo anoniem verstoring van advertentieblokkeringen of YouTube-fouten, om de ervaring voor iedereen te verbeteren. Tragogo ziet niet welke video\'s je bekijkt en heeft geen toegang tot je persoonlijk identificeerbare informatie. <annotation type="learn_more_link">Meer informatie</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokkeert videoadvertenties op YouTube, zodat je video\'s zonder onderbreking kunt bekijken. <annotation type="learn_more_link">Meer informatie</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Opent video\'s in een afleidingsvrije theatermodus die voorkomt dat wat je bekijkt je YouTube-feed beïnvloedt.</string>
     <string name="ad_blocking_settings_title_v2">Advertentieblokkering</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Uitschakelen tot opnieuw opstarten</string>
     <string name="ad_blocking_menu_always_off">Altijd uit</string>
     <string name="ad_blocking_disabled_popup_title">Werkt de blokkering van YouTube-advertenties niet?</string>
-    <string name="ad_blocking_disabled_popup_description">Stuur een anoniem rapport naar DuckDuckGo en help mee om advertentieblokkering voor iedereen te verbeteren!</string>
+    <string name="ad_blocking_disabled_popup_description">Stuur een anoniem rapport naar Tragogo en help mee om advertentieblokkering voor iedereen te verbeteren!</string>
     <string name="ad_blocking_disabled_primary_action">Functioneringsrapport verzenden</string>
     <string name="ad_blocking_disabled_secondary_action">Annuleren</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Uitgeschakeld tot opnieuw starten</string>

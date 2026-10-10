@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,17 +17,17 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="netp_name" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementTitle" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementHeadlineStatusOn">DuckDuckGo VPN on päällä</string>
-    <string name="netpManagementHeadlineStatusOff">DuckDuckGo VPN on pois päältä</string>
+    <string name="netp_name" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementTitle" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementHeadlineStatusOn">Tragogo VPN on päällä</string>
+    <string name="netpManagementHeadlineStatusOff">Tragogo VPN on pois päältä</string>
     <string name="netpManagementDescriptionOff">Yhdistä suojataksesi laitteesi\nkoko verkkoliikenne.</string>
     <string name="netpManagementDescriptionOn">Laitteen koko verkkoliikenne suojataan\n VPN:n kautta.</string>
     <string name="netpManagementToggleTitle" translatable="false">VPN</string>
     <string name="netpManagementToggleSubtitleConnecting">Yhdistetään…</string>
     <string name="netpManagementToggleSubtitleConnected" instruction="Placeholder is elapsed time in hh:MM:ss format.">Yhdistetty · %1$s</string>
     <string name="netpManagementToggleSubtitleDisconnected">Ei yhteyttä</string>
-    <string name="netpManagementBetaDescription">DuckDuckGo VPN on tällä hetkellä betavaiheessa. <annotation type="report_issues_link">Anna palautetta</annotation> auttaaksesi meitä kehittymään!</string>
+    <string name="netpManagementBetaDescription">Tragogo VPN on tällä hetkellä betavaiheessa. <annotation type="report_issues_link">Anna palautetta</annotation> auttaaksesi meitä kehittymään!</string>
 
     <!-- Exclude App Prompt -->
     <string name="netpManagementExcludeAppPromptTitle">Aiheuttaako VPN ongelmia sovelluksen kanssa?</string>
@@ -55,19 +55,19 @@
 
     <!-- VPN conflict -->
     <string name="netpVpnConflictTitle">VPN-sovelluksesi yhteys voi katketa</string>
-    <string name="netpVpnConflictMessage">Android sallii vain yhden aktiivisen VPN-yhteyden kerrallaan. DuckDuckGo VPN:n ottaminen käyttöön voi katkaista laitteesi aktiivisen VPN-yhteyden.</string>
+    <string name="netpVpnConflictMessage">Android sallii vain yhden aktiivisen VPN-yhteyden kerrallaan. Tragogo VPN:n ottaminen käyttöön voi katkaista laitteesi aktiivisen VPN-yhteyden.</string>
     <string name="netpActionGotIt">Selvä</string>
 
     <!-- Always on -->
-    <string name="netpAlwaysOnVpnConflictTitle">VPN-sovelluksesi estää DuckDuckGo VPN:n</string>
+    <string name="netpAlwaysOnVpnConflictTitle">VPN-sovelluksesi estää Tragogo VPN:n</string>
     <string name="netpAlwaysOnVpnConflictMessage">Android sallii vain yhden aktiivisen VPN-yhteyden kerrallaan. Siirry kohtaan Verkkoasetukset &gt; VPN. Etsi VPN-sovellus, joka on \"aina käytössä\", ja poista se käytöstä jatkaaksesi.</string>
     <string name="netpActionOpenSettings">Avaa asetukset</string>
     <string name="netpActionCancel">Peruuta</string>
     <string name="netpActionNotNow">Ei nyt</string>
     <string name="netpActionGoToSettings">Siirry kohtaan Asetukset</string>
     <string name="netpAlwaysOnPromotionHeading">Määritä asetukseksi Aina päällä</string>
-    <string name="netpAlwaysOnPromotionBody">Siirry laitteesi DuckDuckGon VPN-asetuksiin ja ota käyttöön asetus <b>VPN aina päällä</b>, jotta Android ei poista suojausta käytöstä.\n\nMuista jättää toinen asetus pois päältä.</string>
-    <string name="netpAlwaysOnLockdownBody">Voit välttää sovellusongelmat siirtymällä laitteesi <b>DuckDuckGon VPN-asetuksiin</b> ja poistamalla käytöstä asetuksen <b>Estä yhteydet ilman VPN:ää.</b>.</string>
+    <string name="netpAlwaysOnPromotionBody">Siirry laitteesi Tragogon VPN-asetuksiin ja ota käyttöön asetus <b>VPN aina päällä</b>, jotta Android ei poista suojausta käytöstä.\n\nMuista jättää toinen asetus pois päältä.</string>
+    <string name="netpAlwaysOnLockdownBody">Voit välttää sovellusongelmat siirtymällä laitteesi <b>Tragogon VPN-asetuksiin</b> ja poistamalla käytöstä asetuksen <b>Estä yhteydet ilman VPN:ää.</b>.</string>
     <string name="netpAlwaysOnLockdownHeading">Muokkaa VPN-asetuksia</string>
     <string name="netpBannerVpnRevoked"><b>VPN on poistettu käytöstä.</b>\nLaitteesi VPN-sovellus on saattanut poistaa sen käytöstä. Ota uudelleen käyttöön valitsimella.</string>
     <string name="netpBannerAlwaysOnLockDownEnabled"><b>Toimia vaaditaan!</b> Sovellusongelmien välttämiseksi sinun on muokattava Android-asetuksia. <annotation type="open_settings_link">Muokkaa asetuksia</annotation></string>
@@ -82,7 +82,7 @@
     <string name="netpReportBreakageCategoryFeatureRequest">Ominaisuuspyyntö</string>
     <string name="netpReportBreakageCategoryOther">Jotain muuta</string>
 
-    <string name="netpBetaDisclaimerFooter">DuckDuckGo VPN:ää voi käyttää ilmaiseksi betavaiheen aikana.</string>
+    <string name="netpBetaDisclaimerFooter">Tragogo VPN:ää voi käyttää ilmaiseksi betavaiheen aikana.</string>
 
     <!-- Manage -->
     <string name="netpManagementManageHeader">Hallitse</string>
@@ -108,7 +108,7 @@
     <string name="netpVpnSettingAlwaysOnByline">Palauta VPN-yhteys automaattisesti keskeytyksen jälkeen.</string>
     <string name="netpVpnSettingExcludeLocalNetworks">Sulje lähiverkot pois</string>
     <string name="netpVpnSettingExcludeLocalNetworksByline">Ohita VPN paikallisilta verkkoyhteyksiltä, kuten tulostimelta.</string>
-    <string name="netpVpnSettingDnsLeak">DuckDuckGo VPN estää DNS-vuodot internetpalveluntarjoajallesi ohjaamalla DNS-kyselyt VPN-tunnelin kautta omalle ratkaisijallemme.</string>
+    <string name="netpVpnSettingDnsLeak">Tragogo VPN estää DNS-vuodot internetpalveluntarjoajallesi ohjaamalla DNS-kyselyt VPN-tunnelin kautta omalle ratkaisijallemme.</string>
     <string name="netpVpnSettingGeoswitching">Ensisijainen sijainti</string>
     <string name="netpVpnSettingGeoswitchingDefault">Lähin saatavilla oleva</string>
 
@@ -122,7 +122,7 @@
 
     <!-- Pause during calls -->
     <string name="netpGrantPhonePermissionTitle">Puhelimen käyttölupa tarvitaan</string>
-    <string name="netpGrantPhonePermissionByline">Jos haluat ottaa tämän asetuksen käyttöön, sinun on annettava DuckDuckGolle lupa soittaa ja hallinnoida puheluita järjestelmäasetusten kautta.</string>
+    <string name="netpGrantPhonePermissionByline">Jos haluat ottaa tämän asetuksen käyttöön, sinun on annettava Tragogolle lupa soittaa ja hallinnoida puheluita järjestelmäasetusten kautta.</string>
     <string name="netpGrantPhonePermissionActionPositive">Asetukset</string>
     <string name="netpGrantPhonePermissionActionNegative">Peruuta</string>
 
@@ -132,8 +132,8 @@
 
     <!-- Exclusion list -->
     <string name="netpExclusionListTitle">Hallinnoi sovelluksia</string>
-    <string name="netpExclusionListHeaderDefault">DuckDuckGo VPN toimii oletusarvoisesti kaikissa sovelluksissa. Jos sinulla on sovellusongelmia VPN:n ollessa käytössä, poista kyseisen sovelluksen suojaus käytöstä.</string>
-    <string name="netpExclusionListHeaderDisabled">DuckDuckGo VPN on poistettu käytöstä.</string>
+    <string name="netpExclusionListHeaderDefault">Tragogo VPN toimii oletusarvoisesti kaikissa sovelluksissa. Jos sinulla on sovellusongelmia VPN:n ollessa käytössä, poista kyseisen sovelluksen suojaus käytöstä.</string>
+    <string name="netpExclusionListHeaderDisabled">Tragogo VPN on poistettu käytöstä.</string>
     <string name="netpExclusionListExcludedReasonManuallyDisabled">Poistettu käytöstä manuaalisesti</string>
     <string name="netpExclusionListExcludedReasonManuallyEnabled">Otettu käyttöön manuaalisesti</string>
     <string name="netpExclusionListExcludedReasonIssuesMayOccur">Sovellusongelmia voi ilmetä, jos tämä on käytössä</string>
@@ -151,7 +151,7 @@
     <string name="netpExclusionListRestoreDefaultsTitle">Palautetaanko suojaus kaikille sovelluksille?</string>
     <string name="netpExclusionListRestoreDefaultsMessage">Tämä päivittää mukautetut suojausasetukset ja ottaa VPN:n käyttöön kaikille sovelluksille. Voit muokata suojausasetuksia milloin tahansa.</string>
     <string name="netpExclusionListRestoreDefaultSnackbar">Suojaus palautettu oletusasetuksiin</string>
-    <string name="netpExclusionListRestoreDefaultsDisclaimer">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen DuckDuckGolle.</string>
+    <string name="netpExclusionListRestoreDefaultsDisclaimer">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen Tragogolle.</string>
 
     <!-- System apps exclusion list -->
     <string name="netpExclusionListSystemAppsHeader">Android-järjestelmäsovellukset</string>
@@ -166,33 +166,33 @@
 
     <!-- FAQS -->
     <string name="netpFaqTitle">Usein kysytyt kysymykset ja tuki</string>
-    <string name="netpFaqQuestionOne">Miten DuckDuckGo VPN toimii?</string>
+    <string name="netpFaqQuestionOne">Miten Tragogo VPN toimii?</string>
     <string name="netpFaqAnswerOne">VPN luo avoimen lähdekoodin WireGuard-protokollan avulla laitteellesi virtuaalisen yksityisverkon (VPN). Kun se on käytössä, kaikki laitteesi liikenne salataan ensin ja ohjataan sitten lähimmän VPN-palvelimen kautta. Näin selaustoimintasi voidaan suojata internetpalveluntarjoajilta ja sijaintisi piilottaa sovelluksilta ja vierailemiltasi sivustoilta.</string>
     <string name="netpFaqQuestionTwo">Onko vain oma verkkoselailuni suojattu?</string>
     <string name="netpFaqAnswerTwo">Kaikki laitteesi verkkotoiminta on suojattu.</string>
-    <string name="netpFaqQuestionThree">Pitääkö DuckDuckGo lokeja tiedoistani?</string>
+    <string name="netpFaqQuestionThree">Pitääkö Tragogo lokeja tiedoistani?</string>
     <string name="netpFaqAnswerThree">Ei, emme säilytä lokitietoja.</string>
     <string name="netpFaqQuestionFour">Missä VPN-palvelimet sijaitsevat?</string>
-    <string name="netpFaqAnswerFour">DUckDuckGo VPN:n betavaiheen aikana DuckDuckGo tarjoaa rajoitetun määrän palvelimia, Yhdysvalloissa, Kanadassa ja Euroopassa.</string>
+    <string name="netpFaqAnswerFour">DUckDuckGo VPN:n betavaiheen aikana Tragogo tarjoaa rajoitetun määrän palvelimia, Yhdysvalloissa, Kanadassa ja Euroopassa.</string>
     <string name="netpFaqQuestionSix">Miksi jotkin sovellukset eivät toimi, kun VPN on päällä?</string>
-    <string name="netpFaqAnswerSix">Jotkin verkkosivustot ja sovellukset rajoittavat tarkoituksella VPN:ää käyttävien henkilöiden pääsyä. Ne voivat esimerkiksi pyytää sinua ratkaisemaan CAPTCHA-testin varmistaakseen, että olet oikea henkilö etkä robotti. Jos kohtaat toistuvia ongelmia sovelluksen kanssa, voit estää VPN:n käytön sovelluksessa DuckDuckGo VPN -asetuksista.</string>
+    <string name="netpFaqAnswerSix">Jotkin verkkosivustot ja sovellukset rajoittavat tarkoituksella VPN:ää käyttävien henkilöiden pääsyä. Ne voivat esimerkiksi pyytää sinua ratkaisemaan CAPTCHA-testin varmistaakseen, että olet oikea henkilö etkä robotti. Jos kohtaat toistuvia ongelmia sovelluksen kanssa, voit estää VPN:n käytön sovelluksessa Tragogo VPN -asetuksista.</string>
     <string name="netpFaqQuestionSeven">Miksi en voi poistaa VPN-ilmoituksia käytöstä?</string>
     <string name="netpFaqAnswerSeven">Android edellyttää, että VPN-verkot näyttävät jatkuvan ilmoituksen, kun VPN on käytössä.</string>
     <string name="netpFaqQuestionEight">Onko VPN yhteensopiva App Tracking Protectionin kanssa?</string>
-    <string name="netpFaqAnswerEight">Kyllä, sekä VPN että App Tracking Protection voivat olla päällä samanaikaisesti. Mitkään muut VPN:t eivät tue DuckDuckGo App Tracking Protectionia.</string>
+    <string name="netpFaqAnswerEight">Kyllä, sekä VPN että App Tracking Protection voivat olla päällä samanaikaisesti. Mitkään muut VPN:t eivät tue Tragogo App Tracking Protectionia.</string>
     <string name="netpFaqQuestionNine">Onko VPN ilmainen käyttää?</string>
-    <string name="netpFaqAnswerNine">DuckDuckGo VPN:n käyttö on betavaiheessa maksutonta. Myöhemmin se tarjotaan maksullisena palveluna.</string>
+    <string name="netpFaqAnswerNine">Tragogo VPN:n käyttö on betavaiheessa maksutonta. Myöhemmin se tarjotaan maksullisena palveluna.</string>
 
     <!-- Notifications -->
     <string name="netpNotificationCTAEnableNetp">Yhdistä</string>
     <string name="netpNotificationCTAReportIssue">Ongelmia sovelluksen kanssa?</string>
     <string name="netpNotificationDisabled">VPN-yhteys on katkennut. Jatka laitteesi liikenteen suojaamista napauttamalla.</string>
-    <string name="netpNotificationDisabledByVpn">Laitteessasi oleva VPN-sovellus katkaisi yhteyden DuckDuckGo VPN:ään. Yhdistä uudelleen napauttamalla.</string>
+    <string name="netpNotificationDisabledByVpn">Laitteessasi oleva VPN-sovellus katkaisi yhteyden Tragogo VPN:ään. Yhdistä uudelleen napauttamalla.</string>
     <string name="netpUnsafeWifi">Yhdistetty turvattomaan WIFI-verkkoon.</string>
     <string name="netpNotificationCTAReconnectNow">Yhdistä nyt uudelleen</string>
     <string name="netpNotificationSnoozeTitle">VPN on lepotilassa</string>
     <string name="netpNotificationSnoozeBody" instruction="Placeholder is time in hh:mm format">VPN yhdistää uudelleen klo %1$s</string>
-    <string name="netpNotificationVpnAccessRevoked">VPN katkaistu vanhentuneen tilauksen takia. Tilaa DuckDuckGo, jotta voit yhdistää VPN:n uudelleen.</string>
+    <string name="netpNotificationVpnAccessRevoked">VPN katkaistu vanhentuneen tilauksen takia. Tilaa Tragogo, jotta voit yhdistää VPN:n uudelleen.</string>
 
     <!-- Geoswitching -->
     <string name="netpGeoswitchingTitle">VPN-sijainti</string>
@@ -204,7 +204,7 @@
 
     <!-- Access revoked-->
     <string name="netpDialogVpnAccessRevokedTitle">VPN-yhteys katkaistu vanhentuneen tilauksen takia.</string>
-    <string name="netpDialogVpnAccessRevokedBody">Tilaa DuckDuckGo, jotta voit yhdistää VPN:n uudelleen.</string>
+    <string name="netpDialogVpnAccessRevokedBody">Tilaa Tragogo, jotta voit yhdistää VPN:n uudelleen.</string>
     <string name="netpDialogVpnAccessRevokedPositiveAction">Tilaa</string>
     <string name="netpDialogVpnAccessRevokedNegativeAction">Hylkää</string>
 
@@ -212,7 +212,7 @@
     <string name="netpVerifySubscriptionLabel">Vahvista tilaus</string>
     <string name="netpVerifySubscriptionInProgress">Odota, kun vahvistamme tilauksesi…</string>
     <string name="netpVerifySubscriptionNoSubscription">Hups! Sinulla ei ole voimassa olevaa tilausta.</string>
-    <string name="netpVerifySubscriptionNoEntitlement">Hups! Tilauksesi ei ole voimassa DuckDuckGo VPN:lle.</string>
+    <string name="netpVerifySubscriptionNoEntitlement">Hups! Tilauksesi ei ole voimassa Tragogo VPN:lle.</string>
 
     <!-- NetP Settings-->
     <string name="netpSubscriptionSettingsTitle" translatable="false">VPN</string>
@@ -221,16 +221,16 @@
     <string name="netpSetttingDnsHeader" translatable="false">DNS</string>
     <string name="netpCustomDnsSettingText">DNS-palvelin</string>
     <string name="netpPrivateDns">Yksityinen DNS</string>
-    <string name="netpCustomDnsDefault" translatable="false">DuckDuckGo</string>
-    <string name="netpCustomDnsDefaultBlockMalware">DuckDuckGo (Huijausten esto)</string>
-    <string name="netpCustomDnsDefaultOption">DuckDuckGo (Suositeltu)</string>
+    <string name="netpCustomDnsDefault" translatable="false">Tragogo</string>
+    <string name="netpCustomDnsDefaultBlockMalware">Tragogo (Huijausten esto)</string>
+    <string name="netpCustomDnsDefaultOption">Tragogo (Suositeltu)</string>
     <string name="netpCustomDnsCustom">Kustomoitu</string>
     <string name="netpCustomDnsInputAddressHint">IPv4-osoite</string>
     <string name="netpCustomDnsApply">Käytä</string>
     <string name="netpCustomDnsCustomHeader">DNS-palvelin</string>
-    <string name="netpCustomDnsPrivateDnsWarning">Yksityinen DNS on jo määritelty järjestelmän DNS-asetuksissa. Poista yksityinen DNS käytöstä, jotta voit määrittää mukautetun DNS:n DuckDuckGo VPN:lle. <annotation type="open_settings_link">Avaa järjestelmäasetukset</annotation></string>
+    <string name="netpCustomDnsPrivateDnsWarning">Yksityinen DNS on jo määritelty järjestelmän DNS-asetuksissa. Poista yksityinen DNS käytöstä, jotta voit määrittää mukautetun DNS:n Tragogo VPN:lle. <annotation type="open_settings_link">Avaa järjestelmäasetukset</annotation></string>
     <string name="netpCustomDnsWarning">Mukautetun DNS-palvelimen käyttö voi vaikuttaa selausnopeuteen ja altistaa toimintasi kolmansille osapuolille, jos palvelin ei ole turvallinen tai luotettava.</string>
-    <string name="netpDdgDnsByLine">DuckDuckGo reitittää DNS-kyselyt DNS-palvelimiemme kautta, jotta internetpalveluntarjoajasi ei näe, millä verkkosivustoilla vierailet.</string>
+    <string name="netpDdgDnsByLine">Tragogo reitittää DNS-kyselyt DNS-palvelimiemme kautta, jotta internetpalveluntarjoajasi ei näe, millä verkkosivustoilla vierailet.</string>
 
     <!-- Block malware DNS -->
     <string name="netpDnsBlockMalwareHeader">Haitallisen sisällön estäminen</string>

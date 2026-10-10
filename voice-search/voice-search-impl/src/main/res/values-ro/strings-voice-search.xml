@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Ceva nu a funcționat.Încearcă din nou mai târziu.</string>
     <string name="voiceSearchIconContentDescription">Căutare vocală</string>
     <string name="voiceSearchListening">Vorbește acum</string>
-    <string name="voiceSearchListeningFooter">Componenta audio este prelucrată pe dispozitiv. Nu este stocată sau distribuită nimănui, nici DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Componenta audio este prelucrată pe dispozitiv. Nu este stocată sau distribuită nimănui, nici Tragogo.</string>
     <string name="voiceSearchNegativeAction">Anulează</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo are nevoie de acces la microfon</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo are nevoie de acces la microfon</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Sunt necesare permisiunile pentru microfon dacă vrei să folosești căutarea vocală privată.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Sunt necesare permisiunile pentru microfon dacă vrei să folosești funcțiile vocale private.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Modifică permisiunile</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is momenteel niet beschikbaar. Probeer het later opnieuw.</string>
-    <string name="sync_flows_disabled_new_version"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk DuckDuckGo bij naar de nieuwste versie om door te gaan.</string>
+    <string name="sync_flows_disabled_new_version"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk Tragogo bij naar de nieuwste versie om door te gaan.</string>
     <string name="sync_create_account_disabled"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is momenteel niet beschikbaar. Probeer het later opnieuw.</string>
-    <string name="sync_create_account_disabled_new_version"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk DuckDuckGo bij naar de nieuwste versie om door te gaan.</string>
+    <string name="sync_create_account_disabled_new_version"><b>\'Synchronisatie en back-up\' niet beschikbaar</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk Tragogo bij naar de nieuwste versie om door te gaan.</string>
     <string name="sync_disabled_authenticated_user"><b>\'Synchronisatie en back-up\' is onderbroken</b>\n\'Synchronisatie en back-up\' is momenteel niet beschikbaar. Probeer het later opnieuw.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>\'Synchronisatie en back-up\' is onderbroken</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk DuckDuckGo bij naar de nieuwste versie om door te gaan.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>\'Synchronisatie en back-up\' is onderbroken</b>\n\'Synchronisatie en back-up\' is helaas niet langer beschikbaar in deze app-versie. Werk Tragogo bij naar de nieuwste versie om door te gaan.</string>
     <string name="sync_paused_notification"><b>\'Synchronisatie en back-up\' is onderbroken</b>\n\'Synchronisatie en back-up\' is momenteel niet beschikbaar. Probeer het later opnieuw.</string>
     <string name="sync_error_notification"><b>Synchronisatiefout</b>\n\'Synchronisatie en back-up\' is tijdelijk niet beschikbaar.</string>
     <string name="sync_error_warning"><b>Synchronisatiefout</b>\n\'Sync &amp; Backup\' is tijdelijk niet beschikbaar.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Synchroniseren met een ander apparaat</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Synchroniseer bladwijzers en wachtwoorden veilig tussen je apparaten.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Synchroniseer bladwijzers, wachtwoorden en Duck.ai-chats veilig tussen je apparaten.</string>
-    <string name="sync_off_hint">Je gegevens zijn volledig versleuteld en DuckDuckGo heeft geen toegang tot de versleutelingscode.</string>
+    <string name="sync_off_hint">Je gegevens zijn volledig versleuteld en Tragogo heeft geen toegang tot de versleutelingscode.</string>
     <string name="sync_setup_single_device_title">Configuratie van één apparaat</string>
     <string name="sync_setup_other_options_title">Andere opties</string>
     <string name="sync_setup_single_recover_data_cta_title">Gesynchroniseerde gegevens herstellen</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Dit apparaat synchroniseren en back-up maken</string>
 
-    <string name="sync_off_encrypted_hint">Je gegevens zijn volledig versleuteld en DuckDuckGo heeft geen toegang tot de ontsleutelingscode.</string>
+    <string name="sync_off_encrypted_hint">Je gegevens zijn volledig versleuteld en Tragogo heeft geen toegang tot de ontsleutelingscode.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">\'Synchronisatie en back-up\' instellen!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Download automatisch pictogrammen voor gesynchroniseerde bladwijzers.</string>
     <string name="sync_enable_connecting">Er wordt verbinding gemaakt ...</string>
     <string name="sync_intro_enable_title">Dit apparaat synchroniseren en back-up maken</string>
-    <string name="sync_intro_enable_content">Hiermee maak je een versleutelde back-up van je bladwijzers en wachtwoorden op de beveiligde server van DuckDuckGo. Deze back-up kan met je andere apparaten worden gesynchroniseerd. \n\n De versleutelingscode wordt alleen op je apparaat opgeslagen. DuckDuckGo heeft er geen toegang toe.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Hiermee maak je een versleutelde back-up van je bladwijzers, wachtwoorden en Duck.ai-chats op de beveiligde server van DuckDuckGo. Deze back-up kan met je andere apparaten worden gesynchroniseerd. \n\n De versleutelingscode wordt alleen op je apparaat opgeslagen. DuckDuckGo heeft er geen toegang toe.</string>
+    <string name="sync_intro_enable_content">Hiermee maak je een versleutelde back-up van je bladwijzers en wachtwoorden op de beveiligde server van Tragogo. Deze back-up kan met je andere apparaten worden gesynchroniseerd. \n\n De versleutelingscode wordt alleen op je apparaat opgeslagen. Tragogo heeft er geen toegang toe.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Hiermee maak je een versleutelde back-up van je bladwijzers, wachtwoorden en Duck.ai-chats op de beveiligde server van Tragogo. Deze back-up kan met je andere apparaten worden gesynchroniseerd. \n\n De versleutelingscode wordt alleen op je apparaat opgeslagen. Tragogo heeft er geen toegang toe.</string>
     <string name="sync_intro_enable_footer">Je kunt later synchroniseren met je andere apparaten.</string>
     <string name="sync_intro_enable_cta">\'Synchronisatie en back-up\' inschakelen</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">QR-code scannen</string>
-    <string name="connect_screen_scan_qr_hint">Open de DuckDuckGo-app op je andere apparaat en ga naar <b>Instellingen &gt; Synchronisatie en back-up &gt; Synchroniseren met een ander apparaat</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Open de Tragogo-app op je andere apparaat en ga naar <b>Instellingen &gt; Synchronisatie en back-up &gt; Synchroniseren met een ander apparaat</b>.</string>
     <string name="connect_screen_enter_code_cta">Code handmatig invoeren</string>
-    <string name="connect_screen_connect_qr_hint_title">Of scan met DuckDuckGo op je andere apparaat.</string>
-    <string name="connect_screen_connect_qr_hint_content">Open DuckDuckGo op je andere apparaat en scan deze code om te synchroniseren.</string>
+    <string name="connect_screen_connect_qr_hint_title">Of scan met Tragogo op je andere apparaat.</string>
+    <string name="connect_screen_connect_qr_hint_content">Open Tragogo op je andere apparaat en scan deze code om te synchroniseren.</string>
     <string name="connect_screen_share_code">Code kopiëren</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Code handmatig invoeren</string>
-    <string name="sync_enter_code_hint">Ga naar <b>\'Instellingen\' &gt; \'Synchronisatie en back-up\' &gt; \'Synchroniseren met een ander apparaat\'</b> en selecteer <b>Tekstcode weergeven</b> in de DuckDuckGo-app op een ander gesynchroniseerd apparaat. Plak de code hier om dit apparaat te synchroniseren.</string>
+    <string name="sync_enter_code_hint">Ga naar <b>\'Instellingen\' &gt; \'Synchronisatie en back-up\' &gt; \'Synchroniseren met een ander apparaat\'</b> en selecteer <b>Tekstcode weergeven</b> in de Tragogo-app op een ander gesynchroniseerd apparaat. Plak de code hier om dit apparaat te synchroniseren.</string>
     <string name="sync_enter_code_verifying">Code verifiëren</string>
     <string name="sync_enter_code_invalid">⚠️ Ongeldige code</string>
     <string name="sync_enter_code_paste">Code plakken</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Gesynchroniseerde apparaten</string>
     <string name="sync_new_device_section_title">Nieuw apparaat synchroniseren</string>
-    <string name="sync_new_device_hint">Ga naar \'Instellingen\' › \'Synchronisatie en back-up\' in de DuckDuckGo-app op een ander apparaat en scan om direct verbinding te maken.</string>
+    <string name="sync_new_device_hint">Ga naar \'Instellingen\' › \'Synchronisatie en back-up\' in de Tragogo-app op een ander apparaat en scan om direct verbinding te maken.</string>
     <string name="sync_show_text_code_item">Tekstcode weergeven</string>
     <string name="sync_show_qr_code_item">QR-code scannen</string>
     <string name="sync_save_recovery_code_item">PDF voor herstel opslaan</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Met de herstelcode kun je je wachtwoorden, automatisch ingevulde gegevens en Duck.ai-chats op meerdere apparaten synchroniseren en je gesynchroniseerde gegevens herstellen als je de toegang tot een apparaat kwijtraakt.</string>
     <string name="sync_code_box_title">Bewaar deze informatie veilig.</string>
     <string name="sync_instructions_title">Hoe werkt deze code?</string>
-    <string name="sync_instructions_step1">Open DuckDuckGo op het apparaat dat je wilt synchroniseren en ga naar Synchronisatie en Backup in Instellingen.</string>
+    <string name="sync_instructions_step1">Open Tragogo op het apparaat dat je wilt synchroniseren en ga naar Synchronisatie en Backup in Instellingen.</string>
     <string name="sync_instructions_step2">Selecteer \'Synchroniseren met een ander apparaat\' en scan de QR-code of voer de tekstcode in.</string>
     <string name="sync_instructions_step3">Synchronisatie wordt geactiveerd en je hebt weer toegang tot al je gegevens.</string>
-    <string name="sync_pdf_retention_notice">Als je langer dan 18 maanden geen DuckDuckGo-browser gebruikt met Sync &amp; Backup ingeschakeld, worden je gegevens van de server verwijderd en kunnen ze niet worden hersteld.</string>
+    <string name="sync_pdf_retention_notice">Als je langer dan 18 maanden geen Tragogo-browser gebruikt met Sync &amp; Backup ingeschakeld, worden je gegevens van de server verwijderd en kunnen ze niet worden hersteld.</string>
     <string name="remove_device_dialog_title">Apparaat verwijderen?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">\'%1$s\' heeft geen toegang meer tot je gesynchroniseerde gegevens.</string>
     <string name="remove_device_dialog_primary_button">Verwijderen</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Nee, bedankt</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">DuckDuckGo downloaden op andere apparaten</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Download DuckDuckGo op andere apparaten om met dit apparaat te synchroniseren</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Download DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Om DuckDuckGo te downloaden op een desktop of een ander mobiel apparaat, ga naar:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Tragogo downloaden op andere apparaten</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Download Tragogo op andere apparaten om met dit apparaat te synchroniseren</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Download Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Om Tragogo te downloaden op een desktop of een ander mobiel apparaat, ga naar:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Downloadlink delen</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Link gekopieerd</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Nieuw apparaat synchroniseren?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\'%1$s\' heeft toegang tot je gesynchroniseerde DuckDuckGo-gegevens.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\'%1$s\' heeft toegang tot je gesynchroniseerde Tragogo-gegevens.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Nu synchroniseren</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Annuleren</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Download de desktopbrowser</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo voor Mac en Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo voor Mac en Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Herstellen</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Gegevens van eerdere installatie herstellen, synchroniseren en back-uppen?</string>
-    <string name="sync_previous_session_ready_body">Herstel je eerdere bladwijzers, wachtwoorden en andere gegevens in DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Herstel je eerdere bladwijzers, wachtwoorden en andere gegevens in Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Herstel Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Nieuwe synchronisatie instellen</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Herstelcode</string>
     <string name="sync_recover_data_download_pdf">Downloaden als PDF</string>
     <string name="sync_restore_on_reinstall_title">Herstellen bij app-herinstallatie</string>
-    <string name="sync_restore_on_reinstall_description">Als je de DuckDuckGo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
+    <string name="sync_restore_on_reinstall_description">Als je de Tragogo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Krijg toegang tot je chats op al je apparaten met Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Synchroniseren met een ander apparaat</string>
     <string name="sync_chat_bottom_sheet_title">Laten we je chats synchroniseren op al je apparaten!</string>
-    <string name="sync_chat_bottom_sheet_description">Zoek de QR-code in de DuckDuckGo-app op je andere apparaat door op dat apparaat naar \'Instellingen\' › \'Sync &amp; Backup\' › \'Synchroniseren\' te gaan.</string>
+    <string name="sync_chat_bottom_sheet_description">Zoek de QR-code in de Tragogo-app op je andere apparaat door op dat apparaat naar \'Instellingen\' › \'Sync &amp; Backup\' › \'Synchroniseren\' te gaan.</string>
     <string name="sync_chat_bottom_sheet_positive">QR-code scannen</string>
     <string name="sync_chat_bottom_sheet_negative">Niet nu</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Annuleren</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">“%1$s” kan je gesynchroniseerde DuckDuckGo-wachtwoorden, autofill-gegevens en Duck.ai-chats openen.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">“%1$s” kan je gesynchroniseerde Tragogo-wachtwoorden, autofill-gegevens en Duck.ai-chats openen.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" heeft toegang tot je gesynchroniseerde Duck.ai-chats.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Het andere apparaat krijgt toegang tot je gesynchroniseerde DuckDuckGo-wachtwoorden, autofill-gegevens en Duck.ai-chats.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Het andere apparaat krijgt toegang tot je gesynchroniseerde Tragogo-wachtwoorden, autofill-gegevens en Duck.ai-chats.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Het andere apparaat krijgt toegang tot je gesynchroniseerde Duck.ai-chats.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Synchronisatie is mislukt.</string>
     <string name="sync_v2_error_pairing_rejected">Synchronisatie geannuleerd vanaf je andere apparaat.</string>
     <string name="sync_v2_error_pairing_canceled">Synchronisatie geannuleerd.</string>
-    <string name="sync_v2_error_upgrade_required">Werk de DuckDuckGo-browser bij en probeer het opnieuw.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Synchroniseer dit apparaat via een DuckDuckGo-browser die al op een ander apparaat is verbonden</string>
+    <string name="sync_v2_error_upgrade_required">Werk de Tragogo-browser bij en probeer het opnieuw.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Synchroniseer dit apparaat via een Tragogo-browser die al op een ander apparaat is verbonden</string>
     <string name="sync_v2_error_try_again">Probeer het opnieuw.</string>
     <string name="sync_v2_error_got_it">Ik snap het</string>
     <string name="sync_v2_already_paired_title">Al gesynchroniseerd.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Zorg dat DuckDuckGo gesynchroniseerd blijft!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo is gesynchroniseerd.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Synchroniseer je automatisch ingevulde gegevens en bladwijzers en maak er een back-up van – end-to-end-versleuteld in al je DuckDuckGo-apps.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synchroniseer je automatisch ingevulde gegevens, bladwijzers en Duck.ai-chatsen maak er een back-up van – end-to-end-versleuteld in al je DuckDuckGo-apps.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Zorg dat Tragogo gesynchroniseerd blijft!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo is gesynchroniseerd.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Synchroniseer je automatisch ingevulde gegevens en bladwijzers en maak er een back-up van – end-to-end-versleuteld in al je Tragogo-apps.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synchroniseer je automatisch ingevulde gegevens, bladwijzers en Duck.ai-chatsen maak er een back-up van – end-to-end-versleuteld in al je Tragogo-apps.</string>
     <string name="sync_simplified_settings_header_body_enabled">Je bladwijzers en automatisch ingevulde gegevens worden gesynchroniseerd en veilig opgeslagen met end-to-end-versleuteling.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Je bladwijzers, automatisch ingevulde gegevens en Duck.ai-chats worden gesynchroniseerd en veilig opgeslagen met end-to-end-versleuteling.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Bladwijzers</string>
     <string name="sync_simplified_settings_recovery_section_header">Herstellen</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Herstellen bij app-herinstallatie</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Als je de DuckDuckGo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Als je de Tragogo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Je herstelcode kopiëren</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Je herstelcode downloaden</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Gebruik deze code om je gegevens te herstellen als je de toegang tot dit apparaat verliest — bewaar hem veilig.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Meldingen zijn uitgeschakeld</string>
     <string name="sync_simplified_settings_notify_me_body">Ontvang een melding als Sync &amp; Backup op een fout stuit.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">DuckDuckGo downloaden op andere apparaten</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Tragogo downloaden op andere apparaten</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Download de desktopbrowser</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Scan de QR code om te synchroniseren</string>
-    <string name="sync_simplified_scanner_camera_header_body">Open <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo voor desktop</annotation></b>\n<annotation type="gap">\n</annotation>en ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Open <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo voor desktop</annotation></b>\n<annotation type="gap">\n</annotation>en ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Ik ben klaar om te scannen</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Sorry, de gescande code is ongeldig.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Cameramachtiging is vereist</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Voer de synchronisatiecode in</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Open je andere <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo-app</annotation></b>\n<annotation type="gap">\n</annotation>Ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation> › <annotation type="highlight">Tekstcode kopiëren</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Open je andere <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo-app</annotation></b>\n<annotation type="gap">\n</annotation>Ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation> › <annotation type="highlight">Tekstcode kopiëren</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Voorbeeldcode:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Synchronisatiecode plakken</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Sorry, de geplakte code is ongeldig.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR-code</string>
     <string name="sync_simplified_qr_code_header_headline">Scan vanaf een ander apparaat</string>
-    <string name="sync_simplified_qr_code_header_body">Open <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b> op een ander apparaat\n<annotation type="gap">\n</annotation>en ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation> en scan deze code:</string>
+    <string name="sync_simplified_qr_code_header_body">Open <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b> op een ander apparaat\n<annotation type="gap">\n</annotation>en ga naar <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchroniseren met een ander apparaat</annotation> en scan deze code:</string>
     <string name="sync_simplified_qr_code_copy_button">Tekstcode kopiëren</string>
     <string name="sync_simplified_qr_code_share_button">Delen</string>
     <string name="sync_simplified_qr_code_copied_message">Herstelcode gekopieerd</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Herstelcode</string>
     <string name="sync_simplified_recovery_code_download_button">Je herstelcode downloaden</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Herstellen bij app-herinstallatie</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Als je de DuckDuckGo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Als je de Tragogo-app opnieuw installeert, vragen we of je je gegevens op dit apparaat wilt herstellen.</string>
     <string name="sync_simplified_recovery_code_primary_button">Klaar</string>
     <string name="sync_simplified_recovery_code_copied_message">Herstelcode gekopieerd</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">We hebben toegang tot je opslag nodig om het PDF-bestand met herstelgegevens op te slaan</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Nieuw apparaat synchroniseren?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">\'%1$s\' heeft toegang tot je gesynchroniseerde DuckDuckGo-gegevens.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">\'%1$s\' heeft toegang tot je gesynchroniseerde Tragogo-gegevens.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Nu synchroniseren</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Annuleren</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Sync &amp; Backup instellen</string>

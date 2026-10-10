@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,8 +18,8 @@
 <resources>
     <string name="ad_blocking_settings_title">YouTube Ad Blocking</string>
     <string name="ad_blocking_settings_toggle_title">Block Ads on YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blocks video ads on YouTube, so you can watch videos without interruption. \n\nWhen on, DuckDuckGo will anonymously detect ad blocking interference or YouTube errors, to improve the experience for everyone. DuckDuckGo never sees which videos you view or any personally identifiable information. <annotation type="learn_more_link">Learn more</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blocks video ads on YouTube, so you can watch videos without interruption. <annotation type="learn_more_link">Learn more</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blocks video ads on YouTube, so you can watch videos without interruption. \n\nWhen on, Tragogo will anonymously detect ad blocking interference or YouTube errors, to improve the experience for everyone. Tragogo never sees which videos you view or any personally identifiable information. <annotation type="learn_more_link">Learn more</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blocks video ads on YouTube, so you can watch videos without interruption. <annotation type="learn_more_link">Learn more</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Opens videos in a distraction-free theater mode that prevents what you watch from influencing your YouTube feed.</string>
     <string name="ad_blocking_settings_title_v2">Ad Blocking</string>
@@ -36,7 +36,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Disable Until Relaunch</string>
     <string name="ad_blocking_menu_always_off">Always Off</string>
     <string name="ad_blocking_disabled_popup_title">YouTube Ad Blocking not working?</string>
-    <string name="ad_blocking_disabled_popup_description">Send an anonymous report to DuckDuckGo and help make ad blocking better for everyone!</string>
+    <string name="ad_blocking_disabled_popup_description">Send an anonymous report to Tragogo and help make ad blocking better for everyone!</string>
     <string name="ad_blocking_disabled_primary_action">Send Breakage Report</string>
     <string name="ad_blocking_disabled_secondary_action">Cancel</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Disabled until relaunch</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Kaikki sovellukset</string>
     <string name="atp_ExcludedAppsFeature">App Tracking Protection havaitsee ja estää muiden yritysten seurantalaitteet, esimerkiksi kun Facebook yrittää seurata sinua terveyssovelluksessa. Yritykset voivat silti seurata sinua omistamissaan sovelluksissa.\n\nJos jokin sovellus ei toimi odotetulla tavalla, yritä poistaa kyseisen sovelluksen suojaus käytöstä.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo voi poistaa suojauksen käytöstä joistakin sovelluksista ratkaistakseen tunnettuja sisällön latausongelmia. Mukautetut asetukset eivät muutu, ellet palauta oletusasetuksia.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo voi poistaa suojauksen käytöstä joistakin sovelluksista ratkaistakseen tunnettuja sisällön latausongelmia. Mukautetut asetukset eivät muutu, ellet palauta oletusasetuksia.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>App Tracking Protection on poistettu käytöstä</b> Aiheuttiko App Tracking Protection ongelmia sovelluksissasi <annotation type="report_issues_link">Ilmoita ongelmista</annotation></string>
     <string name="atp_ExcludedAppsReport">Ilmoita ongelmasta toisessa sovelluksessa</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Poistettu käytöstä manuaalisesti</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Otettu käyttöön manuaalisesti</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Peruuta</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Palauta</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen DuckDuckGolle.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen Tragogolle.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Se lakkasi toimimasta odotetusti</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Seuranta ei haittaa minua tässä sovelluksessa</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Muu syy</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Palauta oletussuojaus?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Mukautetut suojausasetuksesi päivitetään uusimpiin oletussuojauksiimme. Voit muuttaa suojausasetuksiasi uudelleen milloin vain.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Suojaus palautettu oletusasetuksiin</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen DuckDuckGolle.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Suojauksen ottaminen käyttöön lähettää sovelluksen nimen Tragogolle.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Ilmoita ongelmasta</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Seuraava</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Kuvaile, mitä tapahtuu, mitä odotit tapahtuvan ja vaiheet, jotka johtivat ongelmaan.</string>
     <string name="atp_ReportBreakageFormInputHint">Kerro meille lisää kohtaamasi ongelmasta</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Napsauttamalla \"Lähetä\" hyväksyn, että DuckDuckGo voi käyttää tämän ilmoituksen tietoja sovelluksen ominaisuuksien parantamiseen.
+    <string name="atp_ReportBreakageFormCheckboxText">Napsauttamalla \"Lähetä\" hyväksyn, että Tragogo voi käyttää tämän ilmoituksen tietoja sovelluksen ominaisuuksien parantamiseen.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Tässä lomakkeessa annettujen tietojen lisäksi sovellusongelmaraporttisi sisältää:<br/>• Sovelluspaketin nimen<br/>• Luettelon sovelluksessa estetyistä seurantalaitteista<br/>• Tiedon siitä, ovatko tietyt DuckDuckGo-ominaisuudet käytössä<br/>• DuckDuckGo-sovelluksen koostetun diagnostiikan<br/>]]>
+        <![CDATA[Tässä lomakkeessa annettujen tietojen lisäksi sovellusongelmaraporttisi sisältää:<br/>• Sovelluspaketin nimen<br/>• Luettelon sovelluksessa estetyistä seurantalaitteista<br/>• Tiedon siitä, ovatko tietyt Tragogo-ominaisuudet käytössä<br/>• Tragogo-sovelluksen koostetun diagnostiikan<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Ilmoitus lähetetty, kiitos! Palautteesi auttaa meitä parantamaan App Tracking Protectionia kaikille.</string>
     <string name="atp_ThanksForTheFeedback">Kiitos palautteesta!</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Tietoja sovellusten seurantalaitteista</string>
     <string name="atp_ProfilingInfoTitle">Mitä ovat sovellusten seurantalaitteet?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Olet luultavasti kuullut, miten Googlen ja Facebookin kaltaiset yritykset seuraavat sinua kulissien takana kolmannen osapuolen sivustoilla. Mutta tiesitkö, että ne seuraavat myös henkilökohtaisia tietojasi laitteesi sovellusten kautta?\n\n<b>Yli 96\\% sadasta suositusta ilmaisesta Android-sovelluksesta</b>, joita testasimme sisälsi piilotettuja kolmannen osapuolen seurantalaitteita. Niistä 87\\% lähetti tietoja Googlelle ja 68\\% lähetti tietoja Facebookille. Tätä tapahtuu myös silloin, kun et käytä laitettasi.\n\n<b>Sovellusten seurantalaitteet voivat tavoittaa paljon suuremman määrän tietoa,</b> kuin verkkosivuston seurantalaitteet. Ne voivat selvittää esimerkiksi tarkan sijaintisi ja missä rakennuksen kerroksessa olet, kuinka usein pelaat pelejä töissä, ja milloin ja miten kauan nukut päivittäin. <b>Vaikka sinulla ei olisi esimerkiksi Google- tai Facebook-tiliä, ne voivat silti kerätä tietoja sinusta sovelluksistasi.</b>\n\nSeurantaverkot, kuten Facebook ja Google, käyttävät näitä pieniä tietoja <b>luodakseen sinusta digitaalisen profiilin.</b> Sen avulla seurantaverkot voivat manipuloida sitä, mitä näet verkossa ja kilpailuttaa mainostajia mahdollisuudesta tavoittaa sinut tietojesi perusteella.\n\nSovellusten seurantalaitteet ovat SUURI ongelma yksityisyydelle. <b>DuckDuckGolla on ratkaisu, joka voi auttaa.</b>\n\nKun App Tracking Protection on otettu käyttöön DuckDuckGo Privacy Browser -sovelluksessa, se estää monia muiden sovellusten sisältämiä seurantalaitteita, samalla kun DuckDuckGo-sovellus estää katsomiltasi verkkosivustoilta löytämänsä seurantalaitteet. <b>Tällaiset kaksikerroksiset suojaukset vähentävät sitä, mitä seurantayritykset tietävät sinusta</b>, joten voit käyttää sovelluksiasi rauhallisin mielin tietäen, että olet paremmin suojattu.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Olet luultavasti kuullut, miten Googlen ja Facebookin kaltaiset yritykset seuraavat sinua kulissien takana kolmannen osapuolen sivustoilla. Mutta tiesitkö, että ne seuraavat myös henkilökohtaisia tietojasi laitteesi sovellusten kautta?\n\n<b>Yli 96\\% sadasta suositusta ilmaisesta Android-sovelluksesta</b>, joita testasimme sisälsi piilotettuja kolmannen osapuolen seurantalaitteita. Niistä 87\\% lähetti tietoja Googlelle ja 68\\% lähetti tietoja Facebookille. Tätä tapahtuu myös silloin, kun et käytä laitettasi.\n\n<b>Sovellusten seurantalaitteet voivat tavoittaa paljon suuremman määrän tietoa,</b> kuin verkkosivuston seurantalaitteet. Ne voivat selvittää esimerkiksi tarkan sijaintisi ja missä rakennuksen kerroksessa olet, kuinka usein pelaat pelejä töissä, ja milloin ja miten kauan nukut päivittäin. <b>Vaikka sinulla ei olisi esimerkiksi Google- tai Facebook-tiliä, ne voivat silti kerätä tietoja sinusta sovelluksistasi.</b>\n\nSeurantaverkot, kuten Facebook ja Google, käyttävät näitä pieniä tietoja <b>luodakseen sinusta digitaalisen profiilin.</b> Sen avulla seurantaverkot voivat manipuloida sitä, mitä näet verkossa ja kilpailuttaa mainostajia mahdollisuudesta tavoittaa sinut tietojesi perusteella.\n\nSovellusten seurantalaitteet ovat SUURI ongelma yksityisyydelle. <b>Tragogolla on ratkaisu, joka voi auttaa.</b>\n\nKun App Tracking Protection on otettu käyttöön Tragogo Privacy Browser -sovelluksessa, se estää monia muiden sovellusten sisältämiä seurantalaitteita, samalla kun Tragogo-sovellus estää katsomiltasi verkkosivustoilta löytämänsä seurantalaitteet. <b>Tällaiset kaksikerroksiset suojaukset vähentävät sitä, mitä seurantayritykset tietävät sinusta</b>, joten voit käyttää sovelluksiasi rauhallisin mielin tietäen, että olet paremmin suojattu.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Viimeiset 7 päivää</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">Tietoa meistä</string>
     <string name="atp_ActivityManage">Hallitse</string>
     <string name="atp_ActivityRemoveFeature">Poista käytöstä ja poista tiedot</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo estää piilotettuja seurantalaitteita kaikissa sovelluksissasi.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo estää piilotettuja seurantalaitteita kaikissa sovelluksissasi.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Ota App Tracking Protection uudelleen käyttöön estääksesi seurannan kaikissa sovelluksissasi.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">DuckDuckGo esti %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">DuckDuckGo esti %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Tragogo esti %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Tragogo esti %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">Usein kysyttyä</string>
@@ -243,7 +243,7 @@
     <string name="atp_FAQFifthHeader">Miten App Tracking Protection eroaa VPN-verkosta?</string>
     <string name="atp_FAQFifthText">VPN lähettää dataasi laitteesta omalle palvelimelleen, jossa se anonymisoi ja suojaa tietosi urkinnalta. Tämä antaa kuitenkin VPN-yhtiön nähdä verkkoliikenteesi.\n\n<b>App Tracking Protection on erilainen.</b> App Tracking Protection ei lähetä tietojasi VPN-palvelimelle, vaan <b>se toimii paikallisesti laitteessasi</b>, sovellusten ja niiden palvelimien välissä.\n\nKun App Tracking Protection tunnistaa tunnetun seurantaohjelman, <b>se estää sitä lähettämästä henkilötietoja (kuten IP-osoitettasi, toiminta- ja laitetietojasi) pois laitteeltasi.</b> Kaikki muu liikenne toimii normaalisti, joten sovelluksesi toimivat tavalliseen tapaan.</string>
     <string name="atp_FAQSixthHeader">Ovatko tietoni yksityisiä?</string>
-    <string name="atp_FAQSixthText">App Tracking Protection toimii laitteessasi, eikä lähetä henkilökohtaisia tietojasi laitteeltasi DuckDuckGolle.</string>
+    <string name="atp_FAQSixthText">App Tracking Protection toimii laitteessasi, eikä lähetä henkilökohtaisia tietojasi laitteeltasi Tragogolle.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">App Tracking Protection -kutsusi on täällä!</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d yritystä. Tiedetään keräävän:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo esti %1$d seurantayrityksen</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo esti %1$d seurantayritystä</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo esti %1$d seurantayrityksen</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo esti %1$d seurantayritystä</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Ilmoita ongelmasta tässä sovelluksessa</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Näytä %1$d lisää</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Siirry kohtaan Asetukset</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Ei nyt</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Mene laitteellasi DuckDuckGon VPN-asetuksiin ja ota käyttöön <b>Aina päällä</b> -asetus VPN:lle, jotta Android ei poista suojausta käytöstä.\n\nMuista jättää toinen asetus pois päältä.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Voit välttää sovellusongelmat siirtymällä laitteellasi <b>DuckDuckGon VPN-asetuksiin</b> ja poistamalla <b>Estä yhteydet ilman VPN:ää</b> -asetuksen käytöstä.]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Mene laitteellasi Tragogon VPN-asetuksiin ja ota käyttöön <b>Aina päällä</b> -asetus VPN:lle, jotta Android ei poista suojausta käytöstä.\n\nMuista jättää toinen asetus pois päältä.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Voit välttää sovellusongelmat siirtymällä laitteellasi <b>Tragogon VPN-asetuksiin</b> ja poistamalla <b>Estä yhteydet ilman VPN:ää</b> -asetuksen käytöstä.]]></string>
     <string name="atp_AlwaysOnModalHeading">Määritä asetukseksi Aina päällä</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Muokkaa VPN-asetuksia</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Toimia vaaditaan!</b> Sovellusongelmien välttämiseksi sinun on muokattava Android-asetuksia. <annotation type="open_settings_link">Muokkaa asetuksia</annotation></string>
@@ -422,14 +422,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Saat päivityksiä estetyistä seurantayrityksistä ilmoituslaatikkoosi.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Etkö pysty käyttämään App Tracking Protectionia VPN:n takia? Vaihda DuckDuckGo VPN:ään – ainoaan yhteensopivaan VPN:ään. <annotation type="ppro_upsell_link">Lue lisää</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Etkö pysty käyttämään App Tracking Protectionia VPN:n takia? Vaihda DuckDuckGo VPN:ään – ainoaan yhteensopivaan VPN:ään. <annotation type="ppro_upsell_link">Kokeile ilmaiseksi!</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection poistettu käytöstä</b>\nPoistiko VPN:si App Tracking Protectionin käytöstä? Ota se uudelleen käyttöön yllä olevalla valitsimella.\n\nHanki DuckDuckGo VPN – ainoa VPN, joka toimii App Tracking Protectionin kanssa. <annotation type="ppro_upsell_link">Lue lisää</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection poistettu käytöstä</b>\nPoistiko VPN:si App Tracking Protectionin käytöstä? Ota se uudelleen käyttöön yllä olevalla valitsimella.\n\nVaihda DuckDuckGo VPN:ään – ainoa VPN, joka toimii App Tracking Protectionin kanssa. <annotation type="ppro_upsell_link">Kokeile ilmaiseksi!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled">Etkö pysty käyttämään App Tracking Protectionia VPN:n takia? Vaihda Tragogo VPN:ään – ainoaan yhteensopivaan VPN:ään. <annotation type="ppro_upsell_link">Lue lisää</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Etkö pysty käyttämään App Tracking Protectionia VPN:n takia? Vaihda Tragogo VPN:ään – ainoaan yhteensopivaan VPN:ään. <annotation type="ppro_upsell_link">Kokeile ilmaiseksi!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection poistettu käytöstä</b>\nPoistiko VPN:si App Tracking Protectionin käytöstä? Ota se uudelleen käyttöön yllä olevalla valitsimella.\n\nHanki Tragogo VPN – ainoa VPN, joka toimii App Tracking Protectionin kanssa. <annotation type="ppro_upsell_link">Lue lisää</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection poistettu käytöstä</b>\nPoistiko VPN:si App Tracking Protectionin käytöstä? Ota se uudelleen käyttöön yllä olevalla valitsimella.\n\nVaihda Tragogo VPN:ään – ainoa VPN, joka toimii App Tracking Protectionin kanssa. <annotation type="ppro_upsell_link">Kokeile ilmaiseksi!</annotation>.</string>
     <string name="apptp_PproUpsellBannerTitle">Vie tietosuojasi uudelle tasolle</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGolla on ainoa VPN, joka on yhteensopiva App Tracking Protectionin kanssa. Aktivoi maksullisella Privacy Pro -tilauksella.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogolla on ainoa VPN, joka on yhteensopiva App Tracking Protectionin kanssa. Aktivoi maksullisella Privacy Pro -tilauksella.</string>
     <string name="apptp_PproUpsellBannerAction">Lue lisää</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Tilaa DuckDuckGo, niin saat ainoan VPN:n, joka on yhteensopiva App Tracking Protectionin kanssa.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Tilaa Tragogo, niin saat ainoan VPN:n, joka on yhteensopiva App Tracking Protectionin kanssa.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Kokeile ilmaiseksi!</string>
 
     <!-- Content Descriptions -->

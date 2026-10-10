@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Weboldal betöltésével kapcsolatos problémák</string>
     <string name="websiteNotLoadingTitleShort">Weboldal betöltésével kapcsolatos problémák</string>
     <string name="websiteNotLoadingSubtitle">Melyik weboldal nem működik?</string>
-    <string name="searchNotGoodEnoughTitleLong">A DuckDuckGo keresés nem elég jó</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo keresési problémák</string>
+    <string name="searchNotGoodEnoughTitleLong">A Tragogo keresés nem elég jó</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo keresési problémák</string>
     <string name="searchNotGoodEnoughSubtitle">Melyik keresési funkciót vezessük be vagy javítsuk?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programozás/műszaki keresés</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Az elrendezés hasonlítson jobban a Google elrendezéséhez</string>

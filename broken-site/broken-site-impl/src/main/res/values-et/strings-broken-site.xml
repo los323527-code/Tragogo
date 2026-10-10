@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
     <string name="broken_site_prompt_title">Kas sait ei tööta? Anna meile teada.</string>
-    <string name="broken_site_prompt_description">See aitab meil DuckDuckGo brauserit täiustada.</string>
+    <string name="broken_site_prompt_description">See aitab meil Tragogo brauserit täiustada.</string>
     <string name="broken_site_prompt_button_dismiss">Loobu</string>
     <string name="broken_site_prompt_button_report">Teata mittetoimivast saidist</string>
 </resources>

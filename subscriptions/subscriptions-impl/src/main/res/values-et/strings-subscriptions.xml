@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Tühista</string>
     <string name="ok">OK</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">DuckDuckGo tellimus</string>
+    <string name="ddg_subscription">Tragogo tellimus</string>
     <string name="manageEmail">Halda e-posti</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Lisage oma tellimus teistele seadmetele</string>
     <string name="addToDevicePrimaryText">Lisa seadmele</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Lisa oma tellimus oma teistesse seadmetesse Google Play kaudu või e-posti aadressi sidumisega.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Kasutage ülaltoodud e-posti aadressi, et lisada oma tellimus teistesse seadmetesse DuckDuckGo rakenduses. Mine jaotisse Seaded &gt; Tellimisseaded &gt; Mul on tellimus.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Kasutage ülaltoodud e-posti aadressi, et lisada oma tellimus teistesse seadmetesse Tragogo rakenduses. Mine jaotisse Seaded &gt; Tellimisseaded &gt; Mul on tellimus.</string>
     <string name="editEmailPrimaryText">Muuda e-posti</string>
     <string name="learnMore">Loe edasi</string>
     <string name="privacyProFaq">Kas vajad abi oma tellimusega?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Tellijad saavad meie VPN-i ja teenused Personal Information Removal ning Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Tellijad saavad meie VPN-i ja teenuse Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Telli DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Telli Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Proovi tasuta</string>
     <string name="subscriptionSettingRestore">Mul on tellimus</string>
-    <string name="subscriptionSettingExpired">Sinu DuckDuckGo tellimus aegus</string>
+    <string name="subscriptionSettingExpired">Sinu Tragogo tellimus aegus</string>
     <string name="subscriptionSettingExpiredViewPlans">Kuva plaane</string>
     <string name="subscriptionSettingSectionSubscription">Püsitellimus</string>
     <string name="subscriptionSettingRemoveFromDevice">Eemalda sellest seadmest</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Teie tellimus osteti Apple\'i App Store\'i kaudu. Paketi või arvelduse seadistuste muutmiseks avage jaotis Seaded &gt; Apple\'i konto &gt; Tellimused seadmel, mis on sisse logitud sama Apple\'i kontoga, millelt ostsite oma tellimuse.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Personal Information Removal\'i seadistamiseks aktiveeri arvutis DuckDuckGo tellimus</string>
-    <string name="pirDescription">Mine töölaua DuckDuckGo brauseris jaotisse <b>Seaded &gt; DuckDuckGo tellimus</b> ja klõpsa alustamiseks <b>Mul on tellimus</b>.</string>
+    <string name="pirTitle">Personal Information Removal\'i seadistamiseks aktiveeri arvutis Tragogo tellimus</string>
+    <string name="pirDescription">Mine töölaua Tragogo brauseris jaotisse <b>Seaded &gt; Tragogo tellimus</b> ja klõpsa alustamiseks <b>Mul on tellimus</b>.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Kas leidsid probleemi, mida meie <annotation type="faqs_link">abikeskuses</annotation> ei käsitleta? Me tahame sellest kindlasti teada saada.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Ütle meile, mis toimub...</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Lisaks eespool sisestatud andmetele saadame koos sinu tagasisidega ka mõned anonüümsed andmed:\n\n• Kas mõned brauseri funktsioonid on aktiivsed\n• Rakenduse koonddiagnostika (nt veakoodid)\n\nVajutades nuppu Saada, nõustud, et DuckDuckGo võib kasutada esitatud teavet rakenduse täiustamiseks."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Lisaks eespool sisestatud andmetele saadame koos sinu tagasisidega ka mõned anonüümsed andmed:\n\n• Kas mõned brauseri funktsioonid on aktiivsed\n• Rakenduse koonddiagnostika (nt veakoodid)\n\nVajutades nuppu Saada, nõustud, et Tragogo võib kasutada esitatud teavet rakenduse täiustamiseks."</string>
     <string name="feedbackSubmitVpnSubmit">Esita</string>
     <string name="feedbackSubmitCompletedMessage">Aitäh! Tagasiside on esitatud.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Ei pääse Duck.ai-le teistes brauserites oma tellimusega ligi</string>
     <string name="feedbackSubCategoryDuckAiOther">Muu Duck.ai tagasiside</string>
 
-    <string name="subscriptionSettingSectionTitle">DuckDuckGo tellimus</string>
+    <string name="subscriptionSettingSectionTitle">Tragogo tellimus</string>
     <string name="subscriptionSettingSubscribeSecure">Muuda oma Wi-Fi turvaliseks ja vestle privaatselt täiustatud tehisintellekti mudelitega</string>
 
     <string name="feedbackGeneralSubscription">Püsitellimus</string>

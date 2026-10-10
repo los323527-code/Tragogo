@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="appName" translatable="false">DuckDuckGo</string>
-    <string name="appDescription" translatable="false">DuckDuckGo</string>
-    <string name="duckDuckGoLogoDescription">DuckDuckGo logosu</string>
+    <string name="appName" translatable="false">Tragogo</string>
+    <string name="appDescription" translatable="false">Tragogo</string>
+    <string name="duckDuckGoLogoDescription">Tragogo logosu</string>
     <string name="duckDuckGoProtectionPrivacyPeaceTagLine">Koruma. Gizlilik. İçiniz rahat olsun.</string>
     <string name="yes">Evet</string>
     <string name="no">Hayır</string>
@@ -31,15 +31,15 @@
     <string name="duckAiChatDeletedSnackbar">Sohbet silindi</string>
 
     <!-- Onboarding Activity -->
-    <string name="onboardingDefaultBrowserDescription">Her seferinde DuckDuckGo ile arama yapmak ve göz atmak için Ayarlar\'ı ziyaret edin.</string>
-    <string name="onboardingDefaultBrowserTitle">DuckDuckGo\'yu varsayılan yap</string>
+    <string name="onboardingDefaultBrowserDescription">Her seferinde Tragogo ile arama yapmak ve göz atmak için Ayarlar\'ı ziyaret edin.</string>
+    <string name="onboardingDefaultBrowserTitle">Tragogo\'yu varsayılan yap</string>
 
     <!-- Default Browser -->
     <string name="cannotLaunchDefaultAppSettings">Varsayılan uygulama ayarları ekranı başlatılamıyor</string>
     <string name="setAsDefaultBrowser">Varsayılan tarayıcı olarak ayarla</string>
     <string name="defaultBrowserMaybeLater">Belki Sonra</string>
     <string name="defaultBrowserDescriptionNoDefault">Her zaman gönül rahatlığıyla bağlantıları açın.</string>
-    <string name="defaultBrowserInstructions">DuckDuckGo\'yu seçin ve <font color="#678fff">Her zaman</font> ögesine dokunun.</string>
+    <string name="defaultBrowserInstructions">Tragogo\'yu seçin ve <font color="#678fff">Her zaman</font> ögesine dokunun.</string>
 
     <!-- Browser Activity -->
     <string name="browserPopupMenu">Tarayıcı menüsü</string>
@@ -94,11 +94,11 @@
     <!-- Opening external apps -->
     <string name="openExternalApp">Haricî Uygulamayı Aç</string>
     <string name="launchingExternalApp">Başka uygulamada aç</string>
-    <string name="confirmOpenExternalApp">Bu içeriği görüntülemek için DuckDuckGo\'dan ayrılmak ister misiniz?</string>
+    <string name="confirmOpenExternalApp">Bu içeriği görüntülemek için Tragogo\'dan ayrılmak ister misiniz?</string>
     <string name="unableToOpenLink">Bu tür bağlantı açılamıyor</string>
 
     <!-- Tabs -->
-    <string name="homeTab" translatable="false">DuckDuckGo</string>
+    <string name="homeTab" translatable="false">Tragogo</string>
     <string name="tabActivityTitle">Sekmeler</string>
     <string name="tabsMenuItem">Sekmeler</string>
     <string name="newTabMenuItem">Yeni Sekme</string>
@@ -133,7 +133,7 @@
     <string name="settingsHeadingAppearance">Görünüm</string>
     <string name="settingsWhatsNew">Yenilikler</string>
     <string name="settingsHeadingAbout">Hakkında</string>
-    <string name="settingsAboutDuckduckgo">DuckDuckGo Hakkında</string>
+    <string name="settingsAboutDuckduckgo">Tragogo Hakkında</string>
     <string name="settingsVersion">Versiyon</string>
     <string name="leaveFeedback">Geri Bildirim Paylaş</string>
     <string name="leaveFeedbackNew">Geri Bildirim gönder</string>
@@ -164,12 +164,12 @@
     <string name="settingsAddWidget">Widget\'ı Ana Ekrana Ekle</string>
     <string name="settingsAddressBarPosition">Adres Çubuğu Konumunuzu Ayarlayın</string>
     <string name="settingsEnableVoiceSearch">Özel Sesli Aramayı Etkinleştir</string>
-    <string name="settingsDDGOnOtherPlatforms">Diğer Platformlarda DuckDuckGo</string>
+    <string name="settingsDDGOnOtherPlatforms">Diğer Platformlarda Tragogo</string>
     <string name="settingsDuckAi">AI Özellikleri</string>
 
     <!-- Private Search -->
     <string name="privateSearchActivityTitle">Gizli Arama</string>
-    <string name="privateSearchDescription">DuckDuckGo Private Search, varsayılan arama motorunuz olduğunda web\'de izlenmeden arama yapabilirsiniz.</string>
+    <string name="privateSearchDescription">Tragogo Private Search, varsayılan arama motorunuz olduğunda web\'de izlenmeden arama yapabilirsiniz.</string>
     <string name="privateSearchMoreSearchSettingsPrimaryText">Diğer Arama Ayarları</string>
     <string name="privateSearchMoreSearchSettingsSecondaryText">Arama dilinizi, bölgenizi ve daha fazlasını özelleştirin</string>
     <string name="privateSearchMoreSearchSettingsTitle">Diğer Arama Ayarları</string>
@@ -187,7 +187,7 @@
     <string name="webTrackingProtectionActivityTitle">Web İzleme Koruması</string>
     <string name="webTrackingProtectionLearnMoreTitle">Web İzleme Koruması</string>
     <string name="webTrackingProtectionTitle">Web İzleme Koruması</string>
-    <string name="webTrackingProtectionExplanationDescription"><![CDATA[DuckDuckGo tarayıcısı, her zaman etkin olan izleme korumaları sunar.\n<a href=\"\">Daha Fazla Bilgi</a>]]></string>
+    <string name="webTrackingProtectionExplanationDescription"><![CDATA[Tragogo tarayıcısı, her zaman etkin olan izleme korumaları sunar.\n<a href=\"\">Daha Fazla Bilgi</a>]]></string>
     <string name="webTrackingProtectionExplanationTitle">Sizi Nasıl Koruyoruz?</string>
     <string name="webTrackingProtectionThirdPartyTrackersTitle">Üçüncü taraf izleyicileri engeller</string>
     <string name="webTrackingProtectionThirdPartyTrackersDescription">Üçüncü taraf izleyicilerin yüklenmesini baştan engelleyerek, sizi siteden siteye takip eden üçüncü taraf çerezlerini engellemeye yardımcı olur.</string>
@@ -212,7 +212,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Masaüstü Tarayıcısını Edinin</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">Mac ve Windows için DuckDuckGo</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Mac ve Windows için Tragogo</string>
     <string name="getDesktopBrowserHideItem">Gizle</string>
 
     <!-- Cookie Pop-Up Protection -->
@@ -283,10 +283,10 @@
     <string name="settingsClearAiDataTitle">Duck.ai Sohbetlerini Sil</string>
     <string name="settingsClearAiDataDeleteMessage">Fire Button, sabitlenmiş sohbetler dahil olmak üzere Duck.ai geçmişini de silecektir.</string>
     <!-- About Activity -->
-    <string name="aboutActivityTitle">DuckDuckGo Hakkında</string>
+    <string name="aboutActivityTitle">Tragogo Hakkında</string>
     <string name="aboutActivityTitleNew">Hakkında</string>
     <string name="aboutHeaderNewTagLine">Koruma. Gizlilik. İçiniz rahat olsun.</string>
-    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nDuckDuckGo, kişisel bilgilerinin kontrolünü geri almak isteyen herkes için bağımsız bir online koruma şirketidir.\n\nKişisel bilgilerinizi bilgisayar korsanlarından, dolandırıcılardan ve gizliliğinizi ihlal eden şirketlerden korumanın en iyi yolunun, bu bilgilerin toplanmasını tamamen önlemek olduğuna inanıyoruz. Bu yüzden milyonlarca insan internette arama yapmak ve gezinmek için <annotation type="chart_comparison">Chrome ve diğer tarayıcılar yerine DuckDuckGo\'yu tercih ediyor</annotation>. Yerleşik arama motorumuz Google gibidir ancak aramalarınızı asla izlemez. Reklam izleyici engelleme ve çerez engelleme gibi tarama korumalarımız, diğer şirketlerin verilerinizi toplamasını önlemeye de yardımcı olur. Ayrıca, tarayıcımız ücretsizdir. Verilerinizi kullanarak değil, <annotation type="privacy_respecting_ads">gizliliğe saygılı arama reklamlarından</annotation> para kazanıyoruz.\n\nBuna ek olarak, tarayıcımıza entegre edilmiş <annotation type="ppro_help_page">DuckDuckGo aboneliği</annotation> sunuyoruz. Aboneler, internetteki etkinliklerinizi güvence altına alan hızlı ve basit bir <annotation type="vpn_help_page">VPN</annotation>, özel yapay zeka sohbet hizmetimiz Duck.ai\'daki gelişmiş yapay zeka modellerine erişim, kişisel bilgilerinizi kişi bulma sitelerinden bulan ve kaldıran ve çalınması durumunda kimliğinizi geri yükleyen bir hizmet ile daha fazla gizlilik koruması elde eder.\n\nVeri koruma için tasarlanmış, veri toplama amacı gütmeyen tarayıcıyla kişisel bilgilerinizin kontrolünü geri alın.</string>
+    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nTragogo, kişisel bilgilerinin kontrolünü geri almak isteyen herkes için bağımsız bir online koruma şirketidir.\n\nKişisel bilgilerinizi bilgisayar korsanlarından, dolandırıcılardan ve gizliliğinizi ihlal eden şirketlerden korumanın en iyi yolunun, bu bilgilerin toplanmasını tamamen önlemek olduğuna inanıyoruz. Bu yüzden milyonlarca insan internette arama yapmak ve gezinmek için <annotation type="chart_comparison">Chrome ve diğer tarayıcılar yerine Tragogo\'yu tercih ediyor</annotation>. Yerleşik arama motorumuz Google gibidir ancak aramalarınızı asla izlemez. Reklam izleyici engelleme ve çerez engelleme gibi tarama korumalarımız, diğer şirketlerin verilerinizi toplamasını önlemeye de yardımcı olur. Ayrıca, tarayıcımız ücretsizdir. Verilerinizi kullanarak değil, <annotation type="privacy_respecting_ads">gizliliğe saygılı arama reklamlarından</annotation> para kazanıyoruz.\n\nBuna ek olarak, tarayıcımıza entegre edilmiş <annotation type="ppro_help_page">Tragogo aboneliği</annotation> sunuyoruz. Aboneler, internetteki etkinliklerinizi güvence altına alan hızlı ve basit bir <annotation type="vpn_help_page">VPN</annotation>, özel yapay zeka sohbet hizmetimiz Duck.ai\'daki gelişmiş yapay zeka modellerine erişim, kişisel bilgilerinizi kişi bulma sitelerinden bulan ve kaldıran ve çalınması durumunda kimliğinizi geri yükleyen bir hizmet ile daha fazla gizlilik koruması elde eder.\n\nVeri koruma için tasarlanmış, veri toplama amacı gütmeyen tarayıcıyla kişisel bilgilerinizin kontrolünü geri alın.</string>
     <string name="no_suggestions">Öneri yok</string>
 
     <!-- Broken Site Activity -->
@@ -297,7 +297,7 @@
     <string name="brokenSiteProtectionsOnBannerMessage">Korumaları KAPALI duruma getirmek yardımcı olabilir.</string>
 
     <!-- Widget -->
-    <string name="searchWidgetTextHint">DuckDuckGo\'da Ara</string>
+    <string name="searchWidgetTextHint">Tragogo\'da Ara</string>
 
     <!-- Favorites widget -->
     <string name="addFavoriteMenuTitleHighlighted">👋 Favori Ekle</string>
@@ -322,7 +322,7 @@
     <string name="surveyCtaLaunchButton">Ankete katıl</string>
     <string name="surveyCtaDismissButton">Hayır Teşekkürler</string>
     <string name="surveyActivityTitle">Kullanıcı Anketi</string>
-    <string name="surveyTitle">DuckDuckGo Anketi</string>
+    <string name="surveyTitle">Tragogo Anketi</string>
     <string name="surveyDismissContentDescription">Anketi kapat</string>
     <string name="surveyLoadingErrorTitle">Olamaz!</string>
     <string name="surveyLoadingErrorText">Anketimiz şu anda yüklenemiyor.\nLütfen daha sonra tekrar deneyin.</string>
@@ -337,14 +337,14 @@
     <string name="addWidgetInstruction1Label">1</string>
     <string name="addWidgetInstruction1">Ana ekranınıza uzun basıp widget\'lar menüsünü açın.</string>
     <string name="addWidgetInstruction2Label">2</string>
-    <string name="addWidgetInstruction2">DuckDuckGo widget\'ını bulun.</string>
+    <string name="addWidgetInstruction2">Tragogo widget\'ını bulun.</string>
     <string name="addWidgetInstruction3Label">3</string>
     <string name="addWidgetInstruction3">Widget\'ı ana ekranınıza sürükleyin.</string>
     <string name="addWidgetInstructionsButtonGoHome">Ana Ekrana Git</string>
     <string name="addWidgetInstructionsButtonClose">Kapat</string>
 
     <!-- App Enjoyment / Rating / Feedback -->
-    <string name="appEnjoymentDialogTitle">DuckDuckGo\'yu sevdiniz mi?</string>
+    <string name="appEnjoymentDialogTitle">Tragogo\'yu sevdiniz mi?</string>
     <string name="appEnjoymentDialogMessage">Düşüncelerinizi öğrenmek isteriz.</string>
     <string name="appEnjoymentDialogPositiveButton">Sevdim</string>
     <string name="appEnjoymentDialogNegativeButton">Üzerinde Çalışılmalı</string>
@@ -366,15 +366,15 @@
 
     <!-- Clear Notification -->
     <string name="clearNotificationTitle">Veri temizleme manuel olarak ayarlandı</string>
-    <string name="clearNotificationDescription">Her oturumdan sonra tarama verilerini otomatik olarak temizlemek için DuckDuckGo\'yu özelleştirin.</string>
+    <string name="clearNotificationDescription">Her oturumdan sonra tarama verilerini otomatik olarak temizlemek için Tragogo\'yu özelleştirin.</string>
 
     <!-- Privacy Protection Notification -->
     <string name="privacyProtectionNotificationDefaultTitle">Gizliliğinizi koruyoruz</string>
     <string name="privacyProtectionNotificationReportTitle">Gizlilik Raporunuz</string>
-    <string name="privacyProtectionNotificationDefaultDescription">DuckDuckGo uygulamasını kullanmak, izleyicileri engelleyerek ve bağlantıları şifreleyerek verilerinizi korur.</string>
-    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">DuckDuckGo kullanırken %1$d şifrelenmemiş bağlantıyı güvenli hâle getirerek verilerinizi korudunuz.</string>
-    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">DuckDuckGo kullanırken %1$d izleyiciyi engelleyerek verilerinizi korudunuz.</string>
-    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">DuckDuckGo kullanırken %1$d izleyiciyi engelleyerek ve %2$d şifrelenmemiş bağlantıyı güvenceye alarak verilerinizi korudunuz.</string>
+    <string name="privacyProtectionNotificationDefaultDescription">Tragogo uygulamasını kullanmak, izleyicileri engelleyerek ve bağlantıları şifreleyerek verilerinizi korur.</string>
+    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Tragogo kullanırken %1$d şifrelenmemiş bağlantıyı güvenli hâle getirerek verilerinizi korudunuz.</string>
+    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Tragogo kullanırken %1$d izleyiciyi engelleyerek verilerinizi korudunuz.</string>
+    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Tragogo kullanırken %1$d izleyiciyi engelleyerek ve %2$d şifrelenmemiş bağlantıyı güvenceye alarak verilerinizi korudunuz.</string>
     <string name="privacyProtectionNotificationLaunchButton">Taramayı Sürdür</string>
 
     <!-- Authentication -->
@@ -386,7 +386,7 @@
     <string name="authenticationDialogPasswordHint">Parola</string>
 
     <!-- User-facing label for when a user selects text and might want to search for that text -->
-    <string name="systemTextSearchMessage">DuckDuckGo\'da Ara</string>
+    <string name="systemTextSearchMessage">Tragogo\'da Ara</string>
 
     <!-- Webview Recovery -->
     <string name="crashedWebViewErrorMessage">"Web sayfası görüntülenemedi."</string>
@@ -394,8 +394,8 @@
 
     <!-- System Search-->
     <string name="systemSearchAppNotFound">Uygulama bulunamadı</string>
-    <string name="systemSearchOnboardingThanks">DuckDuckGo\'yu seçtiğiniz için teşekkürler!\nTarayıcımızı kullanmak, bilgisayar korsanlarından, dolandırıcılardan ve verilerinizi toplamak isteyen şirketlerden korunmanıza yardımcı olur.</string>
-    <string name="systemSearchOnboardingFeaturesIntroText">DuckDuckGo uygulaması ayrıca:</string>
+    <string name="systemSearchOnboardingThanks">Tragogo\'yu seçtiğiniz için teşekkürler!\nTarayıcımızı kullanmak, bilgisayar korsanlarından, dolandırıcılardan ve verilerinizi toplamak isteyen şirketlerden korunmanıza yardımcı olur.</string>
+    <string name="systemSearchOnboardingFeaturesIntroText">Tragogo uygulaması ayrıca:</string>
     <string name="systemSearchOnboardingFeatureOneText">Güvenli olmayan izleyicileri engeller.</string>
     <string name="systemSearchOnboardingFeatureTwoText">Web sitelerinde şifrelemeyi zorunlu kılar.</string>
     <string name="systemSearchOnboardingFeatureThreeText">Tek dokunuşla verileri temizler.</string>
@@ -413,7 +413,7 @@
     <string name="daxDialogAppTpRetentionSecondaryButtonText">Şimdi Değil</string>
 
     <!-- New Onboarding Experience -->
-    <string name="onboardingWelcomeTitle">"DuckDuckGo'ya Hoş Geldiniz!"</string>
+    <string name="onboardingWelcomeTitle">"Tragogo'ya Hoş Geldiniz!"</string>
     <string name="onboardingDaxText"><![CDATA[İnternet biraz ürkütücü olabilir.<br/><br/>Endişelenmeyin! Özel olarak arama yapmak ve sitelere göz atmak düşündüğünüzden daha kolaydır.]]></string>
     <string name="onboardingLetsDoItButton">Hadi Başlayalım!</string>
     <string name="daxNonSerpCtaText"><![CDATA[Siz gezintinize devam ederken sinir bozucu izleyicileri engelleyeceğim. <br/><br/>Hadi, gezinmeye devam edin!]]></string>
@@ -503,7 +503,7 @@
     <string name="dosErrorMessage">Bağlantı iptal edildi. Bu web sitesi cihazınıza zarar verebilir.</string>
 
     <!-- Precise Location -->
-    <string name="preciseLocationSystemDialogTitle">DuckDuckGo Gizlilik Tarayıcısı için cihaz konumu etkinleştirilsin mi?</string>
+    <string name="preciseLocationSystemDialogTitle">Tragogo Gizlilik Tarayıcısı için cihaz konumu etkinleştirilsin mi?</string>
     <string name="preciseLocationSystemDialogSubtitle" instruction="%1$s and %2$s are both the name of the website requesting the location">%1$s cihazınızın konumunu öğrenmek istiyor. %2$s tarafından izin istenebilmesi için ilk olarak uygulamanın cihazınızın konumunu göndermesine izin vermeniz gerekir.</string>
     <string name="preciseLocationSystemDialogAllow">Etkinleştir</string>
     <string name="preciseLocationSystemDialogDeny">Belki Sonra</string>
@@ -515,7 +515,7 @@
     <string name="preciseLocationSiteDialogAllowOnce">Yalnızca Bu Oturum için</string>
     <string name="preciseLocationSiteDialogDenyAlways">Her Zaman Reddet</string>
     <string name="preciseLocationSiteDialogDenyOnce">Bu Oturum için Reddet</string>
-    <string name="preciseLocationFeatureDescription">Ziyaret ettiğiniz siteler cihazınızın konumunu öğrenmek isteyebilir. Ancak siz açıkça izin vermediğiniz takdirde konumunuza erişemezler. DuckDuckGo, konumunuzu yalnızca yerel arama sonuçları sunmak için anonim olarak kullanır.</string>
+    <string name="preciseLocationFeatureDescription">Ziyaret ettiğiniz siteler cihazınızın konumunu öğrenmek isteyebilir. Ancak siz açıkça izin vermediğiniz takdirde konumunuza erişemezler. Tragogo, konumunuzu yalnızca yerel arama sonuçları sunmak için anonim olarak kullanır.</string>
     <string name="preciseLocationToggleText">Siteler Konumumu Sorabilir</string>
     <string name="preciseLocationEmptyListHint">Hiçbir web sitesine konuma erişim izni verilmedi</string>
     <string name="preciseLocationNoSystemPermission">Web sitelerine verdiğiniz konuma erişim izinlerini yönetmek üzere Android Ayarları\'ndan bu uygulama için konumu etkinleştirin.</string>
@@ -531,7 +531,7 @@
 
     <!--  Global Privacy Control-->
     <string name="globalPrivacyControlActivityTitle">Küresel Gizlilik Kontrolü (GPC)</string>
-    <string name="globalPrivacyControlDescription"><![CDATA[DuckDuckGo birçok izleyiciyi otomatik olarak engeller. Küresel Gizlilik Kontrolü (GPC) ile, katılımcı web sitelerinden kişisel verilerinizin satışını veya diğer şirketlerle paylaşımını kısıtlamalarını da isteyebilirsiniz. <u><a href=\"\">Daha Fazla Bilgi</a><u/>]]></string>
+    <string name="globalPrivacyControlDescription"><![CDATA[Tragogo birçok izleyiciyi otomatik olarak engeller. Küresel Gizlilik Kontrolü (GPC) ile, katılımcı web sitelerinden kişisel verilerinizin satışını veya diğer şirketlerle paylaşımını kısıtlamalarını da isteyebilirsiniz. <u><a href=\"\">Daha Fazla Bilgi</a><u/>]]></string>
     <string name="globalPrivacyControlSetting">Küresel Gizlilik Kontrolü (GPC)</string>
     <string name="globalPrivacyControlToggle">Küresel Gizlilik Kontrolü (GPC)</string>
     <string name="disabled">Devre Dışı</string>
@@ -567,11 +567,11 @@
     <string name="settingsAccessibility">Erişilebilirlik</string>
     <string name="accessibilityActivityTitle">Erişilebilirlik</string>
     <string name="accessibilityFontSizeTitle">Metin Boyutu</string>
-    <string name="accessibilityFontSizeHint">Bu yazıyı rahatça okuyabilene kadar kaydırıcıyı sürükleyin. DuckDuckGo\'da görüntülediğiniz web siteleri bu boyuta ayarlanır.</string>
+    <string name="accessibilityFontSizeHint">Bu yazıyı rahatça okuyabilene kadar kaydırıcıyı sürükleyin. Tragogo\'da görüntülediğiniz web siteleri bu boyuta ayarlanır.</string>
     <string name="accessibilityForceZoomTitle">Manuel sayfa yakınlaştırmasını gerektir</string>
     <string name="accessibilityForceZoomSubtitle">Bunu engelleyecek olan sitelerde bile sıkıştırıp yakınlaştırın</string>
     <string name="accessibilityTextSizeOverrideTitle">Metin boyutunu yönet</string>
-    <string name="accessibilityTextSizeOverrideSubtitle">DuckDuckGo\'da görüntülediğiniz web sitelerindeki metinler aşağıdaki ayar ile eşleşecek şekilde ayarlanır</string>
+    <string name="accessibilityTextSizeOverrideSubtitle">Tragogo\'da görüntülediğiniz web sitelerindeki metinler aşağıdaki ayar ile eşleşecek şekilde ayarlanır</string>
 
     <!-- Privacy Policy -->
     <string name="settingsPrivacyPolicyDuckduckgo">Gizlilik Politikası</string>
@@ -624,7 +624,7 @@
     <string name="tabSelectedIndicator">Seçili sekme göstergesi</string>
     <string name="tabNotSelectedIndicator">Seçili olmayan sekme göstergesi</string>
 
-    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">DuckDuckGo\'dan %1$d bağlantı</string>
+    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">Tragogo\'dan %1$d bağlantı</string>
     <plurals name="shareLinksMenuItem" tools:ignore="ImpliedQuantity,MissingInstruction">
         <item quantity="one">Bağlantıyı Paylaş</item>
         <item quantity="other">%1$d Bağlantıyı Paylaş</item>
@@ -685,7 +685,7 @@
     </plurals>
 
     <!-- Private voice search -->
-    <string name="accessibilityVoiceSearchSubtitle">Adres çubuğuna Gizli Sesli Arama seçeneğini ekleyin. Ses kaydı depolanmaz veya DuckDuckGo dâhil olmak üzere kimseyle paylaşılmaz.</string>
+    <string name="accessibilityVoiceSearchSubtitle">Adres çubuğuna Gizli Sesli Arama seçeneğini ekleyin. Ses kaydı depolanmaz veya Tragogo dâhil olmak üzere kimseyle paylaşılmaz.</string>
     <string name="accessibilityVoiceSearchTitle">Özel Sesli Arama</string>
 
     <!-- Uploading an image from the camera or choosing to use existing image -->
@@ -693,8 +693,8 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Bir resim yükle</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Dosya Seç</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Fotoğraf Çek</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">DuckDuckGo\'nun bu cihazda kamera erişimi istemesine izin ver</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Siteler kameranızı yalnızca DuckDuckGo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tragogo\'nun bu cihazda kamera erişimi istemesine izin ver</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Siteler kameranızı yalnızca Tragogo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Ayarları Aç</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Vazgeç</string>
 
@@ -708,7 +708,7 @@
     <string name="sslErrorHeadline" instruction="Placeholder is domain with certificate issues">Bu sitenin sertifikası geçersiz. %1$s gibi görünen ve gizli bilgilerinizi riske atabilecek bir sunucuya bağlanıyor olabilirsiniz.</string>
     <string name="sslErrorLeaveCTA">Bu Siteden Ayrılın</string>
     <string name="sslErrorAdvancedCTA">Gelişmiş</string>
-    <string name="sslErrorExpandedHeadline">DuckDuckGo, bir web sitesinin sertifikası geçersiz olduğunda sizi uyarır.</string>
+    <string name="sslErrorExpandedHeadline">Tragogo, bir web sitesinin sertifikası geçersiz olduğunda sizi uyarır.</string>
     <string name="sslErrorExpandedCTA"><![CDATA[<u>Riski Kabul Edin ve Siteyi Ziyaret Edin</u>]]></string>
     <string name="sslErrorExpiredMessage" instruction="Placeholder is domain with certificate issues">%1$s için güvenlik sertifikasının süresi doldu. Web sitesi yanlış yapılandırılmış, bir saldırgan bağlantınızı tehlikeye atmış veya sistem saatiniz yanlış ayarlanmış olabilir.</string>
     <string name="sslErrorWrongHostMessage" instruction="Placeholder is domain with certificate issues">%1$s için güvenlik sertifikası eşleşmiyor *.%2$s. Web sitesi yanlış yapılandırılmış, bir saldırgan bağlantınızı tehlikeye atmış veya sistem saatiniz yanlış ayarlanmış olabilir.</string>
@@ -745,7 +745,7 @@
     <string name="highlightsPreOnboardingAddressBarOption2Title">Alt</string>
     <string name="highlightsPreOnboardingAddressBarOption2Description">Ulaşması kolay</string>
     <string name="onboardingSearchDaxDialogTitle">Bir şeyler arayın!</string>
-    <string name="onboardingSearchDaxDialogDescription">DuckDuckGo aramalarınız her zaman gizlidir.</string>
+    <string name="onboardingSearchDaxDialogDescription">Tragogo aramalarınız her zaman gizlidir.</string>
     <string name="onboardingSearchDaxDialogOption1" instruction="translate &apos;duck&apos; too.">"ingilizcede ördek nasıl denir"</string>
     <string name="onboardingSearchDaxDialogOption1English" instruction="translate &apos;duck&apos; too. Don&apos;t add question mark">"ispanyolcada ördek nasıl denir"</string>
     <string name="onboardingSearchQueryOption1">ingilizcede ördek nasıl denir</string>
@@ -761,8 +761,8 @@
     <string name="onboardingSitesDaxDialogOption2">yahoo.com</string>
     <string name="onboardingSitesDaxDialogOption3">ebay.com</string>
     <string name="onboardingSitesDaxDialogOption4">Şaşırt beni!</string>
-    <string name="onboardingSerpDaxDialogDescription"><![CDATA[<b>DuckDuckGo Search</b> işte bu! Özel. Hızlı. Daha az reklam.]]></string>
-    <string name="onboardingSerpDaxDialogBrandDesignTitle">İşte DuckDuckGo Search!</string>
+    <string name="onboardingSerpDaxDialogDescription"><![CDATA[<b>Tragogo Search</b> işte bu! Özel. Hızlı. Daha az reklam.]]></string>
+    <string name="onboardingSerpDaxDialogBrandDesignTitle">İşte Tragogo Search!</string>
     <string name="onboardingSerpDaxDialogBrandDesignDescription">Gizli. Hızlı. Daha az reklam.</string>
     <string name="onboardingSerpDaxDialogButton">Anladım!</string>
     <string name="onboardingSitesSuggestionsDaxDialogTitle">Sonra, bir siteyi ziyaret etmeyi deneyin!</string>
@@ -783,7 +783,7 @@
     <string name="onboardingInContextEndDaxDialogDescription">Unutmayın: İnterneti benimle ne kadar çok gezerseniz rahatsız edici reklamları da o kadar az görürsünüz. 👌</string>
     <string name="onboardingEndDaxDialogButton">Çak Bir Beşlik!</string>
     <string name="onboardingPrivacyProDaxDialogTitle">Ah, unutmadan...</string>
-    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[DuckDuckGo\'nun ayrıca güvenli bir <b>VPN</b> ve <b>gelişmiş, gizli yapay zeka</b> içeren <b>isteğe bağlı ücretli bir aboneliği</b> var.]]></string>
+    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[Tragogo\'nun ayrıca güvenli bir <b>VPN</b> ve <b>gelişmiş, gizli yapay zeka</b> içeren <b>isteğe bağlı ücretli bir aboneliği</b> var.]]></string>
     <string name="onboardingPrivacyProDaxDialogOkButton">Daha Fazla Bilgi</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButton">Ücretsiz deneyin!</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButtonBrandDesign">Ücretsiz dene!</string>
@@ -798,7 +798,7 @@
 
     <!--Onboarding Reinstall Quick Setup-->
     <string name="preOnboardingReinstallQuickSetupTitle">Tekrar hoşgeldiniz!&lt;br/&gt;Özelleştirmek istediğiniz bir var mı?</string>
-    <string name="preOnboardingReinstallSetDefaultLabel">DuckDuckGo\'yu varsayılan olarak ayarla</string>
+    <string name="preOnboardingReinstallSetDefaultLabel">Tragogo\'yu varsayılan olarak ayarla</string>
     <string name="preOnboardingReinstallAddHomeScreenWidgetLabel">Ana ekran widget\'ını ekle</string>
     <string name="preOnboardingReinstallAddressBarLabel">Adres çubuğu konumu</string>
     <string name="preOnboardingReinstallAddressBarSearchOptionsLabel">Adres çubuğu arama seçenekleri</string>
@@ -830,23 +830,23 @@
     <string name="showOnAppLaunchOptionSpecificPage">Belirli Bir Sayfa</string>
 
     <!-- Privacy Dashboard -->
-    <string name="brokenSiteSubmittedReportMessage">Teşekkür ederiz! Raporunuz DuckDuckGo\'yu herkes için daha iyi hale getirmeye yardımcı oluyor!</string>
+    <string name="brokenSiteSubmittedReportMessage">Teşekkür ederiz! Raporunuz Tragogo\'yu herkes için daha iyi hale getirmeye yardımcı oluyor!</string>
 
     <!--    Default Browser Bottom Sheet Dialog -->
-    <string name="defaultBrowserBottomSheetDialogTitle">DuckDuckGo\'nun internette yaptıklarınızın daha fazlasını korumasına izin verin</string>
-    <string name="defaultBrowserBottomSheetDialogSubTitle">Bağlantıların DuckDuckGo\'da açılması için varsayılan tarayıcınızı değiştirin.</string>
+    <string name="defaultBrowserBottomSheetDialogTitle">Tragogo\'nun internette yaptıklarınızın daha fazlasını korumasına izin verin</string>
+    <string name="defaultBrowserBottomSheetDialogSubTitle">Bağlantıların Tragogo\'da açılması için varsayılan tarayıcınızı değiştirin.</string>
     <string name="defaultBrowserBottomSheetDialogGhostButton" instruction="This text appears on a button">Şimdi Değil</string>
 
     <!-- Default Browser message -->
-    <string name="newTabPageDefaultBrowserMessageHeading">DuckDuckGo varsayılan tarayıcınız değil. Daha fazla koruma elde edin.</string>
+    <string name="newTabPageDefaultBrowserMessageHeading">Tragogo varsayılan tarayıcınız değil. Daha fazla koruma elde edin.</string>
     <string name="newTabPageDefaultBrowserMessagePrimaryCta" instruction="This text appears on a button">Varsayılan Olarak Ayarla</string>
     <string name="newTabPageDefaultBrowserMessageSecondaryCta" instruction="This text appears on a button">Bir Daha Sorma</string>
 
     <!-- Threat protection -->
     <string name="maliciousSiteTitle">Uyarı: Bu site bir güvenlik riski oluşturabilir</string>
-    <string name="maliciousSiteMalwareHeadline"><![CDATA[Cihazınızı tehlikeye atmak veya kişisel bilgilerinizi çalmak için tasarlanmış kötü amaçlı yazılım dağıtıyor olabileceğinden, DuckDuckGo bu sayfayı engelledi. <a href=\"\">Daha fazla bilgi</a>]]></string>
+    <string name="maliciousSiteMalwareHeadline"><![CDATA[Cihazınızı tehlikeye atmak veya kişisel bilgilerinizi çalmak için tasarlanmış kötü amaçlı yazılım dağıtıyor olabileceğinden, Tragogo bu sayfayı engelledi. <a href=\"\">Daha fazla bilgi</a>]]></string>
     <string name="maliciousSitePhishingHeadline"><![CDATA[Bu web sitesi, şifre veya kredi kartı numarası gibi kişisel bilgilerinizi vermeniz için sizi kandırmak amacıyla meşru bir siteyi taklit ediyor olabilir.\n<a href=\"\">Daha fazla bilgi</a>]]></string>
-    <string name="maliciousSiteScamHeadline"><![CDATA[DuckDuckGo, sizi yanlış iddialarla para transfer etmeye, sahte ürünler satın almaya veya kötü amaçlı yazılım yüklemenizi sağlamaya çalışıyor olabileceği için bu sayfayı engelledi.\n<a href=\"\">Daha fazla bilgi</a>]]></string>
+    <string name="maliciousSiteScamHeadline"><![CDATA[Tragogo, sizi yanlış iddialarla para transfer etmeye, sahte ürünler satın almaya veya kötü amaçlı yazılım yüklemenizi sağlamaya çalışıyor olabileceği için bu sayfayı engelledi.\n<a href=\"\">Daha fazla bilgi</a>]]></string>
     <string name="maliciousSiteLeaveCTA">Bu Siteden Ayrılın</string>
     <string name="maliciousSiteAdvancedCTA">Gelişmiş</string>
     <string name="maliciousSiteExpandedHeadline"><![CDATA[Bu web sitesinin güvenli olduğuna inanıyorsanız <a href=\"\">bir hata bildirebilirsiniz</a>. Riski göze alabiliyorsanız web sitesini yine de ziyaret edebilirsiniz.]]></string>
@@ -858,7 +858,7 @@
     <string name="maliciousSiteSettingLearnMore"><annotation type="learn_more_link">Daha Fazla Bilgi</annotation></string>
     <string name="maliciousSiteSettingDisabled">Bu özelliği devre dışı bırakmak bilgilerinizi riske atabilir.</string>
     <string name="threatProtectionTitle">Tehdit Koruması</string>
-    <string name="threatProtectionDescription">DuckDuckGo\'nun gelişmiş korumaları, bağlantıyı güvende tutarken yaygın tehditleri durdurur.</string>
+    <string name="threatProtectionDescription">Tragogo\'nun gelişmiş korumaları, bağlantıyı güvende tutarken yaygın tehditleri durdurur.</string>
     <string name="smarterEncryptionTitle">Smarter Encryption</string>
     <string name="smarterEncryptionDescription"><![CDATA[Mümkün olduğunda bağlantıları otomatik olarak HTTPS\'ye yükseltir.<a href=\"\">Daha Fazla Bilgi</a>]]></string>
     <string name="scamBlockerTitle">Dolandırıcılık Engelleyici</string>
@@ -870,7 +870,7 @@
     <string name="experimentHomeScreenWidgetBottomSheetDialogSubTitle">Hızlı ve kolay erişim için arama widget\'ımızı ana ekranınıza ekleyin.</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogPrimaryButton">Widget Ekle</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogGhostButton">Şimdi Değil</string>
-    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">DuckDuckGo\'da Ara</string>
+    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Tragogo\'da Ara</string>
 
     <!-- Change under remote feature flag: Widget as a Protection -->
     <string name="settingsAddHomeWidgetTitle">Ana Ekran Widget\'ı</string>
@@ -892,19 +892,19 @@
 
     <!-- Widgets -->
     <string name="searchOnlyWidgetLabel" instruction="Label for the search-only widget">Yalnızca Arama</string>
-    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">DuckDuckGo ile hızlıca gizli bir arama başlatın.</string>
-    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">DuckDuckGo ile gizli arama yapın veya Duck.ai\'a sorun. Etkinleştirildiğinde Sesli Arama ve Duck.ai kullanılabilir.</string>
+    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Tragogo ile hızlıca gizli bir arama başlatın.</string>
+    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Tragogo ile gizli arama yapın veya Duck.ai\'a sorun. Etkinleştirildiğinde Sesli Arama ve Duck.ai kullanılabilir.</string>
     <string name="searchAndFavoritesWidgetDescription" instruction="Description for the search and favorites widget">Tek dokunuşla favori sitelerinizi gizlice arayın veya ziyaret edin. Etkinleştirildiğinde Sesli Arama ve Duck.ai kullanılabilir.</string>
     <string name="duckAiOnlyPinShortcutLabel" instruction="Label for the Duck.ai pinned shortcut. Should be Duck.ai in all languages">Duck.ai</string>
 
     <!-- Sync Restore (onboarding) -->
     <string name="syncRestoreDialogTitle">Kaldığınız yerden devam edelim</string>
-    <string name="syncRestoreDialogDescription">Önceki DuckDuckGo senkronizasyonundan yer işaretleri, şifreler ve daha fazlasını geri yüklemek mi istiyorsunuz?</string>
+    <string name="syncRestoreDialogDescription">Önceki Tragogo senkronizasyonundan yer işaretleri, şifreler ve daha fazlasını geri yüklemek mi istiyorsunuz?</string>
     <string name="syncRestoreDialogPrimaryCta">Geri Yükle</string>
     <string name="syncRestoreDialogSecondaryCta">Atla</string>
 
     <!-- Sync Restore (brand-design onboarding) -->
-    <string name="syncRestoreDialogBrandDesignTitle">DuckDuckGo\'da kaldığınız yerden devam edelim.</string>
+    <string name="syncRestoreDialogBrandDesignTitle">Tragogo\'da kaldığınız yerden devam edelim.</string>
     <string name="syncRestoreDialogBrandDesignBody1">Kaydedilmiş yer işaretleriniz, şifreleriniz ve daha fazlası hazır.</string>
 
     <!-- PDF download tooltip -->
@@ -953,7 +953,7 @@
     <!-- Pre-onboarding: input demo screen -->
     <string name="preOnboardingInputModeDemoTitleCustomAi">Şimdi, gizli yapay zekâ sohbetini deneyin!</string>
     <!-- Pre-onboarding: browser comparison screen -->
-    <string name="preOnboardingDaxDialog2TitleCustomAi">DuckDuckGo\'yu varsayılan tarayıcınız yapmak ister misiniz?</string>
+    <string name="preOnboardingDaxDialog2TitleCustomAi">Tragogo\'yu varsayılan tarayıcınız yapmak ister misiniz?</string>
 
     <!-- Pre-onboarding: widget prompt -->
     <string name="preOnboardingWidgetPromptTitle">Ana Ekran widget\'ımızı deneyin.</string>
@@ -987,7 +987,7 @@
     <string name="input_screen_user_pref_with_ai_updated">Arama ile\nDuck.ai arasında geçiş yapın</string>
 
     <!-- New Address Bar Picker -->
-    <string name="newAddressBarPickerDuckDuckGo" translatable="false">DuckDuckGo</string>
+    <string name="newAddressBarPickerTragogo" translatable="false">Tragogo</string>
     <string name="newAddressBarPickerConfirm">Onayla</string>
 
     <!-- App feedback -->
@@ -1013,7 +1013,7 @@
     <string name="downloadsCannotOpenFileErrorMessage">Dosya açılamıyor. Uyumlu uygulama arayın.</string>
 
     <!-- Error pages -->
-    <string name="webViewErrorTitle" instruction="Title shown on the error pages">DuckDuckGo bu sayfayı yükleyemiyor</string>
+    <string name="webViewErrorTitle" instruction="Title shown on the error pages">Tragogo bu sayfayı yükleyemiyor</string>
     <string name="webViewErrorNoConnection" instruction="Message shown when the page fails to load because the device has no internet connection">Görünüşe göre internet bağlantısı yok.</string>
     <string name="webViewErrorBadUrl" instruction="Message shown when the hostname of the website could not be resolved">Belirtilen ana bilgisayar adına sahip sunucu bulunamadı.</string>
     <string name="webViewErrorSslProtocol" instruction="Message shown when the website&apos;s SSL certificate is invalid. Placeholder is the website&apos;s address"><![CDATA[Bu sunucunun sertifikası geçersiz. <b>%1$s</b> gibi görünen ve gizli bilgilerinizi riske atabilecek bir sunucuya bağlanıyor olabilirsiniz.]]></string>

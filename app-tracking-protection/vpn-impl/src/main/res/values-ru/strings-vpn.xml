@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -141,14 +141,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Все приложения</string>
     <string name="atp_ExcludedAppsFeature">Защита от слежки блокирует трекеры сторонних компаний (например, Facebook) при попытке следить за вами в таких приложениях как «Здоровье». Однако компании могут отслеживать вас в собственных приложениях.\n\nЕсли приложение сбоит, отключите для него защиту.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">Чтобы устранить проблемы с загрузкой контента, DuckDuckGo может отключить защиту для некоторых приложений. Ваши собственные настройки не изменятся, если вы сами не сбросите их на значения по умолчанию.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Чтобы устранить проблемы с загрузкой контента, Tragogo может отключить защиту для некоторых приложений. Ваши собственные настройки не изменятся, если вы сами не сбросите их на значения по умолчанию.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Защита от слежки отключена</b> Она нарушает работу приложений? <annotation type="report_issues_link">Сообщите о проблемах</annotation></string>
     <string name="atp_ExcludedAppsReport">Сообщить о проблеме с другим приложением</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Выключено вручную</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Включено вручную</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Отменить</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Восстановить</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">При включении защиты название приложения передается в DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">При включении защиты название приложения передается в Tragogo.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Приложение перестало корректно работать</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Я не против отслеживания в этом приложении</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Другая причина</string>
@@ -157,7 +157,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Восстановить параметры защиты по умолчанию?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Пользовательские настройки будут заменены на настройки по умолчанию последней версии. Их можно изменить позднее.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Восстановлены настройки защиты по умолчанию</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">При включении защиты название приложения передается в DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">При включении защиты название приложения передается в Tragogo.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Сообщить о проблеме</string>
@@ -167,10 +167,10 @@
     <string name="atp_ReportBreakageAppNextCta">Далее</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Опишите, что происходит, что ожидалось и какие действия привели к неполадке.</string>
     <string name="atp_ReportBreakageFormInputHint">Расскажите о проблеме немного подробнее</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Нажимая кнопку «Отправить», я разрешаю DuckDuckGo использовать данные в этом отчете для улучшения работы приложения.
+    <string name="atp_ReportBreakageFormCheckboxText">Нажимая кнопку «Отправить», я разрешаю Tragogo использовать данные в этом отчете для улучшения работы приложения.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Помимо сведений, указанных в форме, в отчет о сбое приложения также войдет следующая информация:<br/>• имя пакета приложения<br/>• список заблокированных в приложении трекеров<br/>• данные о включении функций DuckDuckGo<br/>• сводная диагностика приложения DuckDuckGo<br/>]]>
+        <![CDATA[Помимо сведений, указанных в форме, в отчет о сбое приложения также войдет следующая информация:<br/>• имя пакета приложения<br/>• список заблокированных в приложении трекеров<br/>• данные о включении функций Tragogo<br/>• сводная диагностика приложения Tragogo<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Отчет отправлен. Спасибо! Ваши отзывы помогают нам улучшать защиту от слежки для всех.</string>
     <string name="atp_ThanksForTheFeedback">Спасибо за отзыв!</string>
@@ -189,7 +189,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">О трекерах в приложениях</string>
     <string name="atp_ProfilingInfoTitle">Что такое трекеры в приложениях?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Вы, вероятно, слышали, что Google, Facebook и многие другие компании незаметно отслеживают ваши действия на сторонних сайтах. Однако не всем известно, что они также собирают личные данные через приложения.\n\nМы протестировали 100 популярных бесплатных приложений для Android, и <b>как минимум 96</b> из них содержали трекеры. 87 из них отправляли данные в Google, а 68 — в Facebook, причем даже когда не использовалось устройство.\n\nБолее того, <b>трекеры в приложениях могут извлекать намного больше информации</b>, чем на сайтах — например, определить, на каком этаже вы живете, как часто играете в игры на работе, когда и сколько вы спите. <b>Даже если у вас нет учетной записи Google или Facebook, они все равно могут собирать о вас данные через приложения.</b>\n\nИспользуя полученные крупицы информации, сети отслеживания (Facebook, Google и подобные) <b>составляют на вас цифровое досье</b>. Опираясь на него, они могут управлять тем, что вы видите в Интернете, а доступ к досье также продается рекламщикам, которые готовы за него заплатить.\n\nТрекеры в приложениях — СЕРЬЕЗНАЯ угроза конфиденциальности. <b>Но у DuckDuckGo есть решение.</b>Включите в конфиденциальном браузере приложения DuckDuckGo защиту от слежки, которая будет блокировать множество трекеров в других программах на вашем устройстве. Кроме того, приложение DuckDuckGo одновременно блокирует трекеры на сайтах. <b>Эта двойная защита существенно уменьшит объем данных, собранных о вас сторонними компаниями</b>, пока вы пользуетесь привычными приложениями.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Вы, вероятно, слышали, что Google, Facebook и многие другие компании незаметно отслеживают ваши действия на сторонних сайтах. Однако не всем известно, что они также собирают личные данные через приложения.\n\nМы протестировали 100 популярных бесплатных приложений для Android, и <b>как минимум 96</b> из них содержали трекеры. 87 из них отправляли данные в Google, а 68 — в Facebook, причем даже когда не использовалось устройство.\n\nБолее того, <b>трекеры в приложениях могут извлекать намного больше информации</b>, чем на сайтах — например, определить, на каком этаже вы живете, как часто играете в игры на работе, когда и сколько вы спите. <b>Даже если у вас нет учетной записи Google или Facebook, они все равно могут собирать о вас данные через приложения.</b>\n\nИспользуя полученные крупицы информации, сети отслеживания (Facebook, Google и подобные) <b>составляют на вас цифровое досье</b>. Опираясь на него, они могут управлять тем, что вы видите в Интернете, а доступ к досье также продается рекламщикам, которые готовы за него заплатить.\n\nТрекеры в приложениях — СЕРЬЕЗНАЯ угроза конфиденциальности. <b>Но у Tragogo есть решение.</b>Включите в конфиденциальном браузере приложения Tragogo защиту от слежки, которая будет блокировать множество трекеров в других программах на вашем устройстве. Кроме того, приложение Tragogo одновременно блокирует трекеры на сайтах. <b>Эта двойная защита существенно уменьшит объем данных, собранных о вас сторонними компаниями</b>, пока вы пользуетесь привычными приложениями.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">За последние 7 дней</string>
@@ -237,10 +237,10 @@
     <string name="atp_ActivityAbout">О нас</string>
     <string name="atp_ActivityManage">Настроить</string>
     <string name="atp_ActivityRemoveFeature">Отключить и удалить данные</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo блокирует скрытые трекеры в различных приложениях.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo блокирует скрытые трекеры в различных приложениях.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Чтобы повторно включить блокировку трекеров, активируйте функцию защиты от слежки в приложениях.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">Заблокировано DuckDuckGo %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">Заблокировано DuckDuckGo %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Заблокировано Tragogo %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Заблокировано Tragogo %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">Вопросы и ответы</string>
@@ -255,7 +255,7 @@
     <string name="atp_FAQFifthHeader">Чем защита от слежки отличается от VPN?</string>
     <string name="atp_FAQFifthText">VPN передает ваши данные с устройства на собственный сервер, где они анонимизируются и сохраняются вдали от посторонних глаз. Однако при этом ваш сетевой трафик все равно виден компании, предоставляющей VPN.\n\n<b>Защита от слежки работает иначе.</b> Она предотвращает передачу определенных данных из приложений на сервера, <b>работая локально</b>.\nВсякий раз, обнаружив трекер, <b>защита от слежки не дает ему отправить с вашего устройства информацию личного характера (например, IP-адрес или сведения об устройстве и вашей активности).</b> Весь остальной трафик достигает места назначения, чтобы ваши приложения могли нормально работать.</string>
     <string name="atp_FAQSixthHeader">Надежно ли защищены мои данные?</string>
-    <string name="atp_FAQSixthText">Защита от слежки работает на вашем устройстве и не передает ваши личные данные в DuckDuckGo.</string>
+    <string name="atp_FAQSixthText">Защита от слежки работает на вашем устройстве и не передает ваши личные данные в Tragogo.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Вы получили приглашение воспользоваться защитой от слежки!</string>
@@ -287,10 +287,10 @@
         <item quantity="other" instruction="Placeholder is a number">Попыток: %1$d. Обычно собирает:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo пресек %1$d попытку отслеживания</item>
-        <item quantity="few">DuckDuckGo пресек %1$d попытки отслеживания</item>
-        <item quantity="many">DuckDuckGo пресек %1$d попыток отслеживания</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo пресек попытки отслеживания (%1$d)</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo пресек %1$d попытку отслеживания</item>
+        <item quantity="few">Tragogo пресек %1$d попытки отслеживания</item>
+        <item quantity="many">Tragogo пресек %1$d попыток отслеживания</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo пресек попытки отслеживания (%1$d)</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Сообщить о проблеме с приложением</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Показать еще %1$d</string>
@@ -392,8 +392,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Открыть «Настройки»</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Не сейчас</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Чтобы Android не отключил вам защиту от трекеров в будущем, откройте настройки VPN для DuckDuckGo на своем устройстве и выберите для VPN вариант <b>«Всегда включено»</b>.\n\nУбедитесь, что другой параметр ВЫКЛЮЧЕН.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Чтобы приложение работало без перебоев, откройте <b>настройки VPN для DuckDuckGo</b> и отключите опцию <b>«Блокировать подключения без VPN»</b>]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Чтобы Android не отключил вам защиту от трекеров в будущем, откройте настройки VPN для Tragogo на своем устройстве и выберите для VPN вариант <b>«Всегда включено»</b>.\n\nУбедитесь, что другой параметр ВЫКЛЮЧЕН.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Чтобы приложение работало без перебоев, откройте <b>настройки VPN для Tragogo</b> и отключите опцию <b>«Блокировать подключения без VPN»</b>]]></string>
     <string name="atp_AlwaysOnModalHeading">Задать «Всегда включено»</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Измените настройки VPN</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Внимание!</b> Измените настройки Android, чтобы приложение работало без перебоев. <annotation type="open_settings_link">Изменить настройки</annotation></string>
@@ -442,14 +442,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Уведомления о пресеченных попытках отслеживания в панели уведомлений.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Не получается включить защиту от отслеживания в приложениях (App Tracking Protection) из-за VPN? Переходите на DuckDuckGo VPN — единственный совместимый с защитой сервис. <annotation type="ppro_upsell_link">Подробнее...</annotation></string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Защита от отслеживания в приложениях не работает из-за VPN? Переходите на DuckDuckGo VPN — единственный сервис, совместимый с функцией App Tracking Protection. <annotation type="ppro_upsell_link">Ознакомление бесплатное!</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>Защита App Tracking Protection отключена</b>\nVPN отключил защиту от трекеров в приложениях? Активируйте ее снова с помощью переключателя выше.\n\nИ установите DuckDuckGo VPN — единственный VPN, совместимый с App Tracking Protection. <annotation type="ppro_upsell_link">Подробнее...</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Защита App Tracking Protection отключена</b>\nVPN отключил защиту от трекеров в приложениях? Активируйте ее снова с помощью переключателя выше.\n\nПереходите на DuckDuckGo VPN — единственный сервис, совместимый с функцией App Tracking Protection. <annotation type="ppro_upsell_link">Ознакомление бесплатное!</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled">Не получается включить защиту от отслеживания в приложениях (App Tracking Protection) из-за VPN? Переходите на Tragogo VPN — единственный совместимый с защитой сервис. <annotation type="ppro_upsell_link">Подробнее...</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Защита от отслеживания в приложениях не работает из-за VPN? Переходите на Tragogo VPN — единственный сервис, совместимый с функцией App Tracking Protection. <annotation type="ppro_upsell_link">Ознакомление бесплатное!</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>Защита App Tracking Protection отключена</b>\nVPN отключил защиту от трекеров в приложениях? Активируйте ее снова с помощью переключателя выше.\n\nИ установите Tragogo VPN — единственный VPN, совместимый с App Tracking Protection. <annotation type="ppro_upsell_link">Подробнее...</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Защита App Tracking Protection отключена</b>\nVPN отключил защиту от трекеров в приложениях? Активируйте ее снова с помощью переключателя выше.\n\nПереходите на Tragogo VPN — единственный сервис, совместимый с функцией App Tracking Protection. <annotation type="ppro_upsell_link">Ознакомление бесплатное!</annotation></string>
     <string name="apptp_PproUpsellBannerTitle">Конфиденциальность качественно нового уровня</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo предлагает единственный VPN, совместимый с защитой от отслеживания в приложениях (App Tracking Protection). Для его активации необходима платная подписка Privacy Pro.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo предлагает единственный VPN, совместимый с защитой от отслеживания в приложениях (App Tracking Protection). Для его активации необходима платная подписка Privacy Pro.</string>
     <string name="apptp_PproUpsellBannerAction">Узнать больше</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Подписка DuckDuckGo обеспечивает единственный VPN, совместимый с функцией App Tracking Protection (защита от отслеживания в приложениях).</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Подписка Tragogo обеспечивает единственный VPN, совместимый с функцией App Tracking Protection (защита от отслеживания в приложениях).</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Ознакомление бесплатное!</string>
 
     <!-- Content Descriptions -->

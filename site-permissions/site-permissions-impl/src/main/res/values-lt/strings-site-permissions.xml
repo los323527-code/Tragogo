@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Įsiminti mano pasirinkimą</string>
     <string name="preciseLocationDDGDialogSubtitle">Jūsų anoniminę buvimo vietą naudojame tik tam, kad galėtume pateikti geresnius rezultatus arčiau jūsų. Galite tvarkyti vietos prieigos leidimus, kuriuos nustatymuose suteikėte pavienėms svetainėms.</string>
     <string name="preciseLocationSiteDialogSubtitle">Galite tvarkyti vietos prieigos leidimus, kuriuos nustatymuose suteikėte pavienėms svetainėms.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Leisti „DuckDuckGo“ prašyti vietos prieigos šiame įrenginyje</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Svetainės gali naudoti jūsų buvimo vietą tik tada, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Leisti „DuckDuckGo“ prašyti vietos prieigos</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Leisti „Tragogo“ prašyti vietos prieigos šiame įrenginyje</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Svetainės gali naudoti jūsų buvimo vietą tik tada, jei leisite „Tragogo“ prašyti prieigos.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Leisti „Tragogo“ prašyti vietos prieigos</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Svetainės leidimai</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Tvarkykite suteiktus leidimus nustatymuose</string>
     <string name="sitePermissionsDialogDenyButton">Atsisakyti</string>
     <string name="sitePermissionsDialogAllowButton">Leisti</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Leisti „DuckDuckGo“ prašyti prieigos prie kameros ir mikrofono</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Leisti „DuckDuckGo“ prašyti prieigos prie kameros</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Leisti „DuckDuckGo“ prašyti prieigos prie mikrofono</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Leisti „Tragogo“ prašyti prieigos prie kameros ir mikrofono</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Leisti „Tragogo“ prašyti prieigos prie kameros</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Leisti „Tragogo“ prašyti prieigos prie mikrofono</string>
     <string name="sitePermissionsDeniedSnackBarAction">Leisti</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Leisti „DuckDuckGo“ prašyti prieigos prie kameros šiame įrenginyje</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Svetainės gali naudoti jūsų kamerą tik tada, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Leisti „DuckDuckGo“ prašyti prieigos prie mikrofono šiame įrenginyje</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Svetainės gali naudoti jūsų mikrofoną tik tuo atveju, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Leisti „DuckDuckGo“ prašyti prieigos prie kameros ir mikrofono šiame įrenginyje</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Svetainės gali naudoti jūsų kamerą ir mikrofoną tik tada, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Leisti „Tragogo“ prašyti prieigos prie kameros šiame įrenginyje</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Svetainės gali naudoti jūsų kamerą tik tada, jei leisite „Tragogo“ prašyti prieigos.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Leisti „Tragogo“ prašyti prieigos prie mikrofono šiame įrenginyje</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Svetainės gali naudoti jūsų mikrofoną tik tuo atveju, jei leisite „Tragogo“ prašyti prieigos.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Leisti „Tragogo“ prašyti prieigos prie kameros ir mikrofono šiame įrenginyje</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Svetainės gali naudoti jūsų kamerą ir mikrofoną tik tada, jei leisite „Tragogo“ prašyti prieigos.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Atidaryti nustatymus</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Atšaukti</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Balso funkcijoms reikia leidimo naudoti mikrofoną</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">„DuckDuckGo“ reikia prieigos prie tavo mikrofono</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">„Tragogo“ reikia prieigos prie tavo mikrofono</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Jei nori naudotis „Duck.ai“ pokalbiais balsu, reikia leidimo naudoti mikrofoną</string>
 
     <string name="sitePermissionsSettingsDescription">Svetainėse, kuriose lankotės, gali būti prašoma prieigos prie jūsų įrenginio buvimo vietos, kameros, mikrofono arba DRM (skaitmeninių teisių valdymo) programinės įrangos. Jos negalės prie jų prisijungti, nebent aiškiai suteiksite joms leidimą.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Jei neleisi, vaizdo įrašai svetainėje gali nebeveikti, tačiau ši svetainė neturės prieigos prie įrenginio identifikatorių, kuriuos teikia DRM programinė įranga.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Keisti leidimus</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">„DuckDuckGo“ reikia pasiekti tavo vietovę</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Keisti leidimus</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">„Tragogo“ reikia pasiekti tavo vietovę</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Norint šioje svetainėje naudotis vietos funkcijomis, reikia vietos leidimų.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">„DuckDuckGo“ reikia pasiekti tavo kamerą</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">„Tragogo“ reikia pasiekti tavo kamerą</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Norint šioje svetainėje naudotis kameros funkcijomis, reikia kameros leidimų.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">„DuckDuckGo“ reikia pasiekti tavo mikrofoną</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">„Tragogo“ reikia pasiekti tavo mikrofoną</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Jei šioje svetainėje nori naudotis mikrofono funkcijomis, reikia mikrofono leidimų.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">„DuckDuckGo“ reikia pasiekti tavo kamerą ir mikrofoną</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">„Tragogo“ reikia pasiekti tavo kamerą ir mikrofoną</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Jei nori šioje svetainėje naudotis kameros ir mikrofono funkcijomis, reikia leidimo naudoti kamerą ir mikrofoną.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">„DuckDuckGo“ nepavyko bendrinti vietovės su šia svetaine</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">„DuckDuckGo“ nepavyko suteikti šiai svetainei prieigos prie kameros</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">„DuckDuckGo“ nepavyko suteikti šiai svetainei prieigos prie mikrofono</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">„DuckDuckGo“ nepavyko suteikti šiai svetainei prieigos prie kameros ir mikrofono</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">„Tragogo“ nepavyko bendrinti vietovės su šia svetaine</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">„Tragogo“ nepavyko suteikti šiai svetainei prieigos prie kameros</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">„Tragogo“ nepavyko suteikti šiai svetainei prieigos prie mikrofono</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">„Tragogo“ nepavyko suteikti šiai svetainei prieigos prie kameros ir mikrofono</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Visada leisti</string>

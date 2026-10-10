@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Şifreler</string>
     <string name="browserMenuDownloads">İndirilenler</string>
     <string name="browserMenuSettings">Ayarlar</string>
-    <string name="browserMenuOpenInDDG">DuckDuckGo\'da aç</string>
-    <string name="browserMenuRunningInDDG">DuckDuckGo\'da Çalışıyor</string>
+    <string name="browserMenuOpenInDDG">Tragogo\'da aç</string>
+    <string name="browserMenuRunningInDDG">Tragogo\'da Çalışıyor</string>
     <string name="browserMenuSetAsDefaultBrowser">Varsayılan tarayıcı olarak ayarla</string>
     <string name="browserMenuNewChat">Yeni Sohbet</string>
     <string name="browserMenuNewAIChat">Yeni Yapay Zeka Sohbeti</string>

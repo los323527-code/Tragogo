@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Качване на изображение</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Изберете файл</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Направете снимка</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешаване на DuckDuckGo да иска достъп до камерата на това устройство</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Сайтовете могат да използват камерата, само ако разрешите на DuckDuckGo да поиска достъп.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешаване на Tragogo да иска достъп до камерата на това устройство</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Сайтовете могат да използват камерата, само ако разрешите на Tragogo да поиска достъп.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Отвори Настройки</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Отмени</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Няма достъп до звукозаписно устройство</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Разрешаване на DuckDuckGo да иска достъп за звукозапис на това устройство</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Сайтовете могат да използват звукозаписното устройство, само ако разрешите на DuckDuckGo да поиска достъп.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Разрешаване на Tragogo да иска достъп за звукозапис на това устройство</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Сайтовете могат да използват звукозаписното устройство, само ако разрешите на Tragogo да поиска достъп.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Функции с изкуствен интелект</string>
-    <string name="duck_chat_settings_activity_description">Функциите на DuckDuckGo AI са поверителни и незадължителни.Вашите данни не се използват за обучение на AI.\n<annotation type="learn_more_link">Научете повече</annotation></string>
+    <string name="duck_chat_settings_activity_description">Функциите на Tragogo AI са поверителни и незадължителни.Вашите данни не се използват за обучение на AI.\n<annotation type="learn_more_link">Научете повече</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Поверителен чат с популярни AI модели на трети страни</string>
     <string name="duck_chat_visibility_setting">Меню на браузъра</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Често</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Използвайте DuckDuckGo без AI</string>
+    <string name="duckAiUseWithoutAiTitle">Използвайте Tragogo без AI</string>
     <string name="duckAiUseWithoutAiDescription">Деактивира Duck.ai, скрива подпомогнатите от AI отговори в търсенето и филтрира известни спам AI сайтове в резултатите от търсенето на изображения.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI в момента е деактивиран в браузъра, затова вече няма да виждате подпомогнати от AI отговори и ще виждате по-малко генерирани от AI изображения в резултатите от търсенето на изображения.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Неуспешно експортиране на чата</string>
     <string name="duck_ai_chat_history_bulk_download_error">Неуспешно експортиране на чатове</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Търсене с DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Търсене с Tragogo</string>
     <string name="native_input_chat_hint">Задайте въпрос поверително…</string>
     <string name="native_input_chat_duck_mode_hint">Отговор…</string>
 

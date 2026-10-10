@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Zrušiť</string>
     <string name="ok">OK</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">Predplatné DuckDuckGo</string>
+    <string name="ddg_subscription">Predplatné Tragogo</string>
     <string name="manageEmail">Spravovať e-mail</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Pridaj svoje predplatné do ďalších zariadení</string>
     <string name="addToDevicePrimaryText">Pridať do zariadenia</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Pridaj si predplatné do svojich ďalších zariadení cez Google Play alebo prepojením e-mailovej adresy.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Použi vyššie uvedený e-mail na pridanie predplatného v iných zariadeniach v aplikácii DuckDuckGo. Prejdi do Nastavenia &gt; Nastavenia predplatného &gt; Mám predplatné.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Použi vyššie uvedený e-mail na pridanie predplatného v iných zariadeniach v aplikácii Tragogo. Prejdi do Nastavenia &gt; Nastavenia predplatného &gt; Mám predplatné.</string>
     <string name="editEmailPrimaryText">Upraviť e-mail</string>
     <string name="learnMore">Zistite viac</string>
     <string name="privacyProFaq">Potrebuješ pomoc s tvojím predplatným?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Predplatitelia získajú našu sieť VPN, Personal Information Removal a Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Predplatitelia získajú našu VPN a Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Predplatné DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Predplatné Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Vyskúšať zadarmo</string>
     <string name="subscriptionSettingRestore">Mám predplatné</string>
-    <string name="subscriptionSettingExpired">Platnosť tvojho predplatného DuckDuckGo vypršala</string>
+    <string name="subscriptionSettingExpired">Platnosť tvojho predplatného Tragogo vypršala</string>
     <string name="subscriptionSettingExpiredViewPlans">Zobraziť plány</string>
     <string name="subscriptionSettingSectionSubscription">Predplatné</string>
     <string name="subscriptionSettingRemoveFromDevice">Odstrániť z tohto zariadenia</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Tvoje predplatné bolo zakúpené prostredníctvom obchodu Apple App Store. Ak chceš zmeniť svoje nastavenia plánu alebo fakturácie, prejdi do časti Nastavenia &gt; Apple účet &gt; Predplatné na zariadení prihlásenom do rovnakého Apple účtu, ktorý bol použitý na zakúpenie predplatného.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Aktivuj si predplatné DuckDuckGo na pracovnej ploche a nastav si Personal Information Removal</string>
-    <string name="pirDescription">V prehliadači DuckDuckGo pre počítače začni tak, že prejdeš do časti <b>Nastavenia &gt; Prihlásiť sa na odber DuckDuckGo</b> a klikneš na <b>Mám predplatné</b>.</string>
+    <string name="pirTitle">Aktivuj si predplatné Tragogo na pracovnej ploche a nastav si Personal Information Removal</string>
+    <string name="pirDescription">V prehliadači Tragogo pre počítače začni tak, že prejdeš do časti <b>Nastavenia &gt; Prihlásiť sa na odber Tragogo</b> a klikneš na <b>Mám predplatné</b>.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Našiel/našla si problém, ktorý nepokrýva naše <annotation type="faqs_link">centrum pomoci</annotation> ? Určite o tom chceme vedieť.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Povedz nám, čo sa deje...</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Okrem vyššie uvedených údajov posielame spolu s tvojou spätnou väzbou aj niektoré anonymizované informácie:\n\n- Či sú niektoré funkcie prehliadača aktívne\n- Súhrnná diagnostika aplikácie (napr. kódy chýb)\n\nKliknutím na tlačidlo Odoslať súhlasíš s tým, že DuckDuckGo môže použiť odoslané informácie na zlepšenie aplikácie."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Okrem vyššie uvedených údajov posielame spolu s tvojou spätnou väzbou aj niektoré anonymizované informácie:\n\n- Či sú niektoré funkcie prehliadača aktívne\n- Súhrnná diagnostika aplikácie (napr. kódy chýb)\n\nKliknutím na tlačidlo Odoslať súhlasíš s tým, že Tragogo môže použiť odoslané informácie na zlepšenie aplikácie."</string>
     <string name="feedbackSubmitVpnSubmit">Odoslať</string>
     <string name="feedbackSubmitCompletedMessage">Ďakujeme! Spätná väzba bola odoslaná</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Nemôžem sa s mojím predplatným dostať na Duck.ai v iných prehliadačoch.</string>
     <string name="feedbackSubCategoryDuckAiOther">Ďalšie pripomienky Duck.ai</string>
 
-    <string name="subscriptionSettingSectionTitle">Predplatné DuckDuckGo</string>
+    <string name="subscriptionSettingSectionTitle">Predplatné Tragogo</string>
     <string name="subscriptionSettingSubscribeSecure">Zabezpeč si Wi-Fi a chatuj súkromne s pokročilými modelmi umelej inteligencie</string>
 
     <string name="feedbackGeneralSubscription">Predplatné</string>

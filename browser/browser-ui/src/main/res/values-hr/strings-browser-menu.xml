@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Lozinke</string>
     <string name="browserMenuDownloads">Preuzimanja</string>
     <string name="browserMenuSettings">Postavke</string>
-    <string name="browserMenuOpenInDDG">Otvori u DuckDuckGou</string>
-    <string name="browserMenuRunningInDDG">Izvodi se u DuckDuckGou</string>
+    <string name="browserMenuOpenInDDG">Otvori u Tragogou</string>
+    <string name="browserMenuRunningInDDG">Izvodi se u Tragogou</string>
     <string name="browserMenuSetAsDefaultBrowser">Postavi kao zadani preglednik</string>
     <string name="browserMenuNewChat">Novo čavrljanje</string>
     <string name="browserMenuNewAIChat">Nova opcija AI čavrljanja</string>

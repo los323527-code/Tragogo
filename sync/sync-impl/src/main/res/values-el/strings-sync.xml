@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς, η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη αυτήν τη στιγμή. Ξαναδοκιμάστε αργότερα.</string>
-    <string name="sync_flows_disabled_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το DuckDuckGo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
+    <string name="sync_flows_disabled_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το Tragogo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
     <string name="sync_create_account_disabled"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς, η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη αυτήν τη στιγμή. Ξαναδοκιμάστε αργότερα.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το DuckDuckGo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμα</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το Tragogo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
     <string name="sync_disabled_authenticated_user"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας τέθηκαν σε παύση</b>\nΔυστυχώς, η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη αυτήν τη στιγμή. Ξαναδοκιμάστε αργότερα.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας τέθηκαν σε παύση</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το DuckDuckGo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας τέθηκαν σε παύση</b>\nΔυστυχώς,η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη σε αυτήν την έκδοση της εφαρμογής. Ενημερώστε το Tragogo στην πιο πρόσφατη έκδοση για να συνεχίσετε.</string>
     <string name="sync_paused_notification"><b>Ο Συγχρονισμός και η δημιουργία αντιγράφων ασφάλειας τέθηκαν σε παύση</b>\nΔυστυχώς, η λειτουργία Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας δεν είναι διαθέσιμη αυτήν τη στιγμή. Ξαναδοκιμάστε αργότερα.</string>
     <string name="sync_error_notification"><b>Σφάλμα συγχρονισμού</b>\nΤο Sync &amp; Backup είναι προσωρινά μη διαθέσιμο.</string>
     <string name="sync_error_warning"><b>Σφάλμα συγχρονισμού</b>\nΤο Sync &amp; Backup είναι προσωρινά μη διαθέσιμο.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Συγχρονισμός με άλλη συσκευή</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Συγχρονίστε με ασφάλεια σελιδοδείκτες και κωδικούς πρόσβασης μεταξύ των συσκευών σας.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Συγχρονίστε με ασφάλεια σελιδοδείκτες, κωδικούς πρόσβασης και συνομιλίες στο Duck.ai μεταξύ των συσκευών σας.</string>
-    <string name="sync_off_hint">Τα δεδομένα σας είναι κρυπτογραφημένα από άκρο σε άκρο και το DuckDuckGo δεν έχει πρόσβαση στο κλειδί κρυπτογράφησης.</string>
+    <string name="sync_off_hint">Τα δεδομένα σας είναι κρυπτογραφημένα από άκρο σε άκρο και το Tragogo δεν έχει πρόσβαση στο κλειδί κρυπτογράφησης.</string>
     <string name="sync_setup_single_device_title">Εγκατάσταση μίας συσκευής</string>
     <string name="sync_setup_other_options_title">Άλλες επιλογές</string>
     <string name="sync_setup_single_recover_data_cta_title">Ανάκτηση συγχρονισμένων δεδομένων</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας αυτής της συσκευής</string>
 
-    <string name="sync_off_encrypted_hint">Τα δεδομένα σας είναι κρυπτογραφημένα από άκρο σε άκρο και το DuckDuckGo δεν έχει πρόσβαση στο κλειδί αποκρυπτογράφησης.</string>
+    <string name="sync_off_encrypted_hint">Τα δεδομένα σας είναι κρυπτογραφημένα από άκρο σε άκρο και το Tragogo δεν έχει πρόσβαση στο κλειδί αποκρυπτογράφησης.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Ρύθμιση Συγχρονισμού και δημιουργίας αντιγράφων ασφάλειας!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Αυτόματη λήψη εικονιδίων για τους συγχρονισμένους σελιδοδείκτες.</string>
     <string name="sync_enable_connecting">Σύνδεση...</string>
     <string name="sync_intro_enable_title">Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας αυτής της συσκευής</string>
-    <string name="sync_intro_enable_content">Αυτό δημιουργεί ένα κρυπτογραφημένο αντίγραφο ασφάλειας των σελιδοδεικτών και των κωδικών πρόσβασής σας στον ασφαλή διακομιστή του DuckDuckGo, το οποίο μπορεί να συγχρονιστεί με τις άλλες συσκευές σας. Το κλειδί κρυπτογράφησης αποθηκεύεται μόνο στη συσκευή σας. Δεν μπορεί να έχει πρόσβαση σε αυτό το DuckDuckGo.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Αυτό δημιουργεί ένα κρυπτογραφημένο αντίγραφο ασφάλειας των σελιδοδεικτών, των κωδικών πρόσβασής σας και των συνομιλιών στο Duck.ai στον ασφαλή διακομιστή του DuckDuckGo, το οποίο μπορεί να συγχρονιστεί με τις άλλες συσκευές σας. \n\n Το κλειδί κρυπτογράφησης αποθηκεύεται μόνο στη συσκευή σας. Δεν μπορεί να έχει πρόσβαση σε αυτό το DuckDuckGo.</string>
+    <string name="sync_intro_enable_content">Αυτό δημιουργεί ένα κρυπτογραφημένο αντίγραφο ασφάλειας των σελιδοδεικτών και των κωδικών πρόσβασής σας στον ασφαλή διακομιστή του Tragogo, το οποίο μπορεί να συγχρονιστεί με τις άλλες συσκευές σας. Το κλειδί κρυπτογράφησης αποθηκεύεται μόνο στη συσκευή σας. Δεν μπορεί να έχει πρόσβαση σε αυτό το Tragogo.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Αυτό δημιουργεί ένα κρυπτογραφημένο αντίγραφο ασφάλειας των σελιδοδεικτών, των κωδικών πρόσβασής σας και των συνομιλιών στο Duck.ai στον ασφαλή διακομιστή του Tragogo, το οποίο μπορεί να συγχρονιστεί με τις άλλες συσκευές σας. \n\n Το κλειδί κρυπτογράφησης αποθηκεύεται μόνο στη συσκευή σας. Δεν μπορεί να έχει πρόσβαση σε αυτό το Tragogo.</string>
     <string name="sync_intro_enable_footer">Μπορείτε να προβείτε σε συγχρονισμό με τις άλλες συσκευές σας αργότερα.</string>
     <string name="sync_intro_enable_cta">Ενεργοποίηση συγχρονισμού και δημιουργίας αντιγράφων ασφαλείας</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Σάρωση κώδικα QR</string>
-    <string name="connect_screen_scan_qr_hint">Ανοίξτε την εφαρμογή DuckDuckGo στην άλλη συσκευή σας και μεταβείτε στις <b>Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφαλείας &gt; Συγχρονισμός με άλλη συσκευή</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Ανοίξτε την εφαρμογή Tragogo στην άλλη συσκευή σας και μεταβείτε στις <b>Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφαλείας &gt; Συγχρονισμός με άλλη συσκευή</b>.</string>
     <string name="connect_screen_enter_code_cta">Μη αυτόματη εισαγωγή κωδικού</string>
-    <string name="connect_screen_connect_qr_hint_title">Ή πραγματοποιήστε σάρωση με το DuckDuckGo στη συσκευή σας</string>
-    <string name="connect_screen_connect_qr_hint_content">Ανοίξτε το DuckDuckGo στην άλλη συσκευή σας και σαρώστε αυτόν τον κωδικό για συγχρονισμό.</string>
+    <string name="connect_screen_connect_qr_hint_title">Ή πραγματοποιήστε σάρωση με το Tragogo στη συσκευή σας</string>
+    <string name="connect_screen_connect_qr_hint_content">Ανοίξτε το Tragogo στην άλλη συσκευή σας και σαρώστε αυτόν τον κωδικό για συγχρονισμό.</string>
     <string name="connect_screen_share_code">Αντιγραφή κωδικού</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Μη αυτόματη εισαγωγή κωδικού</string>
-    <string name="sync_enter_code_hint">Μεταβείτε στις <b>Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας &gt; Συγχρονισμός με άλλη συσκευή</b> και επιλέξτε <b>Προβολή κωδικού κειμένου</b> στην εφαρμογή DuckDuckGo σε μια άλλη συγχρονισμένη συσκευή και επικολλήστε τον κωδικό εδώ για συγχρονισμό αυτής της συσκευής.</string>
+    <string name="sync_enter_code_hint">Μεταβείτε στις <b>Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας &gt; Συγχρονισμός με άλλη συσκευή</b> και επιλέξτε <b>Προβολή κωδικού κειμένου</b> στην εφαρμογή Tragogo σε μια άλλη συγχρονισμένη συσκευή και επικολλήστε τον κωδικό εδώ για συγχρονισμό αυτής της συσκευής.</string>
     <string name="sync_enter_code_verifying">Επαλήθευση κωδικού</string>
     <string name="sync_enter_code_invalid">⚠️ Μη έγκυρος κωδικός</string>
     <string name="sync_enter_code_paste">Επικόλληση κωδικού</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Συγχρονισμένες συσκευές</string>
     <string name="sync_new_device_section_title">Συγχρονισμός νέας συσκευής</string>
-    <string name="sync_new_device_hint">Μεταβείτε στις Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας στην εφαρμογή DuckDuckGo σε μια διαφορετική συσκευή και σαρώστε για άμεση σύνδεση.</string>
+    <string name="sync_new_device_hint">Μεταβείτε στις Ρυθμίσεις &gt; Συγχρονισμός και δημιουργία αντιγράφων ασφάλειας στην εφαρμογή Tragogo σε μια διαφορετική συσκευή και σαρώστε για άμεση σύνδεση.</string>
     <string name="sync_show_text_code_item">Εμφάνιση κωδικού κειμένου</string>
     <string name="sync_show_qr_code_item">Σάρωση κώδικα QR</string>
     <string name="sync_save_recovery_code_item">Αποθήκευση ανάκτησης PDF</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Ο κωδικός ανάκτησης σας επιτρέπει να συγχρονίζετε τους κωδικούς πρόσβασής σας, τα δεδομένα αυτόματης συμπλήρωσης και τις συνομιλίες του Duck.ai σε πολλές συσκευές και να ανακτάτε τα συγχρονισμένα δεδομένα σας εάν χάσετε την πρόσβαση σε μια συσκευή.</string>
     <string name="sync_code_box_title">Διατηρήστε αυτές τις πληροφορίες ασφαλείς.</string>
     <string name="sync_instructions_title">Πώς λειτουργεί αυτός ο κώδικας;</string>
-    <string name="sync_instructions_step1">Ανοίξτε το DuckDuckGo στη συσκευή που θέλετε να συγχρονίσετε και μεταβείτε στο Sync &amp; Backup στις Ρυθμίσεις.</string>
+    <string name="sync_instructions_step1">Ανοίξτε το Tragogo στη συσκευή που θέλετε να συγχρονίσετε και μεταβείτε στο Sync &amp; Backup στις Ρυθμίσεις.</string>
     <string name="sync_instructions_step2">Επιλέξτε «Συγχρονισμός με άλλη συσκευή» και σαρώστε τον κωδικό QR ή εισαγάγετε τον κωδικό κειμένου.</string>
     <string name="sync_instructions_step3">Ο Συγχρονισμός θα ενεργοποιηθεί και θα έχετε και πάλι πρόσβαση σε όλα τα δεδομένα σας.</string>
-    <string name="sync_pdf_retention_notice">Εάν περάσουν περισσότεροι από 18 μήνες χωρίς να χρησιμοποιήσετε ένα πρόγραμμα περιήγησης DuckDuckGo με ενεργοποιημένο το Sync &amp; Backup, τα δεδομένα σας θα διαγραφούν από τον διακομιστή και δεν θα μπορούν να ανακτηθούν.</string>
+    <string name="sync_pdf_retention_notice">Εάν περάσουν περισσότεροι από 18 μήνες χωρίς να χρησιμοποιήσετε ένα πρόγραμμα περιήγησης Tragogo με ενεργοποιημένο το Sync &amp; Backup, τα δεδομένα σας θα διαγραφούν από τον διακομιστή και δεν θα μπορούν να ανακτηθούν.</string>
     <string name="remove_device_dialog_title">Αφαίρεση συσκευής;</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">Το «%1$s» δεν θα μπορεί πλέον να έχει πρόσβαση στα συγχρονισμένα δεδομένα σας.</string>
     <string name="remove_device_dialog_primary_button">Αφαίρεση</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Όχι, ευχαριστώ</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Αποκτήστε το DuckDuckGo σε άλλες συσκευές</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Αποκτήστε το DuckDuckGo σε άλλες συσκευές για συγχρονισμό μεταξύ τους</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Αποκτήστε το DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Για λήψη του DuckDuckGo σε υπολογιστή ή άλλη φορητή συσκευή, επισκεφθείτε τη διεύθυνση:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Αποκτήστε το Tragogo σε άλλες συσκευές</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Αποκτήστε το Tragogo σε άλλες συσκευές για συγχρονισμό μεταξύ τους</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Αποκτήστε το Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Για λήψη του Tragogo σε υπολογιστή ή άλλη φορητή συσκευή, επισκεφθείτε τη διεύθυνση:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Κοινή χρήση συνδέσμου λήψης</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Ο σύνδεσμος αντιγράφηκε</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Συγχρονισμός νέας συσκευής;</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">Το «%1$s» δεν θα μπορεί να έχει πρόσβαση στα συγχρονισμένα δεδομένα σας DuckDuckGo.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">Το «%1$s» δεν θα μπορεί να έχει πρόσβαση στα συγχρονισμένα δεδομένα σας Tragogo.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Συγχρόνισε τώρα</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Ακύρωση</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Αποκτήστε το πρόγραμμα περιήγησης για υπολογιστές</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo για Mac και Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo για Mac και Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Ανάκτηση</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Επαναφορά δεδομένων Sync &amp; Backup από προηγούμενη εγκατάσταση;</string>
-    <string name="sync_previous_session_ready_body">Κάντε επαναφορά για να ανακτήσετε προηγούμενους σελιδοδείκτες, κωδικούς πρόσβασης και άλλα δεδομένα σας στο DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Κάντε επαναφορά για να ανακτήσετε προηγούμενους σελιδοδείκτες, κωδικούς πρόσβασης και άλλα δεδομένα σας στο Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Επαναφορά Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Ρύθμιση νέου συγχρονισμού</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Κωδικός ανάκτησης</string>
     <string name="sync_recover_data_download_pdf">Λήψη σε μορφή PDF</string>
     <string name="sync_restore_on_reinstall_title">Επαναφορά στην Εκ νέου εγκατάσταση εφαρμογής</string>
-    <string name="sync_restore_on_reinstall_description">Εάν εγκαταστήσετε ξανά την εφαρμογή DuckDuckGo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
+    <string name="sync_restore_on_reinstall_description">Εάν εγκαταστήσετε ξανά την εφαρμογή Tragogo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Απόκτησε πρόσβαση στις συνομιλίες σου σε όλες τις συσκευές σου χρησιμοποιώντας το Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Συγχρονισμός με άλλη συσκευή</string>
     <string name="sync_chat_bottom_sheet_title">Ας συγχρονίσουμε τις συνομιλίες σου σε όλες\nτις συσκευές σου!</string>
-    <string name="sync_chat_bottom_sheet_description">Βρες τον κωδικό QR στην εφαρμογή DuckDuckGo στην άλλη συσκευή σου μεταβαίνοντας στις Ρυθμίσεις › Sync &amp; Backup › Συγχρονισμός με άλλη συσκευή.</string>
+    <string name="sync_chat_bottom_sheet_description">Βρες τον κωδικό QR στην εφαρμογή Tragogo στην άλλη συσκευή σου μεταβαίνοντας στις Ρυθμίσεις › Sync &amp; Backup › Συγχρονισμός με άλλη συσκευή.</string>
     <string name="sync_chat_bottom_sheet_positive">Σάρωση κωδικού QR</string>
     <string name="sync_chat_bottom_sheet_negative">Όχι τώρα</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Ακύρωση</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">Το «%1$s» θα έχει πρόσβαση στους συγχρονισμένους κωδικούς πρόσβασης DuckDuckGo, στα δεδομένα αυτόματης συμπλήρωσης και στις συνομιλίες Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">Το «%1$s» θα έχει πρόσβαση στους συγχρονισμένους κωδικούς πρόσβασης Tragogo, στα δεδομένα αυτόματης συμπλήρωσης και στις συνομιλίες Duck.ai.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">Το «%1$s» θα έχει πρόσβαση στις συγχρονισμένες συνομιλίες Duck.ai.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Η άλλη συσκευή θα έχει πρόσβαση στους συγχρονισμένους κωδικούς πρόσβασης DuckDuckGo, στα δεδομένα αυτόματης συμπλήρωσης και στις συνομιλίες Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Η άλλη συσκευή θα έχει πρόσβαση στους συγχρονισμένους κωδικούς πρόσβασης Tragogo, στα δεδομένα αυτόματης συμπλήρωσης και στις συνομιλίες Duck.ai.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Η άλλη συσκευή θα έχει πρόσβαση στις συγχρονισμένες συνομιλίες Duck.ai.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Ο συγχρονισμός απέτυχε.</string>
     <string name="sync_v2_error_pairing_rejected">Ο συγχρονισμός ακυρώθηκε από την άλλη συσκευή σου.</string>
     <string name="sync_v2_error_pairing_canceled">Ο συγχρονισμός ακυρώθηκε.</string>
-    <string name="sync_v2_error_upgrade_required">Ενημέρωσε το πρόγραμμα περιήγησης DuckDuckGo και δοκίμασε ξανά.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Συγχρόνισε αυτήν τη συσκευή από ένα ήδη συνδεδεμένο πρόγραμμα περιήγησης DuckDuckGo σε άλλη συσκευή</string>
+    <string name="sync_v2_error_upgrade_required">Ενημέρωσε το πρόγραμμα περιήγησης Tragogo και δοκίμασε ξανά.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Συγχρόνισε αυτήν τη συσκευή από ένα ήδη συνδεδεμένο πρόγραμμα περιήγησης Tragogo σε άλλη συσκευή</string>
     <string name="sync_v2_error_try_again">Δοκίμασε ξανά.</string>
     <string name="sync_v2_error_got_it">Κατάλαβα</string>
     <string name="sync_v2_already_paired_title">Έχει γίνει ήδη συγχρονισμός.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Διατηρήστε το DuckDuckGo συγχρονισμένο!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">Το DuckDuckGo είναι συγχρονισμένο.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Συγχρονίστε και δημιουργήστε αντίγραφα ασφαλείας για τα δεδομένα αυτόματης συμπλήρωσης και τους σελιδοδείκτες σας, με κρυπτογράφηση από άκρο σε άκρο σε όλες τις εφαρμογές DuckDuckGo που διαθέτετε.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Συγχρονίστε και δημιουργήστε αντίγραφα ασφαλείας για τα δεδομένα αυτόματης συμπλήρωσης, τους σελιδοδείκτες και τις συνομιλίες σας στο Duck.ai , με κρυπτογράφηση από άκρο σε άκρο σε όλες τις εφαρμογές DuckDuckGo που διαθέτετε.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Διατηρήστε το Tragogo συγχρονισμένο!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Το Tragogo είναι συγχρονισμένο.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Συγχρονίστε και δημιουργήστε αντίγραφα ασφαλείας για τα δεδομένα αυτόματης συμπλήρωσης και τους σελιδοδείκτες σας, με κρυπτογράφηση από άκρο σε άκρο σε όλες τις εφαρμογές Tragogo που διαθέτετε.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Συγχρονίστε και δημιουργήστε αντίγραφα ασφαλείας για τα δεδομένα αυτόματης συμπλήρωσης, τους σελιδοδείκτες και τις συνομιλίες σας στο Duck.ai , με κρυπτογράφηση από άκρο σε άκρο σε όλες τις εφαρμογές Tragogo που διαθέτετε.</string>
     <string name="sync_simplified_settings_header_body_enabled">Οι σελιδοδείκτες και τα δεδομένα αυτόματης συμπλήρωσής σας συγχρονίζονται και δημιουργούνται σχετικά αντίγραφα ασφάλειας με κρυπτογράφηση από άκρο σε άκρο.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Οι σελιδοδείκτες, τα δεδομένα αυτόματης συμπλήρωσης και οι συνομιλίες σας στο Duck.ai συγχρονίζονται και αποθηκεύονται με κρυπτογράφηση από άκρο σε άκρο.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Σελιδοδείκτες</string>
     <string name="sync_simplified_settings_recovery_section_header">Ανάκτηση</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Επαναφορά στην Εκ νέου εγκατάσταση εφαρμογής</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Εάν εγκαταστήσετε ξανά την εφαρμογή DuckDuckGo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Εάν εγκαταστήσετε ξανά την εφαρμογή Tragogo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Αντιγραφή του κωδικού ανάκτησής σας</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Λήψη του κωδικού ανάκτησής σας</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Χρησιμοποιήστε αυτόν τον κωδικό για να ανακτήσετε τα δεδομένα σας σε περίπτωση που χάσετε την πρόσβαση σε αυτήν τη συσκευή — κρατήστε τον ασφαλή.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Οι ειδοποιήσεις είναι απενεργοποιημένες</string>
     <string name="sync_simplified_settings_notify_me_body">Ειδοποιηθείτε σε περίπτωση που η λειτουργία Sync &amp; Backup αντιμετωπίσει κάποιο σφάλμα.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Αποκτήστε το DuckDuckGo σε άλλες συσκευές</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Αποκτήστε το Tragogo σε άλλες συσκευές</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Αποκτήστε το πρόγραμμα περιήγησης για υπολογιστές</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Σάρωση κωδικού QR για συγχρονισμό</string>
-    <string name="sync_simplified_scanner_camera_header_body">Ανοίξτε το <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo για υπολογιστή</annotation></b>\n<annotation type="gap">\n</annotation>και μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Ανοίξτε το <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo για υπολογιστή</annotation></b>\n<annotation type="gap">\n</annotation>και μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Είμαι έτοιμος για σάρωση</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Δυστυχώς, ο κωδικός που σαρώθηκε δεν είναι έγκυρος.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Απαιτείται άδεια κάμερας</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Εισαγάγετε τον κωδικό συγχρονισμού</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Ανοίξτε την άλλη σας <annotation type="icon">￼</annotation> <b><annotation type="highlight">εφαρμογή DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>Μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation> › <annotation type="highlight">Αντιγραφή κωδικού κειμένου</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Ανοίξτε την άλλη σας <annotation type="icon">￼</annotation> <b><annotation type="highlight">εφαρμογή Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>Μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation> › <annotation type="highlight">Αντιγραφή κωδικού κειμένου</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Υπόδειγμα κωδικού:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Επικόλληση κωδικού συγχρονισμού</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Δυστυχώς, ο κωδικός που επικολλήθηκε δεν είναι έγκυρος.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">Κωδικός QR</string>
     <string name="sync_simplified_qr_code_header_headline">Σάρωση από άλλη συσκευή</string>
-    <string name="sync_simplified_qr_code_header_body">Σε μια άλλη συσκευή, ανοίξτε το <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>και μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation> και σαρώστε αυτόν τον κωδικό:</string>
+    <string name="sync_simplified_qr_code_header_body">Σε μια άλλη συσκευή, ανοίξτε το <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>και μεταβείτε στο <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Συγχρονισμός με άλλη συσκευή</annotation> και σαρώστε αυτόν τον κωδικό:</string>
     <string name="sync_simplified_qr_code_copy_button">Αντιγραφή κωδικού κειμένου</string>
     <string name="sync_simplified_qr_code_share_button">Κοινή χρήση</string>
     <string name="sync_simplified_qr_code_copied_message">Αντιγραφή κωδικού ανάκτησης</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Κωδικός ανάκτησης</string>
     <string name="sync_simplified_recovery_code_download_button">Λήψη του κωδικού ανάκτησής σας</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Επαναφορά στην Εκ νέου εγκατάσταση εφαρμογής</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Εάν εγκαταστήσετε ξανά την εφαρμογή DuckDuckGo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Εάν εγκαταστήσετε ξανά την εφαρμογή Tragogo, θα σας ρωτήσουμε εάν θέλετε να επαναφέρετε τα δεδομένα σας σε αυτήν τη συσκευή.</string>
     <string name="sync_simplified_recovery_code_primary_button">Ολοκληρώθηκε</string>
     <string name="sync_simplified_recovery_code_copied_message">Αντιγραφή κωδικού ανάκτησης</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Η αποθήκευση του PDF ανάκτησης απαιτεί άδεια αποθήκευσης</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Συγχρονισμός νέας συσκευής;</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">Το «%1$s» θα μπορεί να έχει πρόσβαση στα συγχρονισμένα δεδομένα σας στο DuckDuckGo.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">Το «%1$s» θα μπορεί να έχει πρόσβαση στα συγχρονισμένα δεδομένα σας στο Tragogo.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Συγχρονισμός τώρα</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Ακύρωση</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Ρύθμιση του Sync &amp; Backup</string>

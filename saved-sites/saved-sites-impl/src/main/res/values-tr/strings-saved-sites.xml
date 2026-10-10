@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"%1$s yer imi silinsin mi?"</string>
     <string name="addToFavorites">Favorilere Ekle</string>
     <string name="editBookmark">Yer İşaretini Düzenle</string>
-    <string name="importBookmarksDescription">Yer imleriniz başka bir tarayıcıda kayıtlıysa, bunları DuckDuckGo\'ya aktarabilirsiniz.</string>
+    <string name="importBookmarksDescription">Yer imleriniz başka bir tarayıcıda kayıtlıysa, bunları Tragogo\'ya aktarabilirsiniz.</string>
     <string name="importBookmarks">Yer İmlerini İçe Aktar</string>
     <string name="noResultsFor" instruction="%1$s is the search term">\'%1$s\' için sonuç yok</string>
     <string name="removeFromFavorites">Favorilerden Kaldır</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Jelszavak</string>
     <string name="browserMenuDownloads">Letöltések</string>
     <string name="browserMenuSettings">Beállítások</string>
-    <string name="browserMenuOpenInDDG">Megnyitás DuckDuckGo-ban</string>
-    <string name="browserMenuRunningInDDG">Futtatás a DuckDuckGo-ban</string>
+    <string name="browserMenuOpenInDDG">Megnyitás Tragogo-ban</string>
+    <string name="browserMenuRunningInDDG">Futtatás a Tragogo-ban</string>
     <string name="browserMenuSetAsDefaultBrowser">Beállítás alapértelmezett böngészőként</string>
     <string name="browserMenuNewChat">Új csevegés</string>
     <string name="browserMenuNewAIChat">Új AI-csevegés</string>

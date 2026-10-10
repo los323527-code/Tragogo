@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -137,14 +137,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Toate aplicațiile</string>
     <string name="atp_ExcludedAppsFeature">Protecția împotriva urmăririi de către aplicație detectează și blochează tehnologiile de urmărire a aplicațiilor de la alte companii, cum ar fi atunci când Facebook încearcă să te urmărească într-o aplicație de sănătate. Companiile te pot urmări în continuare în aplicațiile pe care le dețin.\n\nDacă o aplicație nu funcționează conform așteptărilor, încearcă să dezactivezi protecția pentru aplicația respectivă.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo poate dezactiva protecția pentru unele aplicații pentru a rezolva probleme cunoscute de încărcare a conținutului. Setările tale personalizate nu se vor schimba decât dacă restaurezi setările implicite.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo poate dezactiva protecția pentru unele aplicații pentru a rezolva probleme cunoscute de încărcare a conținutului. Setările tale personalizate nu se vor schimba decât dacă restaurezi setările implicite.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Protecția împotriva urmăririi de către aplicație este dezactivată</b> Protecția împotriva urmăririi de către aplicație a cauzat o problemă cu aplicațiile tale <annotation type="report_issues_link">Raportează problemele</annotation></string>
     <string name="atp_ExcludedAppsReport">Raportează o problemă cu o altă aplicație</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Dezactivat manual</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Activat manual</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Anulează</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Restaurează</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Activarea protecției trimite numele aplicației către DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Activarea protecției trimite numele aplicației către Tragogo.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Nu mai funcționează așa cum era de așteptat</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Sunt de acord să fiu urmărit în această aplicație</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Din alt motiv</string>
@@ -153,7 +153,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Restabilești protecția implicită?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Setările tale de protecție personalizate se vor actualiza la cele mai recente protecții implicite. Poți oricând să îți modifici din nou setările de protecție mai târziu.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Protecția a fost restabilită la setările implicite</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Activarea protecției trimite numele aplicației către DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Activarea protecției trimite numele aplicației către Tragogo.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Raportează o problemă</string>
@@ -163,10 +163,10 @@
     <string name="atp_ReportBreakageAppNextCta">Următorul</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Te rugăm să descrii ce se întâmplă, ce te așteptai să se întâmple și pașii care au dus la apariția problemei.</string>
     <string name="atp_ReportBreakageFormInputHint">Spune-ne mai multe despre problema cu care te confrunți</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Făcând clic pe „Trimitere”, sunt de acord ca DuckDuckGo să utilizeze informațiile din acest raport în scopul îmbunătățirii funcțiilor aplicației.
+    <string name="atp_ReportBreakageFormCheckboxText">Făcând clic pe „Trimitere”, sunt de acord ca Tragogo să utilizeze informațiile din acest raport în scopul îmbunătățirii funcțiilor aplicației.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[În plus față de detaliile introduse în acest formular, raportul privind problemele aplicației tale va conține:<br/>• denumirea pachetului aplicației<br/>• o listă a tehnologiilor de urmărire blocate în aplicație<br/>• dacă sunt activate funcții specifice DuckDuckGo<br/>• diagnosticele agregate ale aplicației DuckDuckGo<br/>]]>
+        <![CDATA[În plus față de detaliile introduse în acest formular, raportul privind problemele aplicației tale va conține:<br/>• denumirea pachetului aplicației<br/>• o listă a tehnologiilor de urmărire blocate în aplicație<br/>• dacă sunt activate funcții specifice Tragogo<br/>• diagnosticele agregate ale aplicației Tragogo<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Raport trimis, mulțumim! Feedbackul tău ne ajută să îmbunătățim Protecția împotriva urmăririi de către aplicație pentru toată lumea.</string>
     <string name="atp_ThanksForTheFeedback">Îți mulțumim pentru feedback!</string>
@@ -185,7 +185,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Despre tehnologiile de urmărire ale aplicațiilor</string>
     <string name="atp_ProfilingInfoTitle">Ce sunt tehnologiile de urmărire ale aplicațiilor?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Ai auzit, probabil, despre faptul că unele companii, precum Google și Facebook, te urmăresc în fundal pe site-uri terțe. Dar știai că îți urmăresc și informațiile personale prin intermediul aplicațiilor de pe dispozitivul tău?\n\n<b>Peste 96% dintre cele mai populare 100 de aplicații gratuite pentru Android pe care</b> le-am testat conțineau tehnologii de urmărire terțe ascunse. Dintre acestea, 87% au trimis date către Google și 68% au trimis date către Facebook. Acest lucru se întâmplă chiar și atunci când nu îți utilizai dispozitivul.\n\n<b>Tehnologiile de urmărire din aplicații pot avea acces la mult mai multe informații</b> decât verișorii lor de urmărire a site-urilor, cum ar fi locația ta, până la etajul unei clădiri în care te afli, cât de des joci jocuri în timp ce lucrezi și când și cât timp dormi în fiecare zi. <b>Chiar dacă nu ai un cont Google sau Facebook, de exemplu, aceste companii pot colecta în continuare date despre tine din aplicațiile tale.</b>\n\nRețelele de urmărire precum Facebook și Google folosesc aceste mici informații <b>pentru a construi un profil digital despre tine.</b> Cu ajutorul acestuia, rețelele de urmărire pot manipula ceea ce vezi online și pot permite agențiilor de publicitate să liciteze pentru a avea acces la tine, pe baza datelor tale.\n\nTehnologiile de urmărire din aplicații reprezintă o MARE problemă pentru confidențialitate. <b>Însă DuckDuckGo are o soluție care te poate ajuta. </b>\n\nCând este activată în aplicația Privacy Browser a DuckDuckGo, Protecția împotriva urmăririi de către aplicație blochează multe tehnologii de urmărire din alte aplicații de pe dispozitiv, în același timp în care aplicația DuckDuckGo blochează tehnologiile de urmărire pe care le găsim pe site-uri atunci când navighezi. <b>Aceste niveluri duble de protecție reduc ceea ce află companiile de urmărire despre tine, în general</b>, astfel încât să poți utiliza aplicațiile cu mai multă liniște sufletească, știind că ești mai protejat.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Ai auzit, probabil, despre faptul că unele companii, precum Google și Facebook, te urmăresc în fundal pe site-uri terțe. Dar știai că îți urmăresc și informațiile personale prin intermediul aplicațiilor de pe dispozitivul tău?\n\n<b>Peste 96% dintre cele mai populare 100 de aplicații gratuite pentru Android pe care</b> le-am testat conțineau tehnologii de urmărire terțe ascunse. Dintre acestea, 87% au trimis date către Google și 68% au trimis date către Facebook. Acest lucru se întâmplă chiar și atunci când nu îți utilizai dispozitivul.\n\n<b>Tehnologiile de urmărire din aplicații pot avea acces la mult mai multe informații</b> decât verișorii lor de urmărire a site-urilor, cum ar fi locația ta, până la etajul unei clădiri în care te afli, cât de des joci jocuri în timp ce lucrezi și când și cât timp dormi în fiecare zi. <b>Chiar dacă nu ai un cont Google sau Facebook, de exemplu, aceste companii pot colecta în continuare date despre tine din aplicațiile tale.</b>\n\nRețelele de urmărire precum Facebook și Google folosesc aceste mici informații <b>pentru a construi un profil digital despre tine.</b> Cu ajutorul acestuia, rețelele de urmărire pot manipula ceea ce vezi online și pot permite agențiilor de publicitate să liciteze pentru a avea acces la tine, pe baza datelor tale.\n\nTehnologiile de urmărire din aplicații reprezintă o MARE problemă pentru confidențialitate. <b>Însă Tragogo are o soluție care te poate ajuta. </b>\n\nCând este activată în aplicația Privacy Browser a Tragogo, Protecția împotriva urmăririi de către aplicație blochează multe tehnologii de urmărire din alte aplicații de pe dispozitiv, în același timp în care aplicația Tragogo blochează tehnologiile de urmărire pe care le găsim pe site-uri atunci când navighezi. <b>Aceste niveluri duble de protecție reduc ceea ce află companiile de urmărire despre tine, în general</b>, astfel încât să poți utiliza aplicațiile cu mai multă liniște sufletească, știind că ești mai protejat.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Ultimele 7 zile</string>
@@ -231,10 +231,10 @@
     <string name="atp_ActivityAbout">Despre</string>
     <string name="atp_ActivityManage">Gestionează</string>
     <string name="atp_ActivityRemoveFeature">Dezactivează și șterge date</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo blochează tehnologiile de urmărire ascunse la nivelul aplicațiilor tale.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo blochează tehnologiile de urmărire ascunse la nivelul aplicațiilor tale.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Reactivează App Tracking Protection pentru a continua să blochezi tehnologiile de urmărire la nivelul aplicațiilor tale.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">Blocat de DuckDuckGo %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">Blocat de DuckDuckGo la %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Blocat de Tragogo %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Blocat de Tragogo la %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">ÎNTREBĂRI FRECVENTE</string>
@@ -249,7 +249,7 @@
     <string name="atp_FAQFifthHeader">Cum diferă protecția de urmărire a aplicațiilor de un VPN?</string>
     <string name="atp_FAQFifthText">Un VPN îți trimite datele de pe dispozitiv către propriul server, unde îți protejează și anonimizează datele de ochii curioșilor. Totuși, acest lucru permite companiei VPN să vadă traficul tău în rețea.\n\n<b> Protecția împotriva urmăririi de către aplicație este diferită. </b> În loc să trimită datele tale către un server VPN, <b>Protecția împotriva urmăririi de către aplicație funcționează la nivel local pe dispozitivul tău</b>, aflându-se între aplicațiile tale și serverele cu care acestea interacționează.\n\nOri de câte ori Protecția împotriva urmăririi de către aplicație recunoaște o tehnologie de urmărire cunoscută, <b> acesta blochează trimiterea de către aceasta de de informații personale (cum ar fi adresa IP, activitatea și detaliile dispozitivului) de pe dispozitiv.</b> Restul traficului ajunge la destinație, astfel încât aplicațiile tale funcționează normal.</string>
     <string name="atp_FAQSixthHeader">Sunt datele mele private?</string>
-    <string name="atp_FAQSixthText">Protecția împotriva urmăririi de către aplicație funcționează pe dispozitivul tău și nu trimite datele tale personale de pe dispozitiv către DuckDuckGo.</string>
+    <string name="atp_FAQSixthText">Protecția împotriva urmăririi de către aplicație funcționează pe dispozitivul tău și nu trimite datele tale personale de pe dispozitiv către Tragogo.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Invitația ta pentru Protecția împotriva urmăririi de către aplicație este aici!</string>
@@ -280,9 +280,9 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d încercări. Cunoscute pentru a colecta:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo a blocat %1$d încercare de urmărire</item>
-        <item quantity="few">DuckDuckGo a blocat %1$d încercări de urmărire</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo a blocat %1$d de încercări de urmărire</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo a blocat %1$d încercare de urmărire</item>
+        <item quantity="few">Tragogo a blocat %1$d încercări de urmărire</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo a blocat %1$d de încercări de urmărire</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Raportează o problemă cu această aplicație</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Arată încă %1$d</string>
@@ -384,8 +384,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Mergi la Setări</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Nu acum</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Accesează Setările VPN ale dispozitivului tău pentru DuckDuckGo și activează <b>VPN mereu pornit</b> pentru a preveni dezactivarea protecției de către Android.\n\nAsigură-te că ai lăsat dezactivată cealaltă setare.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Pentru a evita problemele legate de aplicație, accesează <b>Setări VPN pentru DuckDuckGo</b> și dezactivează <b>Blochează conexiunile fără VPN</b>]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Accesează Setările VPN ale dispozitivului tău pentru Tragogo și activează <b>VPN mereu pornit</b> pentru a preveni dezactivarea protecției de către Android.\n\nAsigură-te că ai lăsat dezactivată cealaltă setare.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Pentru a evita problemele legate de aplicație, accesează <b>Setări VPN pentru Tragogo</b> și dezactivează <b>Blochează conexiunile fără VPN</b>]]></string>
     <string name="atp_AlwaysOnModalHeading">Setează ca Mereu pornit</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Modifică setările VPN</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Acțiune necesară!</b> Pentru a evita problemele legate de aplicații, trebuie să modifici setările Android. <annotation type="open_settings_link">Schimbă setările</annotation></string>
@@ -432,14 +432,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Primește actualizări despre încercările de urmărire blocate, în zona de notificare.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Nu poți folosi App Tracking Protection din cauza VPN-ului tău? Treci la DuckDuckGo VPN ‑ singurul VPN compatibil. <annotation type="ppro_upsell_link">Află mai multe</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nu poți folosi App Tracking Protection din cauza VPN-ului tău? Treci la DuckDuckGo VPN ‑ singurul VPN compatibil. <annotation type="ppro_upsell_link">Încearcă gratuit!</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection dezactivată</b>\nVPN-ul tău a dezactivat App Tracking Protection? Folosește comutatorul de mai sus pentru a reactiva.\n\nDescarcă DuckDuckGo VPN – singurul VPN care funcționează cu App Tracking Protection. <annotation type="ppro_upsell_link">Află mai multe</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection dezactivată</b>\nVPN-ul tău a dezactivat App Tracking Protection? Folosește comutatorul de mai sus pentru a reactiva.\n\nTreci la DuckDuckGo VPN – singurul VPN care funcționează cu App Tracking Protection. <annotation type="ppro_upsell_link">Încearcă gratuit!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled">Nu poți folosi App Tracking Protection din cauza VPN-ului tău? Treci la Tragogo VPN ‑ singurul VPN compatibil. <annotation type="ppro_upsell_link">Află mai multe</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nu poți folosi App Tracking Protection din cauza VPN-ului tău? Treci la Tragogo VPN ‑ singurul VPN compatibil. <annotation type="ppro_upsell_link">Încearcă gratuit!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection dezactivată</b>\nVPN-ul tău a dezactivat App Tracking Protection? Folosește comutatorul de mai sus pentru a reactiva.\n\nDescarcă Tragogo VPN – singurul VPN care funcționează cu App Tracking Protection. <annotation type="ppro_upsell_link">Află mai multe</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection dezactivată</b>\nVPN-ul tău a dezactivat App Tracking Protection? Folosește comutatorul de mai sus pentru a reactiva.\n\nTreci la Tragogo VPN – singurul VPN care funcționează cu App Tracking Protection. <annotation type="ppro_upsell_link">Încearcă gratuit!</annotation>.</string>
     <string name="apptp_PproUpsellBannerTitle">Du-ți confidențialitatea la următorul nivel</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo pune la dispoziție singurul VPN care este compatibil cu App Tracking Protection. Activează cu un abonament Privacy Pro cu plată.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo pune la dispoziție singurul VPN care este compatibil cu App Tracking Protection. Activează cu un abonament Privacy Pro cu plată.</string>
     <string name="apptp_PproUpsellBannerAction">Află mai multe</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonează-te la DuckDuckGo și obține singurul VPN compatibil cu App Tracking Protection.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonează-te la Tragogo și obține singurul VPN compatibil cu App Tracking Protection.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Încearcă gratuit!</string>
 
     <!-- Content Descriptions -->

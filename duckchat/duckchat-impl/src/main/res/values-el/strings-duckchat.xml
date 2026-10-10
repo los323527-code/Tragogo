@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Μεταφορτώστε μια εικόνα</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Επιλέξτε αρχείο</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Τραβήξτε φωτογραφία</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Επιτρέψτε στο DuckDuckGo να αιτηθεί πρόσβαση στην κάμερα της συσκευής αυτής</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Οι ιστότοποι μπορούν να χρησιμοποιούν την κάμερά σας μόνο εάν επιτρέψετε στο DuckDuckGo να αιτηθεί πρόσβαση.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Επιτρέψτε στο Tragogo να αιτηθεί πρόσβαση στην κάμερα της συσκευής αυτής</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Οι ιστότοποι μπορούν να χρησιμοποιούν την κάμερά σας μόνο εάν επιτρέψετε στο Tragogo να αιτηθεί πρόσβαση.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Άνοιγμα ρυθμίσεων</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Ακύρωση</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Δεν ήταν δυνατή η πρόσβαση στην εγγραφή ήχου</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Επιτρέψτε στο DuckDuckGo να αιτηθεί πρόσβαση στην εγγραφή ήχου της συσκευής αυτής</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Οι ιστότοποι μπορούν να χρησιμοποιούν την εγγραφή ήχου μόνο εάν επιτρέψετε στο DuckDuckGo να αιτηθεί πρόσβαση.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Επιτρέψτε στο Tragogo να αιτηθεί πρόσβαση στην εγγραφή ήχου της συσκευής αυτής</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Οι ιστότοποι μπορούν να χρησιμοποιούν την εγγραφή ήχου μόνο εάν επιτρέψετε στο Tragogo να αιτηθεί πρόσβαση.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Λειτουργίες τεχνητής νοημοσύνης</string>
-    <string name="duck_chat_settings_activity_description">Οι λειτουργίες τεχνητής νοημοσύνης του DuckDuckGo είναι ιδιωτικές και προαιρετικές.Τα δεδομένα σας δεν χρησιμοποιούνται για εκπαίδευση της τεχνητής νοημοσύνης.\n<annotation type="learn_more_link">Μάθετε περισσότερα</annotation></string>
+    <string name="duck_chat_settings_activity_description">Οι λειτουργίες τεχνητής νοημοσύνης του Tragogo είναι ιδιωτικές και προαιρετικές.Τα δεδομένα σας δεν χρησιμοποιούνται για εκπαίδευση της τεχνητής νοημοσύνης.\n<annotation type="learn_more_link">Μάθετε περισσότερα</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Συνομίλησε ιδιωτικά με δημοφιλή μοντέλα τεχνητής νοημοσύνης τρίτων</string>
     <string name="duck_chat_visibility_setting">Μενού προγράμματος περιήγησης</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Συχνά</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Χρησιμοποιήστε το DuckDuckGo χωρίς AI</string>
+    <string name="duckAiUseWithoutAiTitle">Χρησιμοποιήστε το Tragogo χωρίς AI</string>
     <string name="duckAiUseWithoutAiDescription">Απενεργοποιεί το Duck.ai, αποκρύπτει από την αναζήτηση απαντήσεις που υποβοηθούνται από τεχνητή νοημοσύνη και φιλτράρει γνωστούς ιστότοπους με απατηλό περιεχόμενο τεχνητής νοημοσύνης στα αποτελέσματα αναζήτησης εικόνων.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Η τεχνητή νοημοσύνη είναι προς το παρόν απενεργοποιημένη στο πρόγραμμα περιήγησης, επομένως δεν θα βλέπεις πλέον απαντήσεις που υποβοηθούνται από τεχνητή νοημοσύνη και θα βλέπεις λιγότερες εικόνες που δημιουργούνται από τεχνητή νοημοσύνη στα αποτελέσματα αναζήτησης εικόνων.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Δεν ήταν δυνατή η εξαγωγή της συνομιλίας</string>
     <string name="duck_ai_chat_history_bulk_download_error">Δεν ήταν δυνατή η εξαγωγή των συνομιλιών</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Αναζήτηση DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Αναζήτηση Tragogo</string>
     <string name="native_input_chat_hint">Ρώτα οτιδήποτε ιδιωτικά…</string>
     <string name="native_input_chat_duck_mode_hint">Απάντηση…</string>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -93,7 +93,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Ištrinti %1$s žymę?"</string>
     <string name="addToFavorites">Pridėti prie mėgstamų</string>
     <string name="editBookmark">Redaguoti žymę</string>
-    <string name="importBookmarksDescription">Jei žymės yra išsaugotos kitoje naršyklėje,\ngalite jas importuoti į „DuckDuckGo“.</string>
+    <string name="importBookmarksDescription">Jei žymės yra išsaugotos kitoje naršyklėje,\ngalite jas importuoti į „Tragogo“.</string>
     <string name="importBookmarks">Importuoti žymes</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Rezultatų pagal paiešką „%1$s“ nerasta</string>
     <string name="removeFromFavorites">Pašalinti iš adresyno</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Mémoriser mon choix</string>
     <string name="preciseLocationDDGDialogSubtitle">Nous n\'utilisons votre localisation anonyme que pour vous fournir de meilleurs résultats, plus proches de vous. Vous pouvez gérer les autorisations d\'accès à la localisation accordées aux différents sites depuis les paramètres.</string>
     <string name="preciseLocationSiteDialogSubtitle">Vous pouvez gérer les autorisations d\'accès à la localisation accordées aux différents sites depuis les paramètres.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Autoriser DuckDuckGo à demander l\'accès à la localisation sur cet appareil</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Les sites ne peuvent utiliser votre position que si vous autorisez DuckDuckGo à demander l\'accès.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Autoriser DuckDuckGo à demander l\'accès à la localisation</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Autoriser Tragogo à demander l\'accès à la localisation sur cet appareil</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Les sites ne peuvent utiliser votre position que si vous autorisez Tragogo à demander l\'accès.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Autoriser Tragogo à demander l\'accès à la localisation</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Autorisations du site</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Gérer les autorisations accordées dans les paramètres</string>
     <string name="sitePermissionsDialogDenyButton">Refuser</string>
     <string name="sitePermissionsDialogAllowButton">Autoriser</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Autoriser DuckDuckGo à demander l\'accès à l\'appareil photo et au micro</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Autoriser DuckDuckGo à demander l\'accès à l\'appareil photo</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Autoriser DuckDuckGo à demander l\'accès au micro</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Autoriser Tragogo à demander l\'accès à l\'appareil photo et au micro</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Autoriser Tragogo à demander l\'accès à l\'appareil photo</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Autoriser Tragogo à demander l\'accès au micro</string>
     <string name="sitePermissionsDeniedSnackBarAction">Autoriser</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Autoriser DuckDuckGo à demander l\'accès à l\'appareil photo sur cet appareil</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Les sites ne peuvent utiliser votre appareil photo que si vous autorisez DuckDuckGo à demander l\'accès.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Autoriser DuckDuckGo à demander l\'accès au micro sur cet appareil</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Les sites ne peuvent utiliser votre micro que si vous autorisez DuckDuckGo à demander l\'accès.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Autoriser DuckDuckGo à demander l\'accès à l\'appareil photo et au micro sur cet appareil</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Les sites ne peuvent utiliser votre appareil photo et votre micro que si vous autorisez DuckDuckGo à demander l\'accès.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Autoriser Tragogo à demander l\'accès à l\'appareil photo sur cet appareil</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Les sites ne peuvent utiliser votre appareil photo que si vous autorisez Tragogo à demander l\'accès.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Autoriser Tragogo à demander l\'accès au micro sur cet appareil</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Les sites ne peuvent utiliser votre micro que si vous autorisez Tragogo à demander l\'accès.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Autoriser Tragogo à demander l\'accès à l\'appareil photo et au micro sur cet appareil</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Les sites ne peuvent utiliser votre appareil photo et votre micro que si vous autorisez Tragogo à demander l\'accès.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Ouvrir les paramètres</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Annuler</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Autorisation d’accès au micro requise pour les fonctionnalités vocales</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo a besoin d’accéder à votre micro</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo a besoin d’accéder à votre micro</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Les autorisations d’accès au micro sont nécessaires si vous souhaitez utiliser le chat vocal dans Duck.ai</string>
 
     <string name="sitePermissionsSettingsDescription">Les sites que vous visitez sont susceptibles de demander l\'accès à la localisation, à l\'appareil photo, au micro ou au logiciel DRM (gestion des droits numériques) de votre appareil. Ils ne pourront y accéder que si vous leur en donnez explicitement la permission.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Si tu n’autorises pas, les vidéos sur le site pourraient ne pas être lues, mais ce site n’aura pas accès aux identifiants d’appareil fournis par le logiciel DRM.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Modifier les autorisations</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo a besoin d’accéder à votre position</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Modifier les autorisations</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo a besoin d’accéder à votre position</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Les autorisations de localisation sont nécessaires si tu souhaites utiliser les fonctionnalités de localisation sur ce site.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo a besoin d\'accéder à votre appareil photo</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo a besoin d\'accéder à votre appareil photo</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Les autorisations d\'accès à l\'appareil photo sont nécessaires si tu souhaites utiliser les fonctionnalités de l\'appareil photo sur ce site.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo a besoin d\'accéder à votre micro</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo a besoin d\'accéder à votre micro</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Les autorisations d’accès au micro sont nécessaires si tu souhaites utiliser les fonctionnalités du micro sur ce site.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo a besoin d’accéder à votre appareil photo et à votre micro</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo a besoin d’accéder à votre appareil photo et à votre micro</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Les autorisations d’accès à l’appareil photo et au micro sont nécessaires si tu souhaites utiliser les fonctionnalités de l’appareil photo et du micro sur ce site.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Impossible pour DuckDuckGo de partager ta position avec ce site</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo n’a pas pu donner l’accès à l’appareil photo à ce site</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo n’a pas pu donner l’accès au micro à ce site</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo n’a pas pu donner l’accès à l’appareil photo et au micro à ce site</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Impossible pour Tragogo de partager ta position avec ce site</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo n’a pas pu donner l’accès à l’appareil photo à ce site</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo n’a pas pu donner l’accès au micro à ce site</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo n’a pas pu donner l’accès à l’appareil photo et au micro à ce site</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Toujours autoriser</string>

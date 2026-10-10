@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Vietņu ielādes problēmas</string>
     <string name="websiteNotLoadingTitleShort">Vietņu ielādes problēmas</string>
     <string name="websiteNotLoadingSubtitle">Kura vietne ir bojāta?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo meklētājs nav pietiekami labs</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo meklēšanas problēmas</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo meklētājs nav pietiekami labs</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo meklēšanas problēmas</string>
     <string name="searchNotGoodEnoughSubtitle">Kuru meklēšanas funkciju mēs varam pievienot vai uzlabot?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmēšana/tehniskā meklēšana</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Izkārtojumam vajadzētu vairāk līdzināties Google izkārtojumam</string>

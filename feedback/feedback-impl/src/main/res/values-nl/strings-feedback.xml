@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problemen met laden van website</string>
     <string name="websiteNotLoadingTitleShort">Problemen met laden van website</string>
     <string name="websiteNotLoadingSubtitle">Welke website is defect?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo-zoekfunctie is niet goed genoeg</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo-zoekproblemen</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo-zoekfunctie is niet goed genoeg</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo-zoekproblemen</string>
     <string name="searchNotGoodEnoughSubtitle">Welke zoekfunctie kunnen we toevoegen of verbeteren?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmeren/technisch zoeken</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">De lay-out zou meer op Google moeten lijken</string>

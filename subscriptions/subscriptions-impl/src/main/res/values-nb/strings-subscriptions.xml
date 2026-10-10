@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Avbryt</string>
     <string name="ok">OK</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">DuckDuckGo-abonnement</string>
+    <string name="ddg_subscription">Tragogo-abonnement</string>
     <string name="manageEmail">Administrer e-postadresse</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Legg til abonnementet ditt på andre enheter</string>
     <string name="addToDevicePrimaryText">Legg til på enheten</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Legg til abonnementet på de andre enhetene dine via Google Play eller ved å koble til en e-postadresse.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Bruk e-postadressen ovenfor til å legge til abonnementet ditt på andre enheter i DuckDuckGo-appen. Gå til Innstillinger &gt; Abonnementsinnstillinger &gt; Jeg har et abonnement.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Bruk e-postadressen ovenfor til å legge til abonnementet ditt på andre enheter i Tragogo-appen. Gå til Innstillinger &gt; Abonnementsinnstillinger &gt; Jeg har et abonnement.</string>
     <string name="editEmailPrimaryText">Rediger e-postadresse</string>
     <string name="learnMore">Finn ut mer</string>
     <string name="privacyProFaq">Trenger du hjelp med abonnementet ditt?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Abonnenter får vår VPN, Personal Information Removal og Identity Theft Restoration.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Abonnenter får vår VPN og Identity Theft Restoration.</string>
 
-    <string name="subscriptionSettingGet">Abonner på DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Abonner på Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Prøv gratis</string>
     <string name="subscriptionSettingRestore">Jeg har et abonnement</string>
-    <string name="subscriptionSettingExpired">DuckDuckGo-abonnementet er utløpt</string>
+    <string name="subscriptionSettingExpired">Tragogo-abonnementet er utløpt</string>
     <string name="subscriptionSettingExpiredViewPlans">Se abonnementer</string>
     <string name="subscriptionSettingSectionSubscription">Abonnement</string>
     <string name="subscriptionSettingRemoveFromDevice">Fjern fra denne enheten</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Abonnementet ditt ble kjøpt gjennom Apple App Store. Hvis du vil endre abonnementet eller faktureringsinnstillingene, må du gå til Innstillinger &gt; Apple-konto &gt; Abonnementer på en enhet som er logget på samme Apple-konto som ble brukt til å kjøpe abonnementet.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Aktiver DuckDuckGo-abonnementet på datamaskin for å konfigurere Personal Information Removal</string>
-    <string name="pirDescription">I skrivebordsversjonen av DuckDuckGo-nettleseren går du til <b>Innstillinger &gt; Abonner på DuckDuckGo</b> og klikker på <b>Jeg har et abonnement</b> for å komme i gang.</string>
+    <string name="pirTitle">Aktiver Tragogo-abonnementet på datamaskin for å konfigurere Personal Information Removal</string>
+    <string name="pirDescription">I skrivebordsversjonen av Tragogo-nettleseren går du til <b>Innstillinger &gt; Abonner på Tragogo</b> og klikker på <b>Jeg har et abonnement</b> for å komme i gang.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Har du funnet et problem som ikke er dekket i <annotation type="faqs_link">hjelpesenteret</annotation>? Da vil vi svært gjerne høre om det.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Fortell oss hva som skjer …</string>
-    <string name="feedbackSubmitVpnDisclaimer">"I tillegg til detaljene som oppgis ovenfor, sender vi noe anonymisert informasjon sammen med tilbakemeldingen:\n\n• Hvorvidt enkelte nettleserfunksjoner er aktive\n• Samlet appdiagnose (f.eks. feilkoder)\n\nVed å klikke på Send inn godtar du at DuckDuckGo kan bruke innsendt informasjon til å forbedre appen."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"I tillegg til detaljene som oppgis ovenfor, sender vi noe anonymisert informasjon sammen med tilbakemeldingen:\n\n• Hvorvidt enkelte nettleserfunksjoner er aktive\n• Samlet appdiagnose (f.eks. feilkoder)\n\nVed å klikke på Send inn godtar du at Tragogo kan bruke innsendt informasjon til å forbedre appen."</string>
     <string name="feedbackSubmitVpnSubmit">Send</string>
     <string name="feedbackSubmitCompletedMessage">Takk! Tilbakemeldingen er sendt.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Får ikke tilgang til Duck.ai med abonnementet mitt i andre nettlesere</string>
     <string name="feedbackSubCategoryDuckAiOther">Andre tilbakemeldinger om Duck.ai</string>
 
-    <string name="subscriptionSettingSectionTitle">DuckDuckGo-abonnement</string>
+    <string name="subscriptionSettingSectionTitle">Tragogo-abonnement</string>
     <string name="subscriptionSettingSubscribeSecure">Sikre wifien din og chat privat med avanserte AI-modeller</string>
 
     <string name="feedbackGeneralSubscription">Abonnement</string>

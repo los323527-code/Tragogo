@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Ladda upp en bild</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Välj fil</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Ta foto</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Tillåt DuckDuckGo att be om kameraåtkomst på den här enheten</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Webbplatser kan endast använda din kamera om du tillåter DuckDuckGo att be om åtkomst.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tillåt Tragogo att be om kameraåtkomst på den här enheten</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Webbplatser kan endast använda din kamera om du tillåter Tragogo att be om åtkomst.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Öppna inställningar</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Avbryt</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Det gick inte att komma åt ljudinspelaren</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tillåt DuckDuckGo att be om åtkomst till ljudinspelaren på den här enheten</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Webbplatser kan endast använda ljudinspelaren om du tillåter DuckDuckGo att be om åtkomst.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tillåt Tragogo att be om åtkomst till ljudinspelaren på den här enheten</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Webbplatser kan endast använda ljudinspelaren om du tillåter Tragogo att be om åtkomst.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI-funktioner</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGos AI-funktioner är privata och valfria.\nDina data används inte för att träna AI.\n<annotation type="learn_more_link">Läs mer</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogos AI-funktioner är privata och valfria.\nDina data används inte för att träna AI.\n<annotation type="learn_more_link">Läs mer</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Chatta privat med populära AI-modeller från tredje part</string>
     <string name="duck_chat_visibility_setting">Webbläsarmeny</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Ofta</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Använd DuckDuckGo utan AI</string>
+    <string name="duckAiUseWithoutAiTitle">Använd Tragogo utan AI</string>
     <string name="duckAiUseWithoutAiDescription">Inaktiverar Duck.ai, döljer AI-assisterade svar i sökningen och filtrerar bort kända webbplatser för AI-spam från sökresultaten för bilder.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI är för närvarande inaktiverat i webbläsaren, så du kommer inte längre att se AI-assisterade svar och du kommer att se färre AI-genererade bilder i bildsökresultaten.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Kunde inte exportera chatt</string>
     <string name="duck_ai_chat_history_bulk_download_error">Kunde inte exportera chattar</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Sök DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Sök Tragogo</string>
     <string name="native_input_chat_hint">Fråga vad som helst privat…</string>
     <string name="native_input_chat_duck_mode_hint">Svara…</string>
 

@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problemi s učitavanjem web-mjesta</string>
     <string name="websiteNotLoadingTitleShort">Problemi s učitavanjem web-mjesta</string>
     <string name="websiteNotLoadingSubtitle">Koje je web-mjesto neispravno?</string>
-    <string name="searchNotGoodEnoughTitleLong">Pretraživanje u DuckDuckGo nije dovoljno dobro</string>
-    <string name="searchNotGoodEnoughTitleShort">Problemi s pretraživanjem u DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">Pretraživanje u Tragogo nije dovoljno dobro</string>
+    <string name="searchNotGoodEnoughTitleShort">Problemi s pretraživanjem u Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Koju značajku pretraživanja možemo dodati ili poboljšati?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programiranje/tehničko pretraživanje</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Izgled bi trebao biti više nalik Googleu</string>

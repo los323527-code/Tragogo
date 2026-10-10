@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problemos kraunantis svetainei</string>
     <string name="websiteNotLoadingTitleShort">Problemos kraunantis svetainei</string>
     <string name="websiteNotLoadingSubtitle">Kuri svetainė neveikia?</string>
-    <string name="searchNotGoodEnoughTitleLong">„DuckDuckGo“ paieška nepakankamai gera</string>
-    <string name="searchNotGoodEnoughTitleShort">Problemos paieškai naudojant „DuckDuckGo“</string>
+    <string name="searchNotGoodEnoughTitleLong">„Tragogo“ paieška nepakankamai gera</string>
+    <string name="searchNotGoodEnoughTitleShort">Problemos paieškai naudojant „Tragogo“</string>
     <string name="searchNotGoodEnoughSubtitle">Kokią paieškos funkciją galime pridėti arba patobulinti?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programavimas / techninė paieška</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Išdėstymas turėtų būti panašesnis į „Google“</string>

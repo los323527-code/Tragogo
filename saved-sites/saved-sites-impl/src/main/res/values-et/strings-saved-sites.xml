@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Kas kustutada järjehoidja %1$s?"</string>
     <string name="addToFavorites">Lisa lemmikutesse</string>
     <string name="editBookmark">Redigeeri järjehoidjat</string>
-    <string name="importBookmarksDescription">Kui sinu järjehoidjad on salvestatud mõnes teises brauseris,\nsaad need importida DuckDuckGosse.</string>
+    <string name="importBookmarksDescription">Kui sinu järjehoidjad on salvestatud mõnes teises brauseris,\nsaad need importida Tragogosse.</string>
     <string name="importBookmarks">Impordi järjehoidjaid</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Päringule „%1$s” ei leitud tulemusi</string>
     <string name="removeFromFavorites">Eemalda lemmikutest</string>

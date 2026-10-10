@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Προβλήματα φόρτωσης ιστότοπων</string>
     <string name="websiteNotLoadingTitleShort">Προβλήματα φόρτωσης ιστότοπων</string>
     <string name="websiteNotLoadingSubtitle">Ποιος ιστότοπος είναι κατεστραμμένος;</string>
-    <string name="searchNotGoodEnoughTitleLong">Η αναζήτηση DuckDuckGo δεν είναι αρκετά καλή</string>
-    <string name="searchNotGoodEnoughTitleShort">Προβλήματα αναζήτησης DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">Η αναζήτηση Tragogo δεν είναι αρκετά καλή</string>
+    <string name="searchNotGoodEnoughTitleShort">Προβλήματα αναζήτησης Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Ποια δυνατότητα αναζήτησης μπορούμε να προσθέσουμε ή να βελτιώσουμε;</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Προγραμματισμός/τεχνική αναζήτηση</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Η διάταξη θα πρέπει να μοιάζει περισσότερο με το Google</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Įkelti vaizdą</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Pasirinkti failą</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Padaryti nuotrauką</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Leisti „DuckDuckGo“ prašyti prieigos prie kameros šiame įrenginyje</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Svetainės gali naudoti jūsų kamerą tik tada, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Leisti „Tragogo“ prašyti prieigos prie kameros šiame įrenginyje</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Svetainės gali naudoti jūsų kamerą tik tada, jei leisite „Tragogo“ prašyti prieigos.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Atidaryti nustatymus</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Atšaukti</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Nepavyko pasiekti garso įrašytuvo</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Leisti „DuckDuckGo“ prašyti prieigos prie garso įrašymo įrenginio šiame įrenginyje</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Svetainės gali naudoti garso įrašymo įrenginį tik tuo atveju, jei leisite „DuckDuckGo“ prašyti prieigos.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Leisti „Tragogo“ prašyti prieigos prie garso įrašymo įrenginio šiame įrenginyje</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Svetainės gali naudoti garso įrašymo įrenginį tik tuo atveju, jei leisite „Tragogo“ prašyti prieigos.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">DI funkcijos</string>
-    <string name="duck_chat_settings_activity_description">„DuckDuckGo“ DI funkcijos yra privačios ir neprivalomos.Nenaudojame jūsų duomenų dirbtinio intelekto mokymui.\n<annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
+    <string name="duck_chat_settings_activity_description">„Tragogo“ DI funkcijos yra privačios ir neprivalomos.Nenaudojame jūsų duomenų dirbtinio intelekto mokymui.\n<annotation type="learn_more_link">Sužinokite daugiau</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Kalbėkis privačiai su populiariais trečiųjų šalių DI modeliais</string>
     <string name="duck_chat_visibility_setting">Naršyklės meniu</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Dažnai</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Naudok „DuckDuckGo“ be DI</string>
+    <string name="duckAiUseWithoutAiTitle">Naudok „Tragogo“ be DI</string>
     <string name="duckAiUseWithoutAiDescription">Išjungia „Duck.ai“, paieškoje paslepia DI parengtus atsakymus ir iš vaizdų paieškos rezultatų pašalina žinomas DI brukalų svetaines.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Šiuo metu naršyklėje DI išjungtas, todėl nebematysi DI parengtų atsakymų, o vaizdų paieškos rezultatuose matysi mažiau DI sukurtų vaizdų.</string>
 
@@ -277,7 +277,7 @@
     <string name="duck_ai_chat_history_download_error">Nepavyko eksportuoti pokalbio</string>
     <string name="duck_ai_chat_history_bulk_download_error">Nepavyko eksportuoti pokalbių</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Ieškoti sistemoje „DuckDuckGo“</string>
+    <string name="duckAiChatSearchTragogo">Ieškoti sistemoje „Tragogo“</string>
     <string name="native_input_chat_hint">Klausk bet ko privačiai…</string>
     <string name="native_input_chat_duck_mode_hint">Atsakyk…</string>
 

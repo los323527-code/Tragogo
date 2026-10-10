@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Διαγραφή σελιδοδείκτη %1$s;"</string>
     <string name="addToFavorites">Προσθήκη στα Αγαπημένα</string>
     <string name="editBookmark">Επεξεργασία σελιδοδείκτη</string>
-    <string name="importBookmarksDescription">Εάν οι σελιδοδείκτες σας είναι αποθηκευμένοι σε άλλο πρόγραμμα περιήγησης, \nμπορείτε να τους εισάγετε στο DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Εάν οι σελιδοδείκτες σας είναι αποθηκευμένοι σε άλλο πρόγραμμα περιήγησης, \nμπορείτε να τους εισάγετε στο Tragogo.</string>
     <string name="importBookmarks">Εισαγωγή σελιδοδεικτών</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Δεν υπάρχουν αποτελέσματα για «%1$s»</string>
     <string name="removeFromFavorites">Αφαίρεση από τα Αγαπημένα</string>

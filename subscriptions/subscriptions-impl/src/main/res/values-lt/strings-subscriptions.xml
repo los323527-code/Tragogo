@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Atšaukti</string>
     <string name="ok">Gerai</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">„DuckDuckGo“ prenumerata</string>
+    <string name="ddg_subscription">„Tragogo“ prenumerata</string>
     <string name="manageEmail">Tvarkyti el. paštą</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Pridėkite savo prenumeratą prie kitų įrenginių</string>
     <string name="addToDevicePrimaryText">Pridėti prie įrenginio</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Pridėkite prenumeratą į kitus įrenginius per „Google Play“ arba susiedami el. pašto adresą.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Naudokite pirmiau nurodytą el. paštą prenumeratą kituose savo įrenginiuose programėlėje „DuckDuckGo“ pridėti. Eikite į Nustatymai &gt; Prenumeratos nustatymai &gt; Turiu prenumeratą.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Naudokite pirmiau nurodytą el. paštą prenumeratą kituose savo įrenginiuose programėlėje „Tragogo“ pridėti. Eikite į Nustatymai &gt; Prenumeratos nustatymai &gt; Turiu prenumeratą.</string>
     <string name="editEmailPrimaryText">Redaguoti el. pašto adresą</string>
     <string name="learnMore">Sužinoti daugiau</string>
     <string name="privacyProFaq">Reikia pagalbos su prenumerata?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Prenumeratoriai gauna mūsų VPN, asmeninės informacijos pašalinimo ir tapatybės vagystės atkūrimo paslaugas.</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Prenumeratoriai gauna mūsų VPN ir tapatybės vagystės atkūrimą.</string>
 
-    <string name="subscriptionSettingGet">Prenumeruok „DuckDuckGo“</string>
+    <string name="subscriptionSettingGet">Prenumeruok „Tragogo“</string>
     <string name="subscriptionSettingTryFreeTrial">Išbandyk nemokamai</string>
     <string name="subscriptionSettingRestore">Turiu prenumeratą</string>
-    <string name="subscriptionSettingExpired">Jūsų „DuckDuckGo“ prenumerata baigėsi</string>
+    <string name="subscriptionSettingExpired">Jūsų „Tragogo“ prenumerata baigėsi</string>
     <string name="subscriptionSettingExpiredViewPlans">Peržiūrėti planus</string>
     <string name="subscriptionSettingSectionSubscription">Prenumerata</string>
     <string name="subscriptionSettingRemoveFromDevice">Pašalinti iš šio įrenginio</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Jūsų prenumerata buvo įsigyta per „Apple App Store“. Norėdami pakeisti savo plano ar atsiskaitymo nustatymus, eikite į Nustatymai &gt; „Apple“ paskyra &gt; Prenumeratos įrenginyje, prijungtame prie tos pačios „Apple“ paskyros, naudotos prenumeratai įsigyti.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Aktyvuokite „DuckDuckGo“ prenumeratą darbalaukyje, kad nustatytumėte asmeninės informacijos pašalinimą</string>
-    <string name="pirDescription">Staliniam kompiuteriui skirtoje naršyklėje „DuckDuckGo“ eik į <b>Nustatymai &gt; Prenumeruoti „DuckDuckGo“ </b> ir spustelėk <b>Turiu prenumeratą</b>, kad pradėtum.</string>
+    <string name="pirTitle">Aktyvuokite „Tragogo“ prenumeratą darbalaukyje, kad nustatytumėte asmeninės informacijos pašalinimą</string>
+    <string name="pirDescription">Staliniam kompiuteriui skirtoje naršyklėje „Tragogo“ eik į <b>Nustatymai &gt; Prenumeruoti „Tragogo“ </b> ir spustelėk <b>Turiu prenumeratą</b>, kad pradėtum.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Ar radote problemą, kurios nėra mūsų <annotation type="faqs_link">pagalbos centre</annotation> ? Mes tikrai norime apie tai sužinoti.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Praneškite, kas vyksta...</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Be pirmiau įvestos informacijos, kartu su jūsų atsiliepimais siunčiame anoniminę informaciją:\n\n• Ar kai kurios naršyklės funkcijos yra aktyvios\n• Apibendrinta programėlės diagnostika (pvz., klaidų kodai)\n\nSpausdami „Pateikti“ sutinkate, kad „DuckDuckGo“ gali naudoti pateiktą informaciją programėlei tobulinti."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Be pirmiau įvestos informacijos, kartu su jūsų atsiliepimais siunčiame anoniminę informaciją:\n\n• Ar kai kurios naršyklės funkcijos yra aktyvios\n• Apibendrinta programėlės diagnostika (pvz., klaidų kodai)\n\nSpausdami „Pateikti“ sutinkate, kad „Tragogo“ gali naudoti pateiktą informaciją programėlei tobulinti."</string>
     <string name="feedbackSubmitVpnSubmit">Pateikti</string>
     <string name="feedbackSubmitCompletedMessage">Dėkojame! Atsiliepimas pateiktas.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">Negaliu pasiekti „Duck.ai“ su savo prenumerata kitose naršyklėse.</string>
     <string name="feedbackSubCategoryDuckAiOther">Kiti „Duck.ai“ atsiliepimai</string>
 
-    <string name="subscriptionSettingSectionTitle">„DuckDuckGo“ prenumerata</string>
+    <string name="subscriptionSettingSectionTitle">„Tragogo“ prenumerata</string>
     <string name="subscriptionSettingSubscribeSecure">Apsaugok savo Wi-Fi ir kalbėkis privačiai su pažangiais DI modeliais</string>
 
     <string name="feedbackGeneralSubscription">Prenumerata</string>

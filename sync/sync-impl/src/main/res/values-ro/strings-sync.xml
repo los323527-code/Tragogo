@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Sincronizare și backup indisponibilă</b>\nNe pare rău, dar Sincronizare și backup nu este disponibilă în prezent. Încearcă din nou mai târziu.</string>
-    <string name="sync_flows_disabled_new_version"><b>Sincronizare și backup indisponibil</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibil în această versiune a aplicației. Actualizează DuckDuckGo la cea mai recentă versiune pentru a continua.</string>
+    <string name="sync_flows_disabled_new_version"><b>Sincronizare și backup indisponibil</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibil în această versiune a aplicației. Actualizează Tragogo la cea mai recentă versiune pentru a continua.</string>
     <string name="sync_create_account_disabled"><b>Sincronizare și backup indisponibil</b>\nNe pare rău, dar Sincronizare și backup nu este disponibil în prezent. Încearcă din nou mai târziu.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Sincronizare și backup indisponibil</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibil în această versiune a aplicației. Actualizează DuckDuckGo la cea mai recentă versiune pentru a continua.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Sincronizare și backup indisponibil</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibil în această versiune a aplicației. Actualizează Tragogo la cea mai recentă versiune pentru a continua.</string>
     <string name="sync_disabled_authenticated_user"><b>Sincronizare și backup întreruptă temporar</b>\nNe pare rău, dar Sincronizare și backup este momentan indisponibilă. Încearcă din nou mai târziu.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Sincronizare și backup întreruptă temporar</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibilă în această versiune a aplicației. Actualizează DuckDuckGo la cea mai recentă versiune pentru a continua.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Sincronizare și backup întreruptă temporar</b>\nNe pare rău, dar Sincronizare și backup nu mai este disponibilă în această versiune a aplicației. Actualizează Tragogo la cea mai recentă versiune pentru a continua.</string>
     <string name="sync_paused_notification"><b>Sincronizare și backup întrerupt temporar</b>\nNe pare rău, dar Sincronizare și backup este momentan indisponibil. Încearcă din nou mai târziu.</string>
     <string name="sync_error_notification"><b>Eroare de sincronizare</b>\nSync &amp; Backup sunt temporar indisponibile.</string>
     <string name="sync_error_warning"><b>Eroare de sincronizare</b>\nSync &amp; Backup este indisponibil temporar.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Sincronizează cu un alt dispozitiv</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Sincronizează în siguranță marcajele și parolele între dispozitivele tale.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Sincronizează în siguranță marcajele, parolele și chaturile Duck.ai pe dispozitivele tale.</string>
-    <string name="sync_off_hint">Datele tale sunt criptate integral, iar DuckDuckGo nu are acces la cheia de criptare.</string>
+    <string name="sync_off_hint">Datele tale sunt criptate integral, iar Tragogo nu are acces la cheia de criptare.</string>
     <string name="sync_setup_single_device_title">Configurare pe un singur dispozitiv</string>
     <string name="sync_setup_other_options_title">Alte opțiuni</string>
     <string name="sync_setup_single_recover_data_cta_title">Recuperează datele sincronizate</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Sincronizează și fă backup pentru acest dispozitiv</string>
 
-    <string name="sync_off_encrypted_hint">Datele tale sunt criptate integral, iar DuckDuckGo nu are acces la cheia de decriptare.</string>
+    <string name="sync_off_encrypted_hint">Datele tale sunt criptate integral, iar Tragogo nu are acces la cheia de decriptare.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Se configurează Sincronizare și backup!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Descarcă  automat pictograme pentru marcajele sincronizate.</string>
     <string name="sync_enable_connecting">Se conectează…</string>
     <string name="sync_intro_enable_title">Sincronizează și fă backup pentru acest dispozitiv</string>
-    <string name="sync_intro_enable_content">Aceasta creează o copie de backup criptată a marcajelor și a parolelor tale pe serverul securizat DuckDuckGo, care poate fi sincronizată cu celelalte dispozitive. \n\n Cheia de criptare este stocată doar pe dispozitivul tău, DuckDuckGo nu o poate accesa.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Aceasta creează o copie de rezervă criptată a marcajelor, parolelor și chaturilor Duck.ai pe serverul securizat DuckDuckGo, care poate fi sincronizată cu celelalte dispozitive ale tale. \n\n Cheia de criptare este stocată doar pe dispozitivul tău, DuckDuckGo nu o poate accesa.</string>
+    <string name="sync_intro_enable_content">Aceasta creează o copie de backup criptată a marcajelor și a parolelor tale pe serverul securizat Tragogo, care poate fi sincronizată cu celelalte dispozitive. \n\n Cheia de criptare este stocată doar pe dispozitivul tău, Tragogo nu o poate accesa.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Aceasta creează o copie de rezervă criptată a marcajelor, parolelor și chaturilor Duck.ai pe serverul securizat Tragogo, care poate fi sincronizată cu celelalte dispozitive ale tale. \n\n Cheia de criptare este stocată doar pe dispozitivul tău, Tragogo nu o poate accesa.</string>
     <string name="sync_intro_enable_footer">Poți sincroniza mai târziu cu celelalte dispozitive ale tale.</string>
     <string name="sync_intro_enable_cta">Activează Sincronizare și backup</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Scanează codul QR</string>
-    <string name="connect_screen_scan_qr_hint">Deschide aplicația DuckDuckGo pe celălalt dispozitiv și mergi la <b>Setări &gt; Sincronizare și backup &gt; Sincronizează cu un alt dispozitiv</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Deschide aplicația Tragogo pe celălalt dispozitiv și mergi la <b>Setări &gt; Sincronizare și backup &gt; Sincronizează cu un alt dispozitiv</b>.</string>
     <string name="connect_screen_enter_code_cta">Completează manual codul</string>
-    <string name="connect_screen_connect_qr_hint_title">Sau scanează cu DuckDuckGo pe celălalt dispozitiv</string>
-    <string name="connect_screen_connect_qr_hint_content">Deschide DuckDuckGo pe celălalt dispozitiv și scanează acest cod pentru a sincroniza.</string>
+    <string name="connect_screen_connect_qr_hint_title">Sau scanează cu Tragogo pe celălalt dispozitiv</string>
+    <string name="connect_screen_connect_qr_hint_content">Deschide Tragogo pe celălalt dispozitiv și scanează acest cod pentru a sincroniza.</string>
     <string name="connect_screen_share_code">Copiază codul</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Completează manual codul</string>
-    <string name="sync_enter_code_hint">Accesează Setări <b>&gt; Sincronizare și backup &gt; Sincronizează cu un alt dispozitiv</b> și selectează <b>Vezi codul text</b> în aplicația DuckDuckGo pe un alt dispozitiv sincronizat și lipește codul aici pentru a sincroniza acest dispozitiv.</string>
+    <string name="sync_enter_code_hint">Accesează Setări <b>&gt; Sincronizare și backup &gt; Sincronizează cu un alt dispozitiv</b> și selectează <b>Vezi codul text</b> în aplicația Tragogo pe un alt dispozitiv sincronizat și lipește codul aici pentru a sincroniza acest dispozitiv.</string>
     <string name="sync_enter_code_verifying">Se verifică codul</string>
     <string name="sync_enter_code_invalid">⚠️ Cod nevalid</string>
     <string name="sync_enter_code_paste">Lipește codul</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Dispozitive sincronizate</string>
     <string name="sync_new_device_section_title">Sincronizează dispozitivul nou</string>
-    <string name="sync_new_device_hint">Accesează Setări &gt; Sincronizare și backup în aplicația DuckDuckGo pe un alt dispozitiv și scanează pentru a te conecta instantaneu.</string>
+    <string name="sync_new_device_hint">Accesează Setări &gt; Sincronizare și backup în aplicația Tragogo pe un alt dispozitiv și scanează pentru a te conecta instantaneu.</string>
     <string name="sync_show_text_code_item">Afișează codul text</string>
     <string name="sync_show_qr_code_item">Scanează codul QR</string>
     <string name="sync_save_recovery_code_item">Salvează PDF de recuperare</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Codul de recuperare îți permite să sincronizezi parolele, datele de completare automată și chaturile Duck.ai pe mai multe dispozitive și să recuperezi datele sincronizate dacă pierzi accesul la un dispozitiv.</string>
     <string name="sync_code_box_title">Păstrează aceste informații în siguranță.</string>
     <string name="sync_instructions_title">Cum funcționează acest cod?</string>
-    <string name="sync_instructions_step1">Deschide DuckDuckGo pe dispozitivul pe care vrei să îl sincronizezi și mergi la Sync &amp; Backup în Setări.</string>
+    <string name="sync_instructions_step1">Deschide Tragogo pe dispozitivul pe care vrei să îl sincronizezi și mergi la Sync &amp; Backup în Setări.</string>
     <string name="sync_instructions_step2">Selectează „Sincronizează cu un alt dispozitiv” și scanează codul QR sau completează codul text.</string>
     <string name="sync_instructions_step3">Sincronizarea va fi activată și vei avea din nou acces la toate datele tale.</string>
-    <string name="sync_pdf_retention_notice">Dacă trec mai mult de 18 luni fără să folosești un browser DuckDuckGo cu Sync &amp; Backup activat, datele tale vor fi șterse de pe server și nu vor mai putea fi recuperate.</string>
+    <string name="sync_pdf_retention_notice">Dacă trec mai mult de 18 luni fără să folosești un browser Tragogo cu Sync &amp; Backup activat, datele tale vor fi șterse de pe server și nu vor mai putea fi recuperate.</string>
     <string name="remove_device_dialog_title">Elimini dispozitivul?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">%1$s„%%@” nu va mai putea accesa datele tale sincronizate.</string>
     <string name="remove_device_dialog_primary_button">Elimină</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Nu, mulțumesc</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Obține DuckDuckGo pe alte dispozitive</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Obține DuckDuckGo pe alte dispozitive pentru a le sincroniza cu acesta</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Obține DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Pentru a descărca DuckDuckGo pe desktop sau pe un alt dispozitiv mobil, vizitează:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Obține Tragogo pe alte dispozitive</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Obține Tragogo pe alte dispozitive pentru a le sincroniza cu acesta</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Obține Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Pentru a descărca Tragogo pe desktop sau pe un alt dispozitiv mobil, vizitează:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Trimite linkul de descărcare</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Link copiat</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Sincronizezi un nou dispozitiv?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s” va putea accesa datele tale DuckDuckGo sincronizate.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s” va putea accesa datele tale Tragogo sincronizate.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Sincronizează acum</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Anulare</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Obține browserul pentru desktop</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo pentru Mac și Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo pentru Mac și Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Recuperare</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Dorești să restaurezi datele Sync &amp; Backup din instalarea anterioară?</string>
-    <string name="sync_previous_session_ready_body">Restaurează pentru a recupera marcajele, parolele și alte date în DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Restaurează pentru a recupera marcajele, parolele și alte date în Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Restaurează Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Configurează o nouă sincronizare</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Cod de recuperare</string>
     <string name="sync_recover_data_download_pdf">Descarcă ca PDF</string>
     <string name="sync_restore_on_reinstall_title">Restaurează la reinstalarea aplicației</string>
-    <string name="sync_restore_on_reinstall_description">Dacă reinstalezi aplicația DuckDuckGo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
+    <string name="sync_restore_on_reinstall_description">Dacă reinstalezi aplicația Tragogo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Accesează-ți chaturile pe toate dispozitivele folosind Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Sincronizează cu un alt dispozitiv</string>
     <string name="sync_chat_bottom_sheet_title">Haide să-ți sincronizăm chaturile pe toate dispozitivele!</string>
-    <string name="sync_chat_bottom_sheet_description">Găsește codul QR în aplicația DuckDuckGo de pe celălalt dispozitiv, accesând Setări › Sync &amp; Backup › Sincronizează cu un alt dispozitiv.</string>
+    <string name="sync_chat_bottom_sheet_description">Găsește codul QR în aplicația Tragogo de pe celălalt dispozitiv, accesând Setări › Sync &amp; Backup › Sincronizează cu un alt dispozitiv.</string>
     <string name="sync_chat_bottom_sheet_positive">Scanează codul QR</string>
     <string name="sync_chat_bottom_sheet_negative">Nu acum</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Anulează</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s” va putea accesa parolele tale sincronizate din DuckDuckGo, datele de completare automată și conversațiile din Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s” va putea accesa parolele tale sincronizate din Tragogo, datele de completare automată și conversațiile din Duck.ai.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s” va putea accesa chaturile tale Duck.ai sincronizate.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Celălalt dispozitiv va avea acces la parolele tale sincronizate din DuckDuckGo, la datele de completare automată și la chaturile Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Celălalt dispozitiv va avea acces la parolele tale sincronizate din Tragogo, la datele de completare automată și la chaturile Duck.ai.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Celălalt dispozitiv va putea accesa chaturile tale Duck.ai sincronizate.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Sincronizarea nu a reușit.</string>
     <string name="sync_v2_error_pairing_rejected">Sincronizarea a fost anulată de pe celălalt dispozitiv.</string>
     <string name="sync_v2_error_pairing_canceled">Sincronizare anulată.</string>
-    <string name="sync_v2_error_upgrade_required">Actualizează browserul DuckDuckGo și încearcă din nou.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Sincronizează acest dispozitiv dintr-un browser DuckDuckGo deja conectat pe un alt dispozitiv</string>
+    <string name="sync_v2_error_upgrade_required">Actualizează browserul Tragogo și încearcă din nou.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Sincronizează acest dispozitiv dintr-un browser Tragogo deja conectat pe un alt dispozitiv</string>
     <string name="sync_v2_error_try_again">Încearcă din nou.</string>
     <string name="sync_v2_error_got_it">Am înțeles</string>
     <string name="sync_v2_already_paired_title">Deja sincronizat.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Păstrează DuckDuckGo sincronizat!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo este sincronizat.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Sincronizează și efectuează copii de rezervă pentru datele de completare automată și marcajele tale, criptate de la un capăt la altul în aplicațiile tale DuckDuckGo.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sincronizează și efectuează copii de rezervă pentru datele de completare automată, marcajele și chaturile Duck.ai, care vor fi criptate de la un capăt la altul în aplicațiile tale DuckDuckGo.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Păstrează Tragogo sincronizat!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo este sincronizat.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Sincronizează și efectuează copii de rezervă pentru datele de completare automată și marcajele tale, criptate de la un capăt la altul în aplicațiile tale Tragogo.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Sincronizează și efectuează copii de rezervă pentru datele de completare automată, marcajele și chaturile Duck.ai, care vor fi criptate de la un capăt la altul în aplicațiile tale Tragogo.</string>
     <string name="sync_simplified_settings_header_body_enabled">Marcajele și datele de completare automată sunt sincronizate și beneficiază de copiere de rezervă, cu criptare de la un capăt la altul.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Marcajele, datele de completare automată și chaturile Duck.ai sunt sincronizate și beneficiază de copiere de rezervă, cu criptare de la un capăt la altul.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Marcaje</string>
     <string name="sync_simplified_settings_recovery_section_header">Recuperare</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Restaurează la reinstalarea aplicației</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Dacă reinstalezi aplicația DuckDuckGo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Dacă reinstalezi aplicația Tragogo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Copiază codul de recuperare</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Descarcă-ți codul de recuperare</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Folosește acest cod pentru a-ți recupera datele dacă pierzi accesul la acest dispozitiv – păstrează-l în siguranță.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Notificările sunt dezactivate</string>
     <string name="sync_simplified_settings_notify_me_body">Primește o notificare în cazul în care Sync &amp; Backup întâmpină o eroare.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Obține DuckDuckGo pe alte dispozitive</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Obține Tragogo pe alte dispozitive</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Obține browserul pentru desktop</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Scanează codul QR pentru sincronizare</string>
-    <string name="sync_simplified_scanner_camera_header_body">Deschide <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo pentru desktop</annotation></b>\n<annotation type="gap">\n</annotation>și accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Deschide <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo pentru desktop</annotation></b>\n<annotation type="gap">\n</annotation>și accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Sunt gata de scanare</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Ne pare rău, codul scanat este incorect.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Este necesară permisiunea pentru cameră</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Completează codul de sincronizare</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Deschide celălalt <annotation type="icon">￼</annotation> <b><annotation type="highlight">browser DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>Accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation> › <annotation type="highlight">Copiază codul text</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Deschide celălalt <annotation type="icon">￼</annotation> <b><annotation type="highlight">browser Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>Accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation> › <annotation type="highlight">Copiază codul text</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Exemplu de cod:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Lipește codul de sincronizare</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Ne pare rău, codul lipit este incorect.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">Cod QR</string>
     <string name="sync_simplified_qr_code_header_headline">Scanează de pe un alt dispozitiv</string>
-    <string name="sync_simplified_qr_code_header_body">Pe un alt dispozitiv, deschide <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>și accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation> și scanează acest cod:</string>
+    <string name="sync_simplified_qr_code_header_body">Pe un alt dispozitiv, deschide <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>și accesează <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sincronizează cu un alt dispozitiv</annotation> și scanează acest cod:</string>
     <string name="sync_simplified_qr_code_copy_button">Copiază codul text</string>
     <string name="sync_simplified_qr_code_share_button">Distribuie</string>
     <string name="sync_simplified_qr_code_copied_message">Codul de recuperare a fost copiat</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Cod de recuperare</string>
     <string name="sync_simplified_recovery_code_download_button">Descarcă-ți codul de recuperare</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Restaurează la reinstalarea aplicației</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Dacă reinstalezi aplicația DuckDuckGo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Dacă reinstalezi aplicația Tragogo, te vom întreba dacă dorești să restaurezi datele pe acest dispozitiv.</string>
     <string name="sync_simplified_recovery_code_primary_button">Finalizat</string>
     <string name="sync_simplified_recovery_code_copied_message">Codul de recuperare a fost copiat</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Salvarea PDF-ului de recuperare necesită permisiunea de stocare</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Sincronizezi un nou dispozitiv?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" va putea accesa datele tale sincronizate de pe DuckDuckGo.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" va putea accesa datele tale sincronizate de pe Tragogo.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Sincronizează acum</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Anulează</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Configurează Sync &amp; Backup</string>

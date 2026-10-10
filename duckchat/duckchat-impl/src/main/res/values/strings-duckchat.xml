@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -25,19 +25,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Upload an image</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Choose File</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Take Photo</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Allow DuckDuckGo to ask for camera access on this device</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Sites can only use your camera if you allow DuckDuckGo to ask for access.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Allow Tragogo to ask for camera access on this device</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Sites can only use your camera if you allow Tragogo to ask for access.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Open Settings</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Cancel</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Could not access sound recorder</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Allow DuckDuckGo to ask for sound recorder access on this device</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sites can only use the sound recorder if you allow DuckDuckGo to ask for access.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Allow Tragogo to ask for sound recorder access on this device</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sites can only use the sound recorder if you allow Tragogo to ask for access.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI Features</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGo AI features are private and optional.\nYour data is not used to train AI.\n<annotation type="learn_more_link">Learn More</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogo AI features are private and optional.\nYour data is not used to train AI.\n<annotation type="learn_more_link">Learn More</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Chat privately with popular 3rd-party AI models</string>
     <string name="duck_chat_visibility_setting">Browser Menu</string>
@@ -101,7 +101,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Often</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Use DuckDuckGo Without AI</string>
+    <string name="duckAiUseWithoutAiTitle">Use Tragogo Without AI</string>
     <string name="duckAiUseWithoutAiDescription">Disables Duck.ai, hides AI-assisted answers in search, and filters known AI spam sites in image search results.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI is currently disabled in the browser so you’ll no longer see AI-assisted answers and see fewer AI-generated images in image search results.</string>
 
@@ -271,7 +271,7 @@
     <string name="duck_ai_chat_history_download_error">Couldn\'t export chat</string>
     <string name="duck_ai_chat_history_bulk_download_error">Couldn\'t export chats</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Search DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Search Tragogo</string>
     <string name="native_input_chat_hint">Ask anything privately…</string>
     <string name="native_input_chat_duck_mode_hint">Reply…</string>
 

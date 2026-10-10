@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Ενημέρωση ονόματος χρήστη</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Ενημέρωση κωδικού πρόσβασης για \n%1$s;</string>
-    <string name="updateLoginUpdatePasswordExplanation">Το DuckDuckGo θα ενημερώσει αυτόν τον αποθηκευμένο κωδικό πρόσβασης στη συσκευή σας.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Το Tragogo θα ενημερώσει αυτόν τον αποθηκευμένο κωδικό πρόσβασης στη συσκευή σας.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Κλείσιμο διαλόγου αυτόματης συμπλήρωσης</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Το όνομα χρήστη αντιγράφηκε</string>
     <string name="autofillManagementPasswordCopied">Ο κωδικός πρόσβασης αντιγράφηκε</string>
 
-    <string name="autofill_password_generation_offer_title">Χρησιμοποιείτε ισχυρό κωδικό πρόσβασης από το DuckDuckGo;</string>
+    <string name="autofill_password_generation_offer_title">Χρησιμοποιείτε ισχυρό κωδικό πρόσβασης από το Tragogo;</string>
     <string name="autofill_password_generation_offer_accept">Χρησιμοποιήστε ισχυρό κωδικό πρόσβασης</string>
     <string name="autofill_password_generation_offer_decline">Δημιουργία δικού μου</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Αποθήκευση και αυτόματη συμπλήρωση κωδικών πρόσβασης</string>
     <string name="credentialManagementAutofillSubtitle">Οι κωδικοί πρόσβασης είναι κρυπτογραφημένοι. Κανείς άλλος εκτός από εσάς δεν μπορεί να τους βλέπει, ούτε καν εμείς. <annotation type="learn_more_link">Μάθετε περισσότερα</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Ασφάλεια Διαχειριστή κωδικών πρόσβασης</string>
-    <string name="saveLoginDialogSubtitle">Αποθηκεύστε με ασφάλεια τον κωδικό πρόσβασής σας στη συσκευή με τη λειτουργία DuckDuckGo κωδικοί πρόσβασης και αυτόματη συμπλήρωση.</string>
+    <string name="saveLoginDialogSubtitle">Αποθηκεύστε με ασφάλεια τον κωδικό πρόσβασής σας στη συσκευή με τη λειτουργία Tragogo κωδικοί πρόσβασης και αυτόματη συμπλήρωση.</string>
     <string name="autofillManagementAddLogin">Προσθήκη κωδικού πρόσβασης</string>
     <string name="credentialManagementEditLoginTitleHint">Τίτλος</string>
     <string name="autofillManagementDeletedConfirmation">Διαγραφή κωδικού πρόσβασης</string>
@@ -194,34 +194,34 @@
         <item quantity="other">Βεβαιωθείτε ότι έχετε ακόμα τρόπο πρόσβασης στους λογαριασμούς σας.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Μπορείτε να εισαγάγετε αποθηκευμένους κωδικούς πρόσβασης από άλλο πρόγραμμα περιήγησης στο DuckDuckGo.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Μπορείτε να εισαγάγετε αποθηκευμένους κωδικούς πρόσβασης από άλλο πρόγραμμα περιήγησης στο Tragogo.</string>
 
     <string name="autofillManagementImportPasswords">Εισαγωγή κωδικών πρόσβασης</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Συγχρονισμός κωδικών πρόσβασης υπολογιστών</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Τρόπος εισαγωγής κωδικών πρόσβασης</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Πώς να συγχρονίσετε τους κωδικούς πρόσβασης υπολογιστών</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Εισαγάγετε κωδικούς πρόσβασης στην έκδοση του προγράμματος περιήγησης DuckDuckGo για υπολογιστές και έπειτα συγχρονίστε τους σε όλες τις συσκευές.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Εισαγάγετε κωδικούς πρόσβασης στην έκδοση του προγράμματος περιήγησης Tragogo για υπολογιστές και έπειτα συγχρονίστε τους σε όλες τις συσκευές.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Αποκτήστε το πρόγραμμα περιήγησης για υπολογιστές</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Αποκτήστε το πρόγραμμα περιήγησης DuckDuckGo για Mac ή Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Αναζητήστε ιδιωτικά και αποκλείστε εφαρμογές παρακολούθησης με το πρόγραμμα περιήγησης DuckDuckGo για υπολογιστές. Επισκεφτείτε αυτόν τον σύνδεσμο στον υπολογιστή σας για να πραγματοποιήσετε λήψη σήμερα.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Αποκτήστε το πρόγραμμα περιήγησης Tragogo για Mac ή Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Αναζητήστε ιδιωτικά και αποκλείστε εφαρμογές παρακολούθησης με το πρόγραμμα περιήγησης Tragogo για υπολογιστές. Επισκεφτείτε αυτόν τον σύνδεσμο στον υπολογιστή σας για να πραγματοποιήσετε λήψη σήμερα.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Συγχρονισμός με υπολογιστή</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Εισαγωγή από το πρόγραμμα περιήγησης για υπολογιστές:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Ανοίξτε το DuckDuckGo σε Mac ή Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Ανοίξτε το Tragogo σε Mac ή Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Μεταβείτε στις <b>Ρυθμίσεις</b> > <b>Κωδικοί πρόσβασης</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Επιλέξτε <b>Εισαγωγή κωδικών πρόσβασης</b>... και ακολουθήστε τα βήματα για εισαγωγή]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Μόλις εισαχθεί στον υπολογιστή σας, μπορείτε να ρυθμίσετε τον συγχρονισμό στη συσκευή αυτή</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Αποκτήστε την εφαρμογή για υπολογιστές</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Αποκτήστε το DuckDuckGo για Mac ή Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Αποκτήστε το Tragogo για Mac ή Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Στον υπολογιστή σας, μεταβείτε στη διεύθυνση:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Αναφέρετε ένα πρόβλημα με την Αυτόματη συμπλήρωση</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Αναφέρετε ανώνυμα ότι η αυτόματη συμπλήρωση δεν λειτουργεί σε αυτόν τον ιστότοπο. Οι κωδικοί πρόσβασης δεν κοινοποιούνται ποτέ.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Δεν λειτουργεί η αυτόματη συμπλήρωση αναφοράς στο %1$s;</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Οι αναφορές που αποστέλλονται στο DuckDuckGo είναι ανώνυμες και δεν περιλαμβάνουν το όνομα χρήστη, τον κωδικό πρόσβασής σας ή οποιαδήποτε άλλη πληροφορία που μπορεί να σας ταυτοποιήσει.\n\nΗ αναφορά περιλαμβάνει μόνο τη διεύθυνση URL του ιστότοπου και την κατάσταση ορισμένων ρυθμίσεων αυτόματης συμπλήρωσης.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Οι αναφορές που αποστέλλονται στο Tragogo είναι ανώνυμες και δεν περιλαμβάνουν το όνομα χρήστη, τον κωδικό πρόσβασής σας ή οποιαδήποτε άλλη πληροφορία που μπορεί να σας ταυτοποιήσει.\n\nΗ αναφορά περιλαμβάνει μόνο τη διεύθυνση URL του ιστότοπου και την κατάσταση ορισμένων ρυθμίσεων αυτόματης συμπλήρωσης.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Αποστολή Αναφοράς</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Ακύρωση</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Σε ευχαριστούμε! Η αναφορά σας θα μας βοηθήσει ώστε να γίνει το DuckDuckGo καλύτερο για όλους.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Σε ευχαριστούμε! Η αναφορά σας θα μας βοηθήσει ώστε να γίνει το Tragogo καλύτερο για όλους.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Βασικά χαρακτηριστικά</string>
@@ -253,14 +253,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Επιλογή αρχείου CSV</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Εισαγωγή από πρόγραμμα περιήγησης για υπολογιστές</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Εισαγωγή στο DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Εισαγωγή στο Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Η εισαγωγή ολοκληρώθηκε</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Το έπιασα</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Η εισαγωγή κωδικού πρόσβασης απέτυχε</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Παραλείφθηκε (διπλότυπο ή μη έγκυρο): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Κωδικοί πρόσβασης που εισήχθησαν: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Άνοιγμα κωδικών πρόσβασης</string>
     <string name="autofill_service_select_password_activity">Επίλεξε έναν αποθηκευμένο κωδικό πρόσβασης</string>
 
@@ -278,16 +278,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Συγχρονισμός κωδικών πρόσβασης υπολογιστών</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Επαναφορά αποκλεισμένων ιστότοπων</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Μεταφέρετε τους κωδικούς σας από&lt;br /&gt;το Google στο DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Εισαγάγετε γρήγορα και με ασφάλεια τους κωδικούς πρόσβασής σας στο DuckDuckGo. Η Google ίσως σας ζητήσει να εισαγάγετε τον κωδικό πρόσβασής σας.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Μεταφέρετε τους κωδικούς σας από&lt;br /&gt;το Google στο Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Εισαγάγετε γρήγορα και με ασφάλεια τους κωδικούς πρόσβασής σας στο Tragogo. Η Google ίσως σας ζητήσει να εισαγάγετε τον κωδικό πρόσβασής σας.</string>
     <string name="passwords_import_promo_action">Εισαγωγή από το Google</string>
-    <string name="passwords_import_promo_in_browser_title">Μεταφέρετε τους κωδικούς σας από&lt;br /&gt;το Google στο DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Μεταφέρετε τους κωδικούς σας από&lt;br /&gt;το Google στο Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Να μην ερωτηθώ ξανά</string>
     <string name="passwords_import_promo_in_settings_title">Εισαγωγή κωδικών πρόσβασης από το Google</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Αποκρυψη</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Εισαγωγή στο DuckDuckGo</string>
+    <string name="importToTragogo">Εισαγωγή στο Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Εισαγωγή από το Chrome</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Εισαγωγή σελιδοδεικτών από το Google</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Η Google μπορεί να σας ζητήσει να συνδεθείτε ή να εισαγάγετε τον κωδικό πρόσβασής σας για επιβεβαίωση.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Ακύρωση εισαγωγής</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Συνέχεια</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Σελιδοδείκτες: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Κλείσιμο</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Κάτι πήγε λάθος</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Βεβαιωθείτε ότι είστε συνδεδεμένοι στο διαδίκτυο και προσπαθήστε ξανά.</string>
 

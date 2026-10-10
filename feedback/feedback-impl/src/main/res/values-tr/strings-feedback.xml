@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Web Sitesi Yükleme Sorunları</string>
     <string name="websiteNotLoadingTitleShort">Web sitesi yükleme Sorunları</string>
     <string name="websiteNotLoadingSubtitle">Hangi web sitesi hatalı?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo arama özelliği yeterince iyi değil</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo Arama Sorunları</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo arama özelliği yeterince iyi değil</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo Arama Sorunları</string>
     <string name="searchNotGoodEnoughSubtitle">Hangi arama özelliğini ekleyebilir veya geliştirebiliriz?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programlama/teknik arama</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Düzen daha çok Google gibi olmalı</string>

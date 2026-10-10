@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,17 +17,17 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="netp_name" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementTitle" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementHeadlineStatusOn">Usługa DuckDuckGo VPN jest włączona</string>
-    <string name="netpManagementHeadlineStatusOff">Usługa DuckDuckGo VPN jest wyłączona</string>
+    <string name="netp_name" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementTitle" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementHeadlineStatusOn">Usługa Tragogo VPN jest włączona</string>
+    <string name="netpManagementHeadlineStatusOff">Usługa Tragogo VPN jest wyłączona</string>
     <string name="netpManagementDescriptionOff">Nawiąż połączenie, aby zabezpieczyć ruch internetowy urządzenia.</string>
     <string name="netpManagementDescriptionOn">Cały ruch internetowy urządzenia jest zabezpieczony\nprzez VPN.</string>
     <string name="netpManagementToggleTitle" translatable="false">VPN</string>
     <string name="netpManagementToggleSubtitleConnecting">Łączenie...</string>
     <string name="netpManagementToggleSubtitleConnected" instruction="Placeholder is elapsed time in hh:MM:ss format.">Połączono · %1$s</string>
     <string name="netpManagementToggleSubtitleDisconnected">Nie połączono</string>
-    <string name="netpManagementBetaDescription">DuckDuckGo VPN jest obecnie w wersji beta. <annotation type="report_issues_link">Podziel się opinią</annotation>, aby pomóc nam ulepszać usługę!</string>
+    <string name="netpManagementBetaDescription">Tragogo VPN jest obecnie w wersji beta. <annotation type="report_issues_link">Podziel się opinią</annotation>, aby pomóc nam ulepszać usługę!</string>
 
     <!-- Exclude App Prompt -->
     <string name="netpManagementExcludeAppPromptTitle">Czy VPN powoduje problemy z aplikacją?</string>
@@ -55,19 +55,19 @@
 
     <!-- VPN conflict -->
     <string name="netpVpnConflictTitle">Twoja aplikacja do obsługi sieci VPN może zostać rozłączona</string>
-    <string name="netpVpnConflictMessage">System Android pozwala tylko na jedno aktywne połączenie VPN jednocześnie. Włączenie DuckDuckGo VPN może rozłączyć dowolną aktywną sieć VPN na urządzeniu.</string>
+    <string name="netpVpnConflictMessage">System Android pozwala tylko na jedno aktywne połączenie VPN jednocześnie. Włączenie Tragogo VPN może rozłączyć dowolną aktywną sieć VPN na urządzeniu.</string>
     <string name="netpActionGotIt">Rozumiem</string>
 
     <!-- Always on -->
-    <string name="netpAlwaysOnVpnConflictTitle">Twoja aplikacja VPN blokuje DuckDuckGo VPN</string>
+    <string name="netpAlwaysOnVpnConflictTitle">Twoja aplikacja VPN blokuje Tragogo VPN</string>
     <string name="netpAlwaysOnVpnConflictMessage">System Android pozwala tylko na jedno aktywne połączenie VPN jednocześnie. Otwórz Ustawienia sieci &gt; VPN. Znajdź aplikację VPN, która ma status „zawsze włączona” (always-on) i wyłącz ją, aby kontynuować.</string>
     <string name="netpActionOpenSettings">Otwórz ustawienia</string>
     <string name="netpActionCancel">Anuluj</string>
     <string name="netpActionNotNow">Nie teraz</string>
     <string name="netpActionGoToSettings">Przejdź do ustawień</string>
     <string name="netpAlwaysOnPromotionHeading">Włącz ustawienie Zawsze włączone</string>
-    <string name="netpAlwaysOnPromotionBody">Przejdź do ustawień VPN swojego urządzenia dla aplikacji DuckDuckGo i włącz opcję <b>zawsze włączona VPN</b>, aby zapobiec wyłączeniu ochrony przez system Android.\n\nUpewnij się, że pozostałe ustawienia są wyłączone.</string>
-    <string name="netpAlwaysOnLockdownBody">Aby uniknąć problemów z aplikacją, przejdź do <b>ustawień VPN dla DuckDuckGo</b> urządzenia i wyłącz opcję <b>Blokuj połączenia bez VPN.</b></string>
+    <string name="netpAlwaysOnPromotionBody">Przejdź do ustawień VPN swojego urządzenia dla aplikacji Tragogo i włącz opcję <b>zawsze włączona VPN</b>, aby zapobiec wyłączeniu ochrony przez system Android.\n\nUpewnij się, że pozostałe ustawienia są wyłączone.</string>
+    <string name="netpAlwaysOnLockdownBody">Aby uniknąć problemów z aplikacją, przejdź do <b>ustawień VPN dla Tragogo</b> urządzenia i wyłącz opcję <b>Blokuj połączenia bez VPN.</b></string>
     <string name="netpAlwaysOnLockdownHeading">Zmień ustawienia VPN</string>
     <string name="netpBannerVpnRevoked"><b>Sieć VPN jest wyłączona.</b>\nMogła ją wyłączyć aplikacja VPN na Twoim urządzeniu. Użyj przełącznika, aby ponownie ją włączyć.</string>
     <string name="netpBannerAlwaysOnLockDownEnabled"><b>Wymagane działanie!</b> Aby uniknąć problemów z aplikacją, zmień ustawienia systemu Android. <annotation type="open_settings_link">Zmień ustawienia</annotation></string>
@@ -82,7 +82,7 @@
     <string name="netpReportBreakageCategoryFeatureRequest">Prośba o dodanie funkcji</string>
     <string name="netpReportBreakageCategoryOther">Coś innego</string>
 
-    <string name="netpBetaDisclaimerFooter">Usługa DuckDuckGo VPN jest bezpłatna w wersji beta.</string>
+    <string name="netpBetaDisclaimerFooter">Usługa Tragogo VPN jest bezpłatna w wersji beta.</string>
 
     <!-- Manage -->
     <string name="netpManagementManageHeader">Zarządzaj</string>
@@ -110,7 +110,7 @@
     <string name="netpVpnSettingAlwaysOnByline">Automatycznie przywracaj połączenie VPN po jego przerwaniu</string>
     <string name="netpVpnSettingExcludeLocalNetworks">Wyklucz sieci lokalne</string>
     <string name="netpVpnSettingExcludeLocalNetworksByline">Pomiń VPN dla połączeń z siecią lokalną, na przykład z drukarką.</string>
-    <string name="netpVpnSettingDnsLeak">DuckDuckGo VPN zapobiega wyciekom DNS do dostawcy usług internetowych poprzez kierowanie zapytań DNS przez tunel VPN do naszego mechanizmu rozpoznawania nazw.</string>
+    <string name="netpVpnSettingDnsLeak">Tragogo VPN zapobiega wyciekom DNS do dostawcy usług internetowych poprzez kierowanie zapytań DNS przez tunel VPN do naszego mechanizmu rozpoznawania nazw.</string>
     <string name="netpVpnSettingGeoswitching">Preferowana lokalizacja</string>
     <string name="netpVpnSettingGeoswitchingDefault">Najbliższy dostępny</string>
 
@@ -124,7 +124,7 @@
 
     <!-- Pause during calls -->
     <string name="netpGrantPhonePermissionTitle">Wymagane jest uprawnienie do telefonu</string>
-    <string name="netpGrantPhonePermissionByline">Aby włączyć to ustawienie, w ustawieniach systemowych musisz zezwolić aplikacji DuckDuckGo na wykonywanie połączeń telefonicznych i zarządzanie nimi.</string>
+    <string name="netpGrantPhonePermissionByline">Aby włączyć to ustawienie, w ustawieniach systemowych musisz zezwolić aplikacji Tragogo na wykonywanie połączeń telefonicznych i zarządzanie nimi.</string>
     <string name="netpGrantPhonePermissionActionPositive">Ustawienia</string>
     <string name="netpGrantPhonePermissionActionNegative">Anuluj</string>
 
@@ -134,8 +134,8 @@
 
     <!-- Exclusion list -->
     <string name="netpExclusionListTitle">Zarządzaj aplikacjami</string>
-    <string name="netpExclusionListHeaderDefault">DuckDuckGo VPN działa domyślnie we wszystkich aplikacjach. Jeśli masz problemy z aplikacją przy włączonej sieci VPN, spróbuj wyłączyć ochronę dla tej aplikacji.</string>
-    <string name="netpExclusionListHeaderDisabled">Usługa DuckDuckGo VPN jest wyłączona.</string>
+    <string name="netpExclusionListHeaderDefault">Tragogo VPN działa domyślnie we wszystkich aplikacjach. Jeśli masz problemy z aplikacją przy włączonej sieci VPN, spróbuj wyłączyć ochronę dla tej aplikacji.</string>
+    <string name="netpExclusionListHeaderDisabled">Usługa Tragogo VPN jest wyłączona.</string>
     <string name="netpExclusionListExcludedReasonManuallyDisabled">Wyłączone ręcznie</string>
     <string name="netpExclusionListExcludedReasonManuallyEnabled">Włączone ręcznie</string>
     <string name="netpExclusionListExcludedReasonIssuesMayOccur">Po włączeniu mogą wystąpić problemy z aplikacją</string>
@@ -153,7 +153,7 @@
     <string name="netpExclusionListRestoreDefaultsTitle">Przywrócić ochronę dla wszystkich aplikacji?</string>
     <string name="netpExclusionListRestoreDefaultsMessage">Spowoduje to zaktualizowanie Twoich indywidualnych ustawień ochrony i włączenie sieci VPN dla wszystkich aplikacji. Zawsze możesz ponownie zmienić ustawienia ochrony.</string>
     <string name="netpExclusionListRestoreDefaultSnackbar">Zostały przywrócone domyślne ustawienia ochrony</string>
-    <string name="netpExclusionListRestoreDefaultsDisclaimer">Włączenie ochrony powoduje wysłanie nazwy aplikacji do DuckDuckGo.</string>
+    <string name="netpExclusionListRestoreDefaultsDisclaimer">Włączenie ochrony powoduje wysłanie nazwy aplikacji do Tragogo.</string>
 
     <!-- System apps exclusion list -->
     <string name="netpExclusionListSystemAppsHeader">Aplikacje systemowe Android</string>
@@ -168,33 +168,33 @@
 
     <!-- FAQS -->
     <string name="netpFaqTitle">Często zadawane pytania i pomoc techniczna</string>
-    <string name="netpFaqQuestionOne">Jak działa DuckDuckGo VPN?</string>
+    <string name="netpFaqQuestionOne">Jak działa Tragogo VPN?</string>
     <string name="netpFaqAnswerOne">VPN używa protokołu WireGuard typu open source do skonfigurowania wirtualnej sieci prywatnej (VPN) na urządzeniu. Po włączeniu tej opcji cały ruch urządzenia zostanie najpierw zaszyfrowany, a następnie przekierowany przez najbliższy serwer VPN, aby chronić aktywność użytkownika w sieci przed dostawcami usług internetowych oraz ukryć lokalizację przed aplikacjami i odwiedzanymi witrynami.</string>
     <string name="netpFaqQuestionTwo">Czy chronione jest tylko przeglądanie stron internetowych?</string>
     <string name="netpFaqAnswerTwo">Chroniona jest cała aktywność sieciowa na urządzeniu.</string>
-    <string name="netpFaqQuestionThree">Czy DuckDuckGo przechowuje dzienniki danych?</string>
+    <string name="netpFaqQuestionThree">Czy Tragogo przechowuje dzienniki danych?</string>
     <string name="netpFaqAnswerThree">Nie, nie przechowujemy dzienników.</string>
     <string name="netpFaqQuestionFour">Gdzie są zlokalizowane serwery VPN?</string>
-    <string name="netpFaqAnswerFour">DuckDuckGo oferuje ograniczoną liczbę serwerów dla DuckDuckGo VPN w wersji beta, które znajdują się w Stanach Zjednoczonych, Kanadzie i Europie.</string>
+    <string name="netpFaqAnswerFour">Tragogo oferuje ograniczoną liczbę serwerów dla Tragogo VPN w wersji beta, które znajdują się w Stanach Zjednoczonych, Kanadzie i Europie.</string>
     <string name="netpFaqQuestionSix">Dlaczego niektóre aplikacje nie działają, gdy włączona jest sieć VPN?</string>
-    <string name="netpFaqAnswerSix">Niektóre witryny i aplikacje celowo ograniczają dostęp dla osób korzystających z VPN. Na przykład mogą poprosić o rozwiązanie CAPTCHA, aby upewnić się, że użytkownik jest prawdziwą osobą, a nie botem. Jeśli masz powtarzające się problemy z aplikacją, możesz ją całkowicie wykluczyć z VPN w ustawieniach DuckDuckGo VPN.</string>
+    <string name="netpFaqAnswerSix">Niektóre witryny i aplikacje celowo ograniczają dostęp dla osób korzystających z VPN. Na przykład mogą poprosić o rozwiązanie CAPTCHA, aby upewnić się, że użytkownik jest prawdziwą osobą, a nie botem. Jeśli masz powtarzające się problemy z aplikacją, możesz ją całkowicie wykluczyć z VPN w ustawieniach Tragogo VPN.</string>
     <string name="netpFaqQuestionSeven">Dlaczego nie mogę wyłączyć powiadomień VPN?</string>
     <string name="netpFaqAnswerSeven">W systemie Android wymagane jest, aby sieci VPN wyświetlały stałe powiadomienie, gdy sieć VPN jest włączona.</string>
     <string name="netpFaqQuestionEight">Czy VPN jest zgodny z App Tracking Protection?</string>
-    <string name="netpFaqAnswerEight">Tak, zarówno VPN, jak i App Tracking Protection mogą być włączone jednocześnie. Żadna inna sieć VPN nie jest zgodna z ochroną przed śledzeniem aplikacji App Tracking Protection DuckDuckGo.</string>
+    <string name="netpFaqAnswerEight">Tak, zarówno VPN, jak i App Tracking Protection mogą być włączone jednocześnie. Żadna inna sieć VPN nie jest zgodna z ochroną przed śledzeniem aplikacji App Tracking Protection Tragogo.</string>
     <string name="netpFaqQuestionNine">Czy korzystanie z VPN jest bezpłatne?</string>
-    <string name="netpFaqAnswerNine">Usługa DuckDuckGo VPN jest bezpłatna w wersji beta. Z czasem będzie oferowana jako usługa płatna.</string>
+    <string name="netpFaqAnswerNine">Usługa Tragogo VPN jest bezpłatna w wersji beta. Z czasem będzie oferowana jako usługa płatna.</string>
 
     <!-- Notifications -->
     <string name="netpNotificationCTAEnableNetp">Połącz</string>
     <string name="netpNotificationCTAReportIssue">Masz problemy z aplikacją?</string>
     <string name="netpNotificationDisabled">Sieć VPN jest rozłączona. Dotknij, aby kontynuować zabezpieczanie ruchu urządzenia.</string>
-    <string name="netpNotificationDisabledByVpn">Aplikacja VPN na urządzeniu rozłączyła VPN DuckDuckGo. Dotknij, aby ponownie połączyć.</string>
+    <string name="netpNotificationDisabledByVpn">Aplikacja VPN na urządzeniu rozłączyła VPN Tragogo. Dotknij, aby ponownie połączyć.</string>
     <string name="netpUnsafeWifi">Połączono z niebezpieczną siecią Wi-Fi.</string>
     <string name="netpNotificationCTAReconnectNow">Połącz się ponownie</string>
     <string name="netpNotificationSnoozeTitle">Wstrzymano VPN</string>
     <string name="netpNotificationSnoozeBody" instruction="Placeholder is time in hh:mm format">VPN połączy się ponownie o %1$s</string>
-    <string name="netpNotificationVpnAccessRevoked">Sieć VPN została rozłączona z powodu wygasłej subskrypcji. Subskrybuj DuckDuckGo, aby ponownie połączyć się z siecią VPN.</string>
+    <string name="netpNotificationVpnAccessRevoked">Sieć VPN została rozłączona z powodu wygasłej subskrypcji. Subskrybuj Tragogo, aby ponownie połączyć się z siecią VPN.</string>
 
     <!-- Geoswitching -->
     <string name="netpGeoswitchingTitle">Lokalizacja VPN</string>
@@ -206,7 +206,7 @@
 
     <!-- Access revoked-->
     <string name="netpDialogVpnAccessRevokedTitle">Sieć VPN została rozłączona z powodu wygasłej subskrypcji</string>
-    <string name="netpDialogVpnAccessRevokedBody">Subskrybuj DuckDuckGo, aby ponownie połączyć się z siecią VPN.</string>
+    <string name="netpDialogVpnAccessRevokedBody">Subskrybuj Tragogo, aby ponownie połączyć się z siecią VPN.</string>
     <string name="netpDialogVpnAccessRevokedPositiveAction">Subskrybuj</string>
     <string name="netpDialogVpnAccessRevokedNegativeAction">Odrzuć</string>
 
@@ -214,7 +214,7 @@
     <string name="netpVerifySubscriptionLabel">Zweryfikuj subskrypcję</string>
     <string name="netpVerifySubscriptionInProgress">Poczekaj, aż zweryfikujemy Twoją subskrypcję...</string>
     <string name="netpVerifySubscriptionNoSubscription">Błąd! Nie masz żadnej ważnej subskrypcji.</string>
-    <string name="netpVerifySubscriptionNoEntitlement">Błąd! Twoja subskrypcja nie obejmuje DuckDuckGo VPN.</string>
+    <string name="netpVerifySubscriptionNoEntitlement">Błąd! Twoja subskrypcja nie obejmuje Tragogo VPN.</string>
 
     <!-- NetP Settings-->
     <string name="netpSubscriptionSettingsTitle" translatable="false">VPN</string>
@@ -223,16 +223,16 @@
     <string name="netpSetttingDnsHeader" translatable="false">DNS</string>
     <string name="netpCustomDnsSettingText">Serwer DNS</string>
     <string name="netpPrivateDns">Prywatny DNS</string>
-    <string name="netpCustomDnsDefault" translatable="false">DuckDuckGo</string>
-    <string name="netpCustomDnsDefaultBlockMalware">DuckDuckGo (Blokowanie oszustw)</string>
-    <string name="netpCustomDnsDefaultOption">DuckDuckGo (zalecane)</string>
+    <string name="netpCustomDnsDefault" translatable="false">Tragogo</string>
+    <string name="netpCustomDnsDefaultBlockMalware">Tragogo (Blokowanie oszustw)</string>
+    <string name="netpCustomDnsDefaultOption">Tragogo (zalecane)</string>
     <string name="netpCustomDnsCustom">Niestandardowy</string>
     <string name="netpCustomDnsInputAddressHint">Adres IPv4</string>
     <string name="netpCustomDnsApply">Zastosuj</string>
     <string name="netpCustomDnsCustomHeader">Serwer DNS</string>
-    <string name="netpCustomDnsPrivateDnsWarning">Prywatny DNS jest już określony w ustawieniach DNS systemu. Wyłącz prywatny DNS, aby ustawić niestandardowy DNS dla DuckDuckGo VPN. <annotation type="open_settings_link">Otwórz ustawienia systemowe</annotation></string>
+    <string name="netpCustomDnsPrivateDnsWarning">Prywatny DNS jest już określony w ustawieniach DNS systemu. Wyłącz prywatny DNS, aby ustawić niestandardowy DNS dla Tragogo VPN. <annotation type="open_settings_link">Otwórz ustawienia systemowe</annotation></string>
     <string name="netpCustomDnsWarning">Korzystanie z niestandardowego serwera DNS może mieć wpływ na prędkość przeglądania stron internetowych oraz narażać aktywność na dostęp nieupoważnionych osób, jeśli serwer nie jest bezpieczny lub sprawdzony.</string>
-    <string name="netpDdgDnsByLine">DuckDuckGo kieruje zapytania DNS przez nasze serwery DNS, aby Twój dostawca usług internetowych nie mógł zobaczyć, jakie strony odwiedzasz.</string>
+    <string name="netpDdgDnsByLine">Tragogo kieruje zapytania DNS przez nasze serwery DNS, aby Twój dostawca usług internetowych nie mógł zobaczyć, jakie strony odwiedzasz.</string>
 
     <!-- Block malware DNS -->
     <string name="netpDnsBlockMalwareHeader">Blokowanie złośliwych treści</string>

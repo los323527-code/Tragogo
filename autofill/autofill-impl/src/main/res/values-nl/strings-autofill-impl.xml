@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Gebruikersnaam bijwerken</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Wachtwoord bijwerken voor \n%1$s?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo werkt dit opgeslagen wachtwoord op je apparaat bij.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo werkt dit opgeslagen wachtwoord op je apparaat bij.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Dialoogvenster Automatisch invullen sluiten</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Gebruikersnaam gekopieerd</string>
     <string name="autofillManagementPasswordCopied">Wachtwoord gekopieerd</string>
 
-    <string name="autofill_password_generation_offer_title">Een sterk wachtwoord van DuckDuckGo gebruiken?</string>
+    <string name="autofill_password_generation_offer_title">Een sterk wachtwoord van Tragogo gebruiken?</string>
     <string name="autofill_password_generation_offer_accept">Sterk wachtwoord gebruiken</string>
     <string name="autofill_password_generation_offer_decline">Zelf wachtwoord aanmaken</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Wachtwoorden opslaan en automatisch invullen</string>
     <string name="credentialManagementAutofillSubtitle">Wachtwoorden worden versleuteld. Niemand anders dan jij kunt ze zien, zelfs wij niet. <annotation type="learn_more_link">Meer informatie</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Beveiliging met wachtwoordbeheerder</string>
-    <string name="saveLoginDialogSubtitle">Sla je wachtwoord veilig op je apparaat op met DuckDuckGo wachtwoorden en automatisch invullen.</string>
+    <string name="saveLoginDialogSubtitle">Sla je wachtwoord veilig op je apparaat op met Tragogo wachtwoorden en automatisch invullen.</string>
     <string name="autofillManagementAddLogin">Wachtwoord toevoegen</string>
     <string name="credentialManagementEditLoginTitleHint">Titel</string>
     <string name="autofillManagementDeletedConfirmation">Wachtwoord verwijderd</string>
@@ -194,34 +194,34 @@
         <item quantity="other">Zorg ervoor dat je nog steeds toegang hebt tot je accounts.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Je kunt opgeslagen wachtwoorden uit een andere browser importeren in DuckDuckGo.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Je kunt opgeslagen wachtwoorden uit een andere browser importeren in Tragogo.</string>
 
     <string name="autofillManagementImportPasswords">Wachtwoorden importeren</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Wachtwoorden bureaublad synchroniseren</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Wachtwoorden importeren</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Synchroniseren van desktopwachtwoorden</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importeer wachtwoorden in de desktopversie van de DuckDuckGo-browser en synchroniseer ze vervolgens tussen apparaten.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importeer wachtwoorden in de desktopversie van de Tragogo-browser en synchroniseer ze vervolgens tussen apparaten.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Download de desktopbrowser</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">DuckDuckGo-browser downloaden voor Mac of Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Zoek privé en blokkeer trackers met de DuckDuckGo-desktopbrowser. Bezoek deze link op je computer en download de browser vandaag nog.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Tragogo-browser downloaden voor Mac of Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Zoek privé en blokkeer trackers met de Tragogo-desktopbrowser. Bezoek deze link op je computer en download de browser vandaag nog.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Synchroniseren met de desktop</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Importeren vanuit de desktopbrowser:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Open DuckDuckGo op Mac of Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Open Tragogo op Mac of Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Ga naar <b>Instellingen</b> > <b>wachtwoorden</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Selecteer <b>Wachtwoorden importeren</b>... en volg de stappen om te importeren]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Na het importeren op uw computer, kunt u synchronisatie instellen op dit apparaat</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Desktop-app downloaden</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">DuckDuckGo downloaden voor Mac of Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Tragogo downloaden voor Mac of Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Ga op je computer naar:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Meld een probleem met automatisch invullen</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Anoniem melden dat automatisch invullen niet werkt op deze site. Wachtwoorden worden nooit gedeeld.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Rapporteren dat automatisch invullen niet werkt op %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Rapporten die worden verzonden naar DuckDuckGo zijn anoniem en bevatten geen gebruikersnaam, wachtwoord of andere persoonlijk identificeerbare informatie.\n\nHet rapport bevat alleen de URL van de website en de status van sommige instellingen voor automatisch invullen.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Rapporten die worden verzonden naar Tragogo zijn anoniem en bevatten geen gebruikersnaam, wachtwoord of andere persoonlijk identificeerbare informatie.\n\nHet rapport bevat alleen de URL van de website en de status van sommige instellingen voor automatisch invullen.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Verzend Rapport</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Annuleren</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Bedankt! Jouw rapport helpt ons DuckDuckGo beter te maken voor iedereen.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Bedankt! Jouw rapport helpt ons Tragogo beter te maken voor iedereen.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Belangrijkste kenmerken</string>
@@ -253,14 +253,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Kies een CSV-bestand</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Importeren vanuit de desktopbrowser</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importeren naar DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importeren naar Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Importeren voltooid</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Ik snap het</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Wachtwoord importeren mislukt</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Overgeslagen (duplicaat of ongeldig): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Wachtwoorden geïmporteerd: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Wachtwoorden openen</string>
     <string name="autofill_service_select_password_activity">Selecteer een opgeslagen wachtwoord</string>
 
@@ -278,16 +278,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Wachtwoorden bureaublad synchroniseren</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Uitgesloten sites opnieuw instellen</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Breng je wachtwoorden van&lt;br /&gt;Google over naar DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Importeer snel en veilig je wachtwoorden naar DuckDuckGo. Google kan je vragen om je wachtwoord in te voeren.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Breng je wachtwoorden van&lt;br /&gt;Google over naar Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Importeer snel en veilig je wachtwoorden naar Tragogo. Google kan je vragen om je wachtwoord in te voeren.</string>
     <string name="passwords_import_promo_action">Importeren van Google</string>
-    <string name="passwords_import_promo_in_browser_title">Breng je wachtwoorden van Google naar DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Breng je wachtwoorden van Google naar Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Niet opnieuw vragen</string>
     <string name="passwords_import_promo_in_settings_title">Wachtwoorden importeren van Google</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Verbergen</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Importeren naar DuckDuckGo</string>
+    <string name="importToTragogo">Importeren naar Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Geïmporteerd vanuit Chrome</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Bladwijzers importeren uit Google</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google kan je vragen om in te loggen of je wachtwoord in te voeren ter bevestiging.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Importeren annuleren</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Doorgaan</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Bladwijzers: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Sluiten</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Er is iets misgegaan</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Controleer of je verbinding hebt met internet en probeer het opnieuw.</string>
 

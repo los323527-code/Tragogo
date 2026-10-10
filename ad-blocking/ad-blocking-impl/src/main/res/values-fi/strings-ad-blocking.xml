@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">YouTube-mainosten esto</string>
     <string name="ad_blocking_settings_toggle_title">Estä mainokset YouTubessa</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo estää videomainokset YouTubessa, joten voit katsoa videoita keskeytyksettä. \n\nKun tämä toiminto on käytössä, DuckDuckGo tunnistaa nimettömästi mainosten eston aiheuttamat häiriöt tai YouTube-virheet parantaakseen kaikkien käyttökokemusta. DuckDuckGo ei koskaan näe, mitä videoita katsot, eikä mitään henkilökohtaisesti tunnistettavia tietoja. <annotation type="learn_more_link">Lue lisää</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo estää videomainokset YouTubessa, joten voit katsoa videoita keskeytyksettä. <annotation type="learn_more_link">Lue lisää</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo estää videomainokset YouTubessa, joten voit katsoa videoita keskeytyksettä. \n\nKun tämä toiminto on käytössä, Tragogo tunnistaa nimettömästi mainosten eston aiheuttamat häiriöt tai YouTube-virheet parantaakseen kaikkien käyttökokemusta. Tragogo ei koskaan näe, mitä videoita katsot, eikä mitään henkilökohtaisesti tunnistettavia tietoja. <annotation type="learn_more_link">Lue lisää</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo estää videomainokset YouTubessa, joten voit katsoa videoita keskeytyksettä. <annotation type="learn_more_link">Lue lisää</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Avaa videot häiriöttömässä teatteritilassa, jolloin katsomasi sisältö ei vaikuta YouTube-syötteeseesi.</string>
     <string name="ad_blocking_settings_title_v2">Mainosten esto</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Poissa käytöstä uudelleenkäynnistykseen asti</string>
     <string name="ad_blocking_menu_always_off">Aina pois käytöstä</string>
     <string name="ad_blocking_disabled_popup_title">Eikö YouTube-mainosten esto toimi?</string>
-    <string name="ad_blocking_disabled_popup_description">Lähetä anonyymi raportti DuckDuckGolle ja auta meitä parantamaan mainosten estoa!</string>
+    <string name="ad_blocking_disabled_popup_description">Lähetä anonyymi raportti Tragogolle ja auta meitä parantamaan mainosten estoa!</string>
     <string name="ad_blocking_disabled_primary_action">Lähetä rikkoutumisraportti</string>
     <string name="ad_blocking_disabled_secondary_action">Peruuta</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Poissa käytöstä uudelleenkäynnistykseen asti</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke tilgjengelig for øyeblikket. Prøv igjen senere.</string>
-    <string name="sync_flows_disabled_new_version"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater DuckDuckGo til den nyeste versjonen for å fortsette.</string>
+    <string name="sync_flows_disabled_new_version"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater Tragogo til den nyeste versjonen for å fortsette.</string>
     <string name="sync_create_account_disabled"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke tilgjengelig for øyeblikket. Prøv igjen senere.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater DuckDuckGo til den nyeste versjonen for å fortsette.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Synkronisering og sikkerhetskopiering er utilgjengelig</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater Tragogo til den nyeste versjonen for å fortsette.</string>
     <string name="sync_disabled_authenticated_user"><b>Synkronisering og sikkerhetskopiering er satt på pause</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke tilgjengelig for øyeblikket. Prøv igjen senere.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Synkronisering og sikkerhetskopiering er satt på pause</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater DuckDuckGo til den nyeste versjonen for å fortsette.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Synkronisering og sikkerhetskopiering er satt på pause</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke lenger tilgjengelig i denne appversjonen. Oppdater Tragogo til den nyeste versjonen for å fortsette.</string>
     <string name="sync_paused_notification"><b>Synkronisering og sikkerhetskopiering er satt på pause</b>\nBeklager, men synkronisering og sikkerhetskopiering er ikke tilgjengelig for øyeblikket. Prøv igjen senere.</string>
     <string name="sync_error_notification"><b>Synkroniseringsfeil</b>\nSync &amp; Backup er midlertidig utilgjengelig.</string>
     <string name="sync_error_warning"><b>Synkroniseringsfeil</b>\nSync &amp; Backup er midlertidig utilgjengelig.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Synkroniser med en annen enhet</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Synkroniser bokmerker og passord på en sikker måte mellom enhetene dine.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Synkroniser bokmerker, passord og Duck.ai-chatter sikkert mellom enhetene dine.</string>
-    <string name="sync_off_hint">Dataene dine er ende-til-ende-kryptert og DuckDuckGo har ikke tilgang til krypteringsnøkkelen.</string>
+    <string name="sync_off_hint">Dataene dine er ende-til-ende-kryptert og Tragogo har ikke tilgang til krypteringsnøkkelen.</string>
     <string name="sync_setup_single_device_title">Oppsett for én enhet</string>
     <string name="sync_setup_other_options_title">Andre alternativer</string>
     <string name="sync_setup_single_recover_data_cta_title">Gjenopprett synkroniserte data</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Synkroniser og sikkerhetskopier denne enheten</string>
 
-    <string name="sync_off_encrypted_hint">Dataene dine er ende-til-ende-kryptert, og DuckDuckGo har ikke tilgang til dekrypteringsnøkkelen.</string>
+    <string name="sync_off_encrypted_hint">Dataene dine er ende-til-ende-kryptert, og Tragogo har ikke tilgang til dekrypteringsnøkkelen.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Sette opp synkronisering og sikkerhetskopiering!</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Last ned ikoner automatisk for synkroniserte bokmerker.</string>
     <string name="sync_enable_connecting">Kobler til…</string>
     <string name="sync_intro_enable_title">Synkroniser og sikkerhetskopier denne enheten</string>
-    <string name="sync_intro_enable_content">Dette oppretter en kryptert sikkerhetskopi av bokmerkene og passordene dine på DuckDuckGos sikre server, som kan synkroniseres med de andre enhetene dine. \n\n Krypteringsnøkkelen lagres bare på enheten din. DuckDuckGo har ikke tilgang til den.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Dette oppretter en kryptert sikkerhetskopi av bokmerkene, passordene og Duck.ai-chattene dine på DuckDuckGos sikre server, som kan synkroniseres med dine andre enheter. \n\n Krypteringsnøkkelen lagres bare på enheten din. DuckDuckGo har ikke tilgang til den.</string>
+    <string name="sync_intro_enable_content">Dette oppretter en kryptert sikkerhetskopi av bokmerkene og passordene dine på Tragogos sikre server, som kan synkroniseres med de andre enhetene dine. \n\n Krypteringsnøkkelen lagres bare på enheten din. Tragogo har ikke tilgang til den.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Dette oppretter en kryptert sikkerhetskopi av bokmerkene, passordene og Duck.ai-chattene dine på Tragogos sikre server, som kan synkroniseres med dine andre enheter. \n\n Krypteringsnøkkelen lagres bare på enheten din. Tragogo har ikke tilgang til den.</string>
     <string name="sync_intro_enable_footer">Du kan synkronisere med de andre enhetene dine senere.</string>
     <string name="sync_intro_enable_cta">Slå på Synkronisering og sikkerhetskopiering</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Skann QR-kode</string>
-    <string name="connect_screen_scan_qr_hint">Åpne DuckDuckGo-appen på den andre enheten din og gå til <b>Innstillinger &gt; Synkronisering og sikkerhetskopiering &gt; Synkroniser med en annen enhet</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Åpne Tragogo-appen på den andre enheten din og gå til <b>Innstillinger &gt; Synkronisering og sikkerhetskopiering &gt; Synkroniser med en annen enhet</b>.</string>
     <string name="connect_screen_enter_code_cta">Skriv inn koden manuelt</string>
-    <string name="connect_screen_connect_qr_hint_title">Eller skann med DuckDuckGo på en annen enhet</string>
-    <string name="connect_screen_connect_qr_hint_content">Åpne DuckDuckGo på en annen enhet og skann denne koden for å synkronisere.</string>
+    <string name="connect_screen_connect_qr_hint_title">Eller skann med Tragogo på en annen enhet</string>
+    <string name="connect_screen_connect_qr_hint_content">Åpne Tragogo på en annen enhet og skann denne koden for å synkronisere.</string>
     <string name="connect_screen_share_code">Kopier koden</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Skriv inn koden manuelt</string>
-    <string name="sync_enter_code_hint">Gå til <b>Innstillinger &gt; Synkroniser og sikkerhetskopier &gt; Synkroniser med en annen enhet</b>, velg <b>Vis tekstkode</b> i DuckDuckGo-appen på en annen synkronisert enhet og lim inn koden her for å synkronisere denne enheten.</string>
+    <string name="sync_enter_code_hint">Gå til <b>Innstillinger &gt; Synkroniser og sikkerhetskopier &gt; Synkroniser med en annen enhet</b>, velg <b>Vis tekstkode</b> i Tragogo-appen på en annen synkronisert enhet og lim inn koden her for å synkronisere denne enheten.</string>
     <string name="sync_enter_code_verifying">Verifiserer koden</string>
     <string name="sync_enter_code_invalid">⚠️ Ugyldig kode</string>
     <string name="sync_enter_code_paste">Lim inn koden</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Synkroniserte enheter</string>
     <string name="sync_new_device_section_title">Synkroniser ny enhet</string>
-    <string name="sync_new_device_hint">Gå til Innstillinger &gt; Synkronisering og sikkerhetskopiering i DuckDuckGo-appen på en annen enhet og skann for å koble til umiddelbart.</string>
+    <string name="sync_new_device_hint">Gå til Innstillinger &gt; Synkronisering og sikkerhetskopiering i Tragogo-appen på en annen enhet og skann for å koble til umiddelbart.</string>
     <string name="sync_show_text_code_item">Vis tekstkode</string>
     <string name="sync_show_qr_code_item">Skann QR-kode</string>
     <string name="sync_save_recovery_code_item">Lagre gjenopprettings-PDF</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Med gjenopprettingskoden kan du synkronisere passord, autofylldata og Duck.ai-chatter over flere enheter samt gjenopprette synkroniserte data hvis du mister tilgang til en enhet.</string>
     <string name="sync_code_box_title">Ta godt vare på denne informasjonen.</string>
     <string name="sync_instructions_title">Hvordan fungerer koden?</string>
-    <string name="sync_instructions_step1">Åpne DuckDuckGo på enheten du vil synkronisere, og gå til Sync &amp; Backup i innstillingene.</string>
+    <string name="sync_instructions_step1">Åpne Tragogo på enheten du vil synkronisere, og gå til Sync &amp; Backup i innstillingene.</string>
     <string name="sync_instructions_step2">Velg «Synkroniser med en annen enhet» og skann QR-koden eller skriv inn tekstkoden.</string>
     <string name="sync_instructions_step3">Synkronisering blir aktivert, og du får igjen tilgang til alle dataene dine.</string>
-    <string name="sync_pdf_retention_notice">Hvis det går mer enn 18 måneder uten at du bruker en DuckDuckGo-nettleser med Sync &amp; Backup aktivert, blir dataene dine slettet fra serveren og kan ikke gjenopprettes.</string>
+    <string name="sync_pdf_retention_notice">Hvis det går mer enn 18 måneder uten at du bruker en Tragogo-nettleser med Sync &amp; Backup aktivert, blir dataene dine slettet fra serveren og kan ikke gjenopprettes.</string>
     <string name="remove_device_dialog_title">Vil du fjerne enheten?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">«%1$s» får ikke lenger tilgang til dine synkroniserte data.</string>
     <string name="remove_device_dialog_primary_button">Fjern</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Nei takk</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Få DuckDuckGo på andre enheter</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Få DuckDuckGo på andre enheter for å synkronisere med denne</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Få DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">For å laste ned DuckDuckGo på skrivebordet eller en annen mobil enhet, besøk:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Få Tragogo på andre enheter</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Få Tragogo på andre enheter for å synkronisere med denne</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Få Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">For å laste ned Tragogo på skrivebordet eller en annen mobil enhet, besøk:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Del nedlastingslenke</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Lenken er kopiert</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Vil du synkronisere en ny enhet?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">«%1$s» kan få tilgang til dine synkroniserte DuckDuckGo-data.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">«%1$s» kan få tilgang til dine synkroniserte Tragogo-data.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Synkroniser nå</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Avbryt</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Skaff deg nettleseren for datamaskin</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo for Mac og Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo for Mac og Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Gjenoppretting</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Vil du gjenopprette Sync &amp; Backup-data fra forrige installasjon?</string>
-    <string name="sync_previous_session_ready_body">Gjenopprett for å få tilbake tidligere bokmerker, passord og andre data i DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Gjenopprett for å få tilbake tidligere bokmerker, passord og andre data i Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Gjenopprett Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Sett opp ny synkronisering</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Gjenopprettingskode</string>
     <string name="sync_recover_data_download_pdf">Last ned som PDF</string>
     <string name="sync_restore_on_reinstall_title">Gjenopprett ved ny appinstallasjon</string>
-    <string name="sync_restore_on_reinstall_description">Hvis du installerer DuckDuckGo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
+    <string name="sync_restore_on_reinstall_description">Hvis du installerer Tragogo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Få tilgang til chattene på alle enhetene dine med Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Synkroniser med en annen enhet</string>
     <string name="sync_chat_bottom_sheet_title">La oss synkronisere chattene på\nalle enhetene dine!</string>
-    <string name="sync_chat_bottom_sheet_description">Finn QR-koden på DuckDuckGo-appen på den andre enheten din ved å gå til Innstillinger › Sync &amp; Backup › Synkroniser med en annen enhet.</string>
+    <string name="sync_chat_bottom_sheet_description">Finn QR-koden på Tragogo-appen på den andre enheten din ved å gå til Innstillinger › Sync &amp; Backup › Synkroniser med en annen enhet.</string>
     <string name="sync_chat_bottom_sheet_positive">Skann QR-kode</string>
     <string name="sync_chat_bottom_sheet_negative">Ikke nå</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Avbryt</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">«%1$s» får tilgang til dine synkroniserte DuckDuckGo-passord, autofylldata og Duck.ai-chatter.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">«%1$s» får tilgang til dine synkroniserte Tragogo-passord, autofylldata og Duck.ai-chatter.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">«%1$s» får tilgang til dine synkroniserte Duck.ai-chatter.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Den andre enheten får tilgang til dine synkroniserte DuckDuckGo-passord, autofylldata og Duck.ai-chatter.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Den andre enheten får tilgang til dine synkroniserte Tragogo-passord, autofylldata og Duck.ai-chatter.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Den andre enheten får tilgang til dine synkroniserte Duck.ai-chatter.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Synkroniseringen mislyktes.</string>
     <string name="sync_v2_error_pairing_rejected">Synkroniseringen er avbrutt fra den andre enheten.</string>
     <string name="sync_v2_error_pairing_canceled">Synkronisering avbrutt.</string>
-    <string name="sync_v2_error_upgrade_required">Oppdater DuckDuckGo-nettleseren og prøv igjen.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Synkroniser denne enheten fra en allerede tilkoblet DuckDuckGo-nettleser på en annen enhet</string>
+    <string name="sync_v2_error_upgrade_required">Oppdater Tragogo-nettleseren og prøv igjen.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Synkroniser denne enheten fra en allerede tilkoblet Tragogo-nettleser på en annen enhet</string>
     <string name="sync_v2_error_try_again">Prøv igjen.</string>
     <string name="sync_v2_error_got_it">Den er grei</string>
     <string name="sync_v2_already_paired_title">Allerede synkronisert.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Hold DuckDuckGo synkronisert!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo er synkronisert.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Synkroniser og sikkerhetskopier autofylldata og bokmerker ende-til-ende-kryptert i alle DuckDuckGo-appene dine.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synkroniser og sikkerhetskopier autofylldata, bokmerker og Duck.ai-chatter ende-til-ende-kryptert i alle DuckDuckGo-appene dine.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Hold Tragogo synkronisert!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo er synkronisert.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Synkroniser og sikkerhetskopier autofylldata og bokmerker ende-til-ende-kryptert i alle Tragogo-appene dine.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synkroniser og sikkerhetskopier autofylldata, bokmerker og Duck.ai-chatter ende-til-ende-kryptert i alle Tragogo-appene dine.</string>
     <string name="sync_simplified_settings_header_body_enabled">Bokmerkene og autofylldataene dine synkroniseres og sikkerhetskopieres med ende-til-ende-kryptering.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Bokmerkene, autofylldataene og Duck.ai-chattene dine synkroniseres og sikkerhetskopieres med ende-til-ende-kryptering.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Bokmerker</string>
     <string name="sync_simplified_settings_recovery_section_header">Gjenoppretting</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Gjenopprett ved ny appinstallasjon</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Hvis du installerer DuckDuckGo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Hvis du installerer Tragogo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Kopier gjenopprettingskoden</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Last ned gjenopprettingskoden</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Bruk denne koden til å gjenopprette dataene dine hvis du mister tilgang til denne enheten. Oppbevar den på et trygt sted.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Varsler er deaktivert</string>
     <string name="sync_simplified_settings_notify_me_body">Få varsel hvis det skulle oppstå en feil ved Sync &amp; Backup.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Få DuckDuckGo på andre enheter</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Få Tragogo på andre enheter</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Skaff deg nettleseren for datamaskin</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Skann QR-kode for å synkronisere</string>
-    <string name="sync_simplified_scanner_camera_header_body">Åpne <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo for datamaskin</annotation></b>\n<annotation type="gap">\n</annotation>og gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen  enhet</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Åpne <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo for datamaskin</annotation></b>\n<annotation type="gap">\n</annotation>og gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen  enhet</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Jeg er klar til å skanne</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Beklager, den skannede koden er ugyldig.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Kameratillatelse er nødvendig</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Skriv inn synkroniseringskoden</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Åpne din andre <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo-app</annotation></b>\n<annotation type="gap">\n</annotation>Gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen enhet</annotation> › <annotation type="highlight">Kopier tekstkode</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Åpne din andre <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo-app</annotation></b>\n<annotation type="gap">\n</annotation>Gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen enhet</annotation> › <annotation type="highlight">Kopier tekstkode</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Eksempelkode:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Lim inn synkroniseringskoden</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Beklager, den innlimte koden er ugyldig.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR-kode</string>
     <string name="sync_simplified_qr_code_header_headline">Skann fra en annen enhet</string>
-    <string name="sync_simplified_qr_code_header_body">På en annen enhet, åpne <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>og gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen enhet</annotation> og skann denne koden:</string>
+    <string name="sync_simplified_qr_code_header_body">På en annen enhet, åpne <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>og gå til <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synkroniser med en annen enhet</annotation> og skann denne koden:</string>
     <string name="sync_simplified_qr_code_copy_button">Kopier tekstkode</string>
     <string name="sync_simplified_qr_code_share_button">Del</string>
     <string name="sync_simplified_qr_code_copied_message">Gjenopprettingskoden er kopiert</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Gjenopprettingskode</string>
     <string name="sync_simplified_recovery_code_download_button">Last ned gjenopprettingskoden</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Gjenopprett ved ny appinstallasjon</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Hvis du installerer DuckDuckGo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Hvis du installerer Tragogo-appen på nytt, spør vi deg om du vil gjenopprette dataene dine på denne enheten.</string>
     <string name="sync_simplified_recovery_code_primary_button">Ferdig</string>
     <string name="sync_simplified_recovery_code_copied_message">Gjenopprettingskoden er kopiert</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Lagring av gjenopprettings-PDF krever lagringstillatelse</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Vil du synkronisere en ny enhet?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">«%1$s» kan få tilgang til dine synkroniserte DuckDuckGo-data.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">«%1$s» kan få tilgang til dine synkroniserte Tragogo-data.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Synkroniser nå</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Avbryt</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Konfigurer Sync &amp; Backup</string>

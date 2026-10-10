@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování teď není dostupná. Zkus to znovu později.</string>
-    <string name="sync_flows_disabled_new_version"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj DuckDuckGo na nejnovější verzi.</string>
+    <string name="sync_flows_disabled_new_version"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj Tragogo na nejnovější verzi.</string>
     <string name="sync_create_account_disabled"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování teď není dostupná. Zkus to znovu později.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj DuckDuckGo na nejnovější verzi.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Synchronizace a zálohování není k dispozici</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj Tragogo na nejnovější verzi.</string>
     <string name="sync_disabled_authenticated_user"><b>Funkce synchronizace a zálohování je pozastavená</b>\nOmlouváme se, ale funkce synchronizace a zálohování teď není dostupná. Zkus to znovu později.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Funkce synchronizace a zálohování je pozastavená</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj DuckDuckGo na nejnovější verzi.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Funkce synchronizace a zálohování je pozastavená</b>\nOmlouváme se, ale funkce synchronizace a zálohování není v téhle verzi aplikace dostupná. Pro pokračování aktualizuj Tragogo na nejnovější verzi.</string>
     <string name="sync_paused_notification"><b>Funkce synchronizace a zálohování je pozastavená</b>\nOmlouváme se, ale funkce synchronizace a zálohování teď není dostupná. Zkus to znovu později.</string>
     <string name="sync_error_notification"><b>Chyba synchronizace</b>\nFunkce Sync &amp; Backup je dočasně nedostupná.</string>
     <string name="sync_error_warning"><b>Chyba synchronizace</b>\nFunkce Sync &amp; Backup je dočasně nedostupná.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Synchronizovat s jiným zařízením</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Bezpečně synchronizuj záložky a hesla mezi svými zařízeními.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Bezpečně synchronizuj záložky, hesla a chaty Duck.ai mezi svými zařízeními.</string>
-    <string name="sync_off_hint">U tvých dat se uplatňuje end-to-end šifrování a DuckDuckGo nemá přístup k šifrovacímu klíči.</string>
+    <string name="sync_off_hint">U tvých dat se uplatňuje end-to-end šifrování a Tragogo nemá přístup k šifrovacímu klíči.</string>
     <string name="sync_setup_single_device_title">Nastavení jednoho zařízení</string>
     <string name="sync_setup_other_options_title">Další možnosti</string>
     <string name="sync_setup_single_recover_data_cta_title">Obnovit synchronizovaná data</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Synchronizace a záloha tohoto zařízení</string>
 
-    <string name="sync_off_encrypted_hint">U tvých dat se uplatňuje end-to-end šifrování a DuckDuckGo nemá přístup k dešifrovacímu klíči.</string>
+    <string name="sync_off_encrypted_hint">U tvých dat se uplatňuje end-to-end šifrování a Tragogo nemá přístup k dešifrovacímu klíči.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Nastavuje se synchronizace a zálohování</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Automatické stahování ikon synchronizovaných záložek.</string>
     <string name="sync_enable_connecting">Připojování...</string>
     <string name="sync_intro_enable_title">Synchronizace a záloha tohoto zařízení</string>
-    <string name="sync_intro_enable_content">Na zabezpečeném serveru DuckDuckGo se vytvoří šifrovaná záloha záložek a hesel, kterou můžeš synchronizovat s ostatními zařízeními. \n\n Šifrovací klíč se ukládá jenom na tvé zařízení, DuckDuckGo k němu nemá přístup.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Na zabezpečeném serveru DuckDuckGo se vytvoří šifrovaná záloha záložek, hesel a chatů Duck.ai, kterou můžeš synchronizovat s ostatními zařízeními.\n\n Šifrovací klíč se ukládá jenom na tvé zařízení, DuckDuckGo k němu nemá přístup.</string>
+    <string name="sync_intro_enable_content">Na zabezpečeném serveru Tragogo se vytvoří šifrovaná záloha záložek a hesel, kterou můžeš synchronizovat s ostatními zařízeními. \n\n Šifrovací klíč se ukládá jenom na tvé zařízení, Tragogo k němu nemá přístup.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Na zabezpečeném serveru Tragogo se vytvoří šifrovaná záloha záložek, hesel a chatů Duck.ai, kterou můžeš synchronizovat s ostatními zařízeními.\n\n Šifrovací klíč se ukládá jenom na tvé zařízení, Tragogo k němu nemá přístup.</string>
     <string name="sync_intro_enable_footer">Synchronizaci s dalšími zařízeními můžeš provést později.</string>
     <string name="sync_intro_enable_cta">Zapnout synchronizaci a zálohování</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">Skenování QR kódu</string>
-    <string name="connect_screen_scan_qr_hint">Spusť aplikaci DuckDuckGo na svém druhém zařízení a přejdi do <b>Nastavení &gt; Synchronizace a zálohování &gt; Synchronizace s jiným zařízením</b>.</string>
+    <string name="connect_screen_scan_qr_hint">Spusť aplikaci Tragogo na svém druhém zařízení a přejdi do <b>Nastavení &gt; Synchronizace a zálohování &gt; Synchronizace s jiným zařízením</b>.</string>
     <string name="connect_screen_enter_code_cta">Ruční zadání kódu</string>
-    <string name="connect_screen_connect_qr_hint_title">Nebo skenuj pomocí DuckDuckGo na svém druhém zařízení.</string>
-    <string name="connect_screen_connect_qr_hint_content">Pro synchronizaci spusť DuckDuckGo na svém druhém zařízení a naskenuj kód.</string>
+    <string name="connect_screen_connect_qr_hint_title">Nebo skenuj pomocí Tragogo na svém druhém zařízení.</string>
+    <string name="connect_screen_connect_qr_hint_content">Pro synchronizaci spusť Tragogo na svém druhém zařízení a naskenuj kód.</string>
     <string name="connect_screen_share_code">Kopírovat kód</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Ruční zadání kódu</string>
-    <string name="sync_enter_code_hint">V aplikaci DuckDuckGo na synchronizovaném zařízení přejdi do <b>Nastavení &gt; Synchronizace a zálohování &gt; Synchronizovat s jiným zařízením</b> a vyber <b>Zobrazit textový kód</b>. Pro synchronizaci tohoto zařízení stačí už jen vložit kód.</string>
+    <string name="sync_enter_code_hint">V aplikaci Tragogo na synchronizovaném zařízení přejdi do <b>Nastavení &gt; Synchronizace a zálohování &gt; Synchronizovat s jiným zařízením</b> a vyber <b>Zobrazit textový kód</b>. Pro synchronizaci tohoto zařízení stačí už jen vložit kód.</string>
     <string name="sync_enter_code_verifying">Ověřování kódu</string>
     <string name="sync_enter_code_invalid">⚠️ Neplatný kód</string>
     <string name="sync_enter_code_paste">Vložit kód</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Synchronizovaná zařízení</string>
     <string name="sync_new_device_section_title">Synchronizace nového zařízení</string>
-    <string name="sync_new_device_hint">Přejdi v aplikaci DuckDuckGo na jiném zařízení do Nastavení &gt; Synchronizace a zálohování. Po naskenování se okamžitě připojíš.</string>
+    <string name="sync_new_device_hint">Přejdi v aplikaci Tragogo na jiném zařízení do Nastavení &gt; Synchronizace a zálohování. Po naskenování se okamžitě připojíš.</string>
     <string name="sync_show_text_code_item">Zobrazit textový kód</string>
     <string name="sync_show_qr_code_item">Skenování QR kódu</string>
     <string name="sync_save_recovery_code_item">Uložit PDF pro obnovení</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Obnovovací kód umožňuje synchronizovat hesla, data automatického vyplňování a chaty Duck.ai napříč více zařízeními a obnovit synchronizovaná data, pokud přijdeš o přístup k zařízení.</string>
     <string name="sync_code_box_title">Uchovávej tyhle informace v bezpečí.</string>
     <string name="sync_instructions_title">Jak tento kód funguje?</string>
-    <string name="sync_instructions_step1">Otevři DuckDuckGo na zařízení, které chceš synchronizovat, a v Nastavení přejdi do Sync &amp; Backup.</string>
+    <string name="sync_instructions_step1">Otevři Tragogo na zařízení, které chceš synchronizovat, a v Nastavení přejdi do Sync &amp; Backup.</string>
     <string name="sync_instructions_step2">Vyber „Synchronizovat s jiným zařízením“ a naskenuj QR kód nebo zadej textový kód.</string>
     <string name="sync_instructions_step3">Dojde k synchronizaci a ty budeš mít zase přístup ke všem svým datům.</string>
-    <string name="sync_pdf_retention_notice">Pokud nepoužiješ prohlížeč DuckDuckGo se zapnutým Sync &amp; Backup po dobu 18 měsíců, budou tvoje data ze serveru smazána a nepůjde je obnovit.</string>
+    <string name="sync_pdf_retention_notice">Pokud nepoužiješ prohlížeč Tragogo se zapnutým Sync &amp; Backup po dobu 18 měsíců, budou tvoje data ze serveru smazána a nepůjde je obnovit.</string>
     <string name="remove_device_dialog_title">Smazat zařízení?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">%1$s už nebude mít přístup k synchronizovaným datům.</string>
     <string name="remove_device_dialog_primary_button">Odstranit</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Ne, děkuji</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">Získat DuckDuckGo na jiných zařízeních</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Získej DuckDuckGo na jiných zařízeních, aby se mohla synchronizovat s tímhle</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Pořiď si DuckDuckGo</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Pokud si chceš stáhnout DuckDuckGo na počítač nebo jiné mobilní zařízení, přejdi sem:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Získat Tragogo na jiných zařízeních</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Získej Tragogo na jiných zařízeních, aby se mohla synchronizovat s tímhle</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Pořiď si Tragogo</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Pokud si chceš stáhnout Tragogo na počítač nebo jiné mobilní zařízení, přejdi sem:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">Sdílet odkaz ke stažení</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Odkaz se zkopíroval</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Synchronizovat nové zařízení?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">%1$s získá přístup ke tvým synchronizovaným datům DuckDuckGo.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">%1$s získá přístup ke tvým synchronizovaným datům Tragogo.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Synchronizovat</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Zrušit</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Nainstalovat prohlížeč pro počítač</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo pro Mac a Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo pro Mac a Windows</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Obnova</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Obnovit data Sync &amp; Backup z předchozí instalace?</string>
-    <string name="sync_previous_session_ready_body">Obnov si své předchozí záložky, hesla a další data z DuckDuckGo.</string>
+    <string name="sync_previous_session_ready_body">Obnov si své předchozí záložky, hesla a další data z Tragogo.</string>
     <string name="sync_previous_session_ready_resume_cta">Obnovit Sync &amp; Backup</string>
     <string name="sync_previous_session_ready_continue_cta">Nastavit novou synchronizaci</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Kód pro obnovení</string>
     <string name="sync_recover_data_download_pdf">Stáhnout jako PDF</string>
     <string name="sync_restore_on_reinstall_title">Obnovit při přeinstalaci aplikace</string>
-    <string name="sync_restore_on_reinstall_description">Pokud přeinstaluješ aplikaci DuckDuckGo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
+    <string name="sync_restore_on_reinstall_description">Pokud přeinstaluješ aplikaci Tragogo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Získej přístup ke svým chatům napříč všemi zařízeními pomocí funkce Sync &amp; Backup.</string>
     <string name="sync_chat_promo_banner_cta_title">Synchronizovat s jiným zařízením</string>
     <string name="sync_chat_bottom_sheet_title">Pojďme synchronizovat tvé chaty napříč tvými zařízeními!</string>
-    <string name="sync_chat_bottom_sheet_description">QR kód najdeš v aplikaci DuckDuckGo na druhém zařízení v nabídce Nastavení › Sync &amp; Backup › Synchronizace s jiným zařízením.</string>
+    <string name="sync_chat_bottom_sheet_description">QR kód najdeš v aplikaci Tragogo na druhém zařízení v nabídce Nastavení › Sync &amp; Backup › Synchronizace s jiným zařízením.</string>
     <string name="sync_chat_bottom_sheet_positive">Naskenuj QR kód</string>
     <string name="sync_chat_bottom_sheet_negative">Teď ne</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">Zrušit</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" bude mít přístup k tvým synchronizovaným heslům z DuckDuckGo, údajům pro automatické vyplňování a chatům v Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\" bude mít přístup k tvým synchronizovaným heslům z Tragogo, údajům pro automatické vyplňování a chatům v Duck.ai.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">„%1$s“ bude mít přístup k tvým synchronizovaným chatům Duck.ai.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Druhé zařízení bude mít přístup k tvým synchronizovaným heslům z DuckDuckGo, údajům pro automatické vyplňování a chatům v Duck.ai.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Druhé zařízení bude mít přístup k tvým synchronizovaným heslům z Tragogo, údajům pro automatické vyplňování a chatům v Duck.ai.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Druhé zařízení bude mít přístup k tvým synchronizovaným chatům s Duck.ai.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Synchronizace se nezdařila.</string>
     <string name="sync_v2_error_pairing_rejected">Synchronizace byla zrušena na tvém druhém zařízení.</string>
     <string name="sync_v2_error_pairing_canceled">Synchronizace byla zrušena.</string>
-    <string name="sync_v2_error_upgrade_required">Aktualizuj prohlížeč DuckDuckGo a zkus to znovu.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Synchronizuj toto zařízení z již připojeného prohlížeče DuckDuckGo na jiném zařízení</string>
+    <string name="sync_v2_error_upgrade_required">Aktualizuj prohlížeč Tragogo a zkus to znovu.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Synchronizuj toto zařízení z již připojeného prohlížeče Tragogo na jiném zařízení</string>
     <string name="sync_v2_error_try_again">Zkus to znovu.</string>
     <string name="sync_v2_error_got_it">Rozumím</string>
     <string name="sync_v2_already_paired_title">Už se synchronizuje.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">Udržuj si DuckDuckGo synchronizovaný!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo je synchronizován.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Synchronizuj a zálohuj si data pro automatické vyplnění a záložky ve všech svých aplikacích DuckDuckGo se šifrováním end-to-end.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synchronizuj a zálohuj si data pro automatické vyplnění, záložky a chaty Duck.ai, vše šifrované end-to-end napříč tvými aplikacemi DuckDuckGo.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Udržuj si Tragogo synchronizovaný!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo je synchronizován.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Synchronizuj a zálohuj si data pro automatické vyplnění a záložky ve všech svých aplikacích Tragogo se šifrováním end-to-end.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Synchronizuj a zálohuj si data pro automatické vyplnění, záložky a chaty Duck.ai, vše šifrované end-to-end napříč tvými aplikacemi Tragogo.</string>
     <string name="sync_simplified_settings_header_body_enabled">Tvoje záložky a data pro automatické vyplňování se synchronizují a zálohují se šifrováním end-to-end.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Tvoje záložky, data pro automatické vyplňování a chaty Duck.ai se synchronizují a zálohují se šifrováním end-to-end.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Záložky</string>
     <string name="sync_simplified_settings_recovery_section_header">Obnova</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Obnovit při přeinstalaci aplikace</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Pokud přeinstaluješ aplikaci DuckDuckGo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Pokud přeinstaluješ aplikaci Tragogo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Zkopíruj si kód pro obnovení</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Stáhni si kód pro obnovení</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Tenhle kód můžeš použít k obnovení svých dat, pokud k tomuhle zařízení ztratíš přístup. Bezpečně si ho ulož.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Oznámení jsou vypnutá</string>
     <string name="sync_simplified_settings_notify_me_body">Nech si poslat upozornění v případě, že dojde k chybě Sync &amp; Backup.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">Nainstaluj si DuckDuckGo na další zařízení</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Nainstaluj si Tragogo na další zařízení</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Nainstaluj si prohlížeč pro počítač</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Naskenuj QR kód.</string>
-    <string name="sync_simplified_scanner_camera_header_body">Otevři <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo pro počítač</annotation></b>\n<annotation type="gap">\n</annotation>a přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation></string>
+    <string name="sync_simplified_scanner_camera_header_body">Otevři <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo pro počítač</annotation></b>\n<annotation type="gap">\n</annotation>a přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation></string>
     <string name="sync_simplified_scanner_camera_primary_button">Můžu začít skenovat</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Naskenovaný kód je bohužel neplatný.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Je potřeba přístup k fotoaparátu</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Zadej kód Sync</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Otevři druhou <annotation type="icon">￼</annotation> <b><annotation type="highlight">aplikaci DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>Přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation> › <annotation type="highlight">Zkopírovat textový kód</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Otevři druhou <annotation type="icon">￼</annotation> <b><annotation type="highlight">aplikaci Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>Přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation> › <annotation type="highlight">Zkopírovat textový kód</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Příklad kódu:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Vložit kód Sync</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Vložený kód je bohužel neplatný.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR kód</string>
     <string name="sync_simplified_qr_code_header_headline">Naskenuj z jiného zařízení</string>
-    <string name="sync_simplified_qr_code_header_body">Na jiném zařízení otevři <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>a přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation> a naskenuj tenhle kód:</string>
+    <string name="sync_simplified_qr_code_header_body">Na jiném zařízení otevři <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>a přejdi do <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Synchronizace s jiným zařízením</annotation> a naskenuj tenhle kód:</string>
     <string name="sync_simplified_qr_code_copy_button">Zkopírovat textový kód</string>
     <string name="sync_simplified_qr_code_share_button">Sdílet</string>
     <string name="sync_simplified_qr_code_copied_message">Kód pro obnovení byl zkopírován</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Kód pro obnovení</string>
     <string name="sync_simplified_recovery_code_download_button">Stáhni si kód pro obnovení</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Obnovit při přeinstalaci aplikace</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Pokud přeinstaluješ aplikaci DuckDuckGo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Pokud přeinstaluješ aplikaci Tragogo, zeptáme se tě, jestli chceš obnovit data na tomto zařízení.</string>
     <string name="sync_simplified_recovery_code_primary_button">Hotovo</string>
     <string name="sync_simplified_recovery_code_copied_message">Kód pro obnovení byl zkopírován</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Povol ukládání, aby se mohlo uložit PDF pro obnovení</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Synchronizovat nové zařízení?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ bude moct přistupovat k tvým synchronizovaným datům DuckDuckGo.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">„%1$s“ bude moct přistupovat k tvým synchronizovaným datům Tragogo.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Synchronizovat teď</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">Zrušit</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Nastavit Sync &amp; Backup</string>

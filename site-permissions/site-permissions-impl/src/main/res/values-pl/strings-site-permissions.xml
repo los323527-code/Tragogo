@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Zapamiętaj mój wybór</string>
     <string name="preciseLocationDDGDialogSubtitle">Używamy Twojej anonimowej lokalizacji tylko po to, aby zapewnić lepsze wyniki bliżej Ciebie. Uprawnieniami dostępu do lokalizacji przyznanymi poszczególnym witrynom możesz zarządzać w Ustawieniach.</string>
     <string name="preciseLocationSiteDialogSubtitle">Uprawnieniami dostępu do lokalizacji przyznanymi poszczególnym witrynom możesz zarządzać w Ustawieniach.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Zezwól aplikacji DuckDuckGo na żądanie dostępu do lokalizacji na tym urządzeniu</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Witryny będą mogły wykorzystać Twoją lokalizację, tylko jeśli zezwolisz aplikacji DuckDuckGo na żądanie dostępu.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Zezwól DuckDuckGo na żądanie dostępu do lokalizacji</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Zezwól aplikacji Tragogo na żądanie dostępu do lokalizacji na tym urządzeniu</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Witryny będą mogły wykorzystać Twoją lokalizację, tylko jeśli zezwolisz aplikacji Tragogo na żądanie dostępu.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Zezwól Tragogo na żądanie dostępu do lokalizacji</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Uprawnienia witryny</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Zarządzaj przyznanymi uprawnieniami w ustawieniach</string>
     <string name="sitePermissionsDialogDenyButton">Odmów</string>
     <string name="sitePermissionsDialogAllowButton">Zezwól</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Pozwól DuckDuckGo prosić o dostęp do kamery i mikrofonu</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Pozwól DuckDuckGo prosić o dostęp do kamery</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Pozwól DuckDuckGo prosić o dostęp do mikrofonu</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Pozwól Tragogo prosić o dostęp do kamery i mikrofonu</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Pozwól Tragogo prosić o dostęp do kamery</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Pozwól Tragogo prosić o dostęp do mikrofonu</string>
     <string name="sitePermissionsDeniedSnackBarAction">Zezwól</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Pozwól DuckDuckGo prosić o dostęp do kamery na tym urządzeniu</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Witryny mogą korzystać z Twojej kamery tylko wtedy, gdy pozwolisz DuckDuckGo poprosić o dostęp.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Pozwól DuckDuckGo prosić o dostęp do mikrofonu na tym urządzeniu</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Witryny mogą korzystać z Twojego mikrofonu tylko wtedy, gdy pozwolisz DuckDuckGo poprosić o dostęp.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Zezwól DuckDuckGo prosić o dostęp do kamery i mikrofonu na tym urządzeniu</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Witryny mogą korzystać z Twojej kamery i mikrofonu tylko wtedy, gdy pozwolisz DuckDuckGo poprosić o dostęp.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Pozwól Tragogo prosić o dostęp do kamery na tym urządzeniu</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Witryny mogą korzystać z Twojej kamery tylko wtedy, gdy pozwolisz Tragogo poprosić o dostęp.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Pozwól Tragogo prosić o dostęp do mikrofonu na tym urządzeniu</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Witryny mogą korzystać z Twojego mikrofonu tylko wtedy, gdy pozwolisz Tragogo poprosić o dostęp.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Zezwól Tragogo prosić o dostęp do kamery i mikrofonu na tym urządzeniu</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Witryny mogą korzystać z Twojej kamery i mikrofonu tylko wtedy, gdy pozwolisz Tragogo poprosić o dostęp.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Otwórz ustawienia</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Anuluj</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Do obsługi funkcji głosowych wymagane jest uprawnienie do korzystania z mikrofonu</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo potrzebuje dostępu do Twojego mikrofonu</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo potrzebuje dostępu do Twojego mikrofonu</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Uprawnienia do mikrofonu są potrzebne, jeśli chcesz korzystać z czatu głosowego w Duck.ai</string>
 
     <string name="sitePermissionsSettingsDescription">Strony, które odwiedzasz, mogą prosić o dostęp do lokalizacji urządzenia, kamery, mikrofonu lub oprogramowania DRM (Digital Rights Management). Nie będą miały do nich dostępu, jeśli nie udzielisz im zgody.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Jeśli nie zezwolisz, filmy na stronie mogą stać się niedostępne, ale ta strona nie będzie miała dostępu do identyfikatorów urządzeń dostarczanych przez oprogramowanie DRM.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Zmień uprawnienia</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo potrzebuje dostępu do Twojej lokalizacji</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Zmień uprawnienia</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo potrzebuje dostępu do Twojej lokalizacji</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Uprawnienia do lokalizacji są potrzebne, jeśli chcesz korzystać z funkcji lokalizacji na tej stronie.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo potrzebuje dostępu do Twojej kamery</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo potrzebuje dostępu do Twojej kamery</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Uprawnienia do aparatu są potrzebne, jeśli chcesz korzystać z funkcji aparatu na tej stronie.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo potrzebuje dostępu do Twojego mikrofonu</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo potrzebuje dostępu do Twojego mikrofonu</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Uprawnienia do mikrofonu są potrzebne, jeśli chcesz korzystać z funkcji mikrofonu na tej stronie.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo potrzebuje dostępu do Twojej kamery i mikrofonu</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo potrzebuje dostępu do Twojej kamery i mikrofonu</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Uprawnienia do kamery i mikrofonu są potrzebne, jeśli chcesz korzystać z funkcji kamery i mikrofonu na tej stronie.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo nie mogło udostępnić lokalizacji tej witrynie</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo nie może przyznać tej witrynie dostępu do kamery</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo nie mogło przyznać tej witrynie dostępu do mikrofonu</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo nie mogło przyznać tej witrynie dostępu do kamery i mikrofonu</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo nie mogło udostępnić lokalizacji tej witrynie</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo nie może przyznać tej witrynie dostępu do kamery</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo nie mogło przyznać tej witrynie dostępu do mikrofonu</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo nie mogło przyznać tej witrynie dostępu do kamery i mikrofonu</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Zawsze zezwalaj</string>

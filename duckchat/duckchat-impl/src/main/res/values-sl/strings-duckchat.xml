@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Naložite sliko</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Izberite datoteko</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Posnemite fotografijo</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Dovolite, da lahko spletno mesto DuckDuckGo zahteva dostop do kamere v tej napravi</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Spletna mesta lahko uporabljajo vašo kamero le, če dovolite, da DuckDuckGo zaprosi za dostop.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Dovolite, da lahko spletno mesto Tragogo zahteva dostop do kamere v tej napravi</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Spletna mesta lahko uporabljajo vašo kamero le, če dovolite, da Tragogo zaprosi za dostop.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Odpri nastavitve</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Prekliči</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Ni bilo mogoče dostopati do snemalnika zvoka</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Dovolite, da lahko DuckDuckGo zahteva dostop do snemalnika zvoka v tej napravi</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Spletna mesta lahko uporabljajo snemalnik zvoka le, če dovolite, da DuckDuckGo zaprosi za dostop.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Dovolite, da lahko Tragogo zahteva dostop do snemalnika zvoka v tej napravi</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Spletna mesta lahko uporabljajo snemalnik zvoka le, če dovolite, da Tragogo zaprosi za dostop.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Lastnosti UI</string>
-    <string name="duck_chat_settings_activity_description">Funkcije umetne inteligence DuckDuckGo so zasebne in izbirne.\nVaši podatki se ne uporabljajo za usposabljanje umetne inteligence.\n<annotation type="learn_more_link">Več o tem</annotation></string>
+    <string name="duck_chat_settings_activity_description">Funkcije umetne inteligence Tragogo so zasebne in izbirne.\nVaši podatki se ne uporabljajo za usposabljanje umetne inteligence.\n<annotation type="learn_more_link">Več o tem</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Klepetajte zasebno s priljubljenimi modeli umetne inteligence tretjih oseb</string>
     <string name="duck_chat_visibility_setting">Meni brskalnika</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Pogosto</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Uporabljajte DuckDuckGo brez umetne inteligence</string>
+    <string name="duckAiUseWithoutAiTitle">Uporabljajte Tragogo brez umetne inteligence</string>
     <string name="duckAiUseWithoutAiDescription">Onemogoči Duck.ai, skrije odgovore z uporabo umetne inteligence v rezultatih iskanja in iz rezultatov iskanja slik izloči znana spletna mesta z neželeno vsebino, ustvarjeno z umetno inteligenco.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Umetna inteligenca je v brskalniku trenutno onemogočena. Odgovori, ustvarjeni z umetno inteligenco, ne bodo več prikazani, med rezultati iskanja slik pa bo manj slik, ustvarjenih z umetno inteligenco.</string>
 
@@ -277,7 +277,7 @@
     <string name="duck_ai_chat_history_download_error">Klepeta ni bilo mogoče izvoziti</string>
     <string name="duck_ai_chat_history_bulk_download_error">Klepetov ni bilo mogoče izvoziti</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Poišči DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Poišči Tragogo</string>
     <string name="native_input_chat_hint">Vprašajte kar koli zasebno …</string>
     <string name="native_input_chat_duck_mode_hint">Odgovori …</string>
 

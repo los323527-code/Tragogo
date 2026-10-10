@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,17 +17,17 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="netp_name" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementTitle" translatable="false">DuckDuckGo VPN</string>
-    <string name="netpManagementHeadlineStatusOn">Το DuckDuckGo VPN είναι ενεργοποιημένο</string>
-    <string name="netpManagementHeadlineStatusOff">Το DuckDuckGo VPN είναι απενεργοποιημένο</string>
+    <string name="netp_name" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementTitle" translatable="false">Tragogo VPN</string>
+    <string name="netpManagementHeadlineStatusOn">Το Tragogo VPN είναι ενεργοποιημένο</string>
+    <string name="netpManagementHeadlineStatusOff">Το Tragogo VPN είναι απενεργοποιημένο</string>
     <string name="netpManagementDescriptionOff">Συνδεθείτε για να διασφαλίσετε όλη την επισκεψιμότητά σας στο διαδίκτυο\nαπό τη συσκευή σας.</string>
     <string name="netpManagementDescriptionOn">Όλη η επισκεψιμότητα στο διαδίκτυο από τη συσκευή διασφαλίζεται\n μέσω του VPN.</string>
     <string name="netpManagementToggleTitle" translatable="false">VPN</string>
     <string name="netpManagementToggleSubtitleConnecting">Σύνδεση...</string>
     <string name="netpManagementToggleSubtitleConnected" instruction="Placeholder is elapsed time in hh:MM:ss format.">Συνδεδεμένο · %1$s</string>
     <string name="netpManagementToggleSubtitleDisconnected">Δεν έχει συνδεθεί</string>
-    <string name="netpManagementBetaDescription">Το DuckDuckGo VPN βρίσκεται επί του παρόντος σε έκδοση beta. <annotation type="report_issues_link">Πείτε μας τα σχόλιά σας</annotation> για να μας βοηθήσετε να βελτιωθούμε!</string>
+    <string name="netpManagementBetaDescription">Το Tragogo VPN βρίσκεται επί του παρόντος σε έκδοση beta. <annotation type="report_issues_link">Πείτε μας τα σχόλιά σας</annotation> για να μας βοηθήσετε να βελτιωθούμε!</string>
 
     <!-- Exclude App Prompt -->
     <string name="netpManagementExcludeAppPromptTitle">Δημιουργεί το VPN προβλήματα με μια εφαρμογή;</string>
@@ -55,19 +55,19 @@
 
     <!-- VPN conflict -->
     <string name="netpVpnConflictTitle">Η εφαρμογή VPN που διαθέτετε ενδέχεται να έχει αποσυνδεθεί</string>
-    <string name="netpVpnConflictMessage">Το Android επιτρέπει μόνο μία ενεργή σύνδεση VPN κάθε φορά. Η ενεργοποίηση του DuckDuckGo VPN ενδέχεται να αποσυνδέσει οποιοδήποτε ενεργό VPN στη συσκευή σας.</string>
+    <string name="netpVpnConflictMessage">Το Android επιτρέπει μόνο μία ενεργή σύνδεση VPN κάθε φορά. Η ενεργοποίηση του Tragogo VPN ενδέχεται να αποσυνδέσει οποιοδήποτε ενεργό VPN στη συσκευή σας.</string>
     <string name="netpActionGotIt">Το έπιασα</string>
 
     <!-- Always on -->
-    <string name="netpAlwaysOnVpnConflictTitle">Η εφαρμογή σας VPN αποκλείει το DuckDuckGo VPN</string>
+    <string name="netpAlwaysOnVpnConflictTitle">Η εφαρμογή σας VPN αποκλείει το Tragogo VPN</string>
     <string name="netpAlwaysOnVpnConflictMessage">Το Android επιτρέπει μόνο μία ενεργή σύνδεση VPN κάθε φορά. Ανοίξτε τις Ρυθμίσεις δικτύου &gt; VPN. Εντοπίστε την εφαρμογή VPN που είναι «Πάντα ενεργή» και απενεργοποιήστε την για να συνεχίσετε.</string>
     <string name="netpActionOpenSettings">Άνοιγμα ρυθμίσεων</string>
     <string name="netpActionCancel">Ακύρωση</string>
     <string name="netpActionNotNow">Όχι τώρα</string>
     <string name="netpActionGoToSettings">Μεταβείτε στις Ρυθμίσεις</string>
     <string name="netpAlwaysOnPromotionHeading">Να ρυθμιστεί σε «Πάντα ενεργή»</string>
-    <string name="netpAlwaysOnPromotionBody">Μεταβείτε στις Ρυθμίσεις VPN της συσκευής σας για το DuckDuckGo και ενεργοποιήστε το <b>Πάντα ενεργό VPN</b> για να αποτρέψετε απενεργοποίηση της προστασίας από το Android.\n\nΒεβαιωθείτε ότι έχετε αφήσει την άλλη ρύθμιση στη θέση OFF (ανενεργή).</string>
-    <string name="netpAlwaysOnLockdownBody">Για να αποφύγετε προβλήματα με εφαρμογές, μεταβείτε στις <b>Ρυθμίσεις VPN για το DuckDuckGo</b> της συσκευής σας και απενεργοποιήστε την επιλογή <b>Αποκλεισμός συνδέσεων χωρίς VPN.</b></string>
+    <string name="netpAlwaysOnPromotionBody">Μεταβείτε στις Ρυθμίσεις VPN της συσκευής σας για το Tragogo και ενεργοποιήστε το <b>Πάντα ενεργό VPN</b> για να αποτρέψετε απενεργοποίηση της προστασίας από το Android.\n\nΒεβαιωθείτε ότι έχετε αφήσει την άλλη ρύθμιση στη θέση OFF (ανενεργή).</string>
+    <string name="netpAlwaysOnLockdownBody">Για να αποφύγετε προβλήματα με εφαρμογές, μεταβείτε στις <b>Ρυθμίσεις VPN για το Tragogo</b> της συσκευής σας και απενεργοποιήστε την επιλογή <b>Αποκλεισμός συνδέσεων χωρίς VPN.</b></string>
     <string name="netpAlwaysOnLockdownHeading">Αλλάξτε τις ρυθμίσεις του VPN σας</string>
     <string name="netpBannerVpnRevoked"><b>Το VPN είναι απενεργοποιημένο.</b>\nΕνδέχεται να το έχει απενεργοποιήσει μια εφαρμογή VPN στη συσκευή σας. Χρησιμοποιήστε τον διακόπτη για να το ενεργοποιήσετε ξανά.</string>
     <string name="netpBannerAlwaysOnLockDownEnabled"><b>Απαιτείται ενέργεια!</b> Για να αποφύγετε προβλήματα με εφαρμογές, πρέπει να αλλάξετε τις ρυθμίσεις του Android σας. <annotation type="open_settings_link">Αλλαγή ρυθμίσεων</annotation></string>
@@ -82,7 +82,7 @@
     <string name="netpReportBreakageCategoryFeatureRequest">Αίτημα για λειτουργία</string>
     <string name="netpReportBreakageCategoryOther">Κάτι άλλο</string>
 
-    <string name="netpBetaDisclaimerFooter">Το DuckDuckGo VPN είναι δωρεάν για χρήση κατά τη διάρκεια της έκδοσης beta.</string>
+    <string name="netpBetaDisclaimerFooter">Το Tragogo VPN είναι δωρεάν για χρήση κατά τη διάρκεια της έκδοσης beta.</string>
 
     <!-- Manage -->
     <string name="netpManagementManageHeader">Διαχείριση</string>
@@ -108,7 +108,7 @@
     <string name="netpVpnSettingAlwaysOnByline">Αυτόματη αποκατάσταση μιας σύνδεσης VPN μετά από διακοπή</string>
     <string name="netpVpnSettingExcludeLocalNetworks">Εξαίρεση τοπικών δικτύων</string>
     <string name="netpVpnSettingExcludeLocalNetworksByline">Παρακάμψτε το VPN για συνδέσεις στο τοπικό δίκτυο, όπως σε έναν εκτυπωτή.</string>
-    <string name="netpVpnSettingDnsLeak">Το DuckDuckGo VPN αποτρέπει τις διαρροές DNS προς τον πάροχο υπηρεσιών διαδικτύου σας, δρομολογώντας ερωτήματα DNS μέσω της σήραγγας VPN στο δικό μας πρόγραμμα επίλυσης.</string>
+    <string name="netpVpnSettingDnsLeak">Το Tragogo VPN αποτρέπει τις διαρροές DNS προς τον πάροχο υπηρεσιών διαδικτύου σας, δρομολογώντας ερωτήματα DNS μέσω της σήραγγας VPN στο δικό μας πρόγραμμα επίλυσης.</string>
     <string name="netpVpnSettingGeoswitching">Προτιμώμενη τοποθεσία</string>
     <string name="netpVpnSettingGeoswitchingDefault">Πλησιέστερος διαθέσιμος</string>
 
@@ -122,7 +122,7 @@
 
     <!-- Pause during calls -->
     <string name="netpGrantPhonePermissionTitle">Απαιτείται άδεια τηλεφώνου</string>
-    <string name="netpGrantPhonePermissionByline">Για να ενεργοποιήσετε τη ρύθμιση αυτή, πρέπει να επιτρέψετε στο DuckDuckGo να πραγματοποιεί και να διαχειρίζεται τηλεφωνικές κλήσεις μέσω των ρυθμίσεων συστήματος.</string>
+    <string name="netpGrantPhonePermissionByline">Για να ενεργοποιήσετε τη ρύθμιση αυτή, πρέπει να επιτρέψετε στο Tragogo να πραγματοποιεί και να διαχειρίζεται τηλεφωνικές κλήσεις μέσω των ρυθμίσεων συστήματος.</string>
     <string name="netpGrantPhonePermissionActionPositive">Ρυθμίσεις</string>
     <string name="netpGrantPhonePermissionActionNegative">Ακύρωση</string>
 
@@ -132,8 +132,8 @@
 
     <!-- Exclusion list -->
     <string name="netpExclusionListTitle">Διαχείριση εφαρμογών</string>
-    <string name="netpExclusionListHeaderDefault">Το DuckDuckGo VPN λειτουργεί σε όλες τις εφαρμογές βάσει προεπιλογής. Αν αντιμετωπίζετε προβλήματα εφαρμογών με ενεργοποιημένο το VPN, δοκιμάστε να απενεργοποιήσετε την προστασία της συγκεκριμένης εφαρμογής.</string>
-    <string name="netpExclusionListHeaderDisabled">Το DuckDuckGo VPN είναι απενεργοποιημένο.</string>
+    <string name="netpExclusionListHeaderDefault">Το Tragogo VPN λειτουργεί σε όλες τις εφαρμογές βάσει προεπιλογής. Αν αντιμετωπίζετε προβλήματα εφαρμογών με ενεργοποιημένο το VPN, δοκιμάστε να απενεργοποιήσετε την προστασία της συγκεκριμένης εφαρμογής.</string>
+    <string name="netpExclusionListHeaderDisabled">Το Tragogo VPN είναι απενεργοποιημένο.</string>
     <string name="netpExclusionListExcludedReasonManuallyDisabled">Μη αυτόματη απενεργοποίηση</string>
     <string name="netpExclusionListExcludedReasonManuallyEnabled">Μη αυτόματη ενεργοποίηση</string>
     <string name="netpExclusionListExcludedReasonIssuesMayOccur">Εάν έχει ενεργοποιηθεί, ενδέχεται να προκύψουν προβλήματα με την εφαρμογή</string>
@@ -151,7 +151,7 @@
     <string name="netpExclusionListRestoreDefaultsTitle">Επαναφορά της προστασίας για όλες τις εφαρμογές;</string>
     <string name="netpExclusionListRestoreDefaultsMessage">Αυτό θα ενημερώσει τις προσαρμοσμένες ρυθμίσεις προστασίας σου και θα ενεργοποιήσει το VPN για όλες τις εφαρμογές. Μπορείτε πάντα να αλλάξετε ξανά τις ρυθμίσεις προστασίας αργότερα.</string>
     <string name="netpExclusionListRestoreDefaultSnackbar">Έγινε επαναφορά της προστασίας στις προεπιλεγμένες ρυθμίσεις</string>
-    <string name="netpExclusionListRestoreDefaultsDisclaimer">Η ενεργοποίηση της προστασίας στέλνει το όνομα της εφαρμογής στο DuckDuckGo.</string>
+    <string name="netpExclusionListRestoreDefaultsDisclaimer">Η ενεργοποίηση της προστασίας στέλνει το όνομα της εφαρμογής στο Tragogo.</string>
 
     <!-- System apps exclusion list -->
     <string name="netpExclusionListSystemAppsHeader">Εφαρμογές συστήματος Android</string>
@@ -166,33 +166,33 @@
 
     <!-- FAQS -->
     <string name="netpFaqTitle">Συχνές ερωτήσεις και υποστήριξη</string>
-    <string name="netpFaqQuestionOne">Πώς λειτουργεί το DuckDuckGo VPN;</string>
+    <string name="netpFaqQuestionOne">Πώς λειτουργεί το Tragogo VPN;</string>
     <string name="netpFaqAnswerOne">Το VPN χρησιμοποιεί το πρωτόκολλο ανοικτού κώδικα WireGuard για να διαμορφώσει ένα εικονικό ιδιωτικό δίκτυο (VPN) στη συσκευή σας. Όταν είναι ενεργοποιημένο, όλη η κυκλοφορία της συσκευής σας κρυπτογραφείται πρώτα και στη συνέχεια δρομολογείται μέσω του πλησιέστερου διακομιστή VPN για να προστατεύσει τη δραστηριότητα περιήγησής σας από τους παρόχους υπηρεσιών διαδικτύου και να αποκρύπτει την τοποθεσία σας από τις εφαρμογές και τους ιστότοπους που επισκέπτεστε.</string>
     <string name="netpFaqQuestionTwo">Προστατεύεται μόνο η περιήγηση μου στο διαδίκτυο;</string>
     <string name="netpFaqAnswerTwo">Προστατεύεται όλη η δραστηριότητα δικτύου στη συσκευή σας.</string>
-    <string name="netpFaqQuestionThree">Διατηρεί το DuckDuckGo αρχεία καταγραφής των δεδομένων μου;</string>
+    <string name="netpFaqQuestionThree">Διατηρεί το Tragogo αρχεία καταγραφής των δεδομένων μου;</string>
     <string name="netpFaqAnswerThree">Όχι, δεν αποθηκεύουμε αρχεία καταγραφής.</string>
     <string name="netpFaqQuestionFour">Πού βρίσκονται οι διακομιστές του VPN;</string>
-    <string name="netpFaqAnswerFour">Το DuckDuckGo προσφέρει περιορισμένο αριθμό διακομιστών ενόσω το DuckDuckGo VPN βρίσκεται σε beta έκδοση, με τοποθεσίες σε Ηνωμένες Πολιτείες, Καναδά και Ευρώπη.</string>
+    <string name="netpFaqAnswerFour">Το Tragogo προσφέρει περιορισμένο αριθμό διακομιστών ενόσω το Tragogo VPN βρίσκεται σε beta έκδοση, με τοποθεσίες σε Ηνωμένες Πολιτείες, Καναδά και Ευρώπη.</string>
     <string name="netpFaqQuestionSix">Γιατί κάποιες εφαρμογές δεν λειτουργούν όταν το VPN είναι ενεργοποιημένο;</string>
-    <string name="netpFaqAnswerSix">Ορισμένοι ιστότοποι και εφαρμογές περιορίζουν σκόπιμα την πρόσβαση σε χρήστες που χρησιμοποιούν VPN. Για παράδειγμα, μπορεί να σας ζητήσουν να λύσετε ένα CAPTCHA για να διασφαλίσουν ότι είστε πραγματικό άτομο και όχι μποτ. Αν αντιμετωπίζετε επανειλημμένα προβλήματα με μια εφαρμογή, μπορείτε να την εξαιρέσετε εντελώς από το VPN στις ρυθμίσεις VPN του DuckDuckGo.</string>
+    <string name="netpFaqAnswerSix">Ορισμένοι ιστότοποι και εφαρμογές περιορίζουν σκόπιμα την πρόσβαση σε χρήστες που χρησιμοποιούν VPN. Για παράδειγμα, μπορεί να σας ζητήσουν να λύσετε ένα CAPTCHA για να διασφαλίσουν ότι είστε πραγματικό άτομο και όχι μποτ. Αν αντιμετωπίζετε επανειλημμένα προβλήματα με μια εφαρμογή, μπορείτε να την εξαιρέσετε εντελώς από το VPN στις ρυθμίσεις VPN του Tragogo.</string>
     <string name="netpFaqQuestionSeven">Γιατί δεν μπορώ να απορρίψω τις ειδοποιήσεις VPN;</string>
     <string name="netpFaqAnswerSeven">Το Android απαιτεί τα VPN να εμφανίζουν μια μόνιμη ειδοποίηση όσο είναι ενεργοποιημένο το VPN.</string>
     <string name="netpFaqQuestionEight">Είναι συμβατό το VPN με την Προστασία παρακολούθησης από εφαρμογές;</string>
-    <string name="netpFaqAnswerEight">Ναι, τόσο το VPN όσο και η Προστασία παρακολούθησης από εφαρμογές μπορούν να είναι ενεργοποιημένα ταυτόχρονα. Κανένα άλλο VPN δεν είναι συμβατό με την Προστασία παρακολούθησης από εφαρμογές του DuckDuckGo.</string>
+    <string name="netpFaqAnswerEight">Ναι, τόσο το VPN όσο και η Προστασία παρακολούθησης από εφαρμογές μπορούν να είναι ενεργοποιημένα ταυτόχρονα. Κανένα άλλο VPN δεν είναι συμβατό με την Προστασία παρακολούθησης από εφαρμογές του Tragogo.</string>
     <string name="netpFaqQuestionNine">Είναι δωρεάν η χρήση του VPN;</string>
-    <string name="netpFaqAnswerNine">Η χρήση του DuckDuckGo VPN είναι δωρεάν κατά τη διάρκεια της έκδοσης beta. Ωστόσο στο μέλλον θα προσφέρεται ως επί πληρωμή υπηρεσία.</string>
+    <string name="netpFaqAnswerNine">Η χρήση του Tragogo VPN είναι δωρεάν κατά τη διάρκεια της έκδοσης beta. Ωστόσο στο μέλλον θα προσφέρεται ως επί πληρωμή υπηρεσία.</string>
 
     <!-- Notifications -->
     <string name="netpNotificationCTAEnableNetp">Σύνδεση</string>
     <string name="netpNotificationCTAReportIssue">Αντιμετωπίζετε προβλήματα με μια εφαρμογή;</string>
     <string name="netpNotificationDisabled">Το VPN είναι αποσυνδεδεμένο. Πατήστε για να συνεχίσετε την προστασία της κυκλοφορίας της συσκευής σας.</string>
-    <string name="netpNotificationDisabledByVpn">Μια εφαρμογή VPN στη συσκευή σας αποσύνδεσε το DuckDuckGo VPN. Πατήστε για να συνδεθείτε ξανά.</string>
+    <string name="netpNotificationDisabledByVpn">Μια εφαρμογή VPN στη συσκευή σας αποσύνδεσε το Tragogo VPN. Πατήστε για να συνδεθείτε ξανά.</string>
     <string name="netpUnsafeWifi">Συνδέθηκε σε μη ασφαλές WiFi.</string>
     <string name="netpNotificationCTAReconnectNow">Συνδεθείτε ξανά τώρα</string>
     <string name="netpNotificationSnoozeTitle">Το VPN είναι σε αναστολή</string>
     <string name="netpNotificationSnoozeBody" instruction="Placeholder is time in hh:mm format">Το VPN θα επανασυνδεθεί %1$s</string>
-    <string name="netpNotificationVpnAccessRevoked">Το VPN αποσυνδέθηκε λόγω λήξης της συνδρομής. Εγγραφείτε στο DuckDuckGo για να συνδέσετε εκ νέου το VPN.</string>
+    <string name="netpNotificationVpnAccessRevoked">Το VPN αποσυνδέθηκε λόγω λήξης της συνδρομής. Εγγραφείτε στο Tragogo για να συνδέσετε εκ νέου το VPN.</string>
 
     <!-- Geoswitching -->
     <string name="netpGeoswitchingTitle">Τοποθεσία VPN</string>
@@ -204,7 +204,7 @@
 
     <!-- Access revoked-->
     <string name="netpDialogVpnAccessRevokedTitle">Το VPN αποσυνδέθηκε λόγω λήξης της συνδρομής</string>
-    <string name="netpDialogVpnAccessRevokedBody">Εγγραφείτε στο DuckDuckGo για να συνδέσετε εκ νέου το VPN.</string>
+    <string name="netpDialogVpnAccessRevokedBody">Εγγραφείτε στο Tragogo για να συνδέσετε εκ νέου το VPN.</string>
     <string name="netpDialogVpnAccessRevokedPositiveAction">Εγγραφείτε</string>
     <string name="netpDialogVpnAccessRevokedNegativeAction">Απόρριψη</string>
 
@@ -212,7 +212,7 @@
     <string name="netpVerifySubscriptionLabel">Επαλήθευση συνδρομής</string>
     <string name="netpVerifySubscriptionInProgress">Περιμένετε μέχρι να επαληθεύσουμε τη συνδρομή σας...</string>
     <string name="netpVerifySubscriptionNoSubscription">Κρίμα! Δεν έχετε καμία έγκυρη συνδρομή.</string>
-    <string name="netpVerifySubscriptionNoEntitlement">Κρίμα! Η συνδρομή σας δεν είναι έγκυρη για το DuckDuckGo VPN.</string>
+    <string name="netpVerifySubscriptionNoEntitlement">Κρίμα! Η συνδρομή σας δεν είναι έγκυρη για το Tragogo VPN.</string>
 
     <!-- NetP Settings-->
     <string name="netpSubscriptionSettingsTitle" translatable="false">VPN</string>
@@ -221,16 +221,16 @@
     <string name="netpSetttingDnsHeader" translatable="false">DNS</string>
     <string name="netpCustomDnsSettingText">Διακομιστής DNS</string>
     <string name="netpPrivateDns">Ιδιωτικό DNS</string>
-    <string name="netpCustomDnsDefault" translatable="false">DuckDuckGo</string>
-    <string name="netpCustomDnsDefaultBlockMalware">DuckDuckGo (Πρόγραμμα αποκλεισμού απάτης)</string>
-    <string name="netpCustomDnsDefaultOption">DuckDuckGo (Συνιστάται)</string>
+    <string name="netpCustomDnsDefault" translatable="false">Tragogo</string>
+    <string name="netpCustomDnsDefaultBlockMalware">Tragogo (Πρόγραμμα αποκλεισμού απάτης)</string>
+    <string name="netpCustomDnsDefaultOption">Tragogo (Συνιστάται)</string>
     <string name="netpCustomDnsCustom">Προσαρμογή</string>
     <string name="netpCustomDnsInputAddressHint">Διεύθυνση IPv4</string>
     <string name="netpCustomDnsApply">Εφαρμογή</string>
     <string name="netpCustomDnsCustomHeader">Διακομιστής DNS</string>
-    <string name="netpCustomDnsPrivateDnsWarning">Το Ιδιωτικό DNS έχει ήδη καθοριστεί στις Ρυθμίσεις DNS συστήματος. Απενεργοποιήστε το Ιδιωτικό DNS για να ορίσετε ένα προσαρμοσμένο DNS για το DuckDuckGo VPN. <annotation type="open_settings_link">Ανοίξτε τις ρυθμίσεις συστήματος</annotation></string>
+    <string name="netpCustomDnsPrivateDnsWarning">Το Ιδιωτικό DNS έχει ήδη καθοριστεί στις Ρυθμίσεις DNS συστήματος. Απενεργοποιήστε το Ιδιωτικό DNS για να ορίσετε ένα προσαρμοσμένο DNS για το Tragogo VPN. <annotation type="open_settings_link">Ανοίξτε τις ρυθμίσεις συστήματος</annotation></string>
     <string name="netpCustomDnsWarning">Η χρήση ενός προσαρμοσμένου διακομιστή DNS μπορεί να επηρεάσει τις ταχύτητες περιήγησης και να εκθέσει τη δραστηριότητά σας σε τρίτους, αν ο διακομιστής δεν είναι ασφαλής ή αξιόπιστος.</string>
-    <string name="netpDdgDnsByLine">Το DuckDuckGo δρομολογεί τα ερωτήματα DNS μέσω των διακομιστών DNS μας, ώστε ο πάροχος διαδικτύου σας να μην μπορεί να δει ποιους ιστότοπους επισκέπτεστε.</string>
+    <string name="netpDdgDnsByLine">Το Tragogo δρομολογεί τα ερωτήματα DNS μέσω των διακομιστών DNS μας, ώστε ο πάροχος διαδικτύου σας να μην μπορεί να δει ποιους ιστότοπους επισκέπτεστε.</string>
 
     <!-- Block malware DNS -->
     <string name="netpDnsBlockMalwareHeader">Αποκλεισμός κακόβουλου περιεχομένου</string>

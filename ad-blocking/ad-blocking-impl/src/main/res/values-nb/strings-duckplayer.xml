@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
     <string name="duck_player_cancel">Avbryt</string>
     <string name="duck_player_setting_title">Duck Player</string>
     <string name="duck_player_settings_activity_title">Duck Player</string>
-    <string name="duck_player_settings_activity_description">Med Duck Player kan du se på YouTube uten målrettede annonser i DuckDuckGo. Det du ser på, påvirker ikke anbefalingene du får.\n<annotation type="learn_more_link">Les mer</annotation></string>
+    <string name="duck_player_settings_activity_description">Med Duck Player kan du se på YouTube uten målrettede annonser i Tragogo. Det du ser på, påvirker ikke anbefalingene du får.\n<annotation type="learn_more_link">Les mer</annotation></string>
     <string name="duck_player_settings_video_preferences_header">Videoinnstillinger</string>
-    <string name="duck_player_settings_unavailable_description">Med Duck Player kan du se på YouTube uten målrettede annonser i DuckDuckGo. Det du ser på, påvirker ikke anbefalingene du får.</string>
+    <string name="duck_player_settings_unavailable_description">Med Duck Player kan du se på YouTube uten målrettede annonser i Tragogo. Det du ser på, påvirker ikke anbefalingene du får.</string>
     <string name="duck_player_mode_always">Alltid</string>
     <string name="duck_player_mode_never">Aldri</string>
     <string name="duck_player_mode_always_ask">Spør hver gang</string>
@@ -31,7 +31,7 @@
     <string name="duck_player_close_modal_content_description">Lukk</string>
     <string name="duck_player_info_modal_title_from_duck_player_page">Drukner du i annonser på YouTube? Ikke med Duck Player!</string>
     <string name="duck_player_info_modal_title_from_overlay">Drukner du i annonser på YouTube? Prøv Duck Player!</string>
-    <string name="duck_player_info_modal_text">Med Duck Player kan du se på YouTube uten målrettede annonser i DuckDuckGo. Det du ser på, påvirker ikke anbefalingene du får.</string>
+    <string name="duck_player_info_modal_text">Med Duck Player kan du se på YouTube uten målrettede annonser i Tragogo. Det du ser på, påvirker ikke anbefalingene du får.</string>
     <string name="duck_player_info_modal_button">Skjønner!</string>
     <string name="duck_player_unavailable">Duck Player er utilgjengelig</string>
     <string name="duck_player_unavailable_learn_more">Finn ut mer</string>

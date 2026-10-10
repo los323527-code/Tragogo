@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blokowanie reklam w serwisie YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Blokuj reklamy na YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokuje reklamy wideo na YouTube, dzięki czemu możesz oglądać filmy bez przerw. \n\nPo włączeniu DuckDuckGo anonimowo wykrywa zakłócenia blokowania reklam lub błędy YouTube, aby poprawić wrażenia u wszystkich użytkowników. DuckDuckGo nigdy nie widzi filmów, jakie oglądasz, ani żadnych danych osobowych. <annotation type="learn_more_link">Dowiedz się więcej</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokuje reklamy wideo na YouTube, dzięki czemu możesz oglądać filmy bez przerw. <annotation type="learn_more_link">Dowiedz się więcej</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokuje reklamy wideo na YouTube, dzięki czemu możesz oglądać filmy bez przerw. \n\nPo włączeniu Tragogo anonimowo wykrywa zakłócenia blokowania reklam lub błędy YouTube, aby poprawić wrażenia u wszystkich użytkowników. Tragogo nigdy nie widzi filmów, jakie oglądasz, ani żadnych danych osobowych. <annotation type="learn_more_link">Dowiedz się więcej</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokuje reklamy wideo na YouTube, dzięki czemu możesz oglądać filmy bez przerw. <annotation type="learn_more_link">Dowiedz się więcej</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Otwiera filmy w trybie kinowym bez rozpraszania uwagi, który zapobiega wpływowi oglądania na Twój kanał YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Blokowanie reklam</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Wyłącz do czasu ponownego uruchomienia</string>
     <string name="ad_blocking_menu_always_off">Zawsze wyłączone</string>
     <string name="ad_blocking_disabled_popup_title">Blokowanie reklam w serwisie YouTube nie działa?</string>
-    <string name="ad_blocking_disabled_popup_description">Wyślij anonimowy raport do DuckDuckGo i pomóż usprawnić blokowanie reklam dla wszystkich!</string>
+    <string name="ad_blocking_disabled_popup_description">Wyślij anonimowy raport do Tragogo i pomóż usprawnić blokowanie reklam dla wszystkich!</string>
     <string name="ad_blocking_disabled_primary_action">Wyślij raport o awarii</string>
     <string name="ad_blocking_disabled_secondary_action">Anuluj</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Wyłączono do czasu ponownego uruchomienia</string>

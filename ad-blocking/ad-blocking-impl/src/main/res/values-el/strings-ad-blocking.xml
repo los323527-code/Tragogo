@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Αποκλεισμός διαφημίσεων YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Απόκλεισε τις διαφημίσεις στο YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">Το DuckDuckGo αποκλείει τις διαφημίσεις βίντεο στο YouTube, ώστε να μπορείς να βλέπεις βίντεο χωρίς διακοπές. \n\nΌταν είναι ενεργοποιημένο, το DuckDuckGo θα ανιχνεύει ανώνυμα παρεμβολές αποκλεισμού διαφημίσεων ή σφάλματα YouTube, για να βελτιώνει την εμπειρία για όλους. Το DuckDuckGo δεν βλέπει ποτέ ποια βίντεο παρακολουθείς ούτε τυχόν προσωπικά στοιχεία ταυτοποίησης. <annotation type="learn_more_link">Μάθε περισσότερα</annotation></string>
-    <string name="ad_blocking_settings_description">Το DuckDuckGo αποκλείει τις διαφημίσεις βίντεο στο YouTube, ώστε να μπορείς να βλέπεις βίντεο χωρίς διακοπές. <annotation type="learn_more_link">Μάθε περισσότερα</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Το Tragogo αποκλείει τις διαφημίσεις βίντεο στο YouTube, ώστε να μπορείς να βλέπεις βίντεο χωρίς διακοπές. \n\nΌταν είναι ενεργοποιημένο, το Tragogo θα ανιχνεύει ανώνυμα παρεμβολές αποκλεισμού διαφημίσεων ή σφάλματα YouTube, για να βελτιώνει την εμπειρία για όλους. Το Tragogo δεν βλέπει ποτέ ποια βίντεο παρακολουθείς ούτε τυχόν προσωπικά στοιχεία ταυτοποίησης. <annotation type="learn_more_link">Μάθε περισσότερα</annotation></string>
+    <string name="ad_blocking_settings_description">Το Tragogo αποκλείει τις διαφημίσεις βίντεο στο YouTube, ώστε να μπορείς να βλέπεις βίντεο χωρίς διακοπές. <annotation type="learn_more_link">Μάθε περισσότερα</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Ανοίγει βίντεο σε λειτουργία κινηματογράφου χωρίς περισπάσεις, η οποία εμποδίζει το περιεχόμενο που παρακολουθείς να επηρεάσει τη ροή σου στο YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Αποκλεισμός διαφημίσεων</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Απενεργοποίηση μέχρι την επανεκκίνηση</string>
     <string name="ad_blocking_menu_always_off">Πάντα ανενεργός</string>
     <string name="ad_blocking_disabled_popup_title">Ο αποκλεισμός διαφημίσεων στο YouTube δεν λειτουργεί;</string>
-    <string name="ad_blocking_disabled_popup_description">Στείλτε μια ανώνυμη αναφορά στο DuckDuckGo και βοηθήστε να κάνουμε τον αποκλεισμό διαφημίσεων καλύτερο για όλους!</string>
+    <string name="ad_blocking_disabled_popup_description">Στείλτε μια ανώνυμη αναφορά στο Tragogo και βοηθήστε να κάνουμε τον αποκλεισμό διαφημίσεων καλύτερο για όλους!</string>
     <string name="ad_blocking_disabled_primary_action">Αποστολή Αναφοράς βλάβης</string>
     <string name="ad_blocking_disabled_secondary_action">Ακύρωση</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Απενεργοποιήθηκε μέχρι την επανεκκίνηση</string>

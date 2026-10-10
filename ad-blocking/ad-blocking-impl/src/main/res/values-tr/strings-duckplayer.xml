@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
     <string name="duck_player_cancel">Vazgeç</string>
     <string name="duck_player_setting_title">Duck Player</string>
     <string name="duck_player_settings_activity_title">Duck Player</string>
-    <string name="duck_player_settings_activity_description">Duck Player, DuckDuckGo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.\n<annotation type="learn_more_link">Daha Fazla Bilgi</annotation></string>
+    <string name="duck_player_settings_activity_description">Duck Player, Tragogo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.\n<annotation type="learn_more_link">Daha Fazla Bilgi</annotation></string>
     <string name="duck_player_settings_video_preferences_header">Video Tercihleri</string>
-    <string name="duck_player_settings_unavailable_description">Duck Player, DuckDuckGo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.</string>
+    <string name="duck_player_settings_unavailable_description">Duck Player, Tragogo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.</string>
     <string name="duck_player_mode_always">Her zaman</string>
     <string name="duck_player_mode_never">Hiçbir zaman</string>
     <string name="duck_player_mode_always_ask">Her seferinde sor</string>
@@ -31,7 +31,7 @@
     <string name="duck_player_close_modal_content_description">Kapat</string>
     <string name="duck_player_info_modal_title_from_duck_player_page">YouTube\'da reklama mı boğuluyorsunuz? Duck Player ile bundan kurtulun!</string>
     <string name="duck_player_info_modal_title_from_overlay">YouTube\'da reklama mı boğuluyorsunuz? Duck Player\'ı deneyin!</string>
-    <string name="duck_player_info_modal_text">Duck Player, DuckDuckGo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.</string>
+    <string name="duck_player_info_modal_text">Duck Player, Tragogo\'da hedefli reklamlar olmadan YouTube\'u izlemenizi sağlar ve izlediğiniz şeyler önerilerinizi etkilemez.</string>
     <string name="duck_player_info_modal_button">Anladım!</string>
     <string name="duck_player_unavailable">Duck Player Kullanılamıyor</string>
     <string name="duck_player_unavailable_learn_more">Daha Fazla Bilgi</string>

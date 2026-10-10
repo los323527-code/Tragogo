@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Remember my choice</string>
     <string name="preciseLocationDDGDialogSubtitle">We only use your anonymous location to deliver better results, closer to you. You can manage the location access permissions you’ve granted to individual sites in Settings.</string>
     <string name="preciseLocationSiteDialogSubtitle">You can manage the location access permissions you’ve granted to individual sites in Settings.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Allow DuckDuckGo to ask for location access on this device</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Sites can only use your location if you allow DuckDuckGo to ask for access.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Allow DuckDuckGo to ask for location access</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Allow Tragogo to ask for location access on this device</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Sites can only use your location if you allow Tragogo to ask for access.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Allow Tragogo to ask for location access</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Site Permissions</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Manage granted permissions in settings</string>
     <string name="sitePermissionsDialogDenyButton">Deny</string>
     <string name="sitePermissionsDialogAllowButton">Allow</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Allow DuckDuckGo to ask for camera and microphone access</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Allow DuckDuckGo to ask for camera access</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Allow DuckDuckGo to ask for microphone access</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Allow Tragogo to ask for camera and microphone access</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Allow Tragogo to ask for camera access</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Allow Tragogo to ask for microphone access</string>
     <string name="sitePermissionsDeniedSnackBarAction">Allow</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Allow DuckDuckGo to ask for camera access on this device</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Sites can only use your camera if you allow DuckDuckGo to ask for access.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Allow DuckDuckGo to ask for microphone access on this device</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Sites can only use your microphone if you allow DuckDuckGo to ask for access.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Allow DuckDuckGo to ask for camera and microphone access on this device</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Sites can only use your camera and microphone if you allow DuckDuckGo to ask for access.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Allow Tragogo to ask for camera access on this device</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Sites can only use your camera if you allow Tragogo to ask for access.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Allow Tragogo to ask for microphone access on this device</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Sites can only use your microphone if you allow Tragogo to ask for access.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Allow Tragogo to ask for camera and microphone access on this device</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Sites can only use your camera and microphone if you allow Tragogo to ask for access.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Open Settings</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Cancel</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Microphone permission needed for voice features</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo needs to access your microphone</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo needs to access your microphone</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Microphone permissions are needed if you want to use Voice Chat in Duck.ai</string>
 
     <string name="sitePermissionsSettingsDescription">Sites you visit may ask for access to your device’s location, camera, microphone, or DRM (Digital Rights Management) software. They won’t be able to access these unless you explicitly give them permission.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">If you don\'t allow, videos on the site may become unplayable, but this site will not have access to device identifiers provided by DRM software.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Change Permissions</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo needs to access your location</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Change Permissions</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo needs to access your location</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Location permissions are needed if you want to use location features on this site.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo needs to access your camera</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo needs to access your camera</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Camera permissions are needed if you want to use camera features on this site.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo needs to access your microphone</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo needs to access your microphone</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Microphone permissions are needed if you want to use microphone features on this site.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo needs to access your camera and microphone</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo needs to access your camera and microphone</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Camera and microphone permissions are needed if you want to use camera and microphone features on this site.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo couldn\'t share location with this site</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo couldn\'t give camera access to this site</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo couldn\'t give microphone access to this site</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo couldn\'t give camera and microphone access to this site</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo couldn\'t share location with this site</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo couldn\'t give camera access to this site</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo couldn\'t give microphone access to this site</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo couldn\'t give camera and microphone access to this site</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Always Allow</string>

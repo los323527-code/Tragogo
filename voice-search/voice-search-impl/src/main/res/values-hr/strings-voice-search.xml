@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Nešto nije bilo kako treba.Pokušaj ponovno nešto kasnije.</string>
     <string name="voiceSearchIconContentDescription">Glasovno pretraživanje</string>
     <string name="voiceSearchListening">Govori sad</string>
-    <string name="voiceSearchListeningFooter">Zvuk se obrađuje na uređaju. Ne pohranjuje se i ne dijeli ni s kim, uključujući DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Zvuk se obrađuje na uređaju. Ne pohranjuje se i ne dijeli ni s kim, uključujući Tragogo.</string>
     <string name="voiceSearchNegativeAction">Odustani</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo treba pristupiti tvom mikrofonu</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo treba pristupiti tvom mikrofonu</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Ako želiš koristiti naše Privatno glasovno pretraživanje, potrebna su dopuštenja za mikrofon.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Dopuštenja za mikrofon potrebna su ako želiš koristiti naše privatne glasovne značajke.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Promijeni dozvole</string>

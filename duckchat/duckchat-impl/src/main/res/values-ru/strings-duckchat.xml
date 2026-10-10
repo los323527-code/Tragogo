@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Загрузка изображения</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Выбрать файл</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Снять фото</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешить DuckDuckGo запрашивать доступ к камере на этом устройстве</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Если вы разрешите DuckDuckGo запрашивать доступ, сайты смогут использовать камеру.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешить Tragogo запрашивать доступ к камере на этом устройстве</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Если вы разрешите Tragogo запрашивать доступ, сайты смогут использовать камеру.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Открыть Настройки</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Отменить</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Нет доступа к диктофону</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Разрешить DuckDuckGo запрашивать доступ к диктофону на этом устройстве</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Сайты получат возможность пользоваться диктофоном, только если вы разрешите DuckDuckGo запрашивать доступ.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Разрешить Tragogo запрашивать доступ к диктофону на этом устройстве</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Сайты получат возможность пользоваться диктофоном, только если вы разрешите Tragogo запрашивать доступ.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Функции ИИ</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGo AI — дополнительный конфиденциальный сервис.\nВаши данные не применяются для обучения ИИ.\n<annotation type="learn_more_link">Подробнее...</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogo AI — дополнительный конфиденциальный сервис.\nВаши данные не применяются для обучения ИИ.\n<annotation type="learn_more_link">Подробнее...</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Общайтесь в приватном чате с популярными сторонними моделями искусственного интеллекта</string>
     <string name="duck_chat_visibility_setting">Меню браузера</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Часто</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Использовать DuckDuckGo без ИИ</string>
+    <string name="duckAiUseWithoutAiTitle">Использовать Tragogo без ИИ</string>
     <string name="duckAiUseWithoutAiDescription">Отключает Duck.ai, скрывает ответы с использованием ИИ в поиске и фильтрует известные сайты с ИИ-спамом в результатах поиска изображений.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">ИИ сейчас отключен в браузере, поэтому ответы с использованием ИИ больше не будут отображаться, а в результатах поиска изображений будет меньше изображений, созданных ИИ.</string>
 
@@ -277,7 +277,7 @@
     <string name="duck_ai_chat_history_download_error">Не удалось экспортировать чат</string>
     <string name="duck_ai_chat_history_bulk_download_error">Не удалось экспортировать чаты</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Поиск в DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Поиск в Tragogo</string>
     <string name="native_input_chat_hint">Задайте любой вопрос, сохраняя конфиденциальность…</string>
     <string name="native_input_chat_duck_mode_hint">Ответить…</string>
 

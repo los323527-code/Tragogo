@@ -1,6 +1,5 @@
 # Tragogo
 
-Tragogo គឺជាកម្មវិធី Android browser ដែលកែប្រែចេញពី DuckDuckGo Android។
 
 ## ទាញយក (Download)
 
@@ -14,4 +13,3 @@ Tragogo គឺជាកម្មវិធី Android browser ដែលកែប�
 
 ## អំពី
 
-គម្រោងនេះផ្អែកលើ [DuckDuckGo Android](https://github.com/duckduckgo/Android) ហើយចែកចាយក្រោម [Apache License 2.0](LICENSE)។

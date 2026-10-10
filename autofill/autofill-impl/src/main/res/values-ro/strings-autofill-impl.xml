@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Actualizează numele de utilizator</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Actualizezi parola pentru \n%1$s?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo va actualiza această parolă stocată pe dispozitivul tău.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo va actualiza această parolă stocată pe dispozitivul tău.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Închide dialogul de completare automată</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Numele de utilizator a fost copiat</string>
     <string name="autofillManagementPasswordCopied">Parolă copiată</string>
 
-    <string name="autofill_password_generation_offer_title">Folosiți o parolă puternică de la DuckDuckGo?</string>
+    <string name="autofill_password_generation_offer_title">Folosiți o parolă puternică de la Tragogo?</string>
     <string name="autofill_password_generation_offer_accept">Utilizați o parolă puternică</string>
     <string name="autofill_password_generation_offer_decline">Îmi creez propria parolă</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Salvează și completează automat parolele</string>
     <string name="credentialManagementAutofillSubtitle">Parolele sunt criptate. Nimeni în afară de tine nu le poate vedea, nici măcar noi. <annotation type="learn_more_link">Află mai multe</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Securitatea managerului de parole</string>
-    <string name="saveLoginDialogSubtitle">Stochează în siguranță parola pe dispozitiv, cu Parole și completare automată DuckDuckGo.</string>
+    <string name="saveLoginDialogSubtitle">Stochează în siguranță parola pe dispozitiv, cu Parole și completare automată Tragogo.</string>
     <string name="autofillManagementAddLogin">Adaugă parola</string>
     <string name="credentialManagementEditLoginTitleHint">Titlu</string>
     <string name="autofillManagementDeletedConfirmation">Parolă ștearsă</string>
@@ -200,34 +200,34 @@
         <item quantity="other">Asigură-te că ai în continuare posibilitatea de a-ți accesa conturile.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Poți importa parolele salvate dintr-un alt browser în DuckDuckGo.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Poți importa parolele salvate dintr-un alt browser în Tragogo.</string>
 
     <string name="autofillManagementImportPasswords">Importă parolele</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Sincronizează parolele de pe desktop</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Cum să imporți parolele</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Cum se sincronizează parolele de pe desktop</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importă parolele în versiunea desktop a browserului DuckDuckGo, apoi sincronizează-le între dispozitive.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importă parolele în versiunea desktop a browserului Tragogo, apoi sincronizează-le între dispozitive.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Obține browserul pentru desktop</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Obține browserul DuckDuckGo pentru Mac sau Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Caută în mod privat și blochează tehnologiile de urmărire cu browserul pentru desktop DuckDuckGo. Accesează acest link pe computerul tău pentru a descărca astăzi.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Obține browserul Tragogo pentru Mac sau Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Caută în mod privat și blochează tehnologiile de urmărire cu browserul pentru desktop Tragogo. Accesează acest link pe computerul tău pentru a descărca astăzi.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Sincronizare cu computerul desktop</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Importă din browserul desktop:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Deschide DuckDuckGo pe Mac sau Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Deschide Tragogo pe Mac sau Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Accesează <b>Setări</b> > <b>Parole</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Selectează <b>Importă parole</b>... și urmează pașii pentru a importa]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Odată importate pe computer, poți configura sincronizarea pe acest dispozitiv</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Obține aplicația pentru desktop</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Obține DuckDuckGo pentru Mac sau Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Obține Tragogo pentru Mac sau Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">De pe computerul tău, accesează:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Raportează o problemă cu completarea automată</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Raportează anonim că completarea automată nu funcționează pe acest site. Parolele nu sunt niciodată comunicate.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Dorești să transmiți o sesizare că nu funcționează completarea automată pe %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Sesizările trimise către DuckDuckGo sunt anonime și nu includ numele tău de utilizator, parola sau orice alte informații de identificare personală.\n\nSesizarea include doar URL-ul site-ului și starea unor setări de completare automată.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Sesizările trimise către Tragogo sunt anonime și nu includ numele tău de utilizator, parola sau orice alte informații de identificare personală.\n\nSesizarea include doar URL-ul site-ului și starea unor setări de completare automată.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Trimite raportul</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Anulare</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Mulțumim! Sesizarea ta ne va ajuta să îmbunătățim DuckDuckGo pentru toată lumea.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Mulțumim! Sesizarea ta ne va ajuta să îmbunătățim Tragogo pentru toată lumea.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Caracteristici principale</string>
@@ -259,14 +259,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Alege un fișier CSV</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Importă din browserul pentru desktop</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importă în DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importă în Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Import finalizat</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Am înțeles</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Importarea parolelor nu a reușit</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Omise (duplicate sau nevalide): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Parole importate: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Deschide parolele</string>
     <string name="autofill_service_select_password_activity">Selectează o parolă salvată</string>
 
@@ -284,16 +284,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Sincronizează parolele de pe desktop</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Resetează site-urile excluse</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Importă parolele tale din&lt;br /&gt;Google în DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Importă-ți parolele rapid și în siguranță în DuckDuckGo. Google îți poate cere să completezi parola.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Importă parolele tale din&lt;br /&gt;Google în Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Importă-ți parolele rapid și în siguranță în Tragogo. Google îți poate cere să completezi parola.</string>
     <string name="passwords_import_promo_action">Importă din Google</string>
-    <string name="passwords_import_promo_in_browser_title">Importă parolele tale din Google în DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Importă parolele tale din Google în Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Nu întreba din nou</string>
     <string name="passwords_import_promo_in_settings_title">Importă parole de la Google</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Ascunde</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Importă în DuckDuckGo</string>
+    <string name="importToTragogo">Importă în Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Importat din Chrome</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Importă marcajele din Google</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google îți poate solicita să te conectezi sau să completezi parola pentru a confirma.</string>
@@ -309,9 +309,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Anulează importul</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Continuă</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Marcaje: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Închidere</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Ceva nu a funcționat corect</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Asigură-te că ești conectat la internet și încearcă din nou.</string>
 

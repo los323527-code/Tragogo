@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blokování reklam na YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Blokovat reklamy na YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokuje při sledování videí na YouTube reklamy, takže se můžeš dívat bez přerušení.\n\nKdyž je tato funkce zapnutá, DuckDuckGo anonymně detekuje rušení blokováním reklam nebo chyby YouTube a vylepšuje zážitek pro všechny. DuckDuckGo nikdy nevidí, která videa si prohlížíš ani žádné osobní údaje. <annotation type="learn_more_link">Další informace</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokuje při sledování videí na YouTube reklamy, takže se můžeš dívat bez přerušení. <annotation type="learn_more_link">Další informace</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokuje při sledování videí na YouTube reklamy, takže se můžeš dívat bez přerušení.\n\nKdyž je tato funkce zapnutá, Tragogo anonymně detekuje rušení blokováním reklam nebo chyby YouTube a vylepšuje zážitek pro všechny. Tragogo nikdy nevidí, která videa si prohlížíš ani žádné osobní údaje. <annotation type="learn_more_link">Další informace</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokuje při sledování videí na YouTube reklamy, takže se můžeš dívat bez přerušení. <annotation type="learn_more_link">Další informace</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Otevírá videa v režimu kina, který brání tomu, aby sledovaná videa ovlivňovala tvůj feed na YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Blokování reklam</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Vypnout až do opětovného spuštění</string>
     <string name="ad_blocking_menu_always_off">Vždycky vypnuté</string>
     <string name="ad_blocking_disabled_popup_title">Nefunguje blokování reklam na YouTube?</string>
-    <string name="ad_blocking_disabled_popup_description">Odešli anonymní hlášení službě DuckDuckGo a pomoz vylepšit blokování reklam pro všechny!</string>
+    <string name="ad_blocking_disabled_popup_description">Odešli anonymní hlášení službě Tragogo a pomoz vylepšit blokování reklam pro všechny!</string>
     <string name="ad_blocking_disabled_primary_action">Poslat zprávu o chybě</string>
     <string name="ad_blocking_disabled_secondary_action">Zrušit</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Vypnuto do opětovného spuštění</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blokering af YouTube-annoncer</string>
     <string name="ad_blocking_settings_toggle_title">Blokér annoncer på YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokerer videoannoncer på YouTube, så du kan se videoer uden afbrydelser. \n\nNår funktionen er aktiveret, registrerer DuckDuckGo anonymt forstyrrelser fra annonceblokkere eller fejl på YouTube for at forbedre oplevelsen for alle. DuckDuckGo ser aldrig, hvilke videoer du ser, eller andre personligt identificerbare oplysninger. <annotation type="learn_more_link">Læs mere</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokerer videoannoncer på YouTube, så du kan se videoer uden afbrydelser. <annotation type="learn_more_link">Læs mere</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokerer videoannoncer på YouTube, så du kan se videoer uden afbrydelser. \n\nNår funktionen er aktiveret, registrerer Tragogo anonymt forstyrrelser fra annonceblokkere eller fejl på YouTube for at forbedre oplevelsen for alle. Tragogo ser aldrig, hvilke videoer du ser, eller andre personligt identificerbare oplysninger. <annotation type="learn_more_link">Læs mere</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokerer videoannoncer på YouTube, så du kan se videoer uden afbrydelser. <annotation type="learn_more_link">Læs mere</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Åbner videoer i en distraktionsfri biograftilstand, der forhindrer, at det, du ser, påvirker dit YouTube-feed.</string>
     <string name="ad_blocking_settings_title_v2">Annonceblokering</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Deaktiver indtil genstart</string>
     <string name="ad_blocking_menu_always_off">Altid fra</string>
     <string name="ad_blocking_disabled_popup_title">Virker YouTube annonceblokering ikke?</string>
-    <string name="ad_blocking_disabled_popup_description">Send en anonym rapport til DuckDuckGo, og hjælp med at gøre blokering af annoncer bedre for alle!</string>
+    <string name="ad_blocking_disabled_popup_description">Send en anonym rapport til Tragogo, og hjælp med at gøre blokering af annoncer bedre for alle!</string>
     <string name="ad_blocking_disabled_primary_action">Send rapport om nedbrud</string>
     <string name="ad_blocking_disabled_secondary_action">Annuller</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Deaktiveret indtil genstart</string>

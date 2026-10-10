@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Något gick fel. Försök igen senare.</string>
     <string name="voiceSearchIconContentDescription">Röstsökning</string>
     <string name="voiceSearchListening">Tala nu</string>
-    <string name="voiceSearchListeningFooter">Ljudet bearbetas på enheten. Det lagras inte och delas inte med någon, inte ens DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Ljudet bearbetas på enheten. Det lagras inte och delas inte med någon, inte ens Tragogo.</string>
     <string name="voiceSearchNegativeAction">Avbryt</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo behöver komma åt din mikrofon</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo behöver komma åt din mikrofon</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Mikrofonbehörighet behövs om du vill använda vår privata röstsökning.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Mikrofonbehörighet behövs om du vill använda våra privata röstfunktioner.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Ändra behörigheter</string>

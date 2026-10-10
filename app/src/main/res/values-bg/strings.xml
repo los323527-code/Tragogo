@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="appName" translatable="false">DuckDuckGo</string>
-    <string name="appDescription" translatable="false">DuckDuckGo</string>
-    <string name="duckDuckGoLogoDescription">Лого на DuckDuckGo</string>
+    <string name="appName" translatable="false">Tragogo</string>
+    <string name="appDescription" translatable="false">Tragogo</string>
+    <string name="duckDuckGoLogoDescription">Лого на Tragogo</string>
     <string name="duckDuckGoProtectionPrivacyPeaceTagLine">Защита. Поверителност. Спокойствие.</string>
     <string name="yes">Да</string>
     <string name="no">Не</string>
@@ -31,15 +31,15 @@
     <string name="duckAiChatDeletedSnackbar">Чатът е изтрит</string>
 
     <!-- Onboarding Activity -->
-    <string name="onboardingDefaultBrowserDescription">Посетете Настройки, за да търсите и сърфирате с DuckDuckGo всеки път.</string>
-    <string name="onboardingDefaultBrowserTitle">Направете DuckDuckGo Вашият браузър по подразбиране</string>
+    <string name="onboardingDefaultBrowserDescription">Посетете Настройки, за да търсите и сърфирате с Tragogo всеки път.</string>
+    <string name="onboardingDefaultBrowserTitle">Направете Tragogo Вашият браузър по подразбиране</string>
 
     <!-- Default Browser -->
     <string name="cannotLaunchDefaultAppSettings">Екранът за настройки на приложения по подразбиране не може да бъде стартиран</string>
     <string name="setAsDefaultBrowser">Задаване като браузър по подразбиране</string>
     <string name="defaultBrowserMaybeLater">Може би по-късно</string>
     <string name="defaultBrowserDescriptionNoDefault">Отваряйте връзки без притеснения, всеки път.</string>
-    <string name="defaultBrowserInstructions">Изберете DuckDuckGo и докоснете <font color="#678fff">Винаги</font>.</string>
+    <string name="defaultBrowserInstructions">Изберете Tragogo и докоснете <font color="#678fff">Винаги</font>.</string>
 
     <!-- Browser Activity -->
     <string name="browserPopupMenu">Меню на браузъра</string>
@@ -94,11 +94,11 @@
     <!-- Opening external apps -->
     <string name="openExternalApp">Отваряне на външно приложение</string>
     <string name="launchingExternalApp">Отваряне в друго приложение</string>
-    <string name="confirmOpenExternalApp">Искате ли да напуснете DuckDuckGo, за да видите това съдържание?</string>
+    <string name="confirmOpenExternalApp">Искате ли да напуснете Tragogo, за да видите това съдържание?</string>
     <string name="unableToOpenLink">Не може да се отвори този тип връзка</string>
 
     <!-- Tabs -->
-    <string name="homeTab" translatable="false">DuckDuckGo</string>
+    <string name="homeTab" translatable="false">Tragogo</string>
     <string name="tabActivityTitle">Раздели</string>
     <string name="tabsMenuItem">Раздели</string>
     <string name="newTabMenuItem">Нов раздел</string>
@@ -133,7 +133,7 @@
     <string name="settingsHeadingAppearance">Външен вид</string>
     <string name="settingsWhatsNew">Новости</string>
     <string name="settingsHeadingAbout">За нас</string>
-    <string name="settingsAboutDuckduckgo">За DuckDuckGo</string>
+    <string name="settingsAboutDuckduckgo">За Tragogo</string>
     <string name="settingsVersion">Версия</string>
     <string name="leaveFeedback">Споделяне на отзив</string>
     <string name="leaveFeedbackNew">Изпратете отзив</string>
@@ -164,12 +164,12 @@
     <string name="settingsAddWidget">Добавяне на приспособлението към началния екран</string>
     <string name="settingsAddressBarPosition">Задайте позицията на адресната лента</string>
     <string name="settingsEnableVoiceSearch">Активиране на поверително гласово търсене</string>
-    <string name="settingsDDGOnOtherPlatforms">DuckDuckGo на други платформи</string>
+    <string name="settingsDDGOnOtherPlatforms">Tragogo на други платформи</string>
     <string name="settingsDuckAi">Функции с изкуствен интелект</string>
 
     <!-- Private Search -->
     <string name="privateSearchActivityTitle">поверително търсене</string>
-    <string name="privateSearchDescription">DuckDuckGo Private Search е търсачката по подразбиране, затова можете да търсите в мрежата, без да бъдете проследявани.</string>
+    <string name="privateSearchDescription">Tragogo Private Search е търсачката по подразбиране, затова можете да търсите в мрежата, без да бъдете проследявани.</string>
     <string name="privateSearchMoreSearchSettingsPrimaryText">Още настройки за търсене</string>
     <string name="privateSearchMoreSearchSettingsSecondaryText">Персонализирайте езика за търсене, региона и др.</string>
     <string name="privateSearchMoreSearchSettingsTitle">Още настройки за търсене</string>
@@ -187,7 +187,7 @@
     <string name="webTrackingProtectionActivityTitle">Защита от проследяване в мрежата</string>
     <string name="webTrackingProtectionLearnMoreTitle">Защита от проследяване в мрежата</string>
     <string name="webTrackingProtectionTitle">Защита от проследяване в мрежата</string>
-    <string name="webTrackingProtectionExplanationDescription"><![CDATA[Браузърът DuckDuckGo предоставя защити от проследяване, които винаги са активни.\n<a href=\"\">Научете повече</a>]]></string>
+    <string name="webTrackingProtectionExplanationDescription"><![CDATA[Браузърът Tragogo предоставя защити от проследяване, които винаги са активни.\n<a href=\"\">Научете повече</a>]]></string>
     <string name="webTrackingProtectionExplanationTitle">Как защитаваме теб</string>
     <string name="webTrackingProtectionThirdPartyTrackersTitle">Блокира тракерите на трети страни</string>
     <string name="webTrackingProtectionThirdPartyTrackersDescription">Помага да се блокират бисквитките на 3-ти страни, които ви проследяват от сайт на сайт, като предотвратява зареждането на тракери на 3-ти страни от самото начало.</string>
@@ -212,7 +212,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Вземете браузъра за работен плот</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo за Mac и Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo за Mac и Windows</string>
     <string name="getDesktopBrowserHideItem">Скрий</string>
 
     <!-- Cookie Pop-Up Protection -->
@@ -283,10 +283,10 @@
     <string name="settingsClearAiDataTitle">Изтриване на чатове с Duck.ai</string>
     <string name="settingsClearAiDataDeleteMessage">Fire Button ще изтрие също и историята на Duck.ai, включително закачените чатове.</string>
     <!-- About Activity -->
-    <string name="aboutActivityTitle">Относно DuckDuckGo</string>
+    <string name="aboutActivityTitle">Относно Tragogo</string>
     <string name="aboutActivityTitleNew">За нас</string>
     <string name="aboutHeaderNewTagLine">Защита. Поверителност. Спокойствие.</string>
-    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nDuckDuckGo е независима компания за онлайн защита за всеки, който иска да си върне контрола върху личната информация.\n\nНие вярваме, че най-добрият начин за защита на личната информация от хакери, измамници и компании, които не зачитат поверителността, е тя изобщо да не бъде събирана. Ето защо милиони хора <annotation type="chart_comparison">избират DuckDuckGo пред Chrome и други браузъри</annotation> за търсене и сърфиране онлайн. Нашата вградена търсачка е като Google, но никога не следи какво търсите. А нашите защити при сърфиране, като блокиране на рекламни тракери и блокиране на бисквитки, помагат да спрем събирането на Вашите данни от други компании. Освен това нашият браузър е безплатен — ние печелим от <annotation type="privacy_respecting_ads">зачитащи поверителността реклами при търсене</annotation>, а не като използваме Вашите данни.\n\nВ допълнение към това предлагаме и <annotation type="ppro_help_page">абонамент за DuckDuckGo</annotation>, интегриран в нашия браузър. Абонатите получават още по-добра защита на личните данни с бърза и лесна <annotation type="vpn_help_page">VPN</annotation> услуга, която помага да защитите дейността си онлайн; достъп до усъвършенствани AI модели в нашата услуга за поверителен AI чат Duck.ai; услуга, която намира и премахва личната Ви информация от сайтове за търсене на хора; и услуга, която възстановява самоличността Ви, ако бъде открадната.\n\nВърнете си контрола върху личната информация с браузъра, предназначен за защита на данните, а не за събиране на данните.</string>
+    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nTragogo е независима компания за онлайн защита за всеки, който иска да си върне контрола върху личната информация.\n\nНие вярваме, че най-добрият начин за защита на личната информация от хакери, измамници и компании, които не зачитат поверителността, е тя изобщо да не бъде събирана. Ето защо милиони хора <annotation type="chart_comparison">избират Tragogo пред Chrome и други браузъри</annotation> за търсене и сърфиране онлайн. Нашата вградена търсачка е като Google, но никога не следи какво търсите. А нашите защити при сърфиране, като блокиране на рекламни тракери и блокиране на бисквитки, помагат да спрем събирането на Вашите данни от други компании. Освен това нашият браузър е безплатен — ние печелим от <annotation type="privacy_respecting_ads">зачитащи поверителността реклами при търсене</annotation>, а не като използваме Вашите данни.\n\nВ допълнение към това предлагаме и <annotation type="ppro_help_page">абонамент за Tragogo</annotation>, интегриран в нашия браузър. Абонатите получават още по-добра защита на личните данни с бърза и лесна <annotation type="vpn_help_page">VPN</annotation> услуга, която помага да защитите дейността си онлайн; достъп до усъвършенствани AI модели в нашата услуга за поверителен AI чат Duck.ai; услуга, която намира и премахва личната Ви информация от сайтове за търсене на хора; и услуга, която възстановява самоличността Ви, ако бъде открадната.\n\nВърнете си контрола върху личната информация с браузъра, предназначен за защита на данните, а не за събиране на данните.</string>
     <string name="no_suggestions">Няма предложения</string>
 
     <!-- Broken Site Activity -->
@@ -297,7 +297,7 @@
     <string name="brokenSiteProtectionsOnBannerMessage">Изключването на защитите може да помогне.</string>
 
     <!-- Widget -->
-    <string name="searchWidgetTextHint">Търсене с DuckDuckGo</string>
+    <string name="searchWidgetTextHint">Търсене с Tragogo</string>
 
     <!-- Favorites widget -->
     <string name="addFavoriteMenuTitleHighlighted">👋 Добавяне към „Предпочитани“</string>
@@ -322,7 +322,7 @@
     <string name="surveyCtaLaunchButton">Попълнете анкетата</string>
     <string name="surveyCtaDismissButton">Не, благодаря</string>
     <string name="surveyActivityTitle">Потребителска анкета</string>
-    <string name="surveyTitle">Анкета на DuckDuckGo</string>
+    <string name="surveyTitle">Анкета на Tragogo</string>
     <string name="surveyDismissContentDescription">Отхвърляне на анкетата</string>
     <string name="surveyLoadingErrorTitle">О, не!</string>
     <string name="surveyLoadingErrorText">В момента анкетата ни не се зарежда.\n Моля, опитайте отново по-късно.</string>
@@ -337,14 +337,14 @@
     <string name="addWidgetInstruction1Label">1</string>
     <string name="addWidgetInstruction1">Натиснете продължително началния екран и след това отворете менюто с приспособления.</string>
     <string name="addWidgetInstruction2Label">2</string>
-    <string name="addWidgetInstruction2">Намерете приспособлението DuckDuckGo.</string>
+    <string name="addWidgetInstruction2">Намерете приспособлението Tragogo.</string>
     <string name="addWidgetInstruction3Label">3</string>
     <string name="addWidgetInstruction3">Плъзнете приспособлението до началния екран.</string>
     <string name="addWidgetInstructionsButtonGoHome">Към началния екран</string>
     <string name="addWidgetInstructionsButtonClose">Затваряне</string>
 
     <!-- App Enjoyment / Rating / Feedback -->
-    <string name="appEnjoymentDialogTitle">Наслаждавате ли се на DuckDuckGo?</string>
+    <string name="appEnjoymentDialogTitle">Наслаждавате ли се на Tragogo?</string>
     <string name="appEnjoymentDialogMessage">Ще се радваме да научим какво мислите.</string>
     <string name="appEnjoymentDialogPositiveButton">Харесва ми</string>
     <string name="appEnjoymentDialogNegativeButton">Необходимо е да се поработи върху него</string>
@@ -366,15 +366,15 @@
 
     <!-- Clear Notification -->
     <string name="clearNotificationTitle">Ръчно изчистване на данните</string>
-    <string name="clearNotificationDescription">Персонализирайте DuckDuckGo да изчиства автоматично данните от сърфирането след всяка сесия.</string>
+    <string name="clearNotificationDescription">Персонализирайте Tragogo да изчиства автоматично данните от сърфирането след всяка сесия.</string>
 
     <!-- Privacy Protection Notification -->
     <string name="privacyProtectionNotificationDefaultTitle">Ние защитаваме Вашата поверителност</string>
     <string name="privacyProtectionNotificationReportTitle">Доклад за Вашата поверителност</string>
-    <string name="privacyProtectionNotificationDefaultDescription">Използването на приложението DuckDuckGo защитава Вашите данни, като блокира проследяващите елементи и шифрова връзките.</string>
-    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Вие защитихте своите данни, като осигурихте %1$d нешифровани връзки, докато използвахте DuckDuckGo.</string>
-    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Вие защитихте своите данни, като блокирахте %1$d проследяващи елемента, докато използвахте DuckDuckGo.</string>
-    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Вие защитихте своите данни, като блокирахте %1$d проследяващи елемента и осигурихте %2$d нешифровани връзки, докато използвахте DuckDuckGo.</string>
+    <string name="privacyProtectionNotificationDefaultDescription">Използването на приложението Tragogo защитава Вашите данни, като блокира проследяващите елементи и шифрова връзките.</string>
+    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Вие защитихте своите данни, като осигурихте %1$d нешифровани връзки, докато използвахте Tragogo.</string>
+    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Вие защитихте своите данни, като блокирахте %1$d проследяващи елемента, докато използвахте Tragogo.</string>
+    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Вие защитихте своите данни, като блокирахте %1$d проследяващи елемента и осигурихте %2$d нешифровани връзки, докато използвахте Tragogo.</string>
     <string name="privacyProtectionNotificationLaunchButton">Подновете сърфирането</string>
 
     <!-- Authentication -->
@@ -386,7 +386,7 @@
     <string name="authenticationDialogPasswordHint">Парола</string>
 
     <!-- User-facing label for when a user selects text and might want to search for that text -->
-    <string name="systemTextSearchMessage">Търсене с DuckDuckGo</string>
+    <string name="systemTextSearchMessage">Търсене с Tragogo</string>
 
     <!-- Webview Recovery -->
     <string name="crashedWebViewErrorMessage">"Уеб страницата не може да бъде показана."</string>
@@ -394,7 +394,7 @@
 
     <!-- System Search-->
     <string name="systemSearchAppNotFound">Приложението не може да бъде намерено</string>
-    <string name="systemSearchOnboardingThanks">Благодарим Ви, че избрахте DuckDuckGo!\nИзползването на нашия браузър помага да се защитите от хакери, измамници и жадни за данни компании.</string>
+    <string name="systemSearchOnboardingThanks">Благодарим Ви, че избрахте Tragogo!\nИзползването на нашия браузър помага да се защитите от хакери, измамници и жадни за данни компании.</string>
     <string name="systemSearchOnboardingFeaturesIntroText">Приложението също:</string>
     <string name="systemSearchOnboardingFeatureOneText">Блокира опасни тракери.</string>
     <string name="systemSearchOnboardingFeatureTwoText">Криптира уебсайтове принудително.</string>
@@ -413,7 +413,7 @@
     <string name="daxDialogAppTpRetentionSecondaryButtonText">Не сега</string>
 
     <!-- New Onboarding Experience -->
-    <string name="onboardingWelcomeTitle">"Добре дошли в DuckDuckGo!"</string>
+    <string name="onboardingWelcomeTitle">"Добре дошли в Tragogo!"</string>
     <string name="onboardingDaxText"><![CDATA[Интернет може да бъде и страшен.<br/><br/>Не се притеснявайте! Частното търсене и сърфиране е по-лесно, отколкото си мислите.]]></string>
     <string name="onboardingLetsDoItButton">Да го направим!</string>
     <string name="daxNonSerpCtaText"><![CDATA[Докато докосвате и скролвате, ще блокирам досадните тракери. <br/><br/>Продължавайте - не спирайте да сърфирате!]]></string>
@@ -503,7 +503,7 @@
     <string name="dosErrorMessage">Връзката е прекъсната. Този уебсайт може да навреди на вашето устройство.</string>
 
     <!-- Precise Location -->
-    <string name="preciseLocationSystemDialogTitle">Да се активира ли местоположение на устройството за поверителния браузър на DuckDuckGo?</string>
+    <string name="preciseLocationSystemDialogTitle">Да се активира ли местоположение на устройството за поверителния браузър на Tragogo?</string>
     <string name="preciseLocationSystemDialogSubtitle" instruction="%1$s and %2$s are both the name of the website requesting the location">%1$s иска информация за местоположението на устройството. Първо трябва да разрешите на приложението да изпраща местоположението на устройството и след това %2$s може да поиска разрешение.</string>
     <string name="preciseLocationSystemDialogAllow">Активиране</string>
     <string name="preciseLocationSystemDialogDeny">Може би по-късно</string>
@@ -515,7 +515,7 @@
     <string name="preciseLocationSiteDialogAllowOnce">Само за тази сесия</string>
     <string name="preciseLocationSiteDialogDenyAlways">Винаги да се отказва</string>
     <string name="preciseLocationSiteDialogDenyOnce">Отказ само за тази сесия</string>
-    <string name="preciseLocationFeatureDescription">Сайтовете, които посещавате, може да поискат да научат местоположението на устройството. Те няма да имат достъп до него, докато не им дадете изрично разрешение. DuckDuckGo използва местоположението само анонимно, за да осигурява локални резултати от търсенето.</string>
+    <string name="preciseLocationFeatureDescription">Сайтовете, които посещавате, може да поискат да научат местоположението на устройството. Те няма да имат достъп до него, докато не им дадете изрично разрешение. Tragogo използва местоположението само анонимно, за да осигурява локални резултати от търсенето.</string>
     <string name="preciseLocationToggleText">Сайтовете може да питат за местоположението ми</string>
     <string name="preciseLocationEmptyListHint">Никой уебсайт няма разрешение за достъп до местоположението</string>
     <string name="preciseLocationNoSystemPermission">За да управлявате разрешенията за достъп до местоположението, които сте дали на отделни сайтове, активирайте местоположение за това приложение в настройките на Android.</string>
@@ -531,7 +531,7 @@
 
     <!--  Global Privacy Control-->
     <string name="globalPrivacyControlActivityTitle">Глобален контрол на поверителността (GPC)</string>
-    <string name="globalPrivacyControlDescription"><![CDATA[DuckDuckGo блокира автоматично много тракери. С настройката \"Глобален контрол на поверителността\" (GPC) можете също да поискате от участващите уебсайтове да ограничат продажбата или споделянето на Вашите лични данни на/с други компании. <u><a href=\"\">Научете повече</a><u/>]]></string>
+    <string name="globalPrivacyControlDescription"><![CDATA[Tragogo блокира автоматично много тракери. С настройката \"Глобален контрол на поверителността\" (GPC) можете също да поискате от участващите уебсайтове да ограничат продажбата или споделянето на Вашите лични данни на/с други компании. <u><a href=\"\">Научете повече</a><u/>]]></string>
     <string name="globalPrivacyControlSetting">Глобален контрол на поверителността (GPC)</string>
     <string name="globalPrivacyControlToggle">Глобален контрол на поверителността (GPC)</string>
     <string name="disabled">Деактивирано</string>
@@ -567,11 +567,11 @@
     <string name="settingsAccessibility">Достъпност</string>
     <string name="accessibilityActivityTitle">Достъпност</string>
     <string name="accessibilityFontSizeTitle">Размер на текста</string>
-    <string name="accessibilityFontSizeHint">Придвижете плъзгача до положение, в което можете да виждате текста добре. Уебсайтовете, които разглеждате в DuckDuckGo, ще се регулират спрямо него.</string>
+    <string name="accessibilityFontSizeHint">Придвижете плъзгача до положение, в което можете да виждате текста добре. Уебсайтовете, които разглеждате в Tragogo, ще се регулират спрямо него.</string>
     <string name="accessibilityForceZoomTitle">Прилагане на ръчно мащабиране на страницата</string>
     <string name="accessibilityForceZoomSubtitle">Щипнете и увеличете всеки сайт, дори и тези, които не позволяват мащабиране</string>
     <string name="accessibilityTextSizeOverrideTitle">Управление на размера на текста</string>
-    <string name="accessibilityTextSizeOverrideSubtitle">Текстът на уебсайтовете, които разглеждате с DuckDuckGo, ще се регулира спрямо настройката по-долу</string>
+    <string name="accessibilityTextSizeOverrideSubtitle">Текстът на уебсайтовете, които разглеждате с Tragogo, ще се регулира спрямо настройката по-долу</string>
 
     <!-- Privacy Policy -->
     <string name="settingsPrivacyPolicyDuckduckgo">Политика за поверителност</string>
@@ -624,7 +624,7 @@
     <string name="tabSelectedIndicator">Индикатор за избран раздел</string>
     <string name="tabNotSelectedIndicator">Индикатор за неизбран раздел</string>
 
-    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d връзки от DuckDuckGo</string>
+    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d връзки от Tragogo</string>
     <plurals name="shareLinksMenuItem" tools:ignore="ImpliedQuantity,MissingInstruction">
         <item quantity="one">Споделяне на връзката</item>
         <item quantity="other">Споделяне на връзки %1$d</item>
@@ -685,7 +685,7 @@
     </plurals>
 
     <!-- Private voice search -->
-    <string name="accessibilityVoiceSearchSubtitle">Добавете опция за поверително гласово търсене към адресната лента. Звукът не се съхранява и не се споделя с никого, включително с DuckDuckGo.</string>
+    <string name="accessibilityVoiceSearchSubtitle">Добавете опция за поверително гласово търсене към адресната лента. Звукът не се съхранява и не се споделя с никого, включително с Tragogo.</string>
     <string name="accessibilityVoiceSearchTitle">Поверително гласово търсене</string>
 
     <!-- Uploading an image from the camera or choosing to use existing image -->
@@ -693,8 +693,8 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Качване на изображение</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Изберете файл</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Направете снимка</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешаване на DuckDuckGo да иска достъп до камерата на това устройство</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Сайтовете могат да използват камерата, само ако разрешите на DuckDuckGo да поиска достъп.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Разрешаване на Tragogo да иска достъп до камерата на това устройство</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Сайтовете могат да използват камерата, само ако разрешите на Tragogo да поиска достъп.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Отвори Настройки</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Отмени</string>
 
@@ -708,7 +708,7 @@
     <string name="sslErrorHeadline" instruction="Placeholder is domain with certificate issues">Сертификатът за този сайт е невалиден. Възможно е да се свързвате със сървър, който се представя за &lt;b&gt;%1$s&lt;/b&gt;, което може да изложи поверителната Ви информация на риск.</string>
     <string name="sslErrorLeaveCTA">Напускане на този сайт</string>
     <string name="sslErrorAdvancedCTA">Разширени</string>
-    <string name="sslErrorExpandedHeadline">DuckDuckGo Ви предупреждава, когато сертификатът на даден уебсайт е невалиден.</string>
+    <string name="sslErrorExpandedHeadline">Tragogo Ви предупреждава, когато сертификатът на даден уебсайт е невалиден.</string>
     <string name="sslErrorExpandedCTA"><![CDATA[<u>Поемане на риска и отваряне на сайта</u>]]></string>
     <string name="sslErrorExpiredMessage" instruction="Placeholder is domain with certificate issues">Сертификатът за сигурност за %1$s е изтекъл. Възможно е уебсайтът да е конфигуриран грешно, хакер да е компрометирал връзката Ви или системният Ви часовник да е неправилно настроен.</string>
     <string name="sslErrorWrongHostMessage" instruction="Placeholder is domain with certificate issues">Сертификатът за сигурност за %1$s не съответства на *.%2$s. Възможно е уебсайтът да е конфигуриран грешно, хакер да е компрометирал връзката Ви или системният Ви часовник да е неправилно настроен.</string>
@@ -745,7 +745,7 @@
     <string name="highlightsPreOnboardingAddressBarOption2Title">Отдолу</string>
     <string name="highlightsPreOnboardingAddressBarOption2Description">По-лесен достъп</string>
     <string name="onboardingSearchDaxDialogTitle">Опитайте търсене!</string>
-    <string name="onboardingSearchDaxDialogDescription">Търсенето в DuckDuckGo винаги е поверително.</string>
+    <string name="onboardingSearchDaxDialogDescription">Търсенето в Tragogo винаги е поверително.</string>
     <string name="onboardingSearchDaxDialogOption1" instruction="translate &apos;duck&apos; too.">"как се нарича патицата на английски"</string>
     <string name="onboardingSearchDaxDialogOption1English" instruction="translate &apos;duck&apos; too. Don&apos;t add question mark">"как се казва „патица“ на испански"</string>
     <string name="onboardingSearchQueryOption1">как се нарича патицата на английски</string>
@@ -761,8 +761,8 @@
     <string name="onboardingSitesDaxDialogOption2">yahoo.com</string>
     <string name="onboardingSitesDaxDialogOption3">ebay.com</string>
     <string name="onboardingSitesDaxDialogOption4">Изненадайте ме!</string>
-    <string name="onboardingSerpDaxDialogDescription"><![CDATA[Това е <b>DuckDuckGo Search</b>! Поверителен. Бърз. По-малко реклами.]]></string>
-    <string name="onboardingSerpDaxDialogBrandDesignTitle">Това е DuckDuckGo Search!</string>
+    <string name="onboardingSerpDaxDialogDescription"><![CDATA[Това е <b>Tragogo Search</b>! Поверителен. Бърз. По-малко реклами.]]></string>
+    <string name="onboardingSerpDaxDialogBrandDesignTitle">Това е Tragogo Search!</string>
     <string name="onboardingSerpDaxDialogBrandDesignDescription">Поверителен. Бърз. По-малко реклами.</string>
     <string name="onboardingSerpDaxDialogButton">Разбрах!</string>
     <string name="onboardingSitesSuggestionsDaxDialogTitle">Сега опитайте да посетите някой сайт!</string>
@@ -783,7 +783,7 @@
     <string name="onboardingInContextEndDaxDialogDescription">Запомнете: всеки път, когато сърфирате с мен, аз ще подрязвам крилцата на досадните реклами. 👌</string>
     <string name="onboardingEndDaxDialogButton">Дай пет!</string>
     <string name="onboardingPrivacyProDaxDialogTitle">О, преди да забравя…</string>
-    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[DuckDuckGo също предлага <b>опция за платен абонамент</b> със защитена <b>VPN</b> услуга и <b>поверителен чат с усъвършенстван AI</b>.]]></string>
+    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[Tragogo също предлага <b>опция за платен абонамент</b> със защитена <b>VPN</b> услуга и <b>поверителен чат с усъвършенстван AI</b>.]]></string>
     <string name="onboardingPrivacyProDaxDialogOkButton">Научете повече</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButton">Пробвайте безплатно!</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButtonBrandDesign">Пробвайте безплатно!</string>
@@ -798,7 +798,7 @@
 
     <!--Onboarding Reinstall Quick Setup-->
     <string name="preOnboardingReinstallQuickSetupTitle">Добре дошли отново!&lt;br/&gt;Искате ли да персонализирате нещо?</string>
-    <string name="preOnboardingReinstallSetDefaultLabel">Задайте DuckDuckGo по подразбиране</string>
+    <string name="preOnboardingReinstallSetDefaultLabel">Задайте Tragogo по подразбиране</string>
     <string name="preOnboardingReinstallAddHomeScreenWidgetLabel">Добавяне на приспособление на началния екран</string>
     <string name="preOnboardingReinstallAddressBarLabel">Позиция на адресната лента</string>
     <string name="preOnboardingReinstallAddressBarSearchOptionsLabel">Опции за търсене в адресната лента</string>
@@ -830,23 +830,23 @@
     <string name="showOnAppLaunchOptionSpecificPage">Конкретна страница</string>
 
     <!-- Privacy Dashboard -->
-    <string name="brokenSiteSubmittedReportMessage">Благодарим ви! Вашето докладване ни помага да направим DuckDuckGo по-добър за всички!</string>
+    <string name="brokenSiteSubmittedReportMessage">Благодарим ви! Вашето докладване ни помага да направим Tragogo по-добър за всички!</string>
 
     <!--    Default Browser Bottom Sheet Dialog -->
-    <string name="defaultBrowserBottomSheetDialogTitle">Доверете се на DuckDuckGo да защитава повече от нещата, които правите онлайн</string>
-    <string name="defaultBrowserBottomSheetDialogSubTitle">Сменете браузъра си по подразбиране, така че връзките да се отварят в DuckDuckGo.</string>
+    <string name="defaultBrowserBottomSheetDialogTitle">Доверете се на Tragogo да защитава повече от нещата, които правите онлайн</string>
+    <string name="defaultBrowserBottomSheetDialogSubTitle">Сменете браузъра си по подразбиране, така че връзките да се отварят в Tragogo.</string>
     <string name="defaultBrowserBottomSheetDialogGhostButton" instruction="This text appears on a button">Не сега</string>
 
     <!-- Default Browser message -->
-    <string name="newTabPageDefaultBrowserMessageHeading">DuckDuckGo не е браузърът по подразбиране. Осигурете си по-добра защита.</string>
+    <string name="newTabPageDefaultBrowserMessageHeading">Tragogo не е браузърът по подразбиране. Осигурете си по-добра защита.</string>
     <string name="newTabPageDefaultBrowserMessagePrimaryCta" instruction="This text appears on a button">Задаване по подразбиране</string>
     <string name="newTabPageDefaultBrowserMessageSecondaryCta" instruction="This text appears on a button">Не ме питай повече</string>
 
     <!-- Threat protection -->
     <string name="maliciousSiteTitle">Предупреждение: Този сайт може да представлява риск за сигурността</string>
-    <string name="maliciousSiteMalwareHeadline"><![CDATA[DuckDuckGo блокира тази страница, защото тя може да разпространява зловреден софтуер, който да компрометира устройството ви или да открадне личната ви информация.\n<a href=\"\">Научете повече</a>]]></string>
+    <string name="maliciousSiteMalwareHeadline"><![CDATA[Tragogo блокира тази страница, защото тя може да разпространява зловреден софтуер, който да компрометира устройството ви или да открадне личната ви информация.\n<a href=\"\">Научете повече</a>]]></string>
     <string name="maliciousSitePhishingHeadline"><![CDATA[Този уебсайт може да имитира легитимен сайт, за да ви подмами да предоставите лична информация, като например пароли или номера на кредитни карти.\n<a href=\"\">Научете повече</a>]]></string>
-    <string name="maliciousSiteScamHeadline"><![CDATA[DuckDuckGo блокира тази страница, защото тя може да се опитва да Ви измами или манипулира да преведете пари, да купите фалшиви стоки или да инсталирате зловреден софтуер под фалшив претекст.\n<a href=\"\">Научете повече</a>]]></string>
+    <string name="maliciousSiteScamHeadline"><![CDATA[Tragogo блокира тази страница, защото тя може да се опитва да Ви измами или манипулира да преведете пари, да купите фалшиви стоки или да инсталирате зловреден софтуер под фалшив претекст.\n<a href=\"\">Научете повече</a>]]></string>
     <string name="maliciousSiteLeaveCTA">Напускане на този сайт</string>
     <string name="maliciousSiteAdvancedCTA">Разширени</string>
     <string name="maliciousSiteExpandedHeadline"><![CDATA[Ако смятате, че този уебсайт е безопасен, можете да <a href=\"\">съобщите за грешка</a>. Все пак можете да посетите уебсайта на свой собствен риск.]]></string>
@@ -858,7 +858,7 @@
     <string name="maliciousSiteSettingLearnMore"><annotation type="learn_more_link">Научете повече</annotation></string>
     <string name="maliciousSiteSettingDisabled">Деактивирането на тази функция може да изложи информацията Ви на риск.</string>
     <string name="threatProtectionTitle">Защита от заплахи</string>
-    <string name="threatProtectionDescription">Усъвършенстваните защити на DuckDuckGo предотвратяват често срещаните заплахи, като същевременно запазват връзката ви сигурна.</string>
+    <string name="threatProtectionDescription">Усъвършенстваните защити на Tragogo предотвратяват често срещаните заплахи, като същевременно запазват връзката ви сигурна.</string>
     <string name="smarterEncryptionTitle">Smarter Encryption</string>
     <string name="smarterEncryptionDescription"><![CDATA[Автоматично надграждане на връзките до HTTPS, когато е възможно.<a href=\"\">Научете повече</a>]]></string>
     <string name="scamBlockerTitle">Блокиране на измами</string>
@@ -870,7 +870,7 @@
     <string name="experimentHomeScreenWidgetBottomSheetDialogSubTitle">Добавете нашето приспособление за търсене към началния си екран за бърз и лесен достъп.</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogPrimaryButton">Добави приспособлението</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogGhostButton">Не сега</string>
-    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Търсене с DuckDuckGo</string>
+    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Търсене с Tragogo</string>
 
     <!-- Change under remote feature flag: Widget as a Protection -->
     <string name="settingsAddHomeWidgetTitle">Уиджет на началния екран</string>
@@ -892,19 +892,19 @@
 
     <!-- Widgets -->
     <string name="searchOnlyWidgetLabel" instruction="Label for the search-only widget">Само търсене</string>
-    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Стартирай бързо анонимно търсене с DuckDuckGo.</string>
-    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Търси анонимно с DuckDuckGo или попитай Duck.ai. Гласово търсене и Duck.ai са налични, ако са активирани.</string>
+    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Стартирай бързо анонимно търсене с Tragogo.</string>
+    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Търси анонимно с Tragogo или попитай Duck.ai. Гласово търсене и Duck.ai са налични, ако са активирани.</string>
     <string name="searchAndFavoritesWidgetDescription" instruction="Description for the search and favorites widget">Търсете или посещавайте любимите си сайтове анонимно с едно докосване. Гласово търсене и Duck.ai са налични, ако са активирани.</string>
     <string name="duckAiOnlyPinShortcutLabel" instruction="Label for the Duck.ai pinned shortcut. Should be Duck.ai in all languages">Duck.ai</string>
 
     <!-- Sync Restore (onboarding) -->
     <string name="syncRestoreDialogTitle">Да продължим оттам, откъдето спряхте</string>
-    <string name="syncRestoreDialogDescription">Искате да възстановите отметки, пароли и други данни от предишната синхронизация с DuckDuckGo?</string>
+    <string name="syncRestoreDialogDescription">Искате да възстановите отметки, пароли и други данни от предишната синхронизация с Tragogo?</string>
     <string name="syncRestoreDialogPrimaryCta">Възстановяване на моите неща</string>
     <string name="syncRestoreDialogSecondaryCta">Пропускане</string>
 
     <!-- Sync Restore (brand-design onboarding) -->
-    <string name="syncRestoreDialogBrandDesignTitle">Нека продължим оттам, откъдето спряхте в DuckDuckGo.</string>
+    <string name="syncRestoreDialogBrandDesignTitle">Нека продължим оттам, откъдето спряхте в Tragogo.</string>
     <string name="syncRestoreDialogBrandDesignBody1">Запазените отметки, пароли и други са готови.</string>
 
     <!-- PDF download tooltip -->
@@ -953,7 +953,7 @@
     <!-- Pre-onboarding: input demo screen -->
     <string name="preOnboardingInputModeDemoTitleCustomAi">А сега изпробвайте поверителен чат с AI!</string>
     <!-- Pre-onboarding: browser comparison screen -->
-    <string name="preOnboardingDaxDialog2TitleCustomAi">Искате ли да направите DuckDuckGo браузър по подразбиране?</string>
+    <string name="preOnboardingDaxDialog2TitleCustomAi">Искате ли да направите Tragogo браузър по подразбиране?</string>
 
     <!-- Pre-onboarding: widget prompt -->
     <string name="preOnboardingWidgetPromptTitle">Опитайте нашето приспособление за начален екран.</string>
@@ -987,7 +987,7 @@
     <string name="input_screen_user_pref_with_ai_updated">Превключвайте между\nТърсене и Duck.ai</string>
 
     <!-- New Address Bar Picker -->
-    <string name="newAddressBarPickerDuckDuckGo" translatable="false">DuckDuckGo</string>
+    <string name="newAddressBarPickerTragogo" translatable="false">Tragogo</string>
     <string name="newAddressBarPickerConfirm">Потвърждаване</string>
 
     <!-- App feedback -->
@@ -1013,7 +1013,7 @@
     <string name="downloadsCannotOpenFileErrorMessage">Файлът не може да се отвори. Проверете за съвместимо приложение.</string>
 
     <!-- Error pages -->
-    <string name="webViewErrorTitle" instruction="Title shown on the error pages">DuckDuckGo не може да зареди тази страница</string>
+    <string name="webViewErrorTitle" instruction="Title shown on the error pages">Tragogo не може да зареди тази страница</string>
     <string name="webViewErrorNoConnection" instruction="Message shown when the page fails to load because the device has no internet connection">Изглежда, че няма връзка с интернет.</string>
     <string name="webViewErrorBadUrl" instruction="Message shown when the hostname of the website could not be resolved">Не може да бъде намерен сървър с посоченото име на хост.</string>
     <string name="webViewErrorSslProtocol" instruction="Message shown when the website&apos;s SSL certificate is invalid. Placeholder is the website&apos;s address"><![CDATA[Сертификатът за този сървър е невалиден. Възможно е да се свързвате със сървър, който се представя за <b>%1$s</b>, което може да изложи поверителната Ви информация на риск.]]></string>

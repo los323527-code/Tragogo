@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,11 +17,11 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="macos_app">DuckDuckGo aplikacija za Mac</string>
-    <string name="macos_title">Nabavi DuckDuckGo za Mac!</string>
+    <string name="macos_app">Tragogo aplikacija za Mac</string>
+    <string name="macos_title">Nabavi Tragogo za Mac!</string>
 
     <string name="macos_share_title">Podijeli poveznicu</string>
-    <string name="macos_description_text">Aplikacija DuckDuckGo za Mac pruža ti potrebnu brzinu i značajke pretraživanja kakve očekuješ, a isporučuje se s našim najboljim alatima za privatnost u svojoj klasi - privacy essentials.\n\nNa Macu idi na:</string>
+    <string name="macos_description_text">Aplikacija Tragogo za Mac pruža ti potrebnu brzinu i značajke pretraživanja kakve očekuješ, a isporučuje se s našim najboljim alatima za privatnost u svojoj klasi - privacy essentials.\n\nNa Macu idi na:</string>
     <string name="macos_description_link">duckduckgo.com/mac</string>
     <string name="macos_share_text">Jesi li spreman za početak privatnog pretraživanja na Macu?\n\nPosjeti ovaj URL na svom Macu za preuzimanje:\nhttps://duckduckgo.com/mac?origin=funnel_browser_android_settings</string>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Κωδικοί πρόσβασης</string>
     <string name="browserMenuDownloads">Λήψεις</string>
     <string name="browserMenuSettings">Ρυθμίσεις</string>
-    <string name="browserMenuOpenInDDG">Άνοιγμα στο DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">Εκτέλεση στο DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">Άνοιγμα στο Tragogo</string>
+    <string name="browserMenuRunningInDDG">Εκτέλεση στο Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Ορισμός ως προεπιλεγμένο πρόγραμμα περιήγησης</string>
     <string name="browserMenuNewChat">Νέα συνομιλία</string>
     <string name="browserMenuNewAIChat">Νέο AI Chat</string>

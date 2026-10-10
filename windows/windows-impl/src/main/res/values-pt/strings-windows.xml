@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="windows_app">Aplicação DuckDuckGo para Windows</string>
-    <string name="windows_title">Obtém o DuckDuckGo para Windows!</string>
-    <string name="windows_description">O DuckDuckGo tem tudo o que precisas para navegar com mais privacidade — pesquisa privada, bloqueio de rastreadores, encriptação forçada e bloqueio de pop-ups de cookies — e há mais proteções líderes de mercado a caminho.\n\nNo teu computador Windows, acede a:</string>
+    <string name="windows_app">Aplicação Tragogo para Windows</string>
+    <string name="windows_title">Obtém o Tragogo para Windows!</string>
+    <string name="windows_description">O Tragogo tem tudo o que precisas para navegar com mais privacidade — pesquisa privada, bloqueio de rastreadores, encriptação forçada e bloqueio de pop-ups de cookies — e há mais proteções líderes de mercado a caminho.\n\nNo teu computador Windows, acede a:</string>
     <string name="windows_description_link">duckduckgo.com/windows</string>
     <string name="windows_share_title">Partilhar ligação</string>
     <string name="windows_share_text">A postos para começares a navegar em privado no Windows?\n\nAcede a este URL no computador Windows para transferir:\nhttps://duckduckgo.com/windows?origin=funnel_browser_android_settings</string>

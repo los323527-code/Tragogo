@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Проблемы с загрузкой сайтов</string>
     <string name="websiteNotLoadingTitleShort">Проблемы с загрузкой сайтов</string>
     <string name="websiteNotLoadingSubtitle">На каком сайте возникает проблема?</string>
-    <string name="searchNotGoodEnoughTitleLong">Не устраивает поиск в DuckDuckGo</string>
-    <string name="searchNotGoodEnoughTitleShort">Проблемы с поиском DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">Не устраивает поиск в Tragogo</string>
+    <string name="searchNotGoodEnoughTitleShort">Проблемы с поиском Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Какую функцию поиска мы могли бы добавить или улучшить?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Программирование/технический поиск</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Оформление должно быть больше похоже на поиск Google</string>

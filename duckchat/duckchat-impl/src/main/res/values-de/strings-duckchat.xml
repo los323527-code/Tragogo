@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Bild hochladen</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Datei auswählen</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Foto machen</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">DuckDuckGo erlauben, um Zugriff auf die Kamera auf diesem Gerät zu bitten</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Websites können deine Kamera nur verwenden, wenn du DuckDuckGo erlaubst, um Zugriff zu bitten.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tragogo erlauben, um Zugriff auf die Kamera auf diesem Gerät zu bitten</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Websites können deine Kamera nur verwenden, wenn du Tragogo erlaubst, um Zugriff zu bitten.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Einstellungen öffnen</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Abbrechen</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Auf den Audiorekorder konnte nicht zugegriffen werden</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">DuckDuckGo erlauben, um Zugriff auf den Audiorekorder auf diesem Gerät zu bitten</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Websites können deinen Audiorekorder nur verwenden, wenn du DuckDuckGo erlaubst, um Zugriff zu bitten.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tragogo erlauben, um Zugriff auf den Audiorekorder auf diesem Gerät zu bitten</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Websites können deinen Audiorekorder nur verwenden, wenn du Tragogo erlaubst, um Zugriff zu bitten.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">KI-Funktionen</string>
-    <string name="duck_chat_settings_activity_description">Die KI-Funktionen von DuckDuckGo sind privat und optional.\nIhre Daten werden nicht zum Trainieren von KI verwendet.\n<annotation type="learn_more_link">Mehr erfahren</annotation></string>
+    <string name="duck_chat_settings_activity_description">Die KI-Funktionen von Tragogo sind privat und optional.\nIhre Daten werden nicht zum Trainieren von KI verwendet.\n<annotation type="learn_more_link">Mehr erfahren</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Privat mit beliebten KI-Modellen von Drittanbietern chatten</string>
     <string name="duck_chat_visibility_setting">Browsermenü</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Häufig</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">DuckDuckGo ohne KI verwenden</string>
+    <string name="duckAiUseWithoutAiTitle">Tragogo ohne KI verwenden</string>
     <string name="duckAiUseWithoutAiDescription">Deaktiviert Duck.ai, verbirgt KI-gestützte Antworten in der Suche und filtert bekannte KI-Spam-Websites in den Ergebnissen der Bildsuche.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">KI ist im Browser derzeit deaktiviert, sodass dir keine KI-gestützten Antworten mehr angezeigt werden und du in den Bildersuchergebnissen weniger von der KI generierte Bilder siehst.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Chat konnte nicht exportiert werden</string>
     <string name="duck_ai_chat_history_bulk_download_error">Chats konnten nicht exportiert werden</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Mit DuckDuckGo suchen</string>
+    <string name="duckAiChatSearchTragogo">Mit Tragogo suchen</string>
     <string name="native_input_chat_hint">Alles privat fragen …</string>
     <string name="native_input_chat_duck_mode_hint">Antworten …</string>
 

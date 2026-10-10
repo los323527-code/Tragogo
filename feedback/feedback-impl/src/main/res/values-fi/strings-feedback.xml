@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Verkkosivustojen latausongelmat</string>
     <string name="websiteNotLoadingTitleShort">Verkkosivustojen latausongelmat</string>
     <string name="websiteNotLoadingSubtitle">Mikä verkkosivusto on viallinen?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo-haku ei ole riittävän hyvä</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo-hakuongelmat</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo-haku ei ole riittävän hyvä</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo-hakuongelmat</string>
     <string name="searchNotGoodEnoughSubtitle">Mitä hakuominaisuuksia voimme lisätä tai parantaa?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Ohjelmointi-/tekninen haku</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Ulkoasun pitäisi muistuttaa enemmän Googlea</string>

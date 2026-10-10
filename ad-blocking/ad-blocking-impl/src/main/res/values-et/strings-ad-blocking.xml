@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">YouTube\'i reklaamide blokeerimine</string>
     <string name="ad_blocking_settings_toggle_title">Reklaamide blokeerimine YouTube\'is</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokeerib YouTube\'is videoreklaamid, nii et saad videoid katkestusteta vaadata. \n\nKui DuckDuckGo on sisse lülitatud, tuvastab see anonüümselt reklaamiblokeerimise häireid või YouTube\'i vigu, et parandada kõigi kasutuskogemust. DuckDuckGo ei näe kunagi, milliseid videoid sa vaatad, ega mingeid isikuandmeid. <annotation type="learn_more_link">Lisateave</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokeerib YouTube\'is videoreklaamid, nii et saad videoid katkestusteta vaadata. <annotation type="learn_more_link">Lisateave</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokeerib YouTube\'is videoreklaamid, nii et saad videoid katkestusteta vaadata. \n\nKui Tragogo on sisse lülitatud, tuvastab see anonüümselt reklaamiblokeerimise häireid või YouTube\'i vigu, et parandada kõigi kasutuskogemust. Tragogo ei näe kunagi, milliseid videoid sa vaatad, ega mingeid isikuandmeid. <annotation type="learn_more_link">Lisateave</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokeerib YouTube\'is videoreklaamid, nii et saad videoid katkestusteta vaadata. <annotation type="learn_more_link">Lisateave</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Avab videod segajatevabas kinorežiimis, mis hoiab ära selle, et vaadatav sisu mõjutaks sinu YouTube’i voogu.</string>
     <string name="ad_blocking_settings_title_v2">Reklaamide blokeerimine</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Inaktiveeri kuni taaskäivitamiseni</string>
     <string name="ad_blocking_menu_always_off">Alati välja lülitatud</string>
     <string name="ad_blocking_disabled_popup_title">YouTube\'i reklaamiblokeerija ei tööta?</string>
-    <string name="ad_blocking_disabled_popup_description">Saada DuckDuckGo-le anonüümne aruanne ja aita muuta reklaamide blokeerimine kõigi jaoks paremaks!</string>
+    <string name="ad_blocking_disabled_popup_description">Saada Tragogo-le anonüümne aruanne ja aita muuta reklaamide blokeerimine kõigi jaoks paremaks!</string>
     <string name="ad_blocking_disabled_primary_action">Saada rikketeade</string>
     <string name="ad_blocking_disabled_secondary_action">Tühista</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Inaktiveeritud kuni taaskäivitamiseni</string>

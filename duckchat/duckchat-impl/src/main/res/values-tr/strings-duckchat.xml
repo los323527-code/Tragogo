@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Bir resim yükle</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Dosya Seç</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Fotoğraf Çek</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">DuckDuckGo\'nun bu cihazda kamera erişimi istemesine izin ver</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Siteler kameranızı yalnızca DuckDuckGo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tragogo\'nun bu cihazda kamera erişimi istemesine izin ver</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Siteler kameranızı yalnızca Tragogo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Ayarları Aç</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Vazgeç</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Ses kaydediciye erişilemedi</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">DuckDuckGo\'nun bu cihazda ses kaydedici erişimi istemesine izin ver</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Siteler, ses kaydediciyi yalnızca DuckDuckGo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tragogo\'nun bu cihazda ses kaydedici erişimi istemesine izin ver</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Siteler, ses kaydediciyi yalnızca Tragogo\'nun erişim istemesine izin verirseniz kullanabilir.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI Özellikleri</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGo AI özellikleri gizli ve isteğe bağlıdır.\nVerileriniz yapay zekayı eğitmek için kullanılmaz.\n<annotation type="learn_more_link">Daha Fazla Bilgi</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogo AI özellikleri gizli ve isteğe bağlıdır.\nVerileriniz yapay zekayı eğitmek için kullanılmaz.\n<annotation type="learn_more_link">Daha Fazla Bilgi</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Popüler 3. taraf AI modelleriyle gizli sohbet et</string>
     <string name="duck_chat_visibility_setting">Tarayıcı menüsü</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Sıklıkla</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">DuckDuckGo\'yu AI Olmadan Kullanın</string>
+    <string name="duckAiUseWithoutAiTitle">Tragogo\'yu AI Olmadan Kullanın</string>
     <string name="duckAiUseWithoutAiDescription">Duck.ai\'yi devre dışı bırakır, aramalarda yapay zeka destekli yanıtları gizler ve görsel arama sonuçlarında bilinen yapay zeka spam sitelerini filtreler.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Tarayıcıda yapay zeka şimdilik devre dışı bırakıldı. Bu nedenle artık yapay zeka destekli yanıtları göremeyecek ve görsel arama sonuçlarında yapay zeka tarafından oluşturulmuş daha az görsel göreceksiniz.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Sohbet dışa aktarılamadı</string>
     <string name="duck_ai_chat_history_bulk_download_error">Sohbetler dışa aktarılamadı</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">DuckDuckGo\'da Ara</string>
+    <string name="duckAiChatSearchTragogo">Tragogo\'da Ara</string>
     <string name="native_input_chat_hint">Gizli bir şekilde her şeyi sorabilirsiniz…</string>
     <string name="native_input_chat_duck_mode_hint">Yanıtla…</string>
 

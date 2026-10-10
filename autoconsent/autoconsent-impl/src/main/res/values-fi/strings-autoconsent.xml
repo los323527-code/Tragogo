@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,11 +18,11 @@
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="autoconsentTitle">Evästeiden ponnahdusikkuna -suojaus</string>
-    <string name="autoconsentDescription"><![CDATA[DuckDuckGo yrittää valita valittavissa olevista asetuksista yksityisimmät ja piilottaa nämä ponnahdusikkunat puolestasi.\n<a href=\"\">Lue lisää</a>]]></string>
-    <string name="autoconsentToggle">Anna DuckDuckGo hoitaa evästeiden ponnahdusikkunat</string>
+    <string name="autoconsentDescription"><![CDATA[Tragogo yrittää valita valittavissa olevista asetuksista yksityisimmät ja piilottaa nämä ponnahdusikkunat puolestasi.\n<a href=\"\">Lue lisää</a>]]></string>
+    <string name="autoconsentToggle">Anna Tragogo hoitaa evästeiden ponnahdusikkunat</string>
     <string name="autoconsentAutoManageToggle">Hylkää valinnaiset evästeet</string>
     <string name="autoconsentAutoManageDescription">Pyrimme hylkäämään puolestasi mahdollisimman monta evästettä ja sulkemaan sitten ponnahdusikkunat.</string>
-    <string name="autoconsentCookiePopUpPreferenceHeaderDescription"><![CDATA[DuckDuckGo voi hallinnoida evästeponnahdusikkunoita automaattisesti yksityisyyden maksimoimiseksi ja evästeiden minimoimiseksi ennen kuin edes näet niitä.\n<a href=\"\">Lue lisää</a>]]></string>
+    <string name="autoconsentCookiePopUpPreferenceHeaderDescription"><![CDATA[Tragogo voi hallinnoida evästeponnahdusikkunoita automaattisesti yksityisyyden maksimoimiseksi ja evästeiden minimoimiseksi ennen kuin edes näet niitä.\n<a href=\"\">Lue lisää</a>]]></string>
     <string name="autoconsentPopUpsWithoutOptOutsToggle">Hyväksy evästeet, joita ei voi hylätä</string>
     <string name="autoconsentPopUpsWithoutOptOutsDescription">Jos hylkäämisvaihtoehtoa ei ole, säästämme sinulta yhden klikkauksen, hyväksymme nämä evästeet puolestasi ja suljemme ponnahdusikkunat.</string>
     <string name="autoconsentPromptTitle">Oletko kyllästynyt evästeiden ponnahdusikkunoihin?</string>

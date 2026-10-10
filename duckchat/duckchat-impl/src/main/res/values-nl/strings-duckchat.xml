@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Upload een afbeelding</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Bestand kiezen</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Foto maken</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">DuckDuckGo toestaan om toegang tot de camera op dit apparaat te vragen</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Sites kunnen je camera alleen gebruiken als je DuckDuckGo toestaat om toegang te vragen.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tragogo toestaan om toegang tot de camera op dit apparaat te vragen</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Sites kunnen je camera alleen gebruiken als je Tragogo toestaat om toegang te vragen.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Open Instellingen</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Annuleren</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Kan geen toegang krijgen tot de geluidsrecorder</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">DuckDuckGo toestaan om toegang tot de geluidsrecorder op dit apparaat te vragen</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sites kunnen de geluidsrecorder alleen gebruiken als je DuckDuckGo toestaat om toegang te vragen.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tragogo toestaan om toegang tot de geluidsrecorder op dit apparaat te vragen</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Sites kunnen de geluidsrecorder alleen gebruiken als je Tragogo toestaat om toegang te vragen.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI-functies</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGo AI-functies zijn privé en optioneel.\nJe gegevens worden niet gebruikt om AI te trainen.\n<annotation type="learn_more_link">Meer informatie</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogo AI-functies zijn privé en optioneel.\nJe gegevens worden niet gebruikt om AI te trainen.\n<annotation type="learn_more_link">Meer informatie</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Chat privé met populaire AI-modellen van derden</string>
     <string name="duck_chat_visibility_setting">Browsermenu</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Vaak</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">DuckDuckGo zonder AI gebruiken</string>
+    <string name="duckAiUseWithoutAiTitle">Tragogo zonder AI gebruiken</string>
     <string name="duckAiUseWithoutAiDescription">Hiermee schakel je Duck.ai uit, verberg je antwoorden op basis van AI in zoekresultaten en filter je bekende AI-spamsites in zoekresultaten voor afbeeldingen.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI is momenteel uitgeschakeld in de browser, dus je ziet geen antwoorden op basis van AI meer en minder door AI gegenereerde afbeeldingen in de zoekresultaten voor afbeeldingen.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Kan chat niet exporteren</string>
     <string name="duck_ai_chat_history_bulk_download_error">Kan chats niet exporteren</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Zoek in DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Zoek in Tragogo</string>
     <string name="native_input_chat_hint">Vraag iets privé…</string>
     <string name="native_input_chat_duck_mode_hint">Antwoord…</string>
 

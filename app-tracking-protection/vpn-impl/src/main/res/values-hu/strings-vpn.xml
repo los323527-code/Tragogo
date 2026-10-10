@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Minden alkalmazás</string>
     <string name="atp_ExcludedAppsFeature">Az alkalmazáskövetés elleni védelem felismeri és blokkolja más cégek alkalmazáskövetőit, például amikor a Facebook megpróbál nyomon követni egy egészségügyi alkalmazásban. A cégek továbbra is követhetnek a saját alkalmazásaikban.\n\nHa egy alkalmazás nem a várt módon működik, próbáld meg kikapcsolni a védelmet az adott alkalmazásnál.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">A DuckDuckGo kikapcsolhatja a védelmet egyes alkalmazásoknál az ismert tartalombetöltési problémák megoldása érdekében. Az egyéni beállításaid csak akkor változnak, ha visszaállítod az alapértelmezett beállításokat.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">A Tragogo kikapcsolhatja a védelmet egyes alkalmazásoknál az ismert tartalombetöltési problémák megoldása érdekében. Az egyéni beállításaid csak akkor változnak, ha visszaállítod az alapértelmezett beállításokat.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>Az alkalmazáskövetés elleni védelem ki van kapcsolva</b> Okozott problémát az alkalmazáskövetés elleni védelem az alkalmazásaidban? <annotation type="report_issues_link">Problémák jelentése</annotation></string>
     <string name="atp_ExcludedAppsReport">Másik alkalmazással kapcsolatos probléma jelentése</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Manuálisan kikapcsolva</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Manuálisan bekapcsolva</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Mégsem</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Visszaállítás</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">A védelem bekapcsolása elküldi az alkalmazás nevét a DuckDuckGo részére.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">A védelem bekapcsolása elküldi az alkalmazás nevét a Tragogo részére.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Leállt az elvárt módon történő működés</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Elfogadom, hogy nyomon követnek ebben az alkalmazásban</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Más okból</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Visszaállítod az alapértelmezett védelmet?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Az egyéni védelmi beállításaid frissülnek a legújabb alapértelmezett védelemre. A védelmi beállításokat később bármikor módosíthatod.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">A védelem visszaállt az alapértelmezett beállításokra</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">A védelem bekapcsolása elküldi az alkalmazás nevét a DuckDuckGo részére.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">A védelem bekapcsolása elküldi az alkalmazás nevét a Tragogo részére.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Probléma jelentése</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Következő</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Írd le, mi történik, mire számítottál, és milyen lépések vezettek a problémához.</string>
     <string name="atp_ReportBreakageFormInputHint">Mondj el többet a tapasztalt problémáról</string>
-    <string name="atp_ReportBreakageFormCheckboxText">A „Beküldés” gombra kattintva elfogadom, hogy a DuckDuckGo az alkalmazás funkcióinak javítása céljából felhasználhatja a jelentésben szereplő adatokat.
+    <string name="atp_ReportBreakageFormCheckboxText">A „Beküldés” gombra kattintva elfogadom, hogy a Tragogo az alkalmazás funkcióinak javítása céljából felhasználhatja a jelentésben szereplő adatokat.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Az ezen űrlapon megadott adatokon kívül az alkalmazással kapcsolatos problémajelentésed tartalmazza a következőket:<br/>• Az alkalmazáscsomag neve<br/>• Az alkalmazásban blokkolt nyomkövetők listája<br/>• Bizonyos DuckDuckGo-funkciók be vannak-e kapcsolva<br/>• A DuckDuckGo összesített alkalmazásdiagnosztikája<br/>]]>
+        <![CDATA[Az ezen űrlapon megadott adatokon kívül az alkalmazással kapcsolatos problémajelentésed tartalmazza a következőket:<br/>• Az alkalmazáscsomag neve<br/>• Az alkalmazásban blokkolt nyomkövetők listája<br/>• Bizonyos Tragogo-funkciók be vannak-e kapcsolva<br/>• A Tragogo összesített alkalmazásdiagnosztikája<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Jelentés elküldve, köszönjük! A visszajelzésed segítenek nekünk, hogy mindenki számára javítsuk az alkalmazáskövetés elleni védelmet.</string>
     <string name="atp_ThanksForTheFeedback">Köszönjük a visszajelzést!</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Az alkalmazáskövetőkről</string>
     <string name="atp_ProfilingInfoTitle">Mik az alkalmazáskövetők?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Valószínűleg hallottál már arról, hogy olyan cégek, mint a Google és a Facebook a háttérben, harmadik felek weboldalain követnek téged. De tudtad, hogy a személyes adataidat is nyomon követik a készülékeden lévő alkalmazásokon keresztül?\n\n<b>Leteszteltünk 100 népszerű ingyenes androidos alkalmazást, és több mint 96\\%-uk</b> tartalmazott rejtett, harmadik féltől származó nyomkövetőket. Ezek 87\\%-a küldött adatokat a Google-nak és 68\\%-a a Facebooknak. Ez akkor is megtörténik, ha éppen nem használod a készüléket.\n\n<b>Az alkalmazásokban lévő nyomkövetők sokkal több információhoz férhetnek hozzá,</b> mint a webhelykövető társaik, például a tartózkodási helyedhez, akár az épület emeletének megállapításával, vagy ahhoz, hogy a munkahelyeden milyen gyakran játszol, és naponta mikor, mennyi ideig alszol. <b>Még ha például nincs is Google- vagy Facebook-fiókod, akkor is gyűjthetnek rólad adatokat az alkalmazásaidon keresztül.</b>\n\nAz nyomkövető hálózatok, mint a Facebook és a Google, ezeket az apró információmorzsákat <b>arra használják, hogy digitális profilt készítsenek rólad.</b> Ezzel a nyomkövető hálózatok manipulálhatják, hogy mit látsz az interneten, és lehetővé teszik a hirdetők számára, hogy az adataid alapján árajánlatot tegyenek az elérésedre.\n\nAz alkalmazásokban lévő nyomkövetők NAGY problémát jelentenek az adatvédelem szempontjából. <b>De a DuckDuckGónak van egy megoldása, amely segíthet.</b>\n\nHa a DuckDuckGo Privacy Browser alkalmazásban engedélyezve van, akkor az alkalmazáskövetés elleni védelem számos nyomkövetőt blokkol a készülékeden lévő alkalmazásokban, miközben DuckDuckGo alkalmazás blokkolja a weboldalakon található nyomkövetőket, amikor böngészel. <b>Ez a kettős védelemmel a nyomkövető cégek összességében kevesebbet fognak tudni rólad</b>, így nagyobb nyugalommal használhatod az alkalmazásokat, tudva, hogy nagyobb védelemben részesülsz.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Valószínűleg hallottál már arról, hogy olyan cégek, mint a Google és a Facebook a háttérben, harmadik felek weboldalain követnek téged. De tudtad, hogy a személyes adataidat is nyomon követik a készülékeden lévő alkalmazásokon keresztül?\n\n<b>Leteszteltünk 100 népszerű ingyenes androidos alkalmazást, és több mint 96\\%-uk</b> tartalmazott rejtett, harmadik féltől származó nyomkövetőket. Ezek 87\\%-a küldött adatokat a Google-nak és 68\\%-a a Facebooknak. Ez akkor is megtörténik, ha éppen nem használod a készüléket.\n\n<b>Az alkalmazásokban lévő nyomkövetők sokkal több információhoz férhetnek hozzá,</b> mint a webhelykövető társaik, például a tartózkodási helyedhez, akár az épület emeletének megállapításával, vagy ahhoz, hogy a munkahelyeden milyen gyakran játszol, és naponta mikor, mennyi ideig alszol. <b>Még ha például nincs is Google- vagy Facebook-fiókod, akkor is gyűjthetnek rólad adatokat az alkalmazásaidon keresztül.</b>\n\nAz nyomkövető hálózatok, mint a Facebook és a Google, ezeket az apró információmorzsákat <b>arra használják, hogy digitális profilt készítsenek rólad.</b> Ezzel a nyomkövető hálózatok manipulálhatják, hogy mit látsz az interneten, és lehetővé teszik a hirdetők számára, hogy az adataid alapján árajánlatot tegyenek az elérésedre.\n\nAz alkalmazásokban lévő nyomkövetők NAGY problémát jelentenek az adatvédelem szempontjából. <b>De a DuckDuckGónak van egy megoldása, amely segíthet.</b>\n\nHa a Tragogo Privacy Browser alkalmazásban engedélyezve van, akkor az alkalmazáskövetés elleni védelem számos nyomkövetőt blokkol a készülékeden lévő alkalmazásokban, miközben Tragogo alkalmazás blokkolja a weboldalakon található nyomkövetőket, amikor böngészel. <b>Ez a kettős védelemmel a nyomkövető cégek összességében kevesebbet fognak tudni rólad</b>, így nagyobb nyugalommal használhatod az alkalmazásokat, tudva, hogy nagyobb védelemben részesülsz.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Az elmúlt 7 nap</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">További információ</string>
     <string name="atp_ActivityManage">Kezelés</string>
     <string name="atp_ActivityRemoveFeature">Kikapcsolás és adatok törlése</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">A DuckDuckGo blokkolja a rejtett nyomkövetőket az alkalmazásokban.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">A Tragogo blokkolja a rejtett nyomkövetőket az alkalmazásokban.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Engedélyezd újra az App Tracking Protection funkciót, hogy továbbra is blokkold a nyomkövetőket az alkalmazásokban.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">A DuckDuckGo %1$s blokkolta</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">A DuckDuckGo %1$s-i dátummal blokkolta</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">A Tragogo %1$s blokkolta</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">A Tragogo %1$s-i dátummal blokkolta</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">GYIK</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d kísérlet. A következőket gyűjti:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">A DuckDuckGo %1$d nyomkövetési kísérletet blokkolt</item>
-        <item quantity="other" instruction="Placeholder is a number">A DuckDuckGo %1$d nyomkövetési kísérletet blokkolt</item>
+        <item quantity="one" instruction="Placeholder is a number">A Tragogo %1$d nyomkövetési kísérletet blokkolt</item>
+        <item quantity="other" instruction="Placeholder is a number">A Tragogo %1$d nyomkövetési kísérletet blokkolt</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Az alkalmazással kapcsolatos probléma bejelentése</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">További %1$d megjelenítése</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Lépj a Beállítások menübe</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Most nem</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[A készüléken lépj a DuckDuckGo VPN-beállításai lehetőségre, és engedélyezd a <b>Mindig bekapcsolt</b> VPN-t, hogy az Android ne kapcsolja ki a védelmet.\n\nA másik beállítást hagyd kikapcsolva.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Az alkalmazással kapcsolatos problémák elkerülése érdekében a készüléken lépj a <b>DuckDuckGo VPN-beállításai</b> lehetőségre, és tiltsd le a <b>A VPN nélküli kapcsolatok blokkolása</b> funkciót.]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[A készüléken lépj a Tragogo VPN-beállításai lehetőségre, és engedélyezd a <b>Mindig bekapcsolt</b> VPN-t, hogy az Android ne kapcsolja ki a védelmet.\n\nA másik beállítást hagyd kikapcsolva.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Az alkalmazással kapcsolatos problémák elkerülése érdekében a készüléken lépj a <b>Tragogo VPN-beállításai</b> lehetőségre, és tiltsd le a <b>A VPN nélküli kapcsolatok blokkolása</b> funkciót.]]></string>
     <string name="atp_AlwaysOnModalHeading">Mindig bekapcsolva</string>
     <string name="atp_AlwaysOnLockdownModalHeading">A VPN beállítások módosítása</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Beavatkozás szükséges!</b> Az alkalmazással kapcsolatos problémák elkerülése érdekében módosítanod kell az Android beállításait. <annotation type="open_settings_link">Beállítások módosítása</annotation></string>
@@ -422,12 +422,12 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Az értesítési fiókodban tájékoztatunk a blokkolt nyomkövetési kísérletekről.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Nem tudod használni az App Tracking Protection funkciót a VPN-ed miatt? Válts a DuckDuckGo VPN-re – az egyetlen VPN, amely kompatibilis vele. <annotation type="ppro_upsell_link">További információk</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nem tudod használni az App Tracking Protection funkciót a VPN-ed miatt? Válts a DuckDuckGo VPN-re – az egyetlen VPN, amely kompatibilis vele. <annotation type="ppro_upsell_link">Próbáld ki ingyen!</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>Az App Tracking Protection ki van kapcsolva</b>\nA VPN-ed kikapcsolta az App Tracking Protectiont? Az újbóli engedélyezéshez használd a fenti váltógombot.\n\nSzerezd be a DuckDuckGo VPN-t – az egyetlen VPN, amely működik az App Tracking Protection funkcióval. <annotation type="ppro_upsell_link">További információk</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Az App Tracking Protection ki van kapcsolva</b>\nA VPN-ed kikapcsolta az App Tracking Protectiont? Az újbóli engedélyezéshez használd a fenti váltógombot.\n\nVálts a DuckDuckGo VPN-re – az egyetlen VPN, amely működik az App Tracking Protection funkcióval. <annotation type="ppro_upsell_link">Próbáld ki ingyen!</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled">Nem tudod használni az App Tracking Protection funkciót a VPN-ed miatt? Válts a Tragogo VPN-re – az egyetlen VPN, amely kompatibilis vele. <annotation type="ppro_upsell_link">További információk</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nem tudod használni az App Tracking Protection funkciót a VPN-ed miatt? Válts a Tragogo VPN-re – az egyetlen VPN, amely kompatibilis vele. <annotation type="ppro_upsell_link">Próbáld ki ingyen!</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>Az App Tracking Protection ki van kapcsolva</b>\nA VPN-ed kikapcsolta az App Tracking Protectiont? Az újbóli engedélyezéshez használd a fenti váltógombot.\n\nSzerezd be a Tragogo VPN-t – az egyetlen VPN, amely működik az App Tracking Protection funkcióval. <annotation type="ppro_upsell_link">További információk</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Az App Tracking Protection ki van kapcsolva</b>\nA VPN-ed kikapcsolta az App Tracking Protectiont? Az újbóli engedélyezéshez használd a fenti váltógombot.\n\nVálts a Tragogo VPN-re – az egyetlen VPN, amely működik az App Tracking Protection funkcióval. <annotation type="ppro_upsell_link">Próbáld ki ingyen!</annotation></string>
     <string name="apptp_PproUpsellBannerTitle">Magasabb szintű adatvédelem</string>
-    <string name="apptp_PproUpsellBannerMessage">A DuckDuckGo VPN az egyetlen, amely kompatibilis az App Tracking Protectionnel. Aktiváld a fizetős Privacy Pro-előfizetéssel.</string>
+    <string name="apptp_PproUpsellBannerMessage">A Tragogo VPN az egyetlen, amely kompatibilis az App Tracking Protectionnel. Aktiváld a fizetős Privacy Pro-előfizetéssel.</string>
     <string name="apptp_PproUpsellBannerAction">További részletek</string>
     <string name="apptp_PproUpsellBannerMessage_freeTrial">Fizess elő a DuckDuckGóra, és szerezd meg az egyetlen VPN-t, amely kompatibilis az App Tracking Protection funkcióval.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Próbáld ki ingyen!</string>

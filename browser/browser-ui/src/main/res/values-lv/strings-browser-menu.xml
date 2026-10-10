@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Paroles</string>
     <string name="browserMenuDownloads">Lejupielādes</string>
     <string name="browserMenuSettings">Iestatījumi</string>
-    <string name="browserMenuOpenInDDG">Atvērt vietnē DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">Darbojas programmā DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">Atvērt vietnē Tragogo</string>
+    <string name="browserMenuRunningInDDG">Darbojas programmā Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Iestatīt kā noklusējuma pārlūku</string>
     <string name="browserMenuNewChat">Jauna tērzēšanas saruna</string>
     <string name="browserMenuNewAIChat">Jauns MI tērzēšanas rīks</string>

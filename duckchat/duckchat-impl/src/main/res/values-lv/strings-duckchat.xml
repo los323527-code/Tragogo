@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Augšupielādēt attēlu</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Izvēlēties failu</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Uzņemt foto</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Atļaut DuckDuckGo pieprasīt piekļuvi kamerai šajā ierīcē</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Vietnes var izmantot tavu kameru tikai tad, ja tu atļauj DuckDuckGo prasīt piekļuvi.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Atļaut Tragogo pieprasīt piekļuvi kamerai šajā ierīcē</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Vietnes var izmantot tavu kameru tikai tad, ja tu atļauj Tragogo prasīt piekļuvi.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Atvērt iestatījumus</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Atcelt</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Nevar piekļūt skaņas ierakstītājam</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Atļaut DuckDuckGo pieprasīt piekļuvi skaņas ierakstītājam šajā ierīcē</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Vietnes var izmantot skaņas ierakstītāju tikai tad, ja tu atļauj DuckDuckGo prasīt piekļuvi.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Atļaut Tragogo pieprasīt piekļuvi skaņas ierakstītājam šajā ierīcē</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Vietnes var izmantot skaņas ierakstītāju tikai tad, ja tu atļauj Tragogo prasīt piekļuvi.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Mākslīgā intelekta funkcijas</string>
-    <string name="duck_chat_settings_activity_description">DuckDuckGo MI funkcijas ir privātas un nav obligātas.Tavi dati netiek izmantoti mākslīgā intelekta apmācībai.\n<annotation type="learn_more_link">Uzzini vairāk</annotation></string>
+    <string name="duck_chat_settings_activity_description">Tragogo MI funkcijas ir privātas un nav obligātas.Tavi dati netiek izmantoti mākslīgā intelekta apmācībai.\n<annotation type="learn_more_link">Uzzini vairāk</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Privāti tērzē ar populāriem trešo personu mākslīgā intelekta modeļiem</string>
     <string name="duck_chat_visibility_setting">Pārlūka izvēlne</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Bieži</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Lieto DuckDuckGo bez MI</string>
+    <string name="duckAiUseWithoutAiTitle">Lieto Tragogo bez MI</string>
     <string name="duckAiUseWithoutAiDescription">Atspējo Duck.ai, paslēpj mākslīgā intelekta atbildes meklēšanā un filtrē zināmas MI spama vietnes attēlu meklēšanas rezultātos.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Mākslīgais intelekts (MI) pašlaik pārlūkā ir atspējots, tāpēc vairs neredzēsi MI atbildes un attēlu meklēšanas rezultātos redzēsi mazāk ar MI ģenerētu attēlu.</string>
 
@@ -276,7 +276,7 @@
     <string name="duck_ai_chat_history_download_error">Nevarēja eksportēt tērzēšanu</string>
     <string name="duck_ai_chat_history_bulk_download_error">Neizdevās eksportēt tērzēšanas</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Meklēt DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Meklēt Tragogo</string>
     <string name="native_input_chat_hint">Jautā jebko privāti…</string>
     <string name="native_input_chat_duck_mode_hint">Atbildēt…</string>
 

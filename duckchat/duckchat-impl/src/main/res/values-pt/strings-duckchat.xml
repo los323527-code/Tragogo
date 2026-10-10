@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Carrega uma imagem</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Escolher ficheiro</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Tirar fotografia</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Permitir que o DuckDuckGo peça acesso à câmara neste dispositivo</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Os sites só podem utilizar a tua câmara se autorizares o DuckDuckGo a pedir acesso.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Permitir que o Tragogo peça acesso à câmara neste dispositivo</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Os sites só podem utilizar a tua câmara se autorizares o Tragogo a pedir acesso.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Abrir Definições</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Cancelar</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Não foi possível aceder ao gravador de som</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Permitir que o DuckDuckGo peça acesso ao gravador de som neste dispositivo</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Os sites só podem utilizar o gravador de som se autorizares o DuckDuckGo a pedir acesso.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Permitir que o Tragogo peça acesso ao gravador de som neste dispositivo</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Os sites só podem utilizar o gravador de som se autorizares o Tragogo a pedir acesso.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">Funcionalidades de IA</string>
-    <string name="duck_chat_settings_activity_description">As funcionalidades de IA do DuckDuckGo são privadas e opcionais.Os teus dados não são utilizados para treinar a IA.\n<annotation type="learn_more_link">Sabe mais</annotation></string>
+    <string name="duck_chat_settings_activity_description">As funcionalidades de IA do Tragogo são privadas e opcionais.Os teus dados não são utilizados para treinar a IA.\n<annotation type="learn_more_link">Sabe mais</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Conversa em privado com modelos de IA populares de terceiros</string>
     <string name="duck_chat_visibility_setting">Menu do navegador</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Frequentemente</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Usar o DuckDuckGo sem IA</string>
+    <string name="duckAiUseWithoutAiTitle">Usar o Tragogo sem IA</string>
     <string name="duckAiUseWithoutAiDescription">Desativa o Duck.ai, esconde as respostas assistidas por IA nos resultados de pesquisa e filtra os sites conhecidos de spam gerado por IA nos resultados da pesquisa de imagens.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">A IA está atualmente desativada no navegador, pelo que deixarás de ver respostas assistidas por IA e verás menos imagens geradas por IA nos resultados de pesquisa de imagens.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Não foi possível exportar a conversa</string>
     <string name="duck_ai_chat_history_bulk_download_error">Não foi possível exportar as conversas</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Pesquisar no DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Pesquisar no Tragogo</string>
     <string name="native_input_chat_hint">Pergunta o que quiseres em privado…</string>
     <string name="native_input_chat_duck_mode_hint">Responder…</string>
 

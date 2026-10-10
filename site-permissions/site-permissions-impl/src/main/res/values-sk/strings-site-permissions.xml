@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Zapamätať si moju voľbu</string>
     <string name="preciseLocationDDGDialogSubtitle">Používame vašu anonymnú polohu len na to, aby sme vám mohli ponúknuť lepšie výsledky, ktoré sú bližšie k vám. Povolenia na prístup k polohe, ktoré ste udelili jednotlivým webovým stránkam, môžete spravovať v Nastaveniach.</string>
     <string name="preciseLocationSiteDialogSubtitle">Povolenia na prístup k polohe, ktoré ste udelili jednotlivým webovým stránkam, môžete spravovať v Nastaveniach.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Povoliť aplikácii DuckDuckGo žiadať o prístup k polohe v tomto zariadení</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Lokality môžu používať tvoju polohu len vtedy, ak povolíš aplikácii DuckDuckGo žiadať o prístup k nej.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Povoliť aplikácii DuckDuckGo žiadať o prístup k polohe</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Povoliť aplikácii Tragogo žiadať o prístup k polohe v tomto zariadení</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Lokality môžu používať tvoju polohu len vtedy, ak povolíš aplikácii Tragogo žiadať o prístup k nej.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Povoliť aplikácii Tragogo žiadať o prístup k polohe</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Oprávnenia na lokalitu</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Spravujte udelené povolenia v nastaveniach</string>
     <string name="sitePermissionsDialogDenyButton">Odmietnuť</string>
     <string name="sitePermissionsDialogAllowButton">Povoliť</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Povoliť aplikácii DuckDuckGo žiadať o prístup k fotoaparátu a mikrofónu</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Povoliť aplikácii DuckDuckGo žiadať o prístup k fotoaparátu</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Povoliť aplikácii DuckDuckGo žiadať o prístup k mikrofónu</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Povoliť aplikácii Tragogo žiadať o prístup k fotoaparátu a mikrofónu</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Povoliť aplikácii Tragogo žiadať o prístup k fotoaparátu</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Povoliť aplikácii Tragogo žiadať o prístup k mikrofónu</string>
     <string name="sitePermissionsDeniedSnackBarAction">Povoliť</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Povoliť aplikácii DuckDuckGo žiadať o prístup k fotoaparátu v tomto zariadení</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Lokality môžu používať váš fotoaparát len vtedy, ak povolíte aplikácii DuckDuckGo žiadať o prístup.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Povoliť aplikácii DuckDuckGo žiadať o prístup k mikrofónu v tomto zariadení</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Lokality môžu používať váš mikrofón len vtedy, ak povolíte aplikácii DuckDuckGo žiadať o prístup.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Povoliť aplikácii DuckDuckGo žiadať o prístup k fotoaparátu a mikrofónu v tomto zariadení</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Lokality môžu používať váš fotoaparát a mikrofón len vtedy, ak povolíte aplikácii DuckDuckGo žiadať o prístup.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Povoliť aplikácii Tragogo žiadať o prístup k fotoaparátu v tomto zariadení</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Lokality môžu používať váš fotoaparát len vtedy, ak povolíte aplikácii Tragogo žiadať o prístup.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Povoliť aplikácii Tragogo žiadať o prístup k mikrofónu v tomto zariadení</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Lokality môžu používať váš mikrofón len vtedy, ak povolíte aplikácii Tragogo žiadať o prístup.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Povoliť aplikácii Tragogo žiadať o prístup k fotoaparátu a mikrofónu v tomto zariadení</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Lokality môžu používať váš fotoaparát a mikrofón len vtedy, ak povolíte aplikácii Tragogo žiadať o prístup.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Otvoriť nastavenia</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Zrušiť</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Na používanie hlasových funkcií potrebuješ povolenie pre mikrofón</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo potrebuje prístup k tvojmu mikrofónu</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo potrebuje prístup k tvojmu mikrofónu</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Ak chceš v Duck.ai používať hlasový čet, je potrebné povolenie pre mikrofón.</string>
 
     <string name="sitePermissionsSettingsDescription">Stránky, ktoré navštívite, môžu požiadať o prístup k polohe vášho zariadenia, fotoaparátu, mikrofónu alebo softvéru DRM (Digital Rights Management). Nebudú mať k nim prístup, pokiaľ im to výslovne nepovolíte.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Ak to nepovolíš, videá na stránke sa nemusia dať prehrať, ale táto stránka nebude mať prístup k identifikátorom zariadení poskytovaným softvérom DRM.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Zmeniť oprávnenia</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo potrebuje prístup k tvojej polohe</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Zmeniť oprávnenia</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo potrebuje prístup k tvojej polohe</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Ak chceš na tejto stránke používať funkcie polohy, sú potrebné povolenia pre polohu.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo potrebuje prístup k tvojmu fotoaparátu</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo potrebuje prístup k tvojmu fotoaparátu</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Ak chceš na tejto stránke používať funkcie fotoaparátu, sú potrebné povolenia pre fotoaparát.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo potrebuje prístup k tvojmu mikrofónu</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo potrebuje prístup k tvojmu mikrofónu</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Ak chceš na tejto stránke používať funkcie mikrofónu, je potrebné povolenie pre mikrofón.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo potrebuje prístup k tvojmu fotoaparátu a mikrofónu</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo potrebuje prístup k tvojmu fotoaparátu a mikrofónu</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Ak chceš na tejto stránke používať funkcie fotoaparátu a mikrofónu, sú potrebné povolenia pre fotoaparát a mikrofón.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo nemohol zdieľať polohu s touto lokalitou</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo nemohol tejto lokalite udeliť prístup k fotoaparátu</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo nemohol udeliť prístup k mikrofónu tejto lokalite</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo nemohol udeliť prístup k fotoaparátu a mikrofónu tejto stránke</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo nemohol zdieľať polohu s touto lokalitou</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo nemohol tejto lokalite udeliť prístup k fotoaparátu</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo nemohol udeliť prístup k mikrofónu tejto lokalite</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo nemohol udeliť prístup k fotoaparátu a mikrofónu tejto stránke</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Vždy povoliť</string>

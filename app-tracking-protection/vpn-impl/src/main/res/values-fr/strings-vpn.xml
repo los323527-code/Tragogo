@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Toutes les applications</string>
     <string name="atp_ExcludedAppsFeature">App Tracking Protection détecte et bloque les traqueurs d\'applications d\'autres entreprises, comme lorsque Facebook tente de vous suivre dans une application de santé. Les entreprises restent toutefois susceptibles de vous suivre dans les applications qui leur appartiennent.\n\nSi une application ne fonctionne pas comme prévu, essayez de désactiver sa protection.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo peut désactiver la protection de certaines applications afin de résoudre des problèmes identifiés de chargement de contenu. Vos paramètres personnalisés ne changeront pas à moins que vous ne rétablissiez les paramètres par défaut.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo peut désactiver la protection de certaines applications afin de résoudre des problèmes identifiés de chargement de contenu. Vos paramètres personnalisés ne changeront pas à moins que vous ne rétablissiez les paramètres par défaut.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>App Tracking Protection est désactivé</b> Vos applications ont-elles rencontré des problèmes à cause d\'App Tracking Protection ? <annotation type="report_issues_link">Signaler des problèmes</annotation></string>
     <string name="atp_ExcludedAppsReport">Signaler un problème avec une autre application</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Désactivé manuellement</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Activé manuellement</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Annuler</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Rétablir</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Le fait d\'activer la protection déclenche l\'envoi du nom de l\'application à DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Le fait d\'activer la protection déclenche l\'envoi du nom de l\'application à Tragogo.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Elle a cessé de fonctionner comme prévu</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">J\'accepte le suivi dans cette application</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Pour une autre raison</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Rétablir la protection par défaut ?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Vos paramètres de protection personnalisés seront mis à jour avec nos protections par défaut les plus récentes. Vous pourrez toujours les modifier à nouveau ultérieurement.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Protection rétablie selon les paramètres par défaut</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Le fait d\'activer la protection déclenche l\'envoi du nom de l\'application à DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Le fait d\'activer la protection déclenche l\'envoi du nom de l\'application à Tragogo.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Signaler un problème</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Suivant</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Veuillez décrire ce qui se passe, ce qui aurait dû se passer et les différentes étapes qui ont précédé le problème.</string>
     <string name="atp_ReportBreakageFormInputHint">Dites-nous en plus sur le problème que vous rencontrez</string>
-    <string name="atp_ReportBreakageFormCheckboxText">En cliquant sur « Envoyer », j\'accepte que DuckDuckGo puisse utiliser les informations contenues dans ce rapport afin d\'améliorer les fonctionnalités de l\'application.
+    <string name="atp_ReportBreakageFormCheckboxText">En cliquant sur « Envoyer », j\'accepte que Tragogo puisse utiliser les informations contenues dans ce rapport afin d\'améliorer les fonctionnalités de l\'application.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Outre les informations saisies dans ce formulaire, votre rapport sur le problème rencontré dans l\'application contiendra :<br/>• Le nom du package de l\'application<br/>• Une liste des traqueurs bloqués dans l\'application<br/>• Une confirmation que certaines fonctionnalités spécifiques de DuckDuckGo sont activées ou non<br/>• Les diagnostics agrégés de l\'application DuckDuckGo<br/>]]>
+        <![CDATA[Outre les informations saisies dans ce formulaire, votre rapport sur le problème rencontré dans l\'application contiendra :<br/>• Le nom du package de l\'application<br/>• Une liste des traqueurs bloqués dans l\'application<br/>• Une confirmation que certaines fonctionnalités spécifiques de Tragogo sont activées ou non<br/>• Les diagnostics agrégés de l\'application Tragogo<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Le rapport a bien été envoyé, merci ! Vos commentaires nous aident à améliorer App Tracking Protection pour tous.</string>
     <string name="atp_ThanksForTheFeedback">Merci pour vos commentaires !</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">À propos des traqueurs d\'applications</string>
     <string name="atp_ProfilingInfoTitle">Les traqueurs d\'applications, c\'est quoi ?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Vous avez probablement entendu parler d\'entreprises comme Google et Facebook, qui vous suivent en arrière-plan sur des sites Web tiers. Mais saviez-vous qu\'elles suivent également vos informations personnelles à travers les applications installées sur votre appareil ?\n\n<b>Parmi les 100 applications Android populaires gratuites</b> que nous avons testées, <b>plus de 96 %</b> contenaient des traqueurs tiers cachés. 87 % d\'entre eux ont envoyé des données à Google et 68 % à Facebook. Cela peut même se produire lorsque vous n\'utilisez pas votre appareil.<b>Les traqueurs présents dans les applications peuvent avoir accès à beaucoup plus d\'informations</b> que leurs cousins traqueurs de sites Web, notamment une donnée aussi précise que l\'étage d\'un bâtiment auquel vous vous trouvez, la fréquence à laquelle vous jouez à des jeux au travail et la durée quotidienne de votre sommeil. <b>Même si vous n\'avez pas de compte Google ou Facebook, par exemple, ces sociétés peuvent malgré tout recueillir des données vous concernant à partir de vos applications.</b>\n\nLes réseaux de suivi comme Facebook et Google utilisent ces bribes d\'informations <b>pour créer votre profil numérique.</b> Grâce à lui, ils peuvent agir sur ce que vous voyez en ligne et permettre aux annonceurs de vous faire une offre d\'accès en fonction de vos données.Les traqueurs des applications constituent un problème MAJEUR pour la confidentialité. <b>Mais DuckDuckGo a une solution qui peut vous aider.</b>Lorsqu\'elle est activée dans l\'application de navigateur confidentiel DuckDuckGo, la protection App Tracking Protection bloque de nombreux traqueurs dans d\'autres applications installées sur votre appareil, en même temps que l\'application DuckDuckGo bloque les traqueurs qu\'elle trouve sur les sites Web lorsque vous naviguez. <b>Grâce à ces deux couches de protection, les informations globales recueillies sur vous par ces sociétés de suivi sont moindres</b> ; vous pouvez ainsi utiliser vos applications plus sereinement, en sachant que vous bénéficiez d\'une meilleure protection.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Vous avez probablement entendu parler d\'entreprises comme Google et Facebook, qui vous suivent en arrière-plan sur des sites Web tiers. Mais saviez-vous qu\'elles suivent également vos informations personnelles à travers les applications installées sur votre appareil ?\n\n<b>Parmi les 100 applications Android populaires gratuites</b> que nous avons testées, <b>plus de 96 %</b> contenaient des traqueurs tiers cachés. 87 % d\'entre eux ont envoyé des données à Google et 68 % à Facebook. Cela peut même se produire lorsque vous n\'utilisez pas votre appareil.<b>Les traqueurs présents dans les applications peuvent avoir accès à beaucoup plus d\'informations</b> que leurs cousins traqueurs de sites Web, notamment une donnée aussi précise que l\'étage d\'un bâtiment auquel vous vous trouvez, la fréquence à laquelle vous jouez à des jeux au travail et la durée quotidienne de votre sommeil. <b>Même si vous n\'avez pas de compte Google ou Facebook, par exemple, ces sociétés peuvent malgré tout recueillir des données vous concernant à partir de vos applications.</b>\n\nLes réseaux de suivi comme Facebook et Google utilisent ces bribes d\'informations <b>pour créer votre profil numérique.</b> Grâce à lui, ils peuvent agir sur ce que vous voyez en ligne et permettre aux annonceurs de vous faire une offre d\'accès en fonction de vos données.Les traqueurs des applications constituent un problème MAJEUR pour la confidentialité. <b>Mais Tragogo a une solution qui peut vous aider.</b>Lorsqu\'elle est activée dans l\'application de navigateur confidentiel Tragogo, la protection App Tracking Protection bloque de nombreux traqueurs dans d\'autres applications installées sur votre appareil, en même temps que l\'application Tragogo bloque les traqueurs qu\'elle trouve sur les sites Web lorsque vous naviguez. <b>Grâce à ces deux couches de protection, les informations globales recueillies sur vous par ces sociétés de suivi sont moindres</b> ; vous pouvez ainsi utiliser vos applications plus sereinement, en sachant que vous bénéficiez d\'une meilleure protection.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">7 derniers jours</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">À propos</string>
     <string name="atp_ActivityManage">Gérer</string>
     <string name="atp_ActivityRemoveFeature">Désactiver et supprimer les données</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo bloque les traqueurs masqués dans vos applications.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo bloque les traqueurs masqués dans vos applications.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Réactivez App Tracking Protection pour continuer à bloquer les traqueurs dans vos applications.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">Bloqué par DuckDuckGo %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">Bloqué par DuckDuckGo le %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Bloqué par Tragogo %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Bloqué par Tragogo le %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">FAQ</string>
@@ -243,7 +243,7 @@
     <string name="atp_FAQFifthHeader">En quoi la protection App Tracking Protection est-elle différente d\'un VPN ?</string>
     <string name="atp_FAQFifthText">Un VPN envoie vos données de l\'appareil vers son propre serveur, où il sécurise et rend vos informations anonymes pour les préserver des yeux indiscrets. Cela permet toutefois à la société VPN de voir votre trafic réseau.\n\n<b>App Tracking Protection est différent.</b> Au lieu d\'envoyer vos données à un serveur VPN, <b>App Tracking Protection fonctionne localement sur votre appareil</b>, installé entre vos applications et les serveurs avec lesquels elles communiquent.Chaque fois qu\'App Tracking Protection reconnaît un traqueur identifié, <b>il empêche ce dernier de faire sortir des informations personnelles (telles que votre adresse IP, votre activité et les détails de votre appareil) de votre appareil.</b> Le reste du trafic atteint sa destination pour que vos applications fonctionnent normalement.</string>
     <string name="atp_FAQSixthHeader">Mes données sont-elles privées ?</string>
-    <string name="atp_FAQSixthText">App Tracking Protection fonctionne localement et ne transmet pas les données personnelles de votre appareil à DuckDuckGo.</string>
+    <string name="atp_FAQSixthText">App Tracking Protection fonctionne localement et ne transmet pas les données personnelles de votre appareil à Tragogo.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Vous avez reçu une invitation à essayer App Tracking Protection !</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d tentatives. Informations recueillies en général :</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo a bloqué %1$d tentative de pistage</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo a bloqué %1$d tentatives de pistage</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo a bloqué %1$d tentative de pistage</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo a bloqué %1$d tentatives de pistage</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Signaler un problème avec cette application</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Afficher %1$d de plus</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Accéder à Paramètres</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Pas maintenant</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Accédez aux paramètres VPN DuckDuckGo de votre appareil et sélectionnez <b>Toujours actif</b> pour empêcher Android de désactiver la protection.\n\nL\'autre paramètre doit rester désactivé.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Pour éviter les problèmes d\'application, accédez aux <b>paramètres VPN DuckDuckGo de votre appareil</b> et désactivez <b>Bloquer les connexions sans VPN</b>]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Accédez aux paramètres VPN Tragogo de votre appareil et sélectionnez <b>Toujours actif</b> pour empêcher Android de désactiver la protection.\n\nL\'autre paramètre doit rester désactivé.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Pour éviter les problèmes d\'application, accédez aux <b>paramètres VPN Tragogo de votre appareil</b> et désactivez <b>Bloquer les connexions sans VPN</b>]]></string>
     <string name="atp_AlwaysOnModalHeading">Sélectionnez Toujours actif</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Modifiez vos paramètres VPN</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Action requise</b> Pour assurer le bon fonctionnement de votre application, vous devez modifier vos paramètres Android. <annotation type="open_settings_link">Modifier les paramètres</annotation></string>
@@ -422,14 +422,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Recevez des mises à jour sur les tentatives de pistage bloquées dans votre volet notifications.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Vous ne pouvez pas l\'utiliser App Tracking Protection à cause de votre VPN ? Passez à DuckDuckGo VPN, le seul VPN compatible. <annotation type="ppro_upsell_link">En savoir plus</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Vous ne pouvez pas utiliser App Tracking Protection à cause de votre VPN ? Passez à DuckDuckGo VPN, le seul VPN compatible. <annotation type="ppro_upsell_link">Essayez gratuitement !</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection désactivée</b>\nVotre VPN a désactivé App Tracking Protection ? Faites basculer le bouton ci-dessus pour la réactiver.\n\nProcurez-vous DuckDuckGo VPN, le seul VPN qui fonctionne avec App Tracking Protection. <annotation type="ppro_upsell_link">En savoir plus</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection désactivée</b>\nVotre VPN a désactivé App Tracking Protection ? Faites basculer le bouton ci-dessus pour la réactiver.\n\nPassez à DuckDuckGo VPN, le seul VPN qui fonctionne avec App Tracking Protection. <annotation type="ppro_upsell_link">Essayez gratuitement !</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled">Vous ne pouvez pas l\'utiliser App Tracking Protection à cause de votre VPN ? Passez à Tragogo VPN, le seul VPN compatible. <annotation type="ppro_upsell_link">En savoir plus</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Vous ne pouvez pas utiliser App Tracking Protection à cause de votre VPN ? Passez à Tragogo VPN, le seul VPN compatible. <annotation type="ppro_upsell_link">Essayez gratuitement !</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection désactivée</b>\nVotre VPN a désactivé App Tracking Protection ? Faites basculer le bouton ci-dessus pour la réactiver.\n\nProcurez-vous Tragogo VPN, le seul VPN qui fonctionne avec App Tracking Protection. <annotation type="ppro_upsell_link">En savoir plus</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection désactivée</b>\nVotre VPN a désactivé App Tracking Protection ? Faites basculer le bouton ci-dessus pour la réactiver.\n\nPassez à Tragogo VPN, le seul VPN qui fonctionne avec App Tracking Protection. <annotation type="ppro_upsell_link">Essayez gratuitement !</annotation></string>
     <string name="apptp_PproUpsellBannerTitle">Renforcez votre confidentialité</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo dispose du seul VPN compatible avec App Tracking Protection. Activez-le grâce à un abonnement Privacy Pro payant.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo dispose du seul VPN compatible avec App Tracking Protection. Activez-le grâce à un abonnement Privacy Pro payant.</string>
     <string name="apptp_PproUpsellBannerAction">En savoir plus</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonnez-vous à DuckDuckGo et obtenez le seul VPN compatible avec App Tracking Protection.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonnez-vous à Tragogo et obtenez le seul VPN compatible avec App Tracking Protection.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Essayez gratuitement !</string>
 
     <!-- Content Descriptions -->

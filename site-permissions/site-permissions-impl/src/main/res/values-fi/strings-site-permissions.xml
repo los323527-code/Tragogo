@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Muista valintani</string>
     <string name="preciseLocationDDGDialogSubtitle">Käytämme anonyymiä sijaintia pelkästään tarjotaksemme parempia tuloksia lähempää sijaintiasi. Voit hallita yksittäisille sivustoille antamiasi sijaintilupia asetuksista.</string>
     <string name="preciseLocationSiteDialogSubtitle">Voit hallita yksittäisille sivustoille antamiasi sijaintilupia asetuksista.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Salli DuckDuckGon pyytää sijainnin käyttöoikeutta tällä laitteella</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Sivustot voivat käyttää sijaintiasi vain, jos sallit DuckDuckGon pyytää sen käyttöoikeutta.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Salli DuckDuckGon pyytää sijainnin käyttöoikeutta</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Salli Tragogon pyytää sijainnin käyttöoikeutta tällä laitteella</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Sivustot voivat käyttää sijaintiasi vain, jos sallit Tragogon pyytää sen käyttöoikeutta.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Salli Tragogon pyytää sijainnin käyttöoikeutta</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Sivuston käyttöoikeudet</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Hallitse myönnettyjä käyttöoikeuksia asetuksissa</string>
     <string name="sitePermissionsDialogDenyButton">Estä</string>
     <string name="sitePermissionsDialogAllowButton">Salli</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Salli DuckDuckGon pyytää kameran ja mikrofonin käyttöoikeutta</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Salli DuckDuckGon pyytää kameran käyttöoikeutta</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Salli DuckDuckGon pyytää mikrofonin käyttöoikeutta</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Salli Tragogon pyytää kameran ja mikrofonin käyttöoikeutta</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Salli Tragogon pyytää kameran käyttöoikeutta</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Salli Tragogon pyytää mikrofonin käyttöoikeutta</string>
     <string name="sitePermissionsDeniedSnackBarAction">Salli</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Salli DuckDuckGon pyytää kameran käyttöoikeutta tällä laitteella</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Sivustot voivat käyttää kameraa vain, jos sallit DuckDuckGon pyytää sen käyttöoikeutta.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Salli DuckDuckGon pyytää mikrofonin käyttöoikeutta tällä laitteella</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Sivustot voivat käyttää mikrofoniasi vain, jos sallit DuckDuckGon pyytää sen käyttöoikeutta.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Salli DuckDuckGon pyytää kameran ja mikrofonin käyttöoikeutta tällä laitteella</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Sivustot voivat käyttää kameraa ja mikrofonia vain, jos annat DuckDuckGon pyytää niiden käyttöoikeutta.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Salli Tragogon pyytää kameran käyttöoikeutta tällä laitteella</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Sivustot voivat käyttää kameraa vain, jos sallit Tragogon pyytää sen käyttöoikeutta.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Salli Tragogon pyytää mikrofonin käyttöoikeutta tällä laitteella</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Sivustot voivat käyttää mikrofoniasi vain, jos sallit Tragogon pyytää sen käyttöoikeutta.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Salli Tragogon pyytää kameran ja mikrofonin käyttöoikeutta tällä laitteella</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Sivustot voivat käyttää kameraa ja mikrofonia vain, jos annat Tragogon pyytää niiden käyttöoikeutta.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Avaa asetukset</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Peruuta</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Mikrofonin käyttöoikeus tarvitaan äänitoimintoja varten</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo tarvitsee mikrofonisi käyttöoikeuden</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo tarvitsee mikrofonisi käyttöoikeuden</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Mikrofonin käyttöoikeudet tarvitaan, jos haluat käyttää äänikeskustelua Duck.ai:ssa</string>
 
     <string name="sitePermissionsSettingsDescription">Käyttämäsi sivustot saattavat pyytää pääsyä laitteesi sijaintiin, kameraan, mikrofoniin tai DRM-ohjelmistoon (Digital Rights Management). Ne eivät voi käyttää tietoja, ellet myönnä niille erillistä käyttöoikeutta.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Jos et salli, sivustolla olevia videoita ei ehkä voida toistaa, mutta tämä sivusto ei voi käyttää DRM-ohjelmiston tarjoamia laitetunnisteita.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Muuta käyttöoikeuksia</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo tarvitsee sijaintisi käyttöoikeuden</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Muuta käyttöoikeuksia</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo tarvitsee sijaintisi käyttöoikeuden</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Sijainnin käyttöoikeudet tarvitaan, jos haluat käyttää sijaintiominaisuuksia tällä sivustolla.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo tarvitsee kamerasi käyttöoikeuden</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo tarvitsee kamerasi käyttöoikeuden</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Kameran käyttöoikeudet tarvitaan, jos haluat käyttää kameratoimintoja tällä sivustolla.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo tarvitsee mikrofonisi käyttöoikeuden</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo tarvitsee mikrofonisi käyttöoikeuden</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Mikrofonin käyttöoikeudet tarvitaan, jos haluat käyttää mikrofonitoimintoja tällä sivustolla.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo tarvitsee kamerasi ja mikrofonisi käyttöoikeuden</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo tarvitsee kamerasi ja mikrofonisi käyttöoikeuden</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Kameran ja mikrofonin käyttöoikeudet tarvitaan, jos haluat käyttää kamera- ja mikrofonitoimintoja tällä sivustolla.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo ei voinut jakaa sijaintia tämän sivuston kanssa</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo ei voinut antaa kameran käyttöoikeutta tälle sivustolle</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo ei voinut antaa mikrofonin käyttöoikeutta tälle sivustolle</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo ei voinut antaa kameran ja mikrofonin käyttöoikeutta tälle sivustolle</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo ei voinut jakaa sijaintia tämän sivuston kanssa</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo ei voinut antaa kameran käyttöoikeutta tälle sivustolle</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo ei voinut antaa mikrofonin käyttöoikeutta tälle sivustolle</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo ei voinut antaa kameran ja mikrofonin käyttöoikeutta tälle sivustolle</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Salli aina</string>

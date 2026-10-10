@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,11 +18,11 @@
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="autoconsentTitle">Sīkfailu uznirstošo logu aizsardzība</string>
-    <string name="autoconsentDescription"><![CDATA[DuckDuckGo centīsies atlasīt visprivātākos pieejamos iestatījumus un paslēpt uznirstošos logus.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
-    <string name="autoconsentToggle">Ļauj DuckDuckGo apstrādāt sīkfailu uznirstošos logus</string>
+    <string name="autoconsentDescription"><![CDATA[Tragogo centīsies atlasīt visprivātākos pieejamos iestatījumus un paslēpt uznirstošos logus.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
+    <string name="autoconsentToggle">Ļauj Tragogo apstrādāt sīkfailu uznirstošos logus</string>
     <string name="autoconsentAutoManageToggle">Noraidīt neobligātos sīkfailus</string>
     <string name="autoconsentAutoManageDescription">Mēs centīsimies tavā vietā noraidīt pēc iespējas vairāk sīkfailu un pēc tam aizvērt uznirstošos logus.</string>
-    <string name="autoconsentCookiePopUpPreferenceHeaderDescription"><![CDATA[DuckDuckGo var automātiski pārvaldīt sīkfailu uznirstošos logus, lai maksimāli palielinātu privātumu un samazinātu sīkfailus, pirms tu tos vispār ieraugi.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
+    <string name="autoconsentCookiePopUpPreferenceHeaderDescription"><![CDATA[Tragogo var automātiski pārvaldīt sīkfailu uznirstošos logus, lai maksimāli palielinātu privātumu un samazinātu sīkfailus, pirms tu tos vispār ieraugi.\n<a href=\"\">Uzzināt vairāk</a>]]></string>
     <string name="autoconsentPopUpsWithoutOptOutsToggle">Pieņemt sīkfailus, no kuriem nevar atteikties</string>
     <string name="autoconsentPopUpsWithoutOptOutsDescription">Ja nav noraidīšanas iespējas, mēs ietaupīsim tev klikšķi, pieņemsim šos sīkfailus tavā vietā un aizvērsim uznirstošos logus.</string>
     <string name="autoconsentPromptTitle">Vai esi noguris no sīkfailu uznirstošajiem logiem?</string>

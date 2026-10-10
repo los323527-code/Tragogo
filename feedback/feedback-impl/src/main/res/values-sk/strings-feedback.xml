@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problémy s načítavaním webových stránok</string>
     <string name="websiteNotLoadingTitleShort">Problémy s načítavaním webových stránok</string>
     <string name="websiteNotLoadingSubtitle">Ktorá webová stránka je nefunkčná?</string>
-    <string name="searchNotGoodEnoughTitleLong">Vyhľadávanie DuckDuckGo nie je dosť dobré</string>
-    <string name="searchNotGoodEnoughTitleShort">Problémy s vyhľadávaním DuckDuckGo</string>
+    <string name="searchNotGoodEnoughTitleLong">Vyhľadávanie Tragogo nie je dosť dobré</string>
+    <string name="searchNotGoodEnoughTitleShort">Problémy s vyhľadávaním Tragogo</string>
     <string name="searchNotGoodEnoughSubtitle">Ktorú funkciu vyhľadávania môžeme pridať alebo zdokonaliť?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programovanie/technické vyhľadávanie</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Rozloženie by sa malo viac podobať na Google</string>

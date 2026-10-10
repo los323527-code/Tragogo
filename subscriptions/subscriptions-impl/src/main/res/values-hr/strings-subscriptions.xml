@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,7 +20,7 @@
     <string name="cancel">Odustani</string>
     <string name="ok">U redu</string>
     <string name="privacyPro" translatable="false">Privacy Pro</string>
-    <string name="ddg_subscription">DuckDuckGo pretplata</string>
+    <string name="ddg_subscription">Tragogo pretplata</string>
     <string name="manageEmail">Upravljaj e-poštom</string>
 
     <!--Restore Subscriptions Activity-->
@@ -55,7 +55,7 @@
     <string name="activateOnOtherDevices">Dodaj svoju pretplatu na druge uređaje</string>
     <string name="addToDevicePrimaryText">Dodaj na uređaj</string>
     <string name="addToDeviceSecondaryTextWithoutEmail">Dodaj svoju pretplatu na svoje druge uređaje putem Google Playa ili povezivanjem adrese e-pošte.</string>
-    <string name="addToDeviceSecondaryTextWithEmail">Koristi gore navedenu adresu e-pošte za dodavanje pretplate na svoje druge uređaje u aplikaciji DuckDuckGo. Idi na Postavke &gt; Postavke pretplate &gt; Imam pretplatu.</string>
+    <string name="addToDeviceSecondaryTextWithEmail">Koristi gore navedenu adresu e-pošte za dodavanje pretplate na svoje druge uređaje u aplikaciji Tragogo. Idi na Postavke &gt; Postavke pretplate &gt; Imam pretplatu.</string>
     <string name="editEmailPrimaryText">Uredi e-poštu</string>
     <string name="learnMore">Saznajte više</string>
     <string name="privacyProFaq">Trebaš pomoć s pretplatom?</string>
@@ -74,10 +74,10 @@
     <string name="subscriptionSettingSubscribeSubtitle">Pretplatnici dobivaju naš VPN te usluge Personal Information Removal (uklanjanje osobnih podataka) i Identity Theft Restoration (oporavak od krađe identiteta).</string>
     <string name="subscriptionSettingSubscribeSubtitleRow">Pretplatnici dobivaju naš VPN i uslugu Identity Theft Restoration (oporavak od krađe identiteta).</string>
 
-    <string name="subscriptionSettingGet">Pretplati se na DuckDuckGo</string>
+    <string name="subscriptionSettingGet">Pretplati se na Tragogo</string>
     <string name="subscriptionSettingTryFreeTrial">Isprobaj besplatno</string>
     <string name="subscriptionSettingRestore">Imam pretplatu</string>
-    <string name="subscriptionSettingExpired">Tvoja pretplata na DuckDuckGo je istekla</string>
+    <string name="subscriptionSettingExpired">Tvoja pretplata na Tragogo je istekla</string>
     <string name="subscriptionSettingExpiredViewPlans">Pregledaj planove</string>
     <string name="subscriptionSettingSectionSubscription">Pretplata</string>
     <string name="subscriptionSettingRemoveFromDevice">Ukloni s ovog uređaja</string>
@@ -104,8 +104,8 @@
     <string name="changePlanDescription">Tvoja pretplata kupljena je putem Apple App Storea. Za promjenu postavki plana ili naplate, idi na Postavke &gt; Apple račun &gt; Pretplate na uređaju prijavljenom na isti Apple račun koji je korišten za kupnju pretplate.</string>
 
     <!-- PIR Activity-->
-    <string name="pirTitle">Aktiviraj pretplatu DuckDuckGo na radnoj površini kako bi postavio Personal Information Removal</string>
-    <string name="pirDescription">Kako bi počeo s radom, u pregledniku DuckDuckGo za stolna računala idi na <b>Postavke &gt; DuckDuckGo pretplata</b> i klikni <b>Imam pretplatu</b>.</string>
+    <string name="pirTitle">Aktiviraj pretplatu Tragogo na radnoj površini kako bi postavio Personal Information Removal</string>
+    <string name="pirDescription">Kako bi počeo s radom, u pregledniku Tragogo za stolna računala idi na <b>Postavke &gt; Tragogo pretplata</b> i klikni <b>Imam pretplatu</b>.</string>
     <string name="pirWindowsButton" translatable="false">Windows</string>
     <string name="pirMacOsButton" translatable="false">Mac</string>
 
@@ -153,7 +153,7 @@
 
     <string name="feedbackSubmitVpnHeader">Pronašao si problem koji nije pokriven u našem <annotation type="faqs_link">centru za pomoć</annotation> ? Definitivno želimo znati više o tome.</string>
     <string name="feedbackSubmitVpnDescriptionHint">Reci nam što se događa...</string>
-    <string name="feedbackSubmitVpnDisclaimer">"Osim gore unesenih pojedinosti, šaljemo neke anonimizirane podatke s tvojim povratnim informacijama:\n\n • Jesu li neke značajke preglednika aktivne\n • Objedinjena dijagnostika aplikacije (npr. kodovi pogrešaka)\n\nKlikom \"Pošalji\" slažeš se da DuckDuckGo može koristiti poslane podatke za poboljšanje aplikacije."</string>
+    <string name="feedbackSubmitVpnDisclaimer">"Osim gore unesenih pojedinosti, šaljemo neke anonimizirane podatke s tvojim povratnim informacijama:\n\n • Jesu li neke značajke preglednika aktivne\n • Objedinjena dijagnostika aplikacije (npr. kodovi pogrešaka)\n\nKlikom \"Pošalji\" slažeš se da Tragogo može koristiti poslane podatke za poboljšanje aplikacije."</string>
     <string name="feedbackSubmitVpnSubmit">Pošalji</string>
     <string name="feedbackSubmitCompletedMessage">Hvala! Povratne informacije su poslane.</string>
 
@@ -175,7 +175,7 @@
     <string name="feedbackSubCategoryDuckAiLoginThirdPartyBrowser">U drugim preglednicima ne mogu pristupiti usluzi Duck.ai s mojom pretplatom</string>
     <string name="feedbackSubCategoryDuckAiOther">Ostale povratne informacije o Duck.ai</string>
 
-    <string name="subscriptionSettingSectionTitle">DuckDuckGo pretplata</string>
+    <string name="subscriptionSettingSectionTitle">Tragogo pretplata</string>
     <string name="subscriptionSettingSubscribeSecure">Osiguraj svoj Wi-Fi i privatno čavrljaj s naprednim AI modelima</string>
 
     <string name="feedbackGeneralSubscription">Pretplata</string>

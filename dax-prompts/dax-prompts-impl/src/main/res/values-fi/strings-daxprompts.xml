@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="dax_prompt_browser_comparison_title" instruction="Title for the Browser Comparison section">Selainvertailu</string>
     <string name="dax_prompt_browser_comparison_close" instruction="Content description for the X button">Sulje</string>
-    <string name="dax_prompt_browser_comparison_message_title" instruction="Title for Dax message">DuckDuckGo tarjoaa suojauksia, joita muilla selaimilla ei ole.</string>
-    <string name="dax_prompt_browser_comparison_message_primary_button" instruction="This text is placed on a large button">Avaa linkit DuckDuckGo:ssa</string>
+    <string name="dax_prompt_browser_comparison_message_title" instruction="Title for Dax message">Tragogo tarjoaa suojauksia, joita muilla selaimilla ei ole.</string>
+    <string name="dax_prompt_browser_comparison_message_primary_button" instruction="This text is placed on a large button">Avaa linkit Tragogo:ssa</string>
     <string name="dax_prompt_browser_comparison_message_ghost_button" instruction="This text is placed on a large button">Ehkä myöhemmin</string>
 
     <string name="dax_prompt_browser_comparison_item1" instruction="This text is placed in a table">Yksityinen selaus oletuksena</string>

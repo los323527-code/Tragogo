@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,11 +17,11 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="macos_app">DuckDuckGo-app voor Mac</string>
-    <string name="macos_title">Download DuckDuckGo voor Mac!</string>
+    <string name="macos_app">Tragogo-app voor Mac</string>
+    <string name="macos_title">Download Tragogo voor Mac!</string>
 
     <string name="macos_share_title">Link delen</string>
-    <string name="macos_description_text">DuckDuckGo voor Mac heeft de snelheid die je nodig hebt en de browserfuncties die je verwacht, en zit boordevol met onze allerbeste essentiële facetten van privacy.\n\nGa op je Mac naar:</string>
+    <string name="macos_description_text">Tragogo voor Mac heeft de snelheid die je nodig hebt en de browserfuncties die je verwacht, en zit boordevol met onze allerbeste essentiële facetten van privacy.\n\nGa op je Mac naar:</string>
     <string name="macos_description_link">duckduckgo.com/mac</string>
     <string name="macos_share_text">Klaar om privé te browsen op de Mac?\n\nBezoek deze URL op je Mac om te downloaden:\nhttps://duckduckgo.com/mac?origin=funnel_browser_android_settings</string>
 

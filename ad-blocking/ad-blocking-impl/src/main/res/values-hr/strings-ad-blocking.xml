@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blokiranje YouTube oglasa</string>
     <string name="ad_blocking_settings_toggle_title">Blokiraj oglase na YouTubeu</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo blokira video oglase na YouTubeu, tako da videozapise možeš gledati bez prekida. \n\nKada je uključen, DuckDuckGo će anonimno otkriti smetnje u blokiranju oglasa ili pogreške na YouTubeu kako bi poboljšao doživljaj za sve. DuckDuckGo nikada ne vidi koje videozapise gledaš niti bilo kakve osobne podatke. <annotation type="learn_more_link">Saznaj više</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo blokira video oglase na YouTubeu, tako da videozapise možeš gledati bez prekida. <annotation type="learn_more_link">Saznaj više</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo blokira video oglase na YouTubeu, tako da videozapise možeš gledati bez prekida. \n\nKada je uključen, Tragogo će anonimno otkriti smetnje u blokiranju oglasa ili pogreške na YouTubeu kako bi poboljšao doživljaj za sve. Tragogo nikada ne vidi koje videozapise gledaš niti bilo kakve osobne podatke. <annotation type="learn_more_link">Saznaj više</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo blokira video oglase na YouTubeu, tako da videozapise možeš gledati bez prekida. <annotation type="learn_more_link">Saznaj više</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Otvara videozapise u kino načinu rada bez ometanja koji sprječava da ono što gledaš utječe na tvoj YouTube feed.</string>
     <string name="ad_blocking_settings_title_v2">Blokiranje oglasa</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Onemogući do ponovnog pokretanja</string>
     <string name="ad_blocking_menu_always_off">Uvijek isključeno</string>
     <string name="ad_blocking_disabled_popup_title">Blokiranje oglasa na YouTubeu ne funkcionira?</string>
-    <string name="ad_blocking_disabled_popup_description">Pošalji anonimnu prijavu DuckDuckGou i pomozi nam da poboljšamo blokiranje oglasa za sve!</string>
+    <string name="ad_blocking_disabled_popup_description">Pošalji anonimnu prijavu Tragogou i pomozi nam da poboljšamo blokiranje oglasa za sve!</string>
     <string name="ad_blocking_disabled_primary_action">Pošalji izvješće o problemu</string>
     <string name="ad_blocking_disabled_secondary_action">Otkaži</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Onemogućeno do ponovnog pokretanja</string>

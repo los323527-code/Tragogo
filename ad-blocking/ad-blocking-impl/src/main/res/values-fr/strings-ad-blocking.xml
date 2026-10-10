@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Blocage des publicités sur YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Bloquer les publicités sur YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo bloque les publicités vidéo sur YouTube afin que vous puissiez regarder des vidéos sans interruption.\n\nLorsque cette fonction est activée, DuckDuckGo détecte anonymement les interférences liées au blocage des publicités ou les erreurs de YouTube, afin d\'améliorer l\'expérience pour tous. DuckDuckGo ne voit jamais les vidéos que vous regardez ni aucune information permettant de vous identifier personnellement. <annotation type="learn_more_link">En savoir plus</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo bloque les publicités vidéo sur YouTube, afin que vous puissiez regarder des vidéos sans interruption. <annotation type="learn_more_link">En savoir plus</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo bloque les publicités vidéo sur YouTube afin que vous puissiez regarder des vidéos sans interruption.\n\nLorsque cette fonction est activée, Tragogo détecte anonymement les interférences liées au blocage des publicités ou les erreurs de YouTube, afin d\'améliorer l\'expérience pour tous. Tragogo ne voit jamais les vidéos que vous regardez ni aucune information permettant de vous identifier personnellement. <annotation type="learn_more_link">En savoir plus</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo bloque les publicités vidéo sur YouTube, afin que vous puissiez regarder des vidéos sans interruption. <annotation type="learn_more_link">En savoir plus</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Ouvre les vidéos en mode « Salle de projection sans distractions », ce qui empêche ce que vous regardez d\'influencer votre fil d\'actualité YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Blocage des publicités</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Désactiver jusqu\'au redémarrage</string>
     <string name="ad_blocking_menu_always_off">Toujours désactivé</string>
     <string name="ad_blocking_disabled_popup_title">Le blocage des publicités sur YouTube ne fonctionne pas ?</string>
-    <string name="ad_blocking_disabled_popup_description">Envoyez un rapport anonyme à DuckDuckGo et contribuez à améliorer le blocage des publicités pour tous !</string>
+    <string name="ad_blocking_disabled_popup_description">Envoyez un rapport anonyme à Tragogo et contribuez à améliorer le blocage des publicités pour tous !</string>
     <string name="ad_blocking_disabled_primary_action">Envoyer un rapport de défaillance</string>
     <string name="ad_blocking_disabled_secondary_action">Annuler</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Désactivé jusqu\'au redémarrage</string>

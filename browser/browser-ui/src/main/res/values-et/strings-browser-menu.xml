@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Paroolid</string>
     <string name="browserMenuDownloads">Allalaadimised</string>
     <string name="browserMenuSettings">Sätted</string>
-    <string name="browserMenuOpenInDDG">Ava saidil DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">DuckDuckGo-s käivitamine</string>
+    <string name="browserMenuOpenInDDG">Ava saidil Tragogo</string>
+    <string name="browserMenuRunningInDDG">Tragogo-s käivitamine</string>
     <string name="browserMenuSetAsDefaultBrowser">Määrake vaikebrauseriks</string>
     <string name="browserMenuNewChat">Uus vestlus</string>
     <string name="browserMenuNewAIChat">Uus AI vestlus</string>

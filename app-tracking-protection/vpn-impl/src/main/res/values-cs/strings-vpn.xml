@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -141,14 +141,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Všechny aplikace</string>
     <string name="atp_ExcludedAppsFeature">App Tracking Protection detekuje a blokuje trackery jiných společností, například když se tě Facebook snaží sledovat ve zdravotní aplikaci. Společnosti tě i nadále můžou sledovat v aplikacích, které samy vlastní.\n\nPokud některá aplikace nefunguje podle očekávání, zkus vypnout její ochranu.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo může ochranu pro některé aplikace vypnout, a vyřešit tak známé problémy s načítáním obsahu. Pokud neobnovíš výchozí nastavení, tvoje vlastní nastavení se nezmění.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo může ochranu pro některé aplikace vypnout, a vyřešit tak známé problémy s načítáním obsahu. Pokud neobnovíš výchozí nastavení, tvoje vlastní nastavení se nezmění.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>App Tracking Protection je vypnutá</b> Způsobila ti App Tracking Protection problém s aplikacemi <annotation type="report_issues_link">Nahlásit problémy</annotation></string>
     <string name="atp_ExcludedAppsReport">Nahlásit problém s jinou aplikací</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Ručně vypnuto</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Ručně zapnuto</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Zrušit</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Obnovit</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Zapnutí ochrany odešle název aplikace do DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Zapnutí ochrany odešle název aplikace do Tragogo.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Přestalo to fungovat podle mých očekávání</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Nemám problém s tím, že mě tahle aplikace sleduje</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Jiný důvod</string>
@@ -157,7 +157,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Obnovit výchozí ochranu?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Tvoje vlastní nastavení ochrany se zaktualizuje na naše nejnovější výchozí ochranné mechanismy. Nastavení ochrany můžeš kdykoli později znovu změnit.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Ochrana obnovena na výchozí nastavení</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Zapnutí ochrany odešle název aplikace do DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Zapnutí ochrany odešle název aplikace do Tragogo.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Nahlášení problému</string>
@@ -167,10 +167,10 @@
     <string name="atp_ReportBreakageAppNextCta">Další</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Popiš, co se děje, co se mělo stát a jaké kroky k problému vedly.</string>
     <string name="atp_ReportBreakageFormInputHint">Řekni nám víc o svém problému</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Kliknutím na tlačítko Odeslat vyjadřuji souhlas s tím, aby DuckDuckGo mohl použít informace z této zprávy k vylepšování funkcí aplikace.
+    <string name="atp_ReportBreakageFormCheckboxText">Kliknutím na tlačítko Odeslat vyjadřuji souhlas s tím, aby Tragogo mohl použít informace z této zprávy k vylepšování funkcí aplikace.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[Kromě údajů zadaných do tohoto formuláře bude zpráva o problému s aplikací obsahovat:<br/>• Název balíčku aplikace<br/>• Seznam trackerů zablokovaných v aplikaci<br/>• Informaci, zda jsou zapnuté určité funkce DuckDuckGo<br/>• Souhrnnou diagnostiku aplikace DuckDuckGo<br/>]]>
+        <![CDATA[Kromě údajů zadaných do tohoto formuláře bude zpráva o problému s aplikací obsahovat:<br/>• Název balíčku aplikace<br/>• Seznam trackerů zablokovaných v aplikaci<br/>• Informaci, zda jsou zapnuté určité funkce Tragogo<br/>• Souhrnnou diagnostiku aplikace Tragogo<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Zpráva odeslána, díky! Zpětná vazba nám pomáhá zdokonalovat App Tracking Protection pro všechny.</string>
     <string name="atp_ThanksForTheFeedback">Děkujeme za zpětnou vazbu!</string>
@@ -189,7 +189,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">O trackerech v aplikacích</string>
     <string name="atp_ProfilingInfoTitle">Co jsou trackery v aplikacích?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Pravděpodobně jsi už slyšel(a) o tom, že tě společnosti jako Google a Facebook na webových stránkách třetích stran skrytě sledují. Víš, že sledují tvoje osobní údaje taky prostřednictvím aplikací v tvém zařízení?\n\n<b>Více než 96 % ze 100 testovaných populárních bezplatných aplikací pro Android</b> obsahovalo skryté sledovací programy třetích stran. Z nich 87 % odesílalo data společnosti Google a 68 % společnosti Facebook. Dochází k tomu, i když zařízení nepoužíváš.\n\n<b>Trackery v aplikacích můžou mít přístup k mnohem více informacím</b> než jejich příbuzní na webových stránkách. Například k tvojí poloze včetně patra budovy, na kterém se nacházíš, k tomu, jak často hraješ v práci hry, nebo k údajům o tom, kdy a jak dlouho denně spíš. <b>Můžou o tobě shromažďovat údaje z tvých aplikací, i když nemáš účet na Googlu nebo Facebooku.</b>\n\nSledovací sítě jako Facebook nebo Google si z těchhle střípků informací <b>skládají tvůj digitální profil.</b> Díky němu můžou sledovací sítě manipulovat s tím, co vidíš online, a umožnit inzerentům, aby na základě tvých dat finančně ohodnotili přístup k tobě.\n\nTrackery v aplikacích jsou VELKÝ problém pro soukromí. <b>DuckDuckGo má však řešení, které ti může pomoct. </b>\n\nApp Tracking Protection po zapnutí v aplikaci DuckDuckGo Privacy Browser blokuje ve tvém zařízení hodně trackerů v jiných aplikacích a zároveň aplikace DuckDuckGo blokuje trackery, která při prohlížení najdeme na webových stránkách. <b>Tyhle dvě vrstvy ochrany omezují to, co o tobě sledovací společnosti obecně vědí</b>, takže můžeš aplikace používat s větším klidem a vědomím lepší ochrany.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Pravděpodobně jsi už slyšel(a) o tom, že tě společnosti jako Google a Facebook na webových stránkách třetích stran skrytě sledují. Víš, že sledují tvoje osobní údaje taky prostřednictvím aplikací v tvém zařízení?\n\n<b>Více než 96 % ze 100 testovaných populárních bezplatných aplikací pro Android</b> obsahovalo skryté sledovací programy třetích stran. Z nich 87 % odesílalo data společnosti Google a 68 % společnosti Facebook. Dochází k tomu, i když zařízení nepoužíváš.\n\n<b>Trackery v aplikacích můžou mít přístup k mnohem více informacím</b> než jejich příbuzní na webových stránkách. Například k tvojí poloze včetně patra budovy, na kterém se nacházíš, k tomu, jak často hraješ v práci hry, nebo k údajům o tom, kdy a jak dlouho denně spíš. <b>Můžou o tobě shromažďovat údaje z tvých aplikací, i když nemáš účet na Googlu nebo Facebooku.</b>\n\nSledovací sítě jako Facebook nebo Google si z těchhle střípků informací <b>skládají tvůj digitální profil.</b> Díky němu můžou sledovací sítě manipulovat s tím, co vidíš online, a umožnit inzerentům, aby na základě tvých dat finančně ohodnotili přístup k tobě.\n\nTrackery v aplikacích jsou VELKÝ problém pro soukromí. <b>Tragogo má však řešení, které ti může pomoct. </b>\n\nApp Tracking Protection po zapnutí v aplikaci Tragogo Privacy Browser blokuje ve tvém zařízení hodně trackerů v jiných aplikacích a zároveň aplikace Tragogo blokuje trackery, která při prohlížení najdeme na webových stránkách. <b>Tyhle dvě vrstvy ochrany omezují to, co o tobě sledovací společnosti obecně vědí</b>, takže můžeš aplikace používat s větším klidem a vědomím lepší ochrany.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Posledních 7 dní</string>
@@ -237,10 +237,10 @@
     <string name="atp_ActivityAbout">Informace</string>
     <string name="atp_ActivityManage">Spravovat</string>
     <string name="atp_ActivityRemoveFeature">Zakázat a odstranit data</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo blokuje skryté trackery v aplikacích.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo blokuje skryté trackery v aplikacích.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Když znovu zapneš ochranu App Tracking Protection, můžeš dál blokovat trackery ve všech aplikacích.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">%1$s zablokovalo DuckDuckGo </string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">%1$s zablokovalo DuckDuckGo</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">%1$s zablokovalo Tragogo </string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">%1$s zablokovalo Tragogo</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">FAQ</string>
@@ -255,7 +255,7 @@
     <string name="atp_FAQFifthHeader">Jak se liší App Tracking Protection od VPN?</string>
     <string name="atp_FAQFifthText">VPN odesílá data ze zařízení na vlastní server, kde je zabezpečuje a anonymizuje před zvědavýma očima. Provozovateli VPN to však umožňuje vidět váš síťový provoz.\n\n<b>App Tracking Protection je odlišná.</b> Místo odesílání dat na VPN server funguje <b>App Tracking Protection lokálně na zařízení</b> jako prostředník mezi aplikacemi a servery, se kterými komunikují.\n\nKdykoli App Tracking Protection rozpozná známý tracker, <b>zablokuje odeslání osobních informací (jako je tvoje IP adresa, aktivita a podrobnosti o zařízení) z tvého zařízení.</b> Veškerý ostatní provoz se dostane tam, kam má, takže aplikace fungují normálně.</string>
     <string name="atp_FAQSixthHeader">Jsou moje údaje soukromé?</string>
-    <string name="atp_FAQSixthText">App Tracking Protection funguje ve tvém zařízení a neodesílá osobní údaje ze zařízení do služby DuckDuckGo.</string>
+    <string name="atp_FAQSixthText">App Tracking Protection funguje ve tvém zařízení a neodesílá osobní údaje ze zařízení do služby Tragogo.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Tvoje pozvánka do App Tracking Protection je tady!</string>
@@ -287,10 +287,10 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d pokusů. Víme, že shromažďuje:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo zablokovalo %1$d pokus o sledování</item>
-        <item quantity="few">DuckDuckGo zablokovalo %1$d pokusy o sledování</item>
-        <item quantity="many">DuckDuckGo zablokovalo %1$d pokusu o sledování</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo zablokovalo %1$d pokusů o sledování</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo zablokovalo %1$d pokus o sledování</item>
+        <item quantity="few">Tragogo zablokovalo %1$d pokusy o sledování</item>
+        <item quantity="many">Tragogo zablokovalo %1$d pokusu o sledování</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo zablokovalo %1$d pokusů o sledování</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Nahlásit problém s touhle aplikací</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Zobrazit další %1$d</string>
@@ -392,8 +392,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Přejdi do Nastavení</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Teď ne</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Přejdi ve svém zařízení do nastavení VPN pro DuckDuckGo a vyber <b>Vždy zapnout</b> VPN. Tím zabráníš vypnutí naší ochrany v systému Android.\n\nUjisti se, že ostatní nastavení jsou vypnutá.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Problémům s aplikací předejdeš tak, že v <b>nastavení VPN ve svém zařízení pro DuckDuckGo</b> zakážeš možnost <b>Blokovat připojení bez VPN</b>.]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Přejdi ve svém zařízení do nastavení VPN pro Tragogo a vyber <b>Vždy zapnout</b> VPN. Tím zabráníš vypnutí naší ochrany v systému Android.\n\nUjisti se, že ostatní nastavení jsou vypnutá.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Problémům s aplikací předejdeš tak, že v <b>nastavení VPN ve svém zařízení pro Tragogo</b> zakážeš možnost <b>Blokovat připojení bez VPN</b>.]]></string>
     <string name="atp_AlwaysOnModalHeading">Nastavit na Vždy zapnout</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Změň si nastavení sítě VPN</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Je potřeba něco udělat!</b> Pokud se chceš vyhnout problémům s aplikací, musíš změnit nastavení systému Android. <annotation type="open_settings_link">Změnit nastavení</annotation></string>
@@ -442,14 +442,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Nech si posílat aktualizace o zablokovaných pokusech o sledování na lištu s oznámeními.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Nemůžeš používat funkci App Tracking Protection kvůli své VPN? Přejdi na DuckDuckGo VPN – jedinou kompatibilní VPN. <annotation type="ppro_upsell_link">Další informace</annotation></string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nemůžeš používat funkci App Tracking Protection kvůli své VPN? Přejdi na DuckDuckGo VPN – jedinou kompatibilní VPN. <annotation type="ppro_upsell_link">Vyzkoušej ji zdarma!</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>Funkce App Tracking Protection je zakázaná</b>\nZakázala tvoje VPN funkci App Tracking Protection? Přepínačem nahoře ji znovu zapneš.\n\nPořiď si DuckDuckGo VPN – jedinou VPN, která funguje s funkcí App Tracking Protection. <annotation type="ppro_upsell_link">Další informace</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Funkce App Tracking Protection je zakázaná</b>\nZakázala tvoje VPN funkci App Tracking Protection? Přepínačem nahoře ji znovu zapneš.\n\nPřejdi na DuckDuckGo VPN – jedinou VPN, která je kompatibilní s funkcí App Tracking Protection. <annotation type="ppro_upsell_link">Vyzkoušej ji zdarma!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled">Nemůžeš používat funkci App Tracking Protection kvůli své VPN? Přejdi na Tragogo VPN – jedinou kompatibilní VPN. <annotation type="ppro_upsell_link">Další informace</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Nemůžeš používat funkci App Tracking Protection kvůli své VPN? Přejdi na Tragogo VPN – jedinou kompatibilní VPN. <annotation type="ppro_upsell_link">Vyzkoušej ji zdarma!</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>Funkce App Tracking Protection je zakázaná</b>\nZakázala tvoje VPN funkci App Tracking Protection? Přepínačem nahoře ji znovu zapneš.\n\nPořiď si Tragogo VPN – jedinou VPN, která funguje s funkcí App Tracking Protection. <annotation type="ppro_upsell_link">Další informace</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>Funkce App Tracking Protection je zakázaná</b>\nZakázala tvoje VPN funkci App Tracking Protection? Přepínačem nahoře ji znovu zapneš.\n\nPřejdi na Tragogo VPN – jedinou VPN, která je kompatibilní s funkcí App Tracking Protection. <annotation type="ppro_upsell_link">Vyzkoušej ji zdarma!</annotation>.</string>
     <string name="apptp_PproUpsellBannerTitle">Posuň ochranu svého soukromí na vyšší úroveň</string>
-    <string name="apptp_PproUpsellBannerMessage">Jedinou VPN, která je kompatibilní s funkcí App Tracking Protection, má DuckDuckGo. Aktivovat ji můžeš s předplatným Privacy Pro.</string>
+    <string name="apptp_PproUpsellBannerMessage">Jedinou VPN, která je kompatibilní s funkcí App Tracking Protection, má Tragogo. Aktivovat ji můžeš s předplatným Privacy Pro.</string>
     <string name="apptp_PproUpsellBannerAction">Více informací</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Předplať si DuckDuckGo a získáš jedinou VPN, která je kompatibilní s funkcí App Tracking Protection.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Předplať si Tragogo a získáš jedinou VPN, která je kompatibilní s funkcí App Tracking Protection.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Vyzkoušej to zdarma!</string>
 
     <!-- Content Descriptions -->

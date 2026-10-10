@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Last opp et bilde</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Velg fil</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Ta bilde</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Tillat DuckDuckGo å be om kameratilgang på denne enheten</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Nettsteder kan bare bruke kameraet ditt hvis du lar DuckDuckGo be om tilgang.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Tillat Tragogo å be om kameratilgang på denne enheten</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Nettsteder kan bare bruke kameraet ditt hvis du lar Tragogo be om tilgang.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Åpne innstillinger</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Avbryt</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Fikk ikke tilgang til lydopptaker</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tillat DuckDuckGo å be om tilgang til lydopptaker på denne enheten</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Nettsteder kan bare bruke lydopptakeren hvis du lar DuckDuckGo be om tilgang.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Tillat Tragogo å be om tilgang til lydopptaker på denne enheten</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">Nettsteder kan bare bruke lydopptakeren hvis du lar Tragogo be om tilgang.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI-funksjoner</string>
-    <string name="duck_chat_settings_activity_description">AI-funksjonene i DuckDuckGo er private og valgfrie.\nDataene dine brukes ikke til å trene AI.\n<annotation type="learn_more_link">Les mer</annotation></string>
+    <string name="duck_chat_settings_activity_description">AI-funksjonene i Tragogo er private og valgfrie.\nDataene dine brukes ikke til å trene AI.\n<annotation type="learn_more_link">Les mer</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Chat privat med populære tredjeparts AI-modeller</string>
     <string name="duck_chat_visibility_setting">Nettlesermeny</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Ofte</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">Bruk DuckDuckGo uten AI</string>
+    <string name="duckAiUseWithoutAiTitle">Bruk Tragogo uten AI</string>
     <string name="duckAiUseWithoutAiDescription">Deaktiverer Duck.ai, skjuler AI-assisterte svar i søk og filtrerer ut kjente AI-søppelnettsteder i bildesøkresultatene.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">AI er deaktivert i nettleseren, så du ser ikke lenger AI-assisterte svar, og du ser færre AI-genererte bilder i bildesøkresultatene.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Kunne ikke eksportere chatten</string>
     <string name="duck_ai_chat_history_bulk_download_error">Kunne ikke eksportere chattene</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">Søk med DuckDuckGo</string>
+    <string name="duckAiChatSearchTragogo">Søk med Tragogo</string>
     <string name="native_input_chat_hint">Spør om hva som helst, privat …</string>
     <string name="native_input_chat_duck_mode_hint">Svar …</string>
 

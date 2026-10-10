@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Problemer med innlasting av nettsteder</string>
     <string name="websiteNotLoadingTitleShort">Problemer med innlasting av nettsteder</string>
     <string name="websiteNotLoadingSubtitle">Hvilket nettsted fungerer ikke?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo-søket er ikke bra nok</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo-søkeproblemer</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo-søket er ikke bra nok</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo-søkeproblemer</string>
     <string name="searchNotGoodEnoughSubtitle">Hvilken søkefunksjon kan vi legge til eller forbedre?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmerings- og tekniske søk</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Layout burde ligne mer på Google</string>

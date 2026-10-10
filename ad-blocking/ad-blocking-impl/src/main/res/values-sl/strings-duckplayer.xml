@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
     <string name="duck_player_cancel">Prekliči</string>
     <string name="duck_player_setting_title">Duck Player</string>
     <string name="duck_player_settings_activity_title">Duck Player</string>
-    <string name="duck_player_settings_activity_description">Predvajalnik Duck Player vam s pomočjo DuckDuckGo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.\n<annotation type="learn_more_link">Več o tem</annotation></string>
+    <string name="duck_player_settings_activity_description">Predvajalnik Duck Player vam s pomočjo Tragogo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.\n<annotation type="learn_more_link">Več o tem</annotation></string>
     <string name="duck_player_settings_video_preferences_header">Nastavitve videoposnetkov</string>
-    <string name="duck_player_settings_unavailable_description">Predvajalnik Duck Player vam s pomočjo DuckDuckGo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.</string>
+    <string name="duck_player_settings_unavailable_description">Predvajalnik Duck Player vam s pomočjo Tragogo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.</string>
     <string name="duck_player_mode_always">Vedno</string>
     <string name="duck_player_mode_never">Nikoli</string>
     <string name="duck_player_mode_always_ask">Vprašaj vsakič</string>
@@ -31,7 +31,7 @@
     <string name="duck_player_close_modal_content_description">Zapri</string>
     <string name="duck_player_info_modal_title_from_duck_player_page">Se utapljate v oglasih na YouTubu? S predvajalnikom Duck Player bo to preteklost!</string>
     <string name="duck_player_info_modal_title_from_overlay">Se utapljate v oglasih na YouTubu? Preizkusite Duck Player!</string>
-    <string name="duck_player_info_modal_text">Predvajalnik Duck Player vam s pomočjo DuckDuckGo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.</string>
+    <string name="duck_player_info_modal_text">Predvajalnik Duck Player vam s pomočjo Tragogo omogoča gledanje YouTuba brez ciljanih oglasov, kar gledate pa ne bo vplivalo na vaša priporočila.</string>
     <string name="duck_player_info_modal_button">Razumem!</string>
     <string name="duck_player_unavailable">Predvajalnik Duck Player ni na voljo</string>
     <string name="duck_player_unavailable_learn_more">Več</string>

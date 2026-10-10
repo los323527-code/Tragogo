@@ -16,8 +16,8 @@
     <string name="websiteNotLoadingTitleLong">Veebisaidi laadimisega seotud probleemid</string>
     <string name="websiteNotLoadingTitleShort">Veebisaidi laadimisega seotud probleemid</string>
     <string name="websiteNotLoadingSubtitle">Milline veebisait on katki?</string>
-    <string name="searchNotGoodEnoughTitleLong">DuckDuckGo otsing pole piisavalt hea</string>
-    <string name="searchNotGoodEnoughTitleShort">DuckDuckGo otsingu probleemid</string>
+    <string name="searchNotGoodEnoughTitleLong">Tragogo otsing pole piisavalt hea</string>
+    <string name="searchNotGoodEnoughTitleShort">Tragogo otsingu probleemid</string>
     <string name="searchNotGoodEnoughSubtitle">Millist otsingufunktsiooni saame lisada või täiustada?</string>
     <string name="searchNotGoodEnoughSubReasonTechnicalSearches">Programmeerimine / tehniline otsing</string>
     <string name="searchNotGoodEnoughSubReasonGoogleLayout">Paigutus peaks olema rohkem nagu Google</string>

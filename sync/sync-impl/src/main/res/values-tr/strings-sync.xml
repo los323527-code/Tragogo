@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2021 DuckDuckGo
+  ~ Copyright (c) 2021 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,11 +19,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Sync Disabled messages -->
     <string name="sync_flows_disabled"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="sync_flows_disabled_new_version"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen DuckDuckGo\'yu en son sürüme güncelleyin.</string>
+    <string name="sync_flows_disabled_new_version"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen Tragogo\'yu en son sürüme güncelleyin.</string>
     <string name="sync_create_account_disabled"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="sync_create_account_disabled_new_version"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen DuckDuckGo\'yu en son sürüme güncelleyin.</string>
+    <string name="sync_create_account_disabled_new_version"><b>Senkronizasyon ve Yedekleme Kullanılamıyor</b>\nÜzgünüz, Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen Tragogo\'yu en son sürüme güncelleyin.</string>
     <string name="sync_disabled_authenticated_user"><b>Senkronizasyon ve Yedekleme Duraklatıldı</b>\nÜzgünüz, Senkronizasyon ve Yedekleme şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
-    <string name="sync_disabled_authenticated_user_new_version"><b>Senkronizasyon ve Yedekleme Duraklatıldı</b>\nÜzgünüz, ancak Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen DuckDuckGo\'yu en son sürüme güncelleyin.</string>
+    <string name="sync_disabled_authenticated_user_new_version"><b>Senkronizasyon ve Yedekleme Duraklatıldı</b>\nÜzgünüz, ancak Senkronizasyon ve Yedekleme artık bu uygulama sürümünde kullanılamıyor. Devam etmek için lütfen Tragogo\'yu en son sürüme güncelleyin.</string>
     <string name="sync_paused_notification"><b>Senkronizasyon ve Yedekleme Duraklatıldı</b>\nÜzgünüz, Senkronizasyon ve Yedekleme şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin.</string>
     <string name="sync_error_notification"><b>Senkronizasyon Hatası</b>\nSync &amp; Backup geçici olarak kullanılamıyor.</string>
     <string name="sync_error_warning"><b>Senkronizasyon Hatası</b>\nSync &amp; Backup geçici olarak kullanılamıyor.</string>
@@ -35,13 +35,13 @@
     <string name="sync_setup_with_another_device_cta_title">Başka Bir Cihazla Senkronize Et</string>
     <string name="sync_setup_with_another_device_cta_subtitle">Yer imlerini ve parolaları cihazlarınız arasında güvenli bir şekilde senkronize edin.</string>
     <string name="sync_setup_with_another_device_cta_subtitle_with_ai_chat">Yer işaretleri, şifreler ve Duck.ai sohbetlerini cihazlarınız arasında güvenli bir şekilde senkronize edin.</string>
-    <string name="sync_off_hint">Verileriniz uçtan uca şifrelenir ve DuckDuckGo\'nun şifreleme anahtarına erişimi yoktur.</string>
+    <string name="sync_off_hint">Verileriniz uçtan uca şifrelenir ve Tragogo\'nun şifreleme anahtarına erişimi yoktur.</string>
     <string name="sync_setup_single_device_title">Tek Cihaz Kurulumu</string>
     <string name="sync_setup_other_options_title">Diğer Seçenekler</string>
     <string name="sync_setup_single_recover_data_cta_title">Senkronize Edilen Verileri Kurtar</string>
     <string name="sync_setup_single_sync_this_device_cta_title">Bu Cihazı Senkronize Et ve Yedekle</string>
 
-    <string name="sync_off_encrypted_hint">Verileriniz uçtan uca şifrelenir ve DuckDuckGo\'nun şifre çözme anahtarına erişimi yoktur.</string>
+    <string name="sync_off_encrypted_hint">Verileriniz uçtan uca şifrelenir ve Tragogo\'nun şifre çözme anahtarına erişimi yoktur.</string>
 
     <!-- Setup screen -->
     <string name="sync_enable_sync_title">Senkronizasyon ve Yedeklemeyi Ayarlama</string>
@@ -52,8 +52,8 @@
     <string name="sync_enable_option_favicons_subtitle">Senkronize edilmiş yer imleri için simgeleri otomatik olarak indirin.</string>
     <string name="sync_enable_connecting">Bağlantı kuruluyor...</string>
     <string name="sync_intro_enable_title">Bu Cihazı Senkronize Et ve Yedekle</string>
-    <string name="sync_intro_enable_content">Bu, DuckDuckGo\'nun güvenli sunucusunda yer işaretlerinizin ve parolalarınızın diğer cihazlarınızla senkronize edilebilen şifreli bir yedeğini oluşturur. \n\n Şifreleme anahtarı sadece cihazınızda saklanır, DuckDuckGo buna erişemez.</string>
-    <string name="sync_intro_enable_content_with_ai_chat">Bu işlem, yer işaretleri, şifreler ve Duck.ai sohbetlerinin şifrelenmiş bir yedeğini DuckDuckGo\'nun güvenli sunucusunda oluşturur ve bunlar diğer cihazlarınızla senkronize edilebilir. \n\n Şifreleme anahtarı sadece cihazınızda saklanır ve DuckDuckGo bu anahtara erişemez.</string>
+    <string name="sync_intro_enable_content">Bu, Tragogo\'nun güvenli sunucusunda yer işaretlerinizin ve parolalarınızın diğer cihazlarınızla senkronize edilebilen şifreli bir yedeğini oluşturur. \n\n Şifreleme anahtarı sadece cihazınızda saklanır, Tragogo buna erişemez.</string>
+    <string name="sync_intro_enable_content_with_ai_chat">Bu işlem, yer işaretleri, şifreler ve Duck.ai sohbetlerinin şifrelenmiş bir yedeğini Tragogo\'nun güvenli sunucusunda oluşturur ve bunlar diğer cihazlarınızla senkronize edilebilir. \n\n Şifreleme anahtarı sadece cihazınızda saklanır ve Tragogo bu anahtara erişemez.</string>
     <string name="sync_intro_enable_footer">Daha sonra diğer cihazlarınızla senkronize edebilirsiniz.</string>
     <string name="sync_intro_enable_cta">Senkronizasyon ve Yedekleme\'yi açın</string>
     <!-- Recover Synced Data Intro Screen -->
@@ -71,15 +71,15 @@
 
     <!-- Connect screen -->
     <string name="connect_screen_title">QR Kodunu Tara</string>
-    <string name="connect_screen_scan_qr_hint">Diğer cihazında DuckDuckGo uygulamasını açın ve <b>Ayarlar &gt; Senkronizasyon ve Yedekleme &gt; Başka Bir Cihazla Senkronize Et</b> bölümüne gidin.</string>
+    <string name="connect_screen_scan_qr_hint">Diğer cihazında Tragogo uygulamasını açın ve <b>Ayarlar &gt; Senkronizasyon ve Yedekleme &gt; Başka Bir Cihazla Senkronize Et</b> bölümüne gidin.</string>
     <string name="connect_screen_enter_code_cta">Kodu Manuel Olarak Yaz</string>
-    <string name="connect_screen_connect_qr_hint_title">Veya diğer cihazınızda DuckDuckGo ile tarayın</string>
-    <string name="connect_screen_connect_qr_hint_content">Diğer cihazınızda DuckDuckGo\'yu açın ve senkronizasyon için bu kodu tarayın.</string>
+    <string name="connect_screen_connect_qr_hint_title">Veya diğer cihazınızda Tragogo ile tarayın</string>
+    <string name="connect_screen_connect_qr_hint_content">Diğer cihazınızda Tragogo\'yu açın ve senkronizasyon için bu kodu tarayın.</string>
     <string name="connect_screen_share_code">Kodu Kopyala</string>
 
     <!-- Enter Code screen -->
     <string name="enter_code_screen_title">Kodu Manuel Olarak Yaz</string>
-    <string name="sync_enter_code_hint"><b>Ayarlar &gt; Senkronizasyon ve Yedekleme &gt; Başka Bir Cihazla Senkronize Et</b>\'e gidin ve senkronize edilmiş başka bir cihazdaki DuckDuckGo Uygulamasında<b> Metin Kodunu Görüntüle</b>\'yi seçin ve bu cihazı senkronize etmek için kodu buraya yapıştırın.</string>
+    <string name="sync_enter_code_hint"><b>Ayarlar &gt; Senkronizasyon ve Yedekleme &gt; Başka Bir Cihazla Senkronize Et</b>\'e gidin ve senkronize edilmiş başka bir cihazdaki Tragogo Uygulamasında<b> Metin Kodunu Görüntüle</b>\'yi seçin ve bu cihazı senkronize etmek için kodu buraya yapıştırın.</string>
     <string name="sync_enter_code_verifying">Kod doğrulanıyor</string>
     <string name="sync_enter_code_invalid">⚠️ Geçersiz Kod</string>
     <string name="sync_enter_code_paste">Kodu Yapıştır</string>
@@ -104,7 +104,7 @@
 
     <string name="synced_devices_section_title">Senkronize Edilmiş Cihazlar</string>
     <string name="sync_new_device_section_title">Yeni Cihazı Senkronize Et</string>
-    <string name="sync_new_device_hint">Farklı bir cihazdaki DuckDuckGo Uygulamasında Ayarlar &gt; Senkronizasyon ve Yedekleme bölümüne gidin ve anında bağlanmak için tarama yapın.</string>
+    <string name="sync_new_device_hint">Farklı bir cihazdaki Tragogo Uygulamasında Ayarlar &gt; Senkronizasyon ve Yedekleme bölümüne gidin ve anında bağlanmak için tarama yapın.</string>
     <string name="sync_show_text_code_item">Metin Kodunu Göster</string>
     <string name="sync_show_qr_code_item">QR Kodunu Tara</string>
     <string name="sync_save_recovery_code_item">Kurtarma PDF\'ini Kaydet</string>
@@ -124,10 +124,10 @@
     <string name="sync_pdf_description">Kurtarma kodu, parolalarınızı, otomatik doldurma verilerinizi ve Duck.ai sohbetlerinizi birden fazla cihaz arasında senkronize etmenize ve bir cihaza erişiminizi kaybettiğinizde senkronize edilmiş verilerinizi kurtarmanıza olanak tanır.</string>
     <string name="sync_code_box_title">Bu bilgileri güvende tutun.</string>
     <string name="sync_instructions_title">Bu kod nasıl çalışıyor?</string>
-    <string name="sync_instructions_step1">Senkronize etmek istediğiniz cihazda DuckDuckGo uygulamasını açın ve Ayarlar\'da Sync &amp; Backup bölümüne gidin.</string>
+    <string name="sync_instructions_step1">Senkronize etmek istediğiniz cihazda Tragogo uygulamasını açın ve Ayarlar\'da Sync &amp; Backup bölümüne gidin.</string>
     <string name="sync_instructions_step2">\'Başka Bir Cihazla Senkronize Et\'i seçin ve QR kodunu tarayın veya metin kodunu girin.</string>
     <string name="sync_instructions_step3">Senkronizasyon etkinleştirilecek ve tüm verilerinize tekrar erişebileceksiniz.</string>
-    <string name="sync_pdf_retention_notice">Sync &amp; Backup etkinleştirilmiş bir DuckDuckGo tarayıcısını 18 aydan uzun süre kullanmazsanız verileriniz sunucudan silinir ve geri yüklenemez.</string>
+    <string name="sync_pdf_retention_notice">Sync &amp; Backup etkinleştirilmiş bir Tragogo tarayıcısını 18 aydan uzun süre kullanmazsanız verileriniz sunucudan silinir ve geri yüklenemez.</string>
     <string name="remove_device_dialog_title">Cihaz Kaldırılsın mı?</string>
     <string name="remove_device_dialog_content" instruction="Placeholder is a device name">\"%1$s\" artık senkronize edilmiş verilerinize erişemeyecektir.</string>
     <string name="remove_device_dialog_primary_button">Kaldır</string>
@@ -191,10 +191,10 @@
     <string name="syncPromoSecondaryButton">Hayır Teşekkürler</string>
 
     <!-- Sync get apps on other platforms -->
-    <string name="syncGetAppsOnOtherPlatforms">DuckDuckGo\'yu Diğer Cihazlarda Edinin</string>
-    <string name="syncGetAppsOnOtherPlatformsTitle">Bu cihazla senkronize etmek için DuckDuckGo\'yu diğer cihazlara yükleyin</string>
-    <string name="syncGetAppsOnOtherPlatformsActivityTitle">DuckDuckGo\'yu edinin</string>
-    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">DuckDuckGo\'yu masaüstüne veya başka bir mobil cihaza indirmek için şu adresi ziyaret edin:</string>
+    <string name="syncGetAppsOnOtherPlatforms">Tragogo\'yu Diğer Cihazlarda Edinin</string>
+    <string name="syncGetAppsOnOtherPlatformsTitle">Bu cihazla senkronize etmek için Tragogo\'yu diğer cihazlara yükleyin</string>
+    <string name="syncGetAppsOnOtherPlatformsActivityTitle">Tragogo\'yu edinin</string>
+    <string name="syncGetAppsOnOtherPlatformInstruction" instruction="A URL will be shown after this string">Tragogo\'yu masaüstüne veya başka bir mobil cihaza indirmek için şu adresi ziyaret edin:</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrl" translatable="false">duckduckgo.com/app</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlDownloadButton">İndirme Bağlantısını Paylaş</string>
     <string name="syncGetAppsOnOtherPlatformInstructionUrlLinkCopied" instruction="This is shown after the user taps on the link, to confirm it was copied to their device clipboard">Bağlantı kopyalandı</string>
@@ -207,7 +207,7 @@
 
     <!-- Deep link sync setup -->
     <string name="sync_setup_deep_link_confirmation_dialog_title">Yeni cihaz senkronize edilsin mi?</string>
-    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" senkronize edilmiş DuckDuckGo verilerinize erişebilecek.</string>
+    <string name="sync_setup_deep_link_confirmation_dialog_message" instruction="Placeholder is a device name. e.g., Samsung S23">\"%1$s\" senkronize edilmiş Tragogo verilerinize erişebilecek.</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_positive">Şimdi Senkronize Et</string>
     <string name="sync_setup_deep_link_confirmation_dialog_button_negative">Vazgeç</string>
 
@@ -220,7 +220,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Masaüstü Tarayıcısını Edinin</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">Mac ve Windows için DuckDuckGo</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Mac ve Windows için Tragogo</string>
 
     <!-- Sync Settings Recovery Section -->
     <string name="sync_settings_recovery_section_header">Kurtarma</string>
@@ -230,7 +230,7 @@
 
     <!-- Previous Session Ready Screen -->
     <string name="sync_previous_session_ready_title">Önceki kurulumdan Sync &amp; Backup verileri geri yüklensin mi?</string>
-    <string name="sync_previous_session_ready_body">DuckDuckGo\'ya önceki yer işaretleri, şifreleri ve diğer verileri almak için geri yükleyin.</string>
+    <string name="sync_previous_session_ready_body">Tragogo\'ya önceki yer işaretleri, şifreleri ve diğer verileri almak için geri yükleyin.</string>
     <string name="sync_previous_session_ready_resume_cta">Sync &amp; Backup\'ı geri yükleyin</string>
     <string name="sync_previous_session_ready_continue_cta">Yeni Senkronizasyon Ayarlayın</string>
 
@@ -240,13 +240,13 @@
     <string name="sync_recover_data_recovery_code_label">Kurtarma Kodu</string>
     <string name="sync_recover_data_download_pdf">PDF olarak indir</string>
     <string name="sync_restore_on_reinstall_title">Uygulama Yeniden Yüklendiğinde Geri Yükle</string>
-    <string name="sync_restore_on_reinstall_description">DuckDuckGo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
+    <string name="sync_restore_on_reinstall_description">Tragogo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
 
     <!-- Chat sync promo -->
     <string name="sync_chat_promo_banner_title">Sync &amp; Backup özelliğini kullanarak sohbetlerinize tüm cihazlarınızdan erişin.</string>
     <string name="sync_chat_promo_banner_cta_title">Başka Bir Cihazla Senkronize Et</string>
     <string name="sync_chat_bottom_sheet_title">Sohbetlerinizi cihazlarınız arasında senkronize edelim!</string>
-    <string name="sync_chat_bottom_sheet_description">Diğer cihazınızdaki DuckDuckGo uygulamasında Ayarlar › Sync &amp; Backup › Başka Bir Cihazla Senkronize Et seçeneğine giderek QR kodunu bulun.</string>
+    <string name="sync_chat_bottom_sheet_description">Diğer cihazınızdaki Tragogo uygulamasında Ayarlar › Sync &amp; Backup › Başka Bir Cihazla Senkronize Et seçeneğine giderek QR kodunu bulun.</string>
     <string name="sync_chat_bottom_sheet_positive">QR kodunu tara</string>
     <string name="sync_chat_bottom_sheet_negative">Şimdi Değil</string>
 
@@ -260,17 +260,17 @@
     <string name="sync_v2_host_confirmation_negative">İptal</string>
 
     <!-- v2 consent-dialog data-access copy (kind-specific; shared by joiner & host) -->
-    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\", senkronize edilmiş DuckDuckGo şifrelerinize, otomatik doldurma verilerinize ve Duck.ai sohbetlerinize erişebilecek.</string>
+    <string name="sync_v2_confirmation_message_ddg" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\", senkronize edilmiş Tragogo şifrelerinize, otomatik doldurma verilerinize ve Duck.ai sohbetlerinize erişebilecek.</string>
     <string name="sync_v2_confirmation_message_3p" instruction="Placeholder is a peer device name, e.g. Samsung S23.">\"%1$s\", senkronize edilmiş Duck.ai sohbetlerinize erişebilecek.</string>
-    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Diğer cihaz, senkronize edilmiş DuckDuckGo şifrelerinize, otomatik doldurma verilerinize ve Duck.ai sohbetlerinize erişebilecek.</string>
+    <string name="sync_v2_confirmation_message_unknown_peer_ddg">Diğer cihaz, senkronize edilmiş Tragogo şifrelerinize, otomatik doldurma verilerinize ve Duck.ai sohbetlerinize erişebilecek.</string>
     <string name="sync_v2_confirmation_message_unknown_peer_3p">Diğer cihaz, senkronize edilmiş Duck.ai sohbetlerinize erişebilecek.</string>
 
     <!-- v2 pairing terminal-outcome copy (interim, English-only). Spec 2026-06-17 (title-primary). -->
     <string name="sync_v2_error_pairing_failed">Senkronizasyon başarısız oldu.</string>
     <string name="sync_v2_error_pairing_rejected">Diğer cihazınızdan senkronizasyon iptal edildi.</string>
     <string name="sync_v2_error_pairing_canceled">Senkronizasyon iptal edildi.</string>
-    <string name="sync_v2_error_upgrade_required">DuckDuckGo tarayıcısını güncelleyin ve tekrar deneyin.</string>
-    <string name="sync_v2_error_third_party_already_upgraded">Lütfen bu cihazı, başka bir cihazda zaten bağlı olan bir DuckDuckGo tarayıcısından senkronize edin</string>
+    <string name="sync_v2_error_upgrade_required">Tragogo tarayıcısını güncelleyin ve tekrar deneyin.</string>
+    <string name="sync_v2_error_third_party_already_upgraded">Lütfen bu cihazı, başka bir cihazda zaten bağlı olan bir Tragogo tarayıcısından senkronize edin</string>
     <string name="sync_v2_error_try_again">Lütfen tekrar deneyin.</string>
     <string name="sync_v2_error_got_it">Anladım</string>
     <string name="sync_v2_already_paired_title">Zaten senkronize edildi.</string>
@@ -279,10 +279,10 @@
     <!-- Simplified Sync -->
 
     <!-- Sync settings screen: header -->
-    <string name="sync_simplified_settings_header_headline_disabled">DuckDuckGo\'yu senkronize tutun!</string>
-    <string name="sync_simplified_settings_header_headline_enabled">DuckDuckGo senkronize durumda.</string>
-    <string name="sync_simplified_settings_header_body_disabled">Otomatik doldurma verilerinizi ve yer işaretlerinizi DuckDuckGo uygulamalarınız arasında uçtan uca şifreli olarak senkronize edin ve yedekleyin.</string>
-    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Otomatik doldurma verilerinizi, yer işaretlerinizi ve Duck.ai sohbetlerinizi DuckDuckGo uygulamalarınız arasında uçtan uca şifreli olarak senkronize edin ve yedekleyin.</string>
+    <string name="sync_simplified_settings_header_headline_disabled">Tragogo\'yu senkronize tutun!</string>
+    <string name="sync_simplified_settings_header_headline_enabled">Tragogo senkronize durumda.</string>
+    <string name="sync_simplified_settings_header_body_disabled">Otomatik doldurma verilerinizi ve yer işaretlerinizi Tragogo uygulamalarınız arasında uçtan uca şifreli olarak senkronize edin ve yedekleyin.</string>
+    <string name="sync_simplified_settings_header_body_disabled_with_duck_ai">Otomatik doldurma verilerinizi, yer işaretlerinizi ve Duck.ai sohbetlerinizi Tragogo uygulamalarınız arasında uçtan uca şifreli olarak senkronize edin ve yedekleyin.</string>
     <string name="sync_simplified_settings_header_body_enabled">Yer işaretleriniz ve otomatik doldurma verileriniz uçtan uca şifreleme ile senkronize ediliyor ve yedekleniyor.</string>
     <string name="sync_simplified_settings_header_body_enabled_with_duck_ai">Yer işaretleriniz, otomatik doldurma verileriniz ve Duck.ai sohbetleriniz uçtan uca şifreleme ile senkronize ediliyor ve yedekleniyor.</string>
 
@@ -300,7 +300,7 @@
     <string name="sync_simplified_settings_bookmarks_section_header">Yer İmleri</string>
     <string name="sync_simplified_settings_recovery_section_header">Kurtarma</string>
     <string name="sync_simplified_settings_restore_on_reinstall_item">Uygulama Yeniden Yüklendiğinde Geri Yükle</string>
-    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">DuckDuckGo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
+    <string name="sync_simplified_settings_restore_on_reinstall_item_hint">Tragogo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
     <string name="sync_simplified_settings_copy_recovery_code_item">Kurtarma Kodunuzu Kopyalayın</string>
     <string name="sync_simplified_settings_download_recovery_code_item">Kurtarma Kodunuzu İndirin</string>
     <string name="sync_simplified_settings_download_recovery_code_item_hint">Bu kodu kaydedin ve güvenli bir yerde tutun. Böylece bu cihaza erişiminizi kaybederseniz verilerinizi kurtarabilirsiniz.</string>
@@ -312,7 +312,7 @@
     <!-- Sync settings screen: both states -->
     <string name="sync_simplified_settings_notify_me_title">Bildirimler devre dışı bırakıldı</string>
     <string name="sync_simplified_settings_notify_me_body">Sync &amp; Backup bir hatayla karşılaştığında bildirim alın.</string>
-    <string name="sync_simplified_settings_get_other_devices_item">DuckDuckGo\'yu Diğer Cihazlarda Edinin</string>
+    <string name="sync_simplified_settings_get_other_devices_item">Tragogo\'yu Diğer Cihazlarda Edinin</string>
     <string name="sync_simplified_settings_get_desktop_browser_item">Masaüstü Tarayıcısını Edinin</string>
 
     <!-- Sync settings screen: delete server data dialog -->
@@ -351,7 +351,7 @@
 
     <!-- Scanner screen: camera tab -->
     <string name="sync_simplified_scanner_camera_header_headline">Senkronize etmek için QR kodunu tara</string>
-    <string name="sync_simplified_scanner_camera_header_body"><annotation type="icon">￼</annotation> <b><annotation type="highlight">Masaüstü için DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>uygulamasını açın ve <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Başka Bir Cihazla Senkronize Et</annotation>bölümüne gidin</string>
+    <string name="sync_simplified_scanner_camera_header_body"><annotation type="icon">￼</annotation> <b><annotation type="highlight">Masaüstü için Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>uygulamasını açın ve <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Başka Bir Cihazla Senkronize Et</annotation>bölümüne gidin</string>
     <string name="sync_simplified_scanner_camera_primary_button">Taramaya Hazırım</string>
     <string name="sync_simplified_scanner_camera_invalid_code_message">Üzgünüz, taranan kod geçersiz.</string>
     <string name="sync_simplified_scanner_no_permission_headline">Kamera İzni Gereklidir</string>
@@ -361,7 +361,7 @@
 
     <!-- Scanner screen: manual entry tab -->
     <string name="sync_simplified_scanner_manual_entry_header_headline">Senkronizasyon kodunu girin</string>
-    <string name="sync_simplified_scanner_manual_entry_header_body">Diğer <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo Uygulamanızı</annotation></b> açın <annotation type="gap">\n</annotation>Şu sırayı takip edin: <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Başka Bir Cihazla Senkronize Et</annotation> › <annotation type="highlight">Metin Kodunu Kopyala</annotation></string>
+    <string name="sync_simplified_scanner_manual_entry_header_body">Diğer <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo Uygulamanızı</annotation></b> açın <annotation type="gap">\n</annotation>Şu sırayı takip edin: <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Başka Bir Cihazla Senkronize Et</annotation> › <annotation type="highlight">Metin Kodunu Kopyala</annotation></string>
     <string name="sync_simplified_scanner_manual_entry_example_code_label">Örnek Kod:</string>
     <string name="sync_simplified_scanner_manual_entry_primary_button">Senkronizasyon Kodunu Yapıştır</string>
     <string name="sync_simplified_scanner_manual_entry_invalid_code_message">Üzgünüz, yapıştırılan kod geçersiz.</string>
@@ -369,7 +369,7 @@
     <!-- QR Code screen -->
     <string name="sync_simplified_qr_code_screen_title">QR Kodu</string>
     <string name="sync_simplified_qr_code_header_headline">Başka bir cihazdan tarayın</string>
-    <string name="sync_simplified_qr_code_header_body">Başka bir cihazda <annotation type="icon">￼</annotation> <b><annotation type="highlight">DuckDuckGo</annotation></b>\n<annotation type="gap">\n</annotation>uygulamasını açın ve <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sync With Another Device</annotation> bölümüne gidip bu kodu tarayın:</string>
+    <string name="sync_simplified_qr_code_header_body">Başka bir cihazda <annotation type="icon">￼</annotation> <b><annotation type="highlight">Tragogo</annotation></b>\n<annotation type="gap">\n</annotation>uygulamasını açın ve <annotation type="highlight">Sync &amp; Backup</annotation> › <annotation type="highlight">Sync With Another Device</annotation> bölümüne gidip bu kodu tarayın:</string>
     <string name="sync_simplified_qr_code_copy_button">Metin Kodunu Kopyala</string>
     <string name="sync_simplified_qr_code_share_button">Paylaş</string>
     <string name="sync_simplified_qr_code_copied_message">Kurtarma Kodu Kopyalandı</string>
@@ -399,7 +399,7 @@
     <string name="sync_simplified_recovery_code_label">Kurtarma Kodu</string>
     <string name="sync_simplified_recovery_code_download_button">Kurtarma Kodunuzu İndirin</string>
     <string name="sync_simplified_recovery_code_restore_on_reinstall_item">Uygulama Yeniden Yüklendiğinde Geri Yükle</string>
-    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">DuckDuckGo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
+    <string name="sync_simplified_recovery_code_restore_on_reinstall_item_hint">Tragogo uygulamasını yeniden yüklerseniz, verilerinizi bu cihazda geri yüklemek isteyip istemediğinizi sorarız.</string>
     <string name="sync_simplified_recovery_code_primary_button">Bitti</string>
     <string name="sync_simplified_recovery_code_copied_message">Kurtarma Kodu Kopyalandı</string>
     <string name="sync_simplified_recovery_code_storage_permission_message">Kurtarma PDF\'ini kaydetmek için depolama izni gereklidir</string>
@@ -441,7 +441,7 @@
 
     <!-- Deep link setup: confirmation dialog and device-auth prompt, shown on the settings screen when an inbound sync pairing link is opened -->
     <string name="sync_simplified_deep_link_confirmation_dialog_title">Yeni Cihaz Senkronize Edilsin mi?</string>
-    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">“%1$s” senkronize edilmiş DuckDuckGo verilerinize erişebilecek.</string>
+    <string name="sync_simplified_deep_link_confirmation_dialog_body" instruction="Placeholder is a device name. e.g., Samsung S23">“%1$s” senkronize edilmiş Tragogo verilerinize erişebilecek.</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_primary_button">Şimdi Senkronize Et</string>
     <string name="sync_simplified_deep_link_confirmation_dialog_secondary_button">İptal</string>
     <string name="sync_simplified_deep_link_auth_prompt_title">Sync &amp; Backup\'ı ayarlayın</string>

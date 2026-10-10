@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Posodobi uporabniško ime</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Želite posodobiti geslo za \n%1$s?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo bo posodobil to shranjeno geslo v vaši napravi.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo bo posodobil to shranjeno geslo v vaši napravi.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Zapri pogovorno okno za samodejno izpolnjevanje</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Uporabniško ime je bilo kopirano</string>
     <string name="autofillManagementPasswordCopied">Geslo je bilo kopirano</string>
 
-    <string name="autofill_password_generation_offer_title">Želite uporabiti močno geslo od DuckDuckGo?</string>
+    <string name="autofill_password_generation_offer_title">Želite uporabiti močno geslo od Tragogo?</string>
     <string name="autofill_password_generation_offer_accept">Uporabi močno geslo</string>
     <string name="autofill_password_generation_offer_decline">Ustvari svoje</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Shranite in samodejno izpolnite gesla</string>
     <string name="credentialManagementAutofillSubtitle">Gesla so šifrirana. Nihče razen vas jih ne more videti, niti mi. <annotation type="learn_more_link">Več o tem</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Varnost upravitelja gesel</string>
-    <string name="saveLoginDialogSubtitle">S funkcijo DuckDuckGo Passwords &amp; Autofill varno shranite geslo v napravo.</string>
+    <string name="saveLoginDialogSubtitle">S funkcijo Tragogo Passwords &amp; Autofill varno shranite geslo v napravo.</string>
     <string name="autofillManagementAddLogin">Dodajte geslo</string>
     <string name="credentialManagementEditLoginTitleHint">Naslov</string>
     <string name="autofillManagementDeletedConfirmation">Geslo je izbrisano</string>
@@ -206,34 +206,34 @@
         <item quantity="other">Prepričajte se, da imate še vedno možnost dostopa do svojih računov.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Shranjena gesla lahko uvozite iz drugega brskalnika v DuckDuckGo.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Shranjena gesla lahko uvozite iz drugega brskalnika v Tragogo.</string>
 
     <string name="autofillManagementImportPasswords">Uvozi gesla</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Sinhroniziraj gesla za namizje</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Kako uvoziti gesla</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Kako sinhronizirati gesla za namizje</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">V namizni različici brskalnika DuckDuckGo uvozite gesla in jih nato sinhronizirajte med napravami.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">V namizni različici brskalnika Tragogo uvozite gesla in jih nato sinhronizirajte med napravami.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Namesti namizni brskalnik</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Prenesite brskalnik DuckDuckGo za računalnike Mac ali Windows</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Brskajte zasebno in blokirajte sledilnike z namiznim brskalnikom DuckDuckGo. Za prenos obiščite to povezavo v računalniku.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Prenesite brskalnik Tragogo za računalnike Mac ali Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Brskajte zasebno in blokirajte sledilnike z namiznim brskalnikom Tragogo. Za prenos obiščite to povezavo v računalniku.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Sinhronizacija z namizjem</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Uvoz iz namiznega brskalnika:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Odprite DuckDuckGo v sistemu Mac ali Windows</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Odprite Tragogo v sistemu Mac ali Windows</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Pojdite v <b>Nastavitve</b> > <b>Gesla</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Izberite <b>Uvozi gesla</b> ... in upoštevajte korake za uvoz]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Ko jih uvozite v računalnik, lahko nastavite sinhronizacijo v tej napravi</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Pridobite namizno aplikacijo</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Prenesite DuckDuckGo za računalnike Mac ali Windows</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Prenesite Tragogo za računalnike Mac ali Windows</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">V računalniku odprite:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Prijavite težavo s samodejnim izpolnjevanjem</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Anonimno prijavite, da samodejno izpolnjevanje ne deluje na tem spletnem mestu. Gesla niso nikoli deljena.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Želite prijaviti, da samodejno izpolnjevanje ne deluje na spletnem mestu %1$s?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Poročila, poslana DuckDuckGo, so anonimna in ne vključujejo vašega uporabniškega imena, gesla ali drugih osebnih podatkov, ki omogočajo individualno prepoznavanje.\n\nPoročilo vključuje samo URL spletnega mesta in stanje nekaterih nastavitev samodejnega izpolnjevanja.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Poročila, poslana Tragogo, so anonimna in ne vključujejo vašega uporabniškega imena, gesla ali drugih osebnih podatkov, ki omogočajo individualno prepoznavanje.\n\nPoročilo vključuje samo URL spletnega mesta in stanje nekaterih nastavitev samodejnega izpolnjevanja.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Pošljite poročilo</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Prekliči</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Hvala! Vaše poročilo nam bo pomagalo izboljšati DuckDuckGo za vse.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Hvala! Vaše poročilo nam bo pomagalo izboljšati Tragogo za vse.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Ključne lastnosti</string>
@@ -265,14 +265,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Izberite datoteko CSV</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Uvoz iz namiznega brskalnika</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Uvoz v DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Uvoz v Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Uvoz je dokončan</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Razumem</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Uvoz gesel ni uspel</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Preskočeno (podvojeno ali neveljavno): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Uvožena gesla: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Odprite gesla</string>
     <string name="autofill_service_select_password_activity">Izberi shranjeno geslo</string>
 
@@ -290,16 +290,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Sinhroniziraj gesla za namizje</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Ponastavi izključena spletna mesta</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Prenesite gesla iz&lt;br /&gt;Googla v DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Hitro in varno uvozite svoja gesla v DuckDuckGo. Google vas bo morda prosil, da vnesete geslo.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Prenesite gesla iz&lt;br /&gt;Googla v Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Hitro in varno uvozite svoja gesla v Tragogo. Google vas bo morda prosil, da vnesete geslo.</string>
     <string name="passwords_import_promo_action">Uvozi iz Googla</string>
-    <string name="passwords_import_promo_in_browser_title">Prenesite gesla iz Googla v DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Prenesite gesla iz Googla v Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Ne vprašaj več</string>
     <string name="passwords_import_promo_in_settings_title">Uvozi gesla iz Googla</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Skrij se</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Uvoz v DuckDuckGo</string>
+    <string name="importToTragogo">Uvoz v Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Uvoženo iz Chroma</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Uvozi zaznamke iz Googla</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google vas bo morda prosil, da se prijavite ali vnesete geslo za potrditev.</string>
@@ -315,9 +315,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Prekliči uvoz</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Nadaljuj</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Zaznamki: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Zapri</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Nekaj je šlo narobe</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Prepričajte se, da je vzpostavljena povezava z internetom, in poskusite znova.</string>
 

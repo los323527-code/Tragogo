@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Jäta mu valik meelde</string>
     <string name="preciseLocationDDGDialogSubtitle">Kasutame sinu anonüümset asukohta ainult selleks, et pakkuda paremaid tulemusi, mis on sulle lähemal. Saad hallata asukohale juurdepääsu luba, mille sa oled andnud üksikutele saitidele valikus Seaded.</string>
     <string name="preciseLocationSiteDialogSubtitle">Saad hallata asukohale juurdepääsu luba, mille sa oled andnud üksikutele saitidele valikus Seaded.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Luba DuckDuckGo’l küsida juurdepääsu selle seadme asukohale</string>
-    <string name="systemPermissionDialogLocationDeniedContent">Saidid saavad teie asukohta kasutada ainult siis, kui lubate DuckDuckGo’l küsida sellele juurdepääsu.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Luba DuckDuckGo’l küsida juurdepääsu asukohale</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Luba Tragogo’l küsida juurdepääsu selle seadme asukohale</string>
+    <string name="systemPermissionDialogLocationDeniedContent">Saidid saavad teie asukohta kasutada ainult siis, kui lubate Tragogo’l küsida sellele juurdepääsu.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Luba Tragogo’l küsida juurdepääsu asukohale</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Saidi load</string>
@@ -45,20 +45,20 @@
     <string name="sitePermissionsDialogContent">Halda antud lube seadetes</string>
     <string name="sitePermissionsDialogDenyButton">Keela</string>
     <string name="sitePermissionsDialogAllowButton">Luba</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Luba DuckDuckGo’l küsida juurdepääsu kaamerale ja mikrofonile</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Luba DuckDuckGo’l küsida juurdepääsu kaamerale</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Luba DuckDuckGo’l küsida juurdepääsu mikrofonile</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Luba Tragogo’l küsida juurdepääsu kaamerale ja mikrofonile</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Luba Tragogo’l küsida juurdepääsu kaamerale</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Luba Tragogo’l küsida juurdepääsu mikrofonile</string>
     <string name="sitePermissionsDeniedSnackBarAction">Luba</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Luba DuckDuckGo’l küsida juurdepääsu selle seadme kaamerale</string>
-    <string name="systemPermissionDialogCameraDeniedContent">Saidid saavad sinu kaamerat kasutada ainult siis, kui lubad DuckDuckGo’l küsida sellele juurdepääsu.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Luba DuckDuckGo’l küsida juurdepääsu selle seadme mikrofonile</string>
-    <string name="systemPermissionDialogAudioDeniedContent">Saidid saavad sinu mikrofoni kasutada ainult siis, kui lubad DuckDuckGo’l küsida sellele juurdepääsu.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Luba DuckDuckGo’l küsida juurdepääsu selle seadme kaamerale ja mikrofonile</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Saidid saavad sinu kaamerat ja mikrofoni kasutada ainult siis, kui lubad DuckDuckGo’l küsida sellele juurdepääsu.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Luba Tragogo’l küsida juurdepääsu selle seadme kaamerale</string>
+    <string name="systemPermissionDialogCameraDeniedContent">Saidid saavad sinu kaamerat kasutada ainult siis, kui lubad Tragogo’l küsida sellele juurdepääsu.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Luba Tragogo’l küsida juurdepääsu selle seadme mikrofonile</string>
+    <string name="systemPermissionDialogAudioDeniedContent">Saidid saavad sinu mikrofoni kasutada ainult siis, kui lubad Tragogo’l küsida sellele juurdepääsu.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Luba Tragogo’l küsida juurdepääsu selle seadme kaamerale ja mikrofonile</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">Saidid saavad sinu kaamerat ja mikrofoni kasutada ainult siis, kui lubad Tragogo’l küsida sellele juurdepääsu.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Ava sätted</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Tühista</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">Häälfunktsioonide jaoks on tarvis mikrofoni luba</string>
-    <string name="duckAiMicPermissionDeniedDialogTitle">DuckDuckGo vajab juurdepääsu teie mikrofonile</string>
+    <string name="duckAiMicPermissionDeniedDialogTitle">Tragogo vajab juurdepääsu teie mikrofonile</string>
     <string name="duckAiMicPermissionDeniedDialogContent">Mikrofoni juurdepääsu on tarvis, kui soovite Duck.ai-s häälvestlust kasutada.</string>
 
     <string name="sitePermissionsSettingsDescription">Külastatavad veebisaidid võivad küsida juurdepääsu sinu seadme asukohale, kaamerale, mikrofonile või DRM-i (Digital Rights Management) tarkvarale. Need ei saa juurdepääsu enne, kui oled selleks andnud selgesõnalise loa.</string>
@@ -94,21 +94,21 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Kui keeldud, võivad saidil videod muutuda mängitamatuks, kuid sellel saidil puudub juurdepääs DRM-tarkvara pakutavatele seadme identifikaatoritele.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Muuda load</string>
-    <string name="sitePermissionsTieredSystemDeniedLocationTitle">DuckDuckGo vajab juurdepääsu sinu asukohale</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Muuda load</string>
+    <string name="sitePermissionsTieredSystemDeniedLocationTitle">Tragogo vajab juurdepääsu sinu asukohale</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Asukoha load on vajalikud, kui soovid sellel saidil asukohafunktsioone kasutada.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraTitle">DuckDuckGo vajab juurdepääsu kaamerale</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraTitle">Tragogo vajab juurdepääsu kaamerale</string>
     <string name="sitePermissionsTieredSystemDeniedCameraContent">Kaamera load on vajalikud, kui soovid sellel saidil kaamerafunktsioone kasutada.</string>
-    <string name="sitePermissionsTieredSystemDeniedMicTitle">DuckDuckGo vajab juurdepääsu sinu mikrofonile</string>
+    <string name="sitePermissionsTieredSystemDeniedMicTitle">Tragogo vajab juurdepääsu sinu mikrofonile</string>
     <string name="sitePermissionsTieredSystemDeniedMicContent">Mikrofoni load on vajalikud, kui soovid sellel saidil kasutada mikrofoni funktsioone.</string>
-    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">DuckDuckGo vajab juurdepääsu sinu kaamerale ja mikrofonile</string>
+    <string name="sitePermissionsTieredSystemDeniedCameraAndMicTitle">Tragogo vajab juurdepääsu sinu kaamerale ja mikrofonile</string>
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Kaamera ja mikrofoni load on vajalikud, kui soovid sellel saidil kaamera ja mikrofoni funktsioone kasutada.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">DuckDuckGo ei saanud selle saidiga asukohta jagada</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">DuckDuckGo ei saanud sellele saidile kaamerale juurdepääsu anda</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">DuckDuckGo ei saanud sellele saidile mikrofoni ligipääsu anda</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">DuckDuckGo ei saanud sellele saidile kaamerale ja mikrofonile juurdepääsu anda</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">Tragogo ei saanud selle saidiga asukohta jagada</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">Tragogo ei saanud sellele saidile kaamerale juurdepääsu anda</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">Tragogo ei saanud sellele saidile mikrofoni ligipääsu anda</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">Tragogo ei saanud sellele saidile kaamerale ja mikrofonile juurdepääsu anda</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Luba alati</string>

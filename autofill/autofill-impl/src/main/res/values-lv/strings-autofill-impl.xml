@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Atjaunināt lietotājvārdu</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Atjaunināt paroli lietotājvārdam \n%1$s?</string>
-    <string name="updateLoginUpdatePasswordExplanation">DuckDuckGo atjauninās tavā ierīcē saglabāto paroli.</string>
+    <string name="updateLoginUpdatePasswordExplanation">Tragogo atjauninās tavā ierīcē saglabāto paroli.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Aizvērt automātiskās aizpildes dialoglodziņu</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Lietotājvārds nokopēts</string>
     <string name="autofillManagementPasswordCopied">Parole nokopēta</string>
 
-    <string name="autofill_password_generation_offer_title">Vai izmantot spēcīgu DuckDuckGo paroli?</string>
+    <string name="autofill_password_generation_offer_title">Vai izmantot spēcīgu Tragogo paroli?</string>
     <string name="autofill_password_generation_offer_accept">Izmantot spēcīgu paroli</string>
     <string name="autofill_password_generation_offer_decline">Izveidot savu</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Saglabāt un automātiski aizpildīt paroles</string>
     <string name="credentialManagementAutofillSubtitle">Paroles ir šifrētas. Neviens, izņemot tevi, tās nevar redzēt – pat mēs ne. <annotation type="learn_more_link">Uzzināt vairāk</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Paroļu pārvaldnieka drošība</string>
-    <string name="saveLoginDialogSubtitle">Droši saglabā paroli ierīcē, izmantojot DuckDuckGo paroles un automātisko aizpildīšanu.</string>
+    <string name="saveLoginDialogSubtitle">Droši saglabā paroli ierīcē, izmantojot Tragogo paroles un automātisko aizpildīšanu.</string>
     <string name="autofillManagementAddLogin">Pievienot paroli</string>
     <string name="credentialManagementEditLoginTitleHint">Nosaukums</string>
     <string name="autofillManagementDeletedConfirmation">Parole dzēsta</string>
@@ -200,34 +200,34 @@
         <item quantity="other">Pārliecinies, vai joprojām varēsi piekļūt savam kontam.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Tu vari DuckDuckGo importēt saglabātās paroles no citas pārlūkprogrammas.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Tu vari Tragogo importēt saglabātās paroles no citas pārlūkprogrammas.</string>
 
     <string name="autofillManagementImportPasswords">Importēt paroles</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Sinhronizēt darbvirsmas paroles</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Kā importēt paroles</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Kā sinhronizēt darbvirsmas paroles</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importē paroles DuckDuckGo pārlūka galddatora versijā un pēc tam sinhronizē tās visās ierīcēs.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importē paroles Tragogo pārlūka galddatora versijā un pēc tam sinhronizē tās visās ierīcēs.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Iegūsti galddatora pārlūku</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Iegūsti DuckDuckGo pārlūku Mac vai Windows datoram</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Meklē privāti un bloķē izsekotājus, izmantojot DuckDuckGo pārlūku galddatoram. Apmeklē šo saiti savā datorā, lai lejupielādētu jau šodien.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Iegūsti Tragogo pārlūku Mac vai Windows datoram</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Meklē privāti un bloķē izsekotājus, izmantojot Tragogo pārlūku galddatoram. Apmeklē šo saiti savā datorā, lai lejupielādētu jau šodien.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Sinhronizēt ar galddatoru</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Importēšana no galddatora pārlūka:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Atver DuckDuckGo Mac vai Windows datorā</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Atver Tragogo Mac vai Windows datorā</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Atver sadaļas <b>Iestatījumi</b> > <b>Paroles</b>]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Atlasi <b>Importēt paroles</b> un izpildi darbības, lai importētu]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">Kad esi importējis paroles datorā, vari iestatīt sinhronizāciju šajā ierīcē</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Iegūt datora programmu</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Iegūsti DuckDuckGo Mac vai Windows datoram</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Iegūsti Tragogo Mac vai Windows datoram</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">Savā datorā dodies uz:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Ziņot par problēmu ar automātisko aizpildīšanu</string>
     <string name="autofillManagementReportBreakagePromptSubtitle">Anonīmi ziņot, ka šajā vietnē nedarbojas automātiska aizpildīšana. Paroles nekad netiek izpaustas.</string>
     <string name="autofillManagementReportBreakageDialogTitle" instruction="Placeholder is a website URL">Ziņot, ka vietnē %1$s nedarbojas automātiskā aizpildīšana?</string>
-    <string name="autofillManagementReportBreakageDialogMessage">Ziņojumi, ko tu nosūti DuckDuckGo, ir anonīmi. Tajos nav iekļauts tavs lietotājvārds, parole vai jebkāda cita personiski identificējama informācija.\n\nZiņojumā ir iekļauta tikai vietnes adrese un dažu automātiskās aizpildīšanas iestatījumu statuss.</string>
+    <string name="autofillManagementReportBreakageDialogMessage">Ziņojumi, ko tu nosūti Tragogo, ir anonīmi. Tajos nav iekļauts tavs lietotājvārds, parole vai jebkāda cita personiski identificējama informācija.\n\nZiņojumā ir iekļauta tikai vietnes adrese un dažu automātiskās aizpildīšanas iestatījumu statuss.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Nosūtīt ziņojumu</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Atcelt</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Paldies! Tavs ziņojums palīdzēs mums padarīt DuckDuckGo labāku visiem.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Paldies! Tavs ziņojums palīdzēs mums padarīt Tragogo labāku visiem.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Galvenās funkcijas</string>
@@ -259,14 +259,14 @@
     <string name="importPasswordsChooseMethodDialogCsvButton">Izvēlies CSV failu</string>
     <string name="importPasswordsChooseMethodDialogDesktopSyncButton">Importēt no galddatora pārlūka</string>
 
-    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importēt uz DuckDuckGo</string>
+    <string name="importPasswordsProcessingResultDialogTitleBeforeSuccess">Importēt uz Tragogo</string>
     <string name="importPasswordsProcessingResultDialogTitleUponSuccess">Importēšana pabeigta</string>
     <string name="importPasswordsProcessingResultDialogDoneButtonText">Sapratu</string>
     <string name="importPasswordsProcessingResultDialogResultImportFailed">Paroļu importēšana neizdevās</string>
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Izlaists (dublikāts vai nederīgs): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Importētās paroles: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Atver Paroles</string>
     <string name="autofill_service_select_password_activity">Izvēlies Saglabāto paroli</string>
 
@@ -284,16 +284,16 @@
     <string name="autofillSettingsImportFromDesktopSync">Sinhronizēt darbvirsmas paroles</string>
     <string name="autofillSettingsResetExcludedSitesTitle">Atiestatīt izslēgtās vietnes</string>
 
-    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Pārnes savas paroles no&lt;br /&gt;Google uz DuckDuckGo</string>
-    <string name="passwords_import_promo_subtitle">Ātri un droši importē savas paroles DuckDuckGo. Google var lūgt tevi ievadīt savu paroli.</string>
+    <string name="passwords_import_promo_title" instruction="The &apos;br&apos; is a forced line break for English. It does not need to be included in translations.">Pārnes savas paroles no&lt;br /&gt;Google uz Tragogo</string>
+    <string name="passwords_import_promo_subtitle">Ātri un droši importē savas paroles Tragogo. Google var lūgt tevi ievadīt savu paroli.</string>
     <string name="passwords_import_promo_action">Importēt no Google</string>
-    <string name="passwords_import_promo_in_browser_title">Pārvieto savas paroles no&lt;br /&gt;Google uz DuckDuckGo</string>
+    <string name="passwords_import_promo_in_browser_title">Pārvieto savas paroles no&lt;br /&gt;Google uz Tragogo</string>
     <string name="passwords_import_promo_in_browser_secondary_action_button">Vairs nejautāt</string>
     <string name="passwords_import_promo_in_settings_title">Importēt paroles no Google</string>
     <string name="passwords_import_promo_in_settings_dismiss_text">Paslēpt</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Importēt uz DuckDuckGo</string>
+    <string name="importToTragogo">Importēt uz Tragogo</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Importēts no Chrome</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Importēt Google grāmatzīmes</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">Google var lūgt tevi pierakstīties vai ievadīt paroli, lai apstiprinātu.</string>
@@ -309,9 +309,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Atcelt importu</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Turpināt</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">Grāmatzīmes: %1$d</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Aizvērt</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Kaut kas notika nepareizi</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Lūdzu, pārliecinies, vai esi izveidojis savienojumu ar internetu, un mēģini vēlreiz.</string>
 

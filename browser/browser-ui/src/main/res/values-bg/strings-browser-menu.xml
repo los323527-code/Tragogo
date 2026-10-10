@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Пароли</string>
     <string name="browserMenuDownloads">Изтеглени файлове</string>
     <string name="browserMenuSettings">Настройки</string>
-    <string name="browserMenuOpenInDDG">Отваряне в DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">Работи в DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">Отваряне в Tragogo</string>
+    <string name="browserMenuRunningInDDG">Работи в Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Задаване като браузър по подразбиране</string>
     <string name="browserMenuNewChat">Нов чат</string>
     <string name="browserMenuNewAIChat">AI Chat</string>

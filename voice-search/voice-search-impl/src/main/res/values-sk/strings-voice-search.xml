@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Vyskytla sa chyba. Skúste to, prosím, neskôr.</string>
     <string name="voiceSearchIconContentDescription">Hlasové vyhľadávanie</string>
     <string name="voiceSearchListening">Hovorte teraz</string>
-    <string name="voiceSearchListeningFooter">Zvuk sa spracováva v zariadení. Neukladá sa nikde a s nikým, vrátane DuckDuckGo, sa nezdieľa.</string>
+    <string name="voiceSearchListeningFooter">Zvuk sa spracováva v zariadení. Neukladá sa nikde a s nikým, vrátane Tragogo, sa nezdieľa.</string>
     <string name="voiceSearchNegativeAction">Zrušiť</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo potrebuje prístup k tvojmu mikrofónu</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo potrebuje prístup k tvojmu mikrofónu</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Ak chceš používať naše súkromné hlasové vyhľadávanie, je potrebné povolenie pre mikrofón.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Ak chceš používať naše súkromné hlasové funkcie, je potrebné povolenie pre mikrofón.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Zmeniť oprávnenia</string>

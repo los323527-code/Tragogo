@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Bir hata oluştu.Lütfen daha sonra tekrar deneyin.</string>
     <string name="voiceSearchIconContentDescription">Sesli arama</string>
     <string name="voiceSearchListening">Şimdi Konuşun</string>
-    <string name="voiceSearchListeningFooter">Ses cihazda işlenir. Saklanmaz ve DuckDuckGo da dâhil olmak üzere kimseyle paylaşılmaz.</string>
+    <string name="voiceSearchListeningFooter">Ses cihazda işlenir. Saklanmaz ve Tragogo da dâhil olmak üzere kimseyle paylaşılmaz.</string>
     <string name="voiceSearchNegativeAction">Vazgeç</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo\'nun mikrofonunuza erişmesi gerekiyor</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo\'nun mikrofonunuza erişmesi gerekiyor</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Gizli Sesli Arama özelliğimizi kullanmak istiyorsanız mikrofon izinleri gereklidir.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Gizli sesli arama özelliğimizi kullanmak istiyorsanız mikrofon izinleri gereklidir.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">İzinleri Değiştir</string>

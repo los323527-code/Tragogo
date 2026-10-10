@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Noget gik galt. Prøv igen senere.</string>
     <string name="voiceSearchIconContentDescription">Stemmesøgning</string>
     <string name="voiceSearchListening">Tal nu</string>
-    <string name="voiceSearchListeningFooter">Lyden behandles på enheden. Den hverken gemmes eller deles med nogen, inklusive DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Lyden behandles på enheden. Den hverken gemmes eller deles med nogen, inklusive Tragogo.</string>
     <string name="voiceSearchNegativeAction">Afbestil</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo skal have adgang til din mikrofon</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo skal have adgang til din mikrofon</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Mikrofontilladelser er påkrævet, hvis du vil bruge vores private stemmesøgning.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Mikrofontilladelser er nødvendige, hvis du vil bruge vores private stemmefunktioner.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Skift tilladelser</string>

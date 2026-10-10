@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">Bloqueio de anúncios do YouTube</string>
     <string name="ad_blocking_settings_toggle_title">Bloquear anúncios no YouTube</string>
-    <string name="ad_blocking_settings_description_with_consent">O DuckDuckGo bloqueia anúncios de vídeo no YouTube para que possas ver vídeos sem interrupções.\n\nSe esta funcionalidade estiver ativada, o DuckDuckGo irá detetar anonimamente interferências no bloqueio de anúncios ou erros no YouTube, para melhorar a experiência de todos. O DuckDuckGo nunca vê quais os vídeos que tu vês nem qualquer informação pessoalmente identificável. <annotation type="learn_more_link">Sabe mais</annotation></string>
-    <string name="ad_blocking_settings_description">O DuckDuckGo bloqueia anúncios de vídeo no YouTube para que possas ver vídeos sem interrupções. <annotation type="learn_more_link">Sabe mais</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">O Tragogo bloqueia anúncios de vídeo no YouTube para que possas ver vídeos sem interrupções.\n\nSe esta funcionalidade estiver ativada, o Tragogo irá detetar anonimamente interferências no bloqueio de anúncios ou erros no YouTube, para melhorar a experiência de todos. O Tragogo nunca vê quais os vídeos que tu vês nem qualquer informação pessoalmente identificável. <annotation type="learn_more_link">Sabe mais</annotation></string>
+    <string name="ad_blocking_settings_description">O Tragogo bloqueia anúncios de vídeo no YouTube para que possas ver vídeos sem interrupções. <annotation type="learn_more_link">Sabe mais</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Abre vídeos num modo de cinema sem distrações que impede que os vídeos que vês influenciem o teu feed do YouTube.</string>
     <string name="ad_blocking_settings_title_v2">Bloqueio de anúncios</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Desativar até ao relançamento</string>
     <string name="ad_blocking_menu_always_off">Sempre desativado</string>
     <string name="ad_blocking_disabled_popup_title">O bloqueio de anúncios do YouTube não funciona?</string>
-    <string name="ad_blocking_disabled_popup_description">Envia um relatório anónimo à DuckDuckGo e ajuda a melhorar o bloqueio de anúncios para toda a gente!</string>
+    <string name="ad_blocking_disabled_popup_description">Envia um relatório anónimo à Tragogo e ajuda a melhorar o bloqueio de anúncios para toda a gente!</string>
     <string name="ad_blocking_disabled_primary_action">Enviar relatório de falhas</string>
     <string name="ad_blocking_disabled_secondary_action">Cancelar</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Desativado até ao relançamento</string>

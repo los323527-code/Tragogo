@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Jokin meni pieleen. Yritä myöhemmin uudelleen.</string>
     <string name="voiceSearchIconContentDescription">Äänihaku</string>
     <string name="voiceSearchListening">Puhu nyt</string>
-    <string name="voiceSearchListeningFooter">Ääni käsitellään laitteella. Sitä ei tallenneta eikä jaeta kenellekään, edes DuckDuckGolle.</string>
+    <string name="voiceSearchListeningFooter">Ääni käsitellään laitteella. Sitä ei tallenneta eikä jaeta kenellekään, edes Tragogolle.</string>
     <string name="voiceSearchNegativeAction">Peruuta</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo tarvitsee mikrofonisi käyttöoikeuden</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo tarvitsee mikrofonisi käyttöoikeuden</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Mikrofonin käyttöoikeudet tarvitaan, jos haluat käyttää yksityistä äänihakuamme.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Mikrofonin käyttöoikeudet tarvitaan, jos haluat käyttää yksityisiä äänitoimintojamme.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Muuta käyttöoikeuksia</string>

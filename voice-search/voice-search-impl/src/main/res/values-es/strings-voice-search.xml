@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Se ha producido un error. Inténtalo de nuevo más tarde.</string>
     <string name="voiceSearchIconContentDescription">Búsqueda por voz</string>
     <string name="voiceSearchListening">Habla ahora</string>
-    <string name="voiceSearchListeningFooter">El audio se procesa en el dispositivo. No se almacena ni comparte con nadie, incluyendo DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">El audio se procesa en el dispositivo. No se almacena ni comparte con nadie, incluyendo Tragogo.</string>
     <string name="voiceSearchNegativeAction">Cancelar</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo necesita acceder a tu micrófono</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo necesita acceder a tu micrófono</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Se necesitan permisos de micrófono si quieres usar nuestra búsqueda por voz privada.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Se necesitan permisos de micrófono si quieres usar nuestra búsqueda por voz privada.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Cambiar permisos</string>

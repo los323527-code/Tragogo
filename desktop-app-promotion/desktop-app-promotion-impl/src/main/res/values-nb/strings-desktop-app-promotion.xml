@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
-    <string name="desktopAppPromotionToolbarTitle" instruction="Toolbar title of the screen promoting the DuckDuckGo desktop browser">Skaff deg nettleseren for datamaskin</string>
+    <string name="desktopAppPromotionToolbarTitle" instruction="Toolbar title of the screen promoting the Tragogo desktop browser">Skaff deg nettleseren for datamaskin</string>
     <string name="desktopAppPromotionTitle">Beskytt personopplysningene dine på Mac og Windows også!</string>
-    <string name="desktopAppPromotionBody">For å laste ned DuckDuckGo på Mac eller Windows kan du gå til:</string>
+    <string name="desktopAppPromotionBody">For å laste ned Tragogo på Mac eller Windows kan du gå til:</string>
     <string name="desktopAppPromotionUrl" instruction="The download URL shown on screen; not a full link">duckduckgo.com/browser</string>
     <string name="desktopAppPromotionShareDownloadLink">Del nedlastingslenke</string>
     <string name="desktopAppPromotionNoThanks">Nei takk</string>

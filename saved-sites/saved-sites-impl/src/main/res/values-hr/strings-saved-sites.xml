@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -93,7 +93,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Izbrisati oznaku %1$s ?"</string>
     <string name="addToFavorites">Dodaj u Omiljeno</string>
     <string name="editBookmark">Uredi knjižnu oznaku</string>
-    <string name="importBookmarksDescription">Ako su tvoje oznake spremljene u drugom pregledniku, možeš ih \n uvesti u DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Ako su tvoje oznake spremljene u drugom pregledniku, možeš ih \n uvesti u Tragogo.</string>
     <string name="importBookmarks">Uvoz knjižnih oznaka</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Nema rezultata za \"%1$s\"</string>
     <string name="removeFromFavorites">Ukloni iz omiljenih</string>

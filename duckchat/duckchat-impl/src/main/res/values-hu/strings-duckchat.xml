@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -26,19 +26,19 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Kép feltöltése</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Fájl kiválasztása</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Fénykép készítése</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a kamerához ezen az eszközön</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">A webhelyek csak akkor használhatják a kamerát, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérjen.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Engedélyezés, hogy a Tragogo hozzáférést kérjen a kamerához ezen az eszközön</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">A webhelyek csak akkor használhatják a kamerát, ha engedélyezed, hogy a Tragogo hozzáférést kérjen.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Beállítások megnyitása</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Mégsem</string>
 
     <!-- Content capture for upload -->
     <string name="audioCaptureSoundRecorderUnavailable">Nem sikerült hozzáférni a hangrögzítőhöz</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Engedélyezd, hogy a DuckDuckGo hozzáférést kérhessen az eszközöd hangrögzítőjéhez</string>
-    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">A webhelyek csak akkor használhatják a hangrögzítőt, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérhessen.</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedTitle">Engedélyezd, hogy a Tragogo hozzáférést kérhessen az eszközöd hangrögzítőjéhez</string>
+    <string name="audioCaptureSoundRecorderPermissionDeniedMessage">A webhelyek csak akkor használhatják a hangrögzítőt, ha engedélyezed, hogy a Tragogo hozzáférést kérhessen.</string>
 
     <!-- Settings -->
     <string name="duck_chat_ai_features_title">AI funkciók</string>
-    <string name="duck_chat_settings_activity_description">A DuckDuckGo AI-funkciói privátak és opcionálisak.\nAz adataidat nem használjuk fel az AI tanítására.\n<annotation type="learn_more_link">További részletek</annotation></string>
+    <string name="duck_chat_settings_activity_description">A Tragogo AI-funkciói privátak és opcionálisak.\nAz adataidat nem használjuk fel az AI tanítására.\n<annotation type="learn_more_link">További részletek</annotation></string>
     <string name="duck_chat_enable_duck_ai_setting">Duck.ai</string>
     <string name="duck_chat_enable_duck_ai_setting_description">Privát csevegés harmadik féltől származó népszerű AI-modellekkel</string>
     <string name="duck_chat_visibility_setting">Böngészési menü</string>
@@ -102,7 +102,7 @@
     <string name="duckAiSearchAssistVisibilityOften">Gyakran</string>
 
     <!-- Duck AI Use Without AI Settings Option -->
-    <string name="duckAiUseWithoutAiTitle">DuckDuckGo használata AI nélkül</string>
+    <string name="duckAiUseWithoutAiTitle">Tragogo használata AI nélkül</string>
     <string name="duckAiUseWithoutAiDescription">Kikapcsolja a Duck.ai-t, elrejti az AI segítségével létrehozott válaszokat a keresésben, és kiszűri az ismert AI-spam-webhelyeket a képkeresési eredmények közül.</string>
     <string name="duckAiUseWithoutAiDisabledDescription">Az AI jelenleg ki van kapcsolva a böngészőben, így a továbbiakban nem fogsz AI segítségével létrehozott válaszokat látni, és kevesebb AI által generált kép jelenik meg a képkeresési találatok között.</string>
 
@@ -275,7 +275,7 @@
     <string name="duck_ai_chat_history_download_error">Nem sikerült exportálni a csevegést</string>
     <string name="duck_ai_chat_history_bulk_download_error">Nem sikerült exportálni a csevegéseket</string>
 
-    <string name="duckAiChatSearchDuckDuckGo">DuckDuckGo-keresés</string>
+    <string name="duckAiChatSearchTragogo">Tragogo-keresés</string>
     <string name="native_input_chat_hint">Kérdezz bármit privátban…</string>
     <string name="native_input_chat_duck_mode_hint">Válasz…</string>
 

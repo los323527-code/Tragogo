@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -38,7 +38,7 @@
     <string name="updateLoginDialogButtonUpdateUsername">Felhasználónév frissítése</string>
 
     <string name="updateLoginDialogTitleLine" instruction="Placeholder is the user&apos;s username for this site">Frissíted \n%1$s jelszavát?</string>
-    <string name="updateLoginUpdatePasswordExplanation">A DuckDuckGo frissíti az eszközödön ezt a tárolt jelszót.</string>
+    <string name="updateLoginUpdatePasswordExplanation">A Tragogo frissíti az eszközödön ezt a tárolt jelszót.</string>
 
     <string name="autofillDialogCloseButtonContentDescription">Automatikus kitöltési párbeszédablak bezárása</string>
 
@@ -66,13 +66,13 @@
 
     <!-- Autofill Management Survey Prompt, shown only to English locale so marked as not translatable -->
     <string name="autofillManagementSurveyPromptTitle" translatable="false">Help us improve!</string>
-    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in DuckDuckGo better.</string>
+    <string name="autofillManagementSurveyPromptMessage" translatable="false">We want to make using passwords in Tragogo better.</string>
     <string name="autofillManagementSurveyPromptAcceptButtonText" translatable="false">Take Survey</string>
 
     <string name="autofillManagementUsernameCopied">Felhasználónév másolva</string>
     <string name="autofillManagementPasswordCopied">Jelszó másolva</string>
 
-    <string name="autofill_password_generation_offer_title">A DuckDuckGo által kínált erős jelszót kívánsz használni?</string>
+    <string name="autofill_password_generation_offer_title">A Tragogo által kínált erős jelszót kívánsz használni?</string>
     <string name="autofill_password_generation_offer_accept">Erős jelszó használata</string>
     <string name="autofill_password_generation_offer_decline">Saját létrehozása</string>
 
@@ -125,7 +125,7 @@
     <string name="credentialManagementAutofillToggleLabel">Jelszavak mentése és automatikus kitöltése</string>
     <string name="credentialManagementAutofillSubtitle">A jelszavak titkosítva vannak. Rajtad kívül senki sem láthatja őket, még mi sem. <annotation type="learn_more_link">További tudnivalók</annotation></string>
     <string name="credentialManagementAutofillHelpPageTitle">Jelszókezelő biztonsága</string>
-    <string name="saveLoginDialogSubtitle">Tárold biztonságosan a jelszavaidat az eszközödön a DuckDuckGo Jelszavak és automatikus kitöltés funkciójával.</string>
+    <string name="saveLoginDialogSubtitle">Tárold biztonságosan a jelszavaidat az eszközödön a Tragogo Jelszavak és automatikus kitöltés funkciójával.</string>
     <string name="autofillManagementAddLogin">Jelszó hozzáadása</string>
     <string name="credentialManagementEditLoginTitleHint">Cím</string>
     <string name="autofillManagementDeletedConfirmation">Jelszó törölve</string>
@@ -194,25 +194,25 @@
         <item quantity="other">Győződj meg róla, hogy továbbra is hozzáférsz a fiókjaidhoz.</item>
     </plurals>
 
-    <string name="credentialManagementNoLoginsSavedSubtitle">Importálhatod a mentett jelszavaidat egy másik böngészőből a DuckDuckGo böngészőjébe.</string>
+    <string name="credentialManagementNoLoginsSavedSubtitle">Importálhatod a mentett jelszavaidat egy másik böngészőből a Tragogo böngészőjébe.</string>
 
     <string name="autofillManagementImportPasswords">Jelszavak importálása</string>
     <string name="autofillManagementHowToSyncDesktopPasswords">Asztali jelszavak szinkronizálása</string>
     <string name="autofillManagementImportPasswordsHowToTitle">Jelszavak importálásának módja</string>
     <string name="autofillManagementHowToSyncDesktopPasswordsTitle">Asztali jelszavak szinkronizálásának módja</string>
-    <string name="autofillManagementImportPasswordsHowToInstruction">Importálj jelszavakat a DuckDuckGo böngésző asztali verziójába, majd szinkronizáld őket az eszközök között.</string>
+    <string name="autofillManagementImportPasswordsHowToInstruction">Importálj jelszavakat a Tragogo böngésző asztali verziójába, majd szinkronizáld őket az eszközök között.</string>
     <string name="autofillManagementImportPasswordsGetDesktopBrowserButtonText">Asztali böngésző letöltése</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Mac vagy Windows verziójú DuckDuckGo böngésző letöltése</string>
-    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Keress privát módon, és blokkold a nyomkövetőket a DuckDuckGo asztali böngészőjével. A letöltéshez nyisd meg ezt a linket a számítógépen.\n\n%1$s</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentTitle">Mac vagy Windows verziójú Tragogo böngésző letöltése</string>
+    <string name="autofillManagementImportPasswordsGetDesktopBrowserIntentMessage" instruction="Placeholder is a URL">Keress privát módon, és blokkold a nyomkövetőket a Tragogo asztali böngészőjével. A letöltéshez nyisd meg ezt a linket a számítógépen.\n\n%1$s</string>
     <string name="autofillManagementImportPasswordsSyncWithDesktopButtonText">Szinkronizálás asztali böngészővel</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopTitle">Importálás az asztali böngészőből:</string>
-    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Nyisd meg Mac vagy Windows rendszeren a DuckDuckGo böngészőt</string>
+    <string name="autofillManagementImportPasswordsImportFromDesktopInstructionOne">Nyisd meg Mac vagy Windows rendszeren a Tragogo böngészőt</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionTwo">"<![CDATA[Lépj a <b>Beállítások</b> > <b>Jelszavak</b> oldalra]]>"</string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionThree"><![CDATA[Válaszd a <b>Jelszavak importálása…</b> lehetőséget, és kövesd az importáláshoz szükséges lépéseket]]></string>
     <string name="autofillManagementImportPasswordsImportFromDesktopInstructionFour">A számítógépre való importálás után beállíthatod a szinkronizálást ezen az eszközön</string>
 
     <string name="autofillManagementImportPasswordsGetDesktopAppTitle">Asztali alkalmazás letöltése</string>
-    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Mac vagy Windows verziójú DuckDuckGo letöltése</string>
+    <string name="autofillManagementImportPasswordsGetDesktopAppSubtitle">Mac vagy Windows verziójú Tragogo letöltése</string>
     <string name="autofillManagementImportPasswordsGetDesktopAppInstruction">A számítógépeden lépj a következő lehetőségre:</string>
 
     <string name="autofillManagementReportBreakagePromptTitle">Automatikus kitöltéssel kapcsolatos probléma jelentése</string>
@@ -221,7 +221,7 @@
     <string name="autofillManagementReportBreakageDialogMessage">A DuckDuckGónak küldött jelentések névtelenek, és azokban nem szerepel a felhasználóneved, jelszavad vagy más, személyazonosításra alkalmas adatod.\n\nA jelentés csak a weboldal URL-jét és néhány automatikus kitöltési beállítás állapotát tartalmazza.</string>
     <string name="autofillManagementReportBreakageDialogPositiveButton">Jelentés küldése</string>
     <string name="autofillManagementReportBreakageDialogNegativeButton">Mégsem</string>
-    <string name="autofillManagementReportBreakageSuccessMessage">Köszönjük! A jelentésed segít nekünk abban, hogy a DuckDuckGo mindenki számára jobb élményt nyújthasson.</string>
+    <string name="autofillManagementReportBreakageSuccessMessage">Köszönjük! A jelentésed segít nekünk abban, hogy a Tragogo mindenki számára jobb élményt nyújthasson.</string>
 
     <!-- Save Dialog -->
     <string name="onboardingSaveDialogKeyFeatureTitle">Főbb jellemzők</string>
@@ -260,7 +260,7 @@
     <string name="importPasswordsProcessingResultDialogResultDuplicatesSkipped"><![CDATA[Kihagyott (ismétlődő vagy érvénytelen): <b>%1$d</b>]]></string>
     <string name="importPasswordsProcessingResultDialogResultPasswordsImported"><![CDATA[Importált jelszó: <b>%1$d</b>]]></string>
 
-    <string name="serviceName" translatable="false">DuckDuckGo</string>
+    <string name="serviceName" translatable="false">Tragogo</string>
     <string name="autofill_service_suggestion_open_passwords">Jelszavak megnyitása</string>
     <string name="autofill_service_select_password_activity">Mentett jelszó kiválasztása</string>
 
@@ -287,7 +287,7 @@
     <string name="passwords_import_promo_in_settings_dismiss_text">Elrejtés</string>
 
     <!-- Import Bookmarks Strings -->
-    <string name="importToDuckDuckGo">Importálás a DuckDuckGóba</string>
+    <string name="importToTragogo">Importálás a DuckDuckGóba</string>
     <string name="importBookmarksFromGoogleChromeFolderName">Chrome-ból importálva</string>
     <string name="importBookmarksFromGooglePreImportDialogTitle">Könyvjelzők importálása a Google-ből</string>
     <string name="importBookmarksFromGooglePreImportDialogInstruction">A Google megkérhet, hogy jelentkezz be, vagy a megerősítéshez add meg a jelszavad.</string>
@@ -303,9 +303,9 @@
     <string name="importBookmarksFromGoogleCancelConfirmationDialogCancelImport">Importálás megszakítása</string>
     <string name="importBookmarksFromGoogleCancelConfirmationDialogContinue">Folytatás</string>
     <string name="importBookmarksFromGoogleSuccessBookmarksCount" instruction="Placeholder is the number of bookmarks that were imported">%1$d könyvjelző</string>
-    <string name="importBookmarksSuccessTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksSuccessTitle">@string/importToTragogo</string>
     <string name="importBookmarksFinalDoneButton">Bezárás</string>
-    <string name="importBookmarksErrorTitle">@string/importToDuckDuckGo</string>
+    <string name="importBookmarksErrorTitle">@string/importToTragogo</string>
     <string name="importBookmarksErrorGenericMessage">Hiba történt</string>
     <string name="importBookmarksErrorGenericMessageSecondary">Kérlek, győződj meg róla, hogy csatlakozol az internethez, és próbáld újra.</string>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Er is iets misgegaan. Probeer het later opnieuw.</string>
     <string name="voiceSearchIconContentDescription">Zoeken via spraak</string>
     <string name="voiceSearchListening">Praat nu</string>
-    <string name="voiceSearchListeningFooter">Audio wordt op het apparaat verwerkt. Het wordt niet opgeslagen of met iemand gedeeld, ook niet met DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Audio wordt op het apparaat verwerkt. Het wordt niet opgeslagen of met iemand gedeeld, ook niet met Tragogo.</string>
     <string name="voiceSearchNegativeAction">Annuleren</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo heeft toegang tot je microfoon nodig</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo heeft toegang tot je microfoon nodig</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Microfoontoegang is nodig als je onze Spraakgestuurd zoeken wilt gebruiken.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Microfoontoegang is nodig als je onze privé-spraakfuncties wilt gebruiken.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Toestemmingen wijzigen</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
     <string name="broken_site_prompt_title">Сайтът не работи ли? Уведомете ни.</string>
-    <string name="broken_site_prompt_description">Това ни помага да подобрим браузъра DuckDuckGo.</string>
+    <string name="broken_site_prompt_description">Това ни помага да подобрим браузъра Tragogo.</string>
     <string name="broken_site_prompt_button_dismiss">Отказване</string>
     <string name="broken_site_prompt_button_report">Подаване на сигнал за повреден сайт</string>
 </resources>

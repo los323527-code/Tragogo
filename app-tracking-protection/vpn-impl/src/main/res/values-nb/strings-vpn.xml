@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2020 DuckDuckGo
+  ~ Copyright (c) 2020 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -133,14 +133,14 @@
     <!-- Exclusion List -->
     <string name="atp_ExclusionListActivityTitle">Alle apper</string>
     <string name="atp_ExcludedAppsFeature">App Tracking Protection oppdager og blokkerer appsporere fra andre selskaper, for eksempel når Facebook prøver å spore deg i en helseapp. Selskaper kan fortsatt spore deg i apper de eier.\n\nHvis en app ikke fungerer som forventet, kan du prøve å deaktivere beskyttelsen for den appen.</string>
-    <string name="atp_ExcludedAppsEnabledLabel">DuckDuckGo kan deaktivere beskyttelse på enkelte apper for å løse kjente problemer med lasting av innhold. Egendefinerte innstillinger blir ikke endret med mindre du gjenoppretter til standardinnstillingene.</string>
+    <string name="atp_ExcludedAppsEnabledLabel">Tragogo kan deaktivere beskyttelse på enkelte apper for å løse kjente problemer med lasting av innhold. Egendefinerte innstillinger blir ikke endret med mindre du gjenoppretter til standardinnstillingene.</string>
     <string name="atp_ExcludedAppsDisabledLabel"><b>App Tracking Protection er deaktivert</b> Har App Tracking Protection forårsaket et problem med appene dine? <annotation type="report_issues_link">Rapporter problemer</annotation></string>
     <string name="atp_ExcludedAppsReport">Rapporter et problem med en annen app</string>
     <string name="atp_ExcludedReasonManuallyDisabled">Manuelt deaktivert</string>
     <string name="atp_ExcludedReasonManuallyEnabled">Manuelt aktivert</string>
     <string name="atp_ExcludeAppsManuallyCTACancel">Avbryt</string>
     <string name="atp_ExcludeAppsManuallyCTARestore">Gjenopprett</string>
-    <string name="atp_ExcludeAppsManuallyEnableFooter">Aktivering av beskyttelse sender appens navn til DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsManuallyEnableFooter">Aktivering av beskyttelse sender appens navn til Tragogo.</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerOne">Den sluttet å fungere som forventet</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerTwo">Det er greit at jeg blir sporet i denne appen</string>
     <string name="atp_ExcludeAppsManuallyDisableAnswerThree">Av en annen grunn</string>
@@ -149,7 +149,7 @@
     <string name="atp_ExcludeAppsRestoreDefaultsTitle">Vil du gjenopprette standardbeskyttelsen?</string>
     <string name="atp_ExcludeAppsRestoreDefaultsMessage">Dine egendefinerte beskyttelsesinnstillinger blir erstattet med vår nyeste standardbeskyttelse. Du kan når som helst endre beskyttelsesinnstillingene igjen senere.</string>
     <string name="atp_ExcludeAppsRestoreDefaultSnackbar">Beskyttelse gjenopprettet til standardinnstillinger</string>
-    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Aktivering av beskyttelse sender appens navn til DuckDuckGo.</string>
+    <string name="atp_ExcludeAppsRestoreDefaultsDisclaimer">Aktivering av beskyttelse sender appens navn til Tragogo.</string>
 
     <!--  Breakage report app list  -->
     <string name="atp_ReportBreakageAppListActivityTitle">Rapporter et problem</string>
@@ -159,10 +159,10 @@
     <string name="atp_ReportBreakageAppNextCta">Neste</string>
     <string name="atp_ReportBreakageFormWhatHappenedText">Beskriv hva som skjer, hva du forventet skulle skje, og trinnene som førte til problemet.</string>
     <string name="atp_ReportBreakageFormInputHint">Fortell oss mer om problemet du opplever</string>
-    <string name="atp_ReportBreakageFormCheckboxText">Ved å klikke på «Send» godtar jeg at DuckDuckGo kan bruke informasjonen i denne rapporten til å forbedre appens funksjoner.
+    <string name="atp_ReportBreakageFormCheckboxText">Ved å klikke på «Send» godtar jeg at Tragogo kan bruke informasjonen i denne rapporten til å forbedre appens funksjoner.
     </string>
     <string name="atp_ReportBreakageFormDisclaimerText">
-        <![CDATA[I tillegg til detaljene du har angitt i dette skjemaet, inneholder rapporten om app-problemet:<br/>• navnet på app-pakken<br/>• en liste over sporere som er blokkert i appen<br/>• om DuckDuckGo-funksjoner er aktivert<br/>• aggregert DuckDuckGo-appdiagnostikk<br/>]]>
+        <![CDATA[I tillegg til detaljene du har angitt i dette skjemaet, inneholder rapporten om app-problemet:<br/>• navnet på app-pakken<br/>• en liste over sporere som er blokkert i appen<br/>• om Tragogo-funksjoner er aktivert<br/>• aggregert Tragogo-appdiagnostikk<br/>]]>
     </string>
     <string name="atp_ReportBreakageSent">Rapporten er sendt! Takk skal du ha. Tilbakemeldingen hjelper oss med å forbedre App Tracking Protection for alle.</string>
     <string name="atp_ThanksForTheFeedback">Takk for tilbakemeldingen!</string>
@@ -181,7 +181,7 @@
     <!--  Tracker Profiling Info -->
     <string name="atp_ProfilingActivityTitle">Om appsporere</string>
     <string name="atp_ProfilingInfoTitle">Hva er appsporere?</string>
-    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Du har sikkert hørt om at selskaper som Google og Facebook sporer deg bak kulissene på tredjepartsnettsteder. Men visste du at de også sporer personopplysningene dine gjennom apper på enheten din?\n\n<b>Over 96 % av de 100 populære gratis Android-appene</b> vi testet, inneholdt skjulte tredjepartssporere. Av disse sendte 87 % data til Google, og 68 % sendte data til Facebook. Dette skjer selv når du ikke bruker enheten.\n\n<b>Sporere i apper kan ha tilgang til mye mer informasjon</b> enn tilsvarende sporere på nettsteder, for eksempel plasseringen din (helt ned til hvilken etasje du befinner deg i), hvor ofte du spiller spill på jobben og når på døgnet du sover og hvor lenge. <b>Selv om du ikke har for eksempel en Google- eller Facebook-konto, kan de likevel samle inn data om deg fra appene dine.</b>\n\nSporingsnettverk som Facebook og Google bruker disse små informasjonsbitene <b>til å bygge en digital profil om deg.</b> Med den kan sporingsnettverk manipulere det du ser på nettet og gjøre det mulig for annonsører å gi bud på tilgang til deg, basert på dataene dine.\n\nSporere i apper er et STORT problem for personvernet. <b>Men DuckDuckGo har en løsning som kan hjelpe.</b>\n\nNår App Tracking Protection er aktivert i DuckDuckGos nettleserapp med økt personvern, blokkeres mange sporere i andre apper på enheten din, og sporere vi finner på nettsteder når du surfer, blokkeres også. <b>Disse to beskyttelseslagene reduserer det sporingsselskaper vet om deg generelt</b>, slik at du kan bruke appene med mer trygghet, vel vitende om at du er mer beskyttet.</string>
+    <string name="atp_ProfilingInfoFirstParagraph" formatted="false">Du har sikkert hørt om at selskaper som Google og Facebook sporer deg bak kulissene på tredjepartsnettsteder. Men visste du at de også sporer personopplysningene dine gjennom apper på enheten din?\n\n<b>Over 96 % av de 100 populære gratis Android-appene</b> vi testet, inneholdt skjulte tredjepartssporere. Av disse sendte 87 % data til Google, og 68 % sendte data til Facebook. Dette skjer selv når du ikke bruker enheten.\n\n<b>Sporere i apper kan ha tilgang til mye mer informasjon</b> enn tilsvarende sporere på nettsteder, for eksempel plasseringen din (helt ned til hvilken etasje du befinner deg i), hvor ofte du spiller spill på jobben og når på døgnet du sover og hvor lenge. <b>Selv om du ikke har for eksempel en Google- eller Facebook-konto, kan de likevel samle inn data om deg fra appene dine.</b>\n\nSporingsnettverk som Facebook og Google bruker disse små informasjonsbitene <b>til å bygge en digital profil om deg.</b> Med den kan sporingsnettverk manipulere det du ser på nettet og gjøre det mulig for annonsører å gi bud på tilgang til deg, basert på dataene dine.\n\nSporere i apper er et STORT problem for personvernet. <b>Men Tragogo har en løsning som kan hjelpe.</b>\n\nNår App Tracking Protection er aktivert i Tragogos nettleserapp med økt personvern, blokkeres mange sporere i andre apper på enheten din, og sporere vi finner på nettsteder når du surfer, blokkeres også. <b>Disse to beskyttelseslagene reduserer det sporingsselskaper vet om deg generelt</b>, slik at du kan bruke appene med mer trygghet, vel vitende om at du er mer beskyttet.</string>
 
     <!--  App Tracking Protection Activity -->
     <string name="atp_ActivityPastWeek">Siste 7 dager</string>
@@ -225,10 +225,10 @@
     <string name="atp_ActivityAbout">Om</string>
     <string name="atp_ActivityManage">Administrere</string>
     <string name="atp_ActivityRemoveFeature">Deaktivere og slette data</string>
-    <string name="atp_ActivityBlockingTrackersEnabledDescription">DuckDuckGo blokkerer skjulte sporere i appene dine.</string>
+    <string name="atp_ActivityBlockingTrackersEnabledDescription">Tragogo blokkerer skjulte sporere i appene dine.</string>
     <string name="atp_ActivityBlockingTrackersDisabledDescription">Aktiver App Tracking Protection igjen for å fortsette å blokkere sporere i alle appene dine.</string>
-    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by DuckDuckGo Today">Blokkert av DuckDuckGo %1$s</string>
-    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by DuckDuckGo on Feb 05">Blokkert av DuckDuckGo %1$s</string>
+    <string name="atp_ActivityBlockedByHeaderText" instruction="Placeholder %1$s is a text containing either Today or Yesterday. Example: Blocked by Tragogo Today">Blokkert av Tragogo %1$s</string>
+    <string name="atp_ActivityBlockedByOnDateHeaderText" instruction="Placeholder %1$s is a text containing a formatted date like Feb 05. Example: Blocked by Tragogo on Feb 05">Blokkert av Tragogo %1$s</string>
 
     <!--  App Tracking Protection FAQ -->
     <string name="atp_FAQActivityTitle">Vanlige spørsmål</string>
@@ -243,7 +243,7 @@
     <string name="atp_FAQFifthHeader">Hvordan skiller App Tracking Protection seg fra en VPN?</string>
     <string name="atp_FAQFifthText">En VPN sender dataene dine fra enheten til sin egen server, hvor den sikrer og anonymiserer dataene dine fra nysgjerrige blikk. Men VPN-selskapet kan se nettverkstrafikken din.\n\n<b>App Tracking Protection er annerledes.</b> I stedet for å sende dataene dine til en VPN-server, kjører <b>App Tracking Protection lokalt på enheten din</b>. Den ligger mellom appene og serverne de kommuniserer med.\n\nNår App Tracking Protection gjenkjenner en kjent sporer, <b>hindrer den sporeren i å sende personopplysninger (som IP-adresse, aktivitet og enhetsdetaljer) fra enheten.</b> All annen trafikk når målet, så appene fungerer normalt.</string>
     <string name="atp_FAQSixthHeader">Er dataene mine private?</string>
-    <string name="atp_FAQSixthText">App Tracking Protection kjører på enheten og sender ikke personopplysninger fra enheten til DuckDuckGo.</string>
+    <string name="atp_FAQSixthText">App Tracking Protection kjører på enheten og sender ikke personopplysninger fra enheten til Tragogo.</string>
 
     <!--  App Tracking Protection Waitlist -->
     <string name="atp_WaitlistNotificationTitle">Invitasjonen til App Tracking Protection er kommet!</string>
@@ -273,8 +273,8 @@
         <item quantity="other" instruction="Placeholder is a number">%1$d forsøk. Kjent for å samle inn:</item>
     </plurals>
     <plurals name="atp_CompanyDetailsTrackingAttemptsTitle">
-        <item quantity="one" instruction="Placeholder is a number">DuckDuckGo blokkerte %1$d sporingsforsøk</item>
-        <item quantity="other" instruction="Placeholder is a number">DuckDuckGo blokkerte %1$d sporingsforsøk</item>
+        <item quantity="one" instruction="Placeholder is a number">Tragogo blokkerte %1$d sporingsforsøk</item>
+        <item quantity="other" instruction="Placeholder is a number">Tragogo blokkerte %1$d sporingsforsøk</item>
     </plurals>
     <string name="atp_CompanyDetailsTrackingMenuReport">Rapporter et problem med denne appen</string>
     <string name="atp_CompanyDetailsTrackingShowMore" instruction="Placeholder is a number">Vis %1$d til</string>
@@ -376,8 +376,8 @@
     <!--  App Tracking Protection Promote Always On -->
     <string name="atp_PromoteAlwaysOnDialogSettings">Gå til Innstillinger</string>
     <string name="atp_PromoteAlwaysOnDialogNotNow">Ikke nå</string>
-    <string name="atp_AlwaysOnModalBody"><![CDATA[Gå til enhetens VPN-innstillinger for DuckDuckGo og aktiver <b>Alltid på</b>. Dette forhindrer at Android deaktiverer beskyttelsen.\n\nPåse at den andre innstillingen er satt til AV.]]></string>
-    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Gå til enhetens <b>VPN-innstillinger for DuckDuckGo</b> og deaktiver <b>Blokker tilkoblinger uten VPN</b> for å unngå problemer med apper.]]></string>
+    <string name="atp_AlwaysOnModalBody"><![CDATA[Gå til enhetens VPN-innstillinger for Tragogo og aktiver <b>Alltid på</b>. Dette forhindrer at Android deaktiverer beskyttelsen.\n\nPåse at den andre innstillingen er satt til AV.]]></string>
+    <string name="atp_AlwaysOnLockdownModalBody"><![CDATA[Gå til enhetens <b>VPN-innstillinger for Tragogo</b> og deaktiver <b>Blokker tilkoblinger uten VPN</b> for å unngå problemer med apper.]]></string>
     <string name="atp_AlwaysOnModalHeading">Sett til Alltid på</string>
     <string name="atp_AlwaysOnLockdownModalHeading">Endre VPN-innstillingene dine</string>
     <string name="atp_AlwaysOnLockDownEnabled"><b>Handling kreves!</b> For å unngå problemer med apper må du endre Android-innstillingene. <annotation type="open_settings_link">Endre innstillinger</annotation></string>
@@ -422,14 +422,14 @@
     <string name="appTrackingProtectionNotifyMeSubtitle">Få oppdateringer om blokkerte sporingsforsøk i varselskuffen din.</string>
 
     <!-- Privacy pro upsell -->
-    <string name="apptp_PproUpsellInfoDisabled">Kan du ikke bruke App Tracking Protection på grunn av VPN-en din? Bytt til DuckDuckGo VPN – den eneste VPN-løsningen som er kompatibel. <annotation type="ppro_upsell_link">Finn ut mer</annotation>.</string>
-    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kan du ikke bruke App Tracking Protection på grunn av VPN-en din? Bytt til DuckDuckGo VPN – den eneste VPN-løsningen som er kompatibel. <annotation type="ppro_upsell_link">Prøv gratis!</annotation></string>
-    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection er deaktivert</b>\nHar VPN-en din deaktivert App Tracking Protection? Bruk bryteren ovenfor for å aktivere det igjen.\n\nFå DuckDuckGo VPN – den eneste VPN-løsningen som fungerer med App Tracking Protection. <annotation type="ppro_upsell_link">Finn ut mer</annotation>.</string>
-    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection er deaktivert</b>\nHar VPN-en din deaktivert App Tracking Protection? Bruk bryteren ovenfor for å aktivere det igjen.\n\nBytt til DuckDuckGo VPN – den eneste VPN-løsningen som fungerer med App Tracking Protection. <annotation type="ppro_upsell_link">Prøv gratis!</annotation></string>
+    <string name="apptp_PproUpsellInfoDisabled">Kan du ikke bruke App Tracking Protection på grunn av VPN-en din? Bytt til Tragogo VPN – den eneste VPN-løsningen som er kompatibel. <annotation type="ppro_upsell_link">Finn ut mer</annotation>.</string>
+    <string name="apptp_PproUpsellInfoDisabled_freeTrial">Kan du ikke bruke App Tracking Protection på grunn av VPN-en din? Bytt til Tragogo VPN – den eneste VPN-løsningen som er kompatibel. <annotation type="ppro_upsell_link">Prøv gratis!</annotation></string>
+    <string name="apptp_PproUpsellInfoRevoked"><b>App Tracking Protection er deaktivert</b>\nHar VPN-en din deaktivert App Tracking Protection? Bruk bryteren ovenfor for å aktivere det igjen.\n\nFå Tragogo VPN – den eneste VPN-løsningen som fungerer med App Tracking Protection. <annotation type="ppro_upsell_link">Finn ut mer</annotation>.</string>
+    <string name="apptp_PproUpsellInfoRevoked_freeTrial"><b>App Tracking Protection er deaktivert</b>\nHar VPN-en din deaktivert App Tracking Protection? Bruk bryteren ovenfor for å aktivere det igjen.\n\nBytt til Tragogo VPN – den eneste VPN-løsningen som fungerer med App Tracking Protection. <annotation type="ppro_upsell_link">Prøv gratis!</annotation></string>
     <string name="apptp_PproUpsellBannerTitle">Ta personvernet til neste nivå</string>
-    <string name="apptp_PproUpsellBannerMessage">DuckDuckGo VPN er den eneste som er kompatibel med App Tracking Protection. Aktiver med et abonnement på Privacy Pro.</string>
+    <string name="apptp_PproUpsellBannerMessage">Tragogo VPN er den eneste som er kompatibel med App Tracking Protection. Aktiver med et abonnement på Privacy Pro.</string>
     <string name="apptp_PproUpsellBannerAction">Finn ut mer</string>
-    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonner på DuckDuckGo og få den eneste VPN-løsningen som er kompatibel med App Tracking Protection.</string>
+    <string name="apptp_PproUpsellBannerMessage_freeTrial">Abonner på Tragogo og få den eneste VPN-løsningen som er kompatibel med App Tracking Protection.</string>
     <string name="apptp_PproUpsellBannerAction_freeTrial">Prøv gratis!</string>
 
     <!-- Content Descriptions -->

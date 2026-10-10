@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Salasanat</string>
     <string name="browserMenuDownloads">Lataukset</string>
     <string name="browserMenuSettings">Asetukset</string>
-    <string name="browserMenuOpenInDDG">Avaa DuckDuckGo:ssa</string>
-    <string name="browserMenuRunningInDDG">Käynnissä DuckDuckGossa</string>
+    <string name="browserMenuOpenInDDG">Avaa Tragogo:ssa</string>
+    <string name="browserMenuRunningInDDG">Käynnissä Tragogossa</string>
     <string name="browserMenuSetAsDefaultBrowser">Aseta oletusselaimeksi</string>
     <string name="browserMenuNewChat">Uusi keskustelu</string>
     <string name="browserMenuNewAIChat">Uusi AI Chat</string>

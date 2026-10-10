@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -41,8 +41,8 @@
     <string name="browserMenuAutofill">Heslá</string>
     <string name="browserMenuDownloads">Stiahnuté</string>
     <string name="browserMenuSettings">Nastavenia</string>
-    <string name="browserMenuOpenInDDG">Otvoriť v DuckDuckGo</string>
-    <string name="browserMenuRunningInDDG">Spustené v DuckDuckGo</string>
+    <string name="browserMenuOpenInDDG">Otvoriť v Tragogo</string>
+    <string name="browserMenuRunningInDDG">Spustené v Tragogo</string>
     <string name="browserMenuSetAsDefaultBrowser">Nastaviť ako predvolený prehliadač</string>
     <string name="browserMenuNewChat">Nový chat</string>
     <string name="browserMenuNewAIChat">Nový AI Chat</string>

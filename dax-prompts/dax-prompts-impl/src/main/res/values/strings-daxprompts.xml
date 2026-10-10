@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (c) 2025 DuckDuckGo
+  ~ Copyright (c) 2025 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,8 +18,8 @@
 <resources>
     <string name="dax_prompt_browser_comparison_title" instruction="Title for the Browser Comparison section">Browser Comparison</string>
     <string name="dax_prompt_browser_comparison_close" instruction="Content description for the X button">Close</string>
-    <string name="dax_prompt_browser_comparison_message_title" instruction="Title for Dax message">DuckDuckGo has protections other browsers don’t.</string>
-    <string name="dax_prompt_browser_comparison_message_primary_button" instruction="This text is placed on a large button">Open Links With DuckDuckGo</string>
+    <string name="dax_prompt_browser_comparison_message_title" instruction="Title for Dax message">Tragogo has protections other browsers don’t.</string>
+    <string name="dax_prompt_browser_comparison_message_primary_button" instruction="This text is placed on a large button">Open Links With Tragogo</string>
     <string name="dax_prompt_browser_comparison_message_ghost_button" instruction="This text is placed on a large button">Maybe Later</string>
 
     <string name="dax_prompt_browser_comparison_item1" instruction="This text is placed in a table">Search privately by default</string>

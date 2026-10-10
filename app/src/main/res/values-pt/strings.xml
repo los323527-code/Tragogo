@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -17,9 +17,9 @@
 <!-- smartling.entity_escaping = false -->
 <!-- smartling.instruction_attributes = instruction -->
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="appName" translatable="false">DuckDuckGo</string>
-    <string name="appDescription" translatable="false">DuckDuckGo</string>
-    <string name="duckDuckGoLogoDescription">Logótipo do DuckDuckGo</string>
+    <string name="appName" translatable="false">Tragogo</string>
+    <string name="appDescription" translatable="false">Tragogo</string>
+    <string name="duckDuckGoLogoDescription">Logótipo do Tragogo</string>
     <string name="duckDuckGoProtectionPrivacyPeaceTagLine">Proteção. Privacidade. Tranquilidade.</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
@@ -31,15 +31,15 @@
     <string name="duckAiChatDeletedSnackbar">Chat eliminado</string>
 
     <!-- Onboarding Activity -->
-    <string name="onboardingDefaultBrowserDescription">Visite as Definições para pesquisar e navegar sempre com o DuckDuckGo.</string>
-    <string name="onboardingDefaultBrowserTitle">Faça do DuckDuckGo o seu predefinido</string>
+    <string name="onboardingDefaultBrowserDescription">Visite as Definições para pesquisar e navegar sempre com o Tragogo.</string>
+    <string name="onboardingDefaultBrowserTitle">Faça do Tragogo o seu predefinido</string>
 
     <!-- Default Browser -->
     <string name="cannotLaunchDefaultAppSettings">Não é possível iniciar o ecrã predefinido de definições da aplicação</string>
     <string name="setAsDefaultBrowser">Definir como navegador padrão</string>
     <string name="defaultBrowserMaybeLater">Talvez mais tarde</string>
     <string name="defaultBrowserDescriptionNoDefault">Abra links com tranquilidade, sempre.</string>
-    <string name="defaultBrowserInstructions">Selecione DuckDuckGo e toque em <font color="#678fff">Sempre</font>.</string>
+    <string name="defaultBrowserInstructions">Selecione Tragogo e toque em <font color="#678fff">Sempre</font>.</string>
 
     <!-- Browser Activity -->
     <string name="browserPopupMenu">Menu do navegador</string>
@@ -94,11 +94,11 @@
     <!-- Opening external apps -->
     <string name="openExternalApp">Abrir aplicação externa</string>
     <string name="launchingExternalApp">Abrir noutra aplicação</string>
-    <string name="confirmOpenExternalApp">Gostaria de sair do DuckDuckGo para visualizar este conteúdo?</string>
+    <string name="confirmOpenExternalApp">Gostaria de sair do Tragogo para visualizar este conteúdo?</string>
     <string name="unableToOpenLink">Não é possível abrir este tipo de ligação</string>
 
     <!-- Tabs -->
-    <string name="homeTab" translatable="false">DuckDuckGo</string>
+    <string name="homeTab" translatable="false">Tragogo</string>
     <string name="tabActivityTitle">Separadores</string>
     <string name="tabsMenuItem">Separadores</string>
     <string name="newTabMenuItem">Novo separador</string>
@@ -133,7 +133,7 @@
     <string name="settingsHeadingAppearance">Aparência</string>
     <string name="settingsWhatsNew">Novidades</string>
     <string name="settingsHeadingAbout">Acerca de</string>
-    <string name="settingsAboutDuckduckgo">Sobre o DuckDuckGo</string>
+    <string name="settingsAboutDuckduckgo">Sobre o Tragogo</string>
     <string name="settingsVersion">Versão</string>
     <string name="leaveFeedback">Partilhar comentários</string>
     <string name="leaveFeedbackNew">Enviar comentário</string>
@@ -164,12 +164,12 @@
     <string name="settingsAddWidget">Adicionar widget ao ecrã inicial</string>
     <string name="settingsAddressBarPosition">Define a Posição da Barra de Endereços</string>
     <string name="settingsEnableVoiceSearch">Ativar pesquisa por voz privada</string>
-    <string name="settingsDDGOnOtherPlatforms">DuckDuckGo Noutras Plataformas</string>
+    <string name="settingsDDGOnOtherPlatforms">Tragogo Noutras Plataformas</string>
     <string name="settingsDuckAi">Funcionalidades de IA</string>
 
     <!-- Private Search -->
     <string name="privateSearchActivityTitle">Pesquisa Privada</string>
-    <string name="privateSearchDescription">O DuckDuckGo Private Search é o teu motor de pesquisa predefinido, para que possas pesquisar a web sem seres rastreado.</string>
+    <string name="privateSearchDescription">O Tragogo Private Search é o teu motor de pesquisa predefinido, para que possas pesquisar a web sem seres rastreado.</string>
     <string name="privateSearchMoreSearchSettingsPrimaryText">Mais definições de pesquisa</string>
     <string name="privateSearchMoreSearchSettingsSecondaryText">Personaliza o teu idioma de pesquisa, região e muito mais</string>
     <string name="privateSearchMoreSearchSettingsTitle">Mais definições de pesquisa</string>
@@ -187,7 +187,7 @@
     <string name="webTrackingProtectionActivityTitle">Proteção contra rastreamento na internet</string>
     <string name="webTrackingProtectionLearnMoreTitle">Proteção contra rastreamento na internet</string>
     <string name="webTrackingProtectionTitle">Proteção contra rastreamento na internet</string>
-    <string name="webTrackingProtectionExplanationDescription"><![CDATA[O navegador DuckDuckGo fornece proteções contra rastreamento, que estão sempre ativas.\n<a href=\"\">Sabe mais</a>]]></string>
+    <string name="webTrackingProtectionExplanationDescription"><![CDATA[O navegador Tragogo fornece proteções contra rastreamento, que estão sempre ativas.\n<a href=\"\">Sabe mais</a>]]></string>
     <string name="webTrackingProtectionExplanationTitle">Como te protegemos</string>
     <string name="webTrackingProtectionThirdPartyTrackersTitle">Bloqueia rastreadores de terceiros</string>
     <string name="webTrackingProtectionThirdPartyTrackersDescription">Ajuda a bloquear cookies de terceiros que te rastreiam de site para site, impedindo que os rastreadores de terceiros sejam carregados desde o início.</string>
@@ -212,7 +212,7 @@
 
     <!-- Get Desktop Browser -->
     <string name="getDesktopBrowserSettingItemTitle">Obter navegador para computador</string>
-    <string name="getDesktopBrowserSettingItemSubtitleTitle">DuckDuckGo para Mac e Windows</string>
+    <string name="getDesktopBrowserSettingItemSubtitleTitle">Tragogo para Mac e Windows</string>
     <string name="getDesktopBrowserHideItem">Ocultar</string>
 
     <!-- Cookie Pop-Up Protection -->
@@ -283,10 +283,10 @@
     <string name="settingsClearAiDataTitle">Eliminar as conversas do Duck.ai</string>
     <string name="settingsClearAiDataDeleteMessage">O Fire Button também elimina o histórico do Duck.ai, incluindo os chats fixados.</string>
     <!-- About Activity -->
-    <string name="aboutActivityTitle">Sobre o DuckDuckGo</string>
+    <string name="aboutActivityTitle">Sobre o Tragogo</string>
     <string name="aboutActivityTitleNew">Acerca de</string>
     <string name="aboutHeaderNewTagLine">Proteção. Privacidade. Tranquilidade.</string>
-    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nA DuckDuckGo é a empresa independente de proteção online para quem quer recuperar o controlo das suas informações pessoais.\n\nAcreditamos que a melhor maneira de proteger as tuas informações pessoais de hackers, burlões e empresas que invadem a privacidade é impedir que sejam recolhidas. É por isso que milhões de pessoas <annotation type="chart_comparison">escolhem o DuckDuckGo em vez do Chrome e de outros navegadores</annotation> para pesquisar e navegar online. O nosso motor de busca incorporado é como o Google, mas nunca rastreia as tuas pesquisas. E as nossas proteções de navegação, como o bloqueio de rastreadores de anúncios e o bloqueio de cookies, ajudam a impedir que outras empresas recolham os teus dados. Além disso, o nosso navegador é gratuito — ganhamos dinheiro com <annotation type="privacy_respecting_ads">anúncios de pesquisa que respeitam a tua privacidade</annotation> e não com a exploração dos teus dados.Além disso, também oferecemos a <annotation type="ppro_help_page">subscrição da DuckDuckGo</annotation> integrada no nosso navegador. Os subscritores obtêm ainda mais proteção de privacidade com uma <annotation type="vpn_help_page">VPN</annotation> rápida e simples que ajuda a proteger a atividade online, acesso a modelos avançados de IA no serviço privado de conversa com IA Duck.ai, um serviço que encontra e remove as tuas informações pessoais de sites de pesquisa de pessoas, e um serviço que restaura a tua identidade em caso de roubo.\n\nRecupera o controlo sobre as tuas informações pessoais com o navegador concebido para a proteção de dados e não para a recolha de dados.</string>
+    <string name="aboutDescriptionBrandUpdate2025">Welcome to the Duck Side!\n\nA Tragogo é a empresa independente de proteção online para quem quer recuperar o controlo das suas informações pessoais.\n\nAcreditamos que a melhor maneira de proteger as tuas informações pessoais de hackers, burlões e empresas que invadem a privacidade é impedir que sejam recolhidas. É por isso que milhões de pessoas <annotation type="chart_comparison">escolhem o Tragogo em vez do Chrome e de outros navegadores</annotation> para pesquisar e navegar online. O nosso motor de busca incorporado é como o Google, mas nunca rastreia as tuas pesquisas. E as nossas proteções de navegação, como o bloqueio de rastreadores de anúncios e o bloqueio de cookies, ajudam a impedir que outras empresas recolham os teus dados. Além disso, o nosso navegador é gratuito — ganhamos dinheiro com <annotation type="privacy_respecting_ads">anúncios de pesquisa que respeitam a tua privacidade</annotation> e não com a exploração dos teus dados.Além disso, também oferecemos a <annotation type="ppro_help_page">subscrição da Tragogo</annotation> integrada no nosso navegador. Os subscritores obtêm ainda mais proteção de privacidade com uma <annotation type="vpn_help_page">VPN</annotation> rápida e simples que ajuda a proteger a atividade online, acesso a modelos avançados de IA no serviço privado de conversa com IA Duck.ai, um serviço que encontra e remove as tuas informações pessoais de sites de pesquisa de pessoas, e um serviço que restaura a tua identidade em caso de roubo.\n\nRecupera o controlo sobre as tuas informações pessoais com o navegador concebido para a proteção de dados e não para a recolha de dados.</string>
     <string name="no_suggestions">Sem sugestões</string>
 
     <!-- Broken Site Activity -->
@@ -297,7 +297,7 @@
     <string name="brokenSiteProtectionsOnBannerMessage">A desativação das proteções pode ajudar.</string>
 
     <!-- Widget -->
-    <string name="searchWidgetTextHint">Pesquisar no DuckDuckGo</string>
+    <string name="searchWidgetTextHint">Pesquisar no Tragogo</string>
 
     <!-- Favorites widget -->
     <string name="addFavoriteMenuTitleHighlighted">👋 Adicionar favorito</string>
@@ -322,7 +322,7 @@
     <string name="surveyCtaLaunchButton">Responder ao inquérito</string>
     <string name="surveyCtaDismissButton">Não, obrigado</string>
     <string name="surveyActivityTitle">Inquérito aos utilizadores</string>
-    <string name="surveyTitle">Inquérito do DuckDuckGo</string>
+    <string name="surveyTitle">Inquérito do Tragogo</string>
     <string name="surveyDismissContentDescription">Ignorar inquérito</string>
     <string name="surveyLoadingErrorTitle">Oh, não!</string>
     <string name="surveyLoadingErrorText">O nosso inquérito não pode ser carregado neste momento.\nVolte a tentar mais tarde.</string>
@@ -337,14 +337,14 @@
     <string name="addWidgetInstruction1Label">1</string>
     <string name="addWidgetInstruction1">Prima prolongadamente o ecrã inicial e, em seguida, abra o menu de widgets.</string>
     <string name="addWidgetInstruction2Label">2</string>
-    <string name="addWidgetInstruction2">Encontre o widget DuckDuckGo.</string>
+    <string name="addWidgetInstruction2">Encontre o widget Tragogo.</string>
     <string name="addWidgetInstruction3Label">3</string>
     <string name="addWidgetInstruction3">Arraste o widget para a janela inicial.</string>
     <string name="addWidgetInstructionsButtonGoHome">Vá para ecrã inicial</string>
     <string name="addWidgetInstructionsButtonClose">Fechar</string>
 
     <!-- App Enjoyment / Rating / Feedback -->
-    <string name="appEnjoymentDialogTitle">Está a gostar do DuckDuckGo?</string>
+    <string name="appEnjoymentDialogTitle">Está a gostar do Tragogo?</string>
     <string name="appEnjoymentDialogMessage">Adoravamos saber o que pensa.</string>
     <string name="appEnjoymentDialogPositiveButton">Gosto</string>
     <string name="appEnjoymentDialogNegativeButton">Precisa de ser trabalhada</string>
@@ -366,15 +366,15 @@
 
     <!-- Clear Notification -->
     <string name="clearNotificationTitle">Limpeza de dados definida para manual</string>
-    <string name="clearNotificationDescription">Personalize o DuckDuckGo para limpar automaticamente os dados de navegação após cada sessão.</string>
+    <string name="clearNotificationDescription">Personalize o Tragogo para limpar automaticamente os dados de navegação após cada sessão.</string>
 
     <!-- Privacy Protection Notification -->
     <string name="privacyProtectionNotificationDefaultTitle">Estamos a proteger a sua privacidade</string>
     <string name="privacyProtectionNotificationReportTitle">O seu relatório de privacidade</string>
-    <string name="privacyProtectionNotificationDefaultDescription">Utilizar a aplicação DuckDuckGo protege os seus dados bloqueando rastreadores e encriptando ligações.</string>
-    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Protegeu os seus dados tornando seguras %1$d ligações não encriptadas durante a utilização do DuckDuckGo.</string>
-    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Protegeu os seus dados bloqueando %1$d rastreadores durante a utilização do DuckDuckGo.</string>
-    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Protegeu os seus dados bloqueando %1$d rastreadores e tornando seguras %2$d ligações não encriptadas durante a utilização do DuckDuckGo.</string>
+    <string name="privacyProtectionNotificationDefaultDescription">Utilizar a aplicação Tragogo protege os seus dados bloqueando rastreadores e encriptando ligações.</string>
+    <string name="privacyProtectionNotificationUpgadeDescription" instruction="Placeholder is a the number of connections we have protected">Protegeu os seus dados tornando seguras %1$d ligações não encriptadas durante a utilização do Tragogo.</string>
+    <string name="privacyProtectionNotificationTrackerDescription" instruction="Placeholder is the numer of trackers blocked">Protegeu os seus dados bloqueando %1$d rastreadores durante a utilização do Tragogo.</string>
+    <string name="privacyProtectionNotificationBothDescription" instruction="%1$d is the number of trackers blocked and %2$d is the number of unencrypted connections">Protegeu os seus dados bloqueando %1$d rastreadores e tornando seguras %2$d ligações não encriptadas durante a utilização do Tragogo.</string>
     <string name="privacyProtectionNotificationLaunchButton">Retomar navegação</string>
 
     <!-- Authentication -->
@@ -386,7 +386,7 @@
     <string name="authenticationDialogPasswordHint">Palavra-passe</string>
 
     <!-- User-facing label for when a user selects text and might want to search for that text -->
-    <string name="systemTextSearchMessage">Pesquisar no DuckDuckGo</string>
+    <string name="systemTextSearchMessage">Pesquisar no Tragogo</string>
 
     <!-- Webview Recovery -->
     <string name="crashedWebViewErrorMessage">"Não foi possível exibir a página web."</string>
@@ -394,8 +394,8 @@
 
     <!-- System Search-->
     <string name="systemSearchAppNotFound">Não foi possível encontrar a aplicação</string>
-    <string name="systemSearchOnboardingThanks">Agradecemos-te por escolheres o DuckDuckGo!\nUsar o nosso navegador ajuda a manter a proteção contra hackers, burlões e empresas ávidas por dados.</string>
-    <string name="systemSearchOnboardingFeaturesIntroText">A aplicação DuckDuckGo também:</string>
+    <string name="systemSearchOnboardingThanks">Agradecemos-te por escolheres o Tragogo!\nUsar o nosso navegador ajuda a manter a proteção contra hackers, burlões e empresas ávidas por dados.</string>
+    <string name="systemSearchOnboardingFeaturesIntroText">A aplicação Tragogo também:</string>
     <string name="systemSearchOnboardingFeatureOneText">Bloqueia rastreadores inseguros.</string>
     <string name="systemSearchOnboardingFeatureTwoText">Força a encriptação em websites.</string>
     <string name="systemSearchOnboardingFeatureThreeText">Limpa os dados com um toque.</string>
@@ -413,7 +413,7 @@
     <string name="daxDialogAppTpRetentionSecondaryButtonText">Agora não</string>
 
     <!-- New Onboarding Experience -->
-    <string name="onboardingWelcomeTitle">"Damos-lhe as boas-vindas ao DuckDuckGo!"</string>
+    <string name="onboardingWelcomeTitle">"Damos-lhe as boas-vindas ao Tragogo!"</string>
     <string name="onboardingDaxText"><![CDATA[A Internet pode ser um pouco assustadora.<br/><br/>Mas não se preocupe! Pesquisar e navegar em privado é mais fácil do que pensa.]]></string>
     <string name="onboardingLetsDoItButton">Vamos lá!</string>
     <string name="daxNonSerpCtaText"><![CDATA[Enquanto toca e desliza, eu bloqueio rastreadores irritantes. <br/><br/>Prossiga - continue a navegar!]]></string>
@@ -503,7 +503,7 @@
     <string name="dosErrorMessage">Ligação abortada. Este website poderá ser prejudicial ao seu dispositivo.</string>
 
     <!-- Precise Location -->
-    <string name="preciseLocationSystemDialogTitle">Ativar a localização do dispositivo para o Navegador de Privacidade DuckDuckGo?</string>
+    <string name="preciseLocationSystemDialogTitle">Ativar a localização do dispositivo para o Navegador de Privacidade Tragogo?</string>
     <string name="preciseLocationSystemDialogSubtitle" instruction="%1$s and %2$s are both the name of the website requesting the location">%1$s está a pedir a localização do seu dispositivo. Primeiro, precisa permitir que a aplicação envie a localização do dispositivo e, em seguida, %2$s pode pedir permissão.</string>
     <string name="preciseLocationSystemDialogAllow">Permitir</string>
     <string name="preciseLocationSystemDialogDeny">Talvez mais tarde</string>
@@ -515,7 +515,7 @@
     <string name="preciseLocationSiteDialogAllowOnce">Apenas para esta sessão</string>
     <string name="preciseLocationSiteDialogDenyAlways">Negar sempre</string>
     <string name="preciseLocationSiteDialogDenyOnce">Negar para esta sessão</string>
-    <string name="preciseLocationFeatureDescription">Os sites que visita podem pedir para saber a localização do dispositivo. Eles não poderão aceder a ele até lhes conceder permissão explicitamente. DuckDuckGo apenas utiliza a sua localização anonimamente para entregar resultados de pesquisas locais.</string>
+    <string name="preciseLocationFeatureDescription">Os sites que visita podem pedir para saber a localização do dispositivo. Eles não poderão aceder a ele até lhes conceder permissão explicitamente. Tragogo apenas utiliza a sua localização anonimamente para entregar resultados de pesquisas locais.</string>
     <string name="preciseLocationToggleText">Os sites podem solicitar a minha localização</string>
     <string name="preciseLocationEmptyListHint">Nenhum site tem garantia de permissão para aceder à localização</string>
     <string name="preciseLocationNoSystemPermission">Para gerir as permissões de acesso à localização que concedeu a sites individuais, ative a localização para esta aplicação, nas definições do Android.</string>
@@ -531,7 +531,7 @@
 
     <!--  Global Privacy Control-->
     <string name="globalPrivacyControlActivityTitle">Controlo Global de Privacidade (CGP)</string>
-    <string name="globalPrivacyControlDescription"><![CDATA[DuckDuckGo bloqueia automaticamente muitos rastreadores. Com o Controlo de Privacidade Global (CPG), pode também solicitar aos websites participantes para restringir a venda ou a partilha dos seus dados pessoais com outras empresas. <u><a href=\"\">Saiba mais</a><u/>]]></string>
+    <string name="globalPrivacyControlDescription"><![CDATA[Tragogo bloqueia automaticamente muitos rastreadores. Com o Controlo de Privacidade Global (CPG), pode também solicitar aos websites participantes para restringir a venda ou a partilha dos seus dados pessoais com outras empresas. <u><a href=\"\">Saiba mais</a><u/>]]></string>
     <string name="globalPrivacyControlSetting">Controlo Global de Privacidade (CGP)</string>
     <string name="globalPrivacyControlToggle">Controlo Global de Privacidade (CGP)</string>
     <string name="disabled">Desativado</string>
@@ -567,11 +567,11 @@
     <string name="settingsAccessibility">Acessibilidade</string>
     <string name="accessibilityActivityTitle">Acessibilidade</string>
     <string name="accessibilityFontSizeTitle">Tamanho do texto</string>
-    <string name="accessibilityFontSizeHint">Arraste o slider até poder ler isto confortavelmente. Os websites que visualiza no DuckDuckGo ajustar-se-ão a ele.</string>
+    <string name="accessibilityFontSizeHint">Arraste o slider até poder ler isto confortavelmente. Os websites que visualiza no Tragogo ajustar-se-ão a ele.</string>
     <string name="accessibilityForceZoomTitle">Imponha o zoom manual da página</string>
     <string name="accessibilityForceZoomSubtitle">Aperte e faça zoom em qualquer site, mesmo aqueles que de outra forma o evitariam</string>
     <string name="accessibilityTextSizeOverrideTitle">Gira o tamanho do texto</string>
-    <string name="accessibilityTextSizeOverrideSubtitle">Os textos nos sites que visualiza no DuckDuckGo serão ajustados para corresponder à definição abaixo</string>
+    <string name="accessibilityTextSizeOverrideSubtitle">Os textos nos sites que visualiza no Tragogo serão ajustados para corresponder à definição abaixo</string>
 
     <!-- Privacy Policy -->
     <string name="settingsPrivacyPolicyDuckduckgo">Política de Privacidade</string>
@@ -624,7 +624,7 @@
     <string name="tabSelectedIndicator">Indicador de separador selecionado</string>
     <string name="tabNotSelectedIndicator">Indicador de separador não selecionado</string>
 
-    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d links do DuckDuckGo</string>
+    <string name="shareMultipleLinksTitle" tools:ignore="MissingInstruction">%1$d links do Tragogo</string>
     <plurals name="shareLinksMenuItem" tools:ignore="ImpliedQuantity,MissingInstruction">
         <item quantity="one">Partilhar link</item>
         <item quantity="other">Partilhar %1$d links</item>
@@ -685,7 +685,7 @@
     </plurals>
 
     <!-- Private voice search -->
-    <string name="accessibilityVoiceSearchSubtitle">Adicionar opção de pesquisa privada por voz à barra de endereços. O áudio não é armazenado nem partilhado com ninguém, incluindo o DuckDuckGo.</string>
+    <string name="accessibilityVoiceSearchSubtitle">Adicionar opção de pesquisa privada por voz à barra de endereços. O áudio não é armazenado nem partilhado com ninguém, incluindo o Tragogo.</string>
     <string name="accessibilityVoiceSearchTitle">Pesquisa por voz privada</string>
 
     <!-- Uploading an image from the camera or choosing to use existing image -->
@@ -693,8 +693,8 @@
     <string name="imageCaptureCameraGalleryDisambiguationTitle">Carrega uma imagem</string>
     <string name="imageCaptureCameraGalleryDisambiguationGalleryOption">Escolher ficheiro</string>
     <string name="imageCaptureCameraGalleryDisambiguationCameraOption">Tirar fotografia</string>
-    <string name="imageCaptureCameraPermissionDeniedTitle">Permitir que o DuckDuckGo peça acesso à câmara neste dispositivo</string>
-    <string name="imageCaptureCameraPermissionDeniedMessage">Os sites só podem utilizar a tua câmara se autorizares o DuckDuckGo a pedir acesso.</string>
+    <string name="imageCaptureCameraPermissionDeniedTitle">Permitir que o Tragogo peça acesso à câmara neste dispositivo</string>
+    <string name="imageCaptureCameraPermissionDeniedMessage">Os sites só podem utilizar a tua câmara se autorizares o Tragogo a pedir acesso.</string>
     <string name="imageCaptureCameraPermissionDeniedPositiveButton">Abrir Definições</string>
     <string name="imageCaptureCameraPermissionDeniedNegativeButton">Cancelar</string>
 
@@ -708,7 +708,7 @@
     <string name="sslErrorHeadline" instruction="Placeholder is domain with certificate issues">O certificado deste site é inválido. Podes estar a ligar a um servidor que finge ser %1$s, o que pode colocar as tuas informações confidenciais em risco.</string>
     <string name="sslErrorLeaveCTA">Deixar este site</string>
     <string name="sslErrorAdvancedCTA">Avançado</string>
-    <string name="sslErrorExpandedHeadline">O DuckDuckGo avisa-te quando um site tem um certificado inválido.</string>
+    <string name="sslErrorExpandedHeadline">O Tragogo avisa-te quando um site tem um certificado inválido.</string>
     <string name="sslErrorExpandedCTA"><![CDATA[<u>Aceitar o risco e visitar o site</u>]]></string>
     <string name="sslErrorExpiredMessage" instruction="Placeholder is domain with certificate issues">O certificado de segurança de %1$s expirou. É possível que o site esteja mal configurado, que um invasor tenha comprometido a tua ligação ou que o teu relógio do sistema esteja incorreto.</string>
     <string name="sslErrorWrongHostMessage" instruction="Placeholder is domain with certificate issues">O certificado de segurança de %1$s não corresponde a *.%2$s. É possível que o site esteja mal configurado, que um invasor tenha comprometido a tua ligação ou que o teu relógio do sistema esteja incorreto.</string>
@@ -745,7 +745,7 @@
     <string name="highlightsPreOnboardingAddressBarOption2Title">Parte inferior</string>
     <string name="highlightsPreOnboardingAddressBarOption2Description">Fácil de aceder</string>
     <string name="onboardingSearchDaxDialogTitle">Tente uma pesquisa!</string>
-    <string name="onboardingSearchDaxDialogDescription">As tuas pesquisas no DuckDuckGo são sempre privadas.</string>
+    <string name="onboardingSearchDaxDialogDescription">As tuas pesquisas no Tragogo são sempre privadas.</string>
     <string name="onboardingSearchDaxDialogOption1" instruction="translate &apos;duck&apos; too.">"como dizer pato em inglês"</string>
     <string name="onboardingSearchDaxDialogOption1English" instruction="translate &apos;duck&apos; too. Don&apos;t add question mark">"como dizer pato em espanhol"</string>
     <string name="onboardingSearchQueryOption1">como dizer pato em inglês</string>
@@ -761,8 +761,8 @@
     <string name="onboardingSitesDaxDialogOption2">yahoo.com</string>
     <string name="onboardingSitesDaxDialogOption3">ebay.com</string>
     <string name="onboardingSitesDaxDialogOption4">Surpreende-me!</string>
-    <string name="onboardingSerpDaxDialogDescription"><![CDATA[É o <b>DuckDuckGo Search</b>! Privado. Rápido. Menos anúncios.]]></string>
-    <string name="onboardingSerpDaxDialogBrandDesignTitle">É o DuckDuckGo Search!</string>
+    <string name="onboardingSerpDaxDialogDescription"><![CDATA[É o <b>Tragogo Search</b>! Privado. Rápido. Menos anúncios.]]></string>
+    <string name="onboardingSerpDaxDialogBrandDesignTitle">É o Tragogo Search!</string>
     <string name="onboardingSerpDaxDialogBrandDesignDescription">Privado. Rápido. Menos anúncios.</string>
     <string name="onboardingSerpDaxDialogButton">Entendi!</string>
     <string name="onboardingSitesSuggestionsDaxDialogTitle">Em seguida, experimenta visitar um site!</string>
@@ -783,7 +783,7 @@
     <string name="onboardingInContextEndDaxDialogDescription">Lembra-te: sempre que navegas comigo, um anúncio assustador perde as suas asas. 👌</string>
     <string name="onboardingEndDaxDialogButton">Dá cá cinco!</string>
     <string name="onboardingPrivacyProDaxDialogTitle">Antes que me esqueça…</string>
-    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[A DuckDuckGo conta também com uma <b>subscrição paga</b> opcional, com uma <b>VPN segura</b> e <b>IA avançada e privada</b>.]]></string>
+    <string name="onboardingPrivacyProDaxDialogDescription"><![CDATA[A Tragogo conta também com uma <b>subscrição paga</b> opcional, com uma <b>VPN segura</b> e <b>IA avançada e privada</b>.]]></string>
     <string name="onboardingPrivacyProDaxDialogOkButton">Saiba mais</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButton">Experimenta gratuitamente!</string>
     <string name="onboardingPrivacyProDaxDialogFreeTrialOkButtonBrandDesign">Experimenta gratuitamente!</string>
@@ -798,7 +798,7 @@
 
     <!--Onboarding Reinstall Quick Setup-->
     <string name="preOnboardingReinstallQuickSetupTitle">Bem-vindo de volta!&lt;br/&gt;Queres personalizar alguma coisa?</string>
-    <string name="preOnboardingReinstallSetDefaultLabel">Definir o DuckDuckGo como predefinido</string>
+    <string name="preOnboardingReinstallSetDefaultLabel">Definir o Tragogo como predefinido</string>
     <string name="preOnboardingReinstallAddHomeScreenWidgetLabel">Adicionar widget Ecrã inicial</string>
     <string name="preOnboardingReinstallAddressBarLabel">Posição da barra de endereços</string>
     <string name="preOnboardingReinstallAddressBarSearchOptionsLabel">Opções de pesquisa na barra de endereços</string>
@@ -830,23 +830,23 @@
     <string name="showOnAppLaunchOptionSpecificPage">Página específica</string>
 
     <!-- Privacy Dashboard -->
-    <string name="brokenSiteSubmittedReportMessage">Obrigado! O teu relatório ajuda a melhorar o DuckDuckGo para todos!</string>
+    <string name="brokenSiteSubmittedReportMessage">Obrigado! O teu relatório ajuda a melhorar o Tragogo para todos!</string>
 
     <!--    Default Browser Bottom Sheet Dialog -->
-    <string name="defaultBrowserBottomSheetDialogTitle">Deixa o DuckDuckGo proteger melhor o que fazes online</string>
-    <string name="defaultBrowserBottomSheetDialogSubTitle">Muda o teu navegador predefinido para que os links abram no DuckDuckGo.</string>
+    <string name="defaultBrowserBottomSheetDialogTitle">Deixa o Tragogo proteger melhor o que fazes online</string>
+    <string name="defaultBrowserBottomSheetDialogSubTitle">Muda o teu navegador predefinido para que os links abram no Tragogo.</string>
     <string name="defaultBrowserBottomSheetDialogGhostButton" instruction="This text appears on a button">Agora não</string>
 
     <!-- Default Browser message -->
-    <string name="newTabPageDefaultBrowserMessageHeading">O DuckDuckGo não é o teu navegador predefinido. Obtém mais proteção.</string>
+    <string name="newTabPageDefaultBrowserMessageHeading">O Tragogo não é o teu navegador predefinido. Obtém mais proteção.</string>
     <string name="newTabPageDefaultBrowserMessagePrimaryCta" instruction="This text appears on a button">Definir como predefinição</string>
     <string name="newTabPageDefaultBrowserMessageSecondaryCta" instruction="This text appears on a button">Não perguntar novamente</string>
 
     <!-- Threat protection -->
     <string name="maliciousSiteTitle">Aviso: este site pode ser um risco para a segurança</string>
-    <string name="maliciousSiteMalwareHeadline"><![CDATA[O DuckDuckGo bloqueou esta página porque pode estar a distribuir malware projetado para comprometer o teu dispositivo ou roubar as tuas informações pessoais.\n<a href=\"\">Sabe mais</a>]]></string>
+    <string name="maliciousSiteMalwareHeadline"><![CDATA[O Tragogo bloqueou esta página porque pode estar a distribuir malware projetado para comprometer o teu dispositivo ou roubar as tuas informações pessoais.\n<a href=\"\">Sabe mais</a>]]></string>
     <string name="maliciousSitePhishingHeadline"><![CDATA[Este site pode estar a fazer-se passar por um site legítimo para te enganar a fornecer informações pessoais, como palavras-passe ou números de cartão de crédito.\n<a href=\"\">Sabe mais</a>]]></string>
-    <string name="maliciousSiteScamHeadline"><![CDATA[O DuckDuckGo bloqueou esta página porque pode estar a tentar enganar-te ou manipular-te para transferires dinheiro, comprares produtos falsificados ou instalares malware sob falsos pretextos.\n<a href=\"\">Sabe mais</a>]]></string>
+    <string name="maliciousSiteScamHeadline"><![CDATA[O Tragogo bloqueou esta página porque pode estar a tentar enganar-te ou manipular-te para transferires dinheiro, comprares produtos falsificados ou instalares malware sob falsos pretextos.\n<a href=\"\">Sabe mais</a>]]></string>
     <string name="maliciousSiteLeaveCTA">Deixar este site</string>
     <string name="maliciousSiteAdvancedCTA">Avançado</string>
     <string name="maliciousSiteExpandedHeadline"><![CDATA[Se considerares que este site é seguro, podes <a href=\"\">denunciar um erro</a>. Mesmo assim, podes visitar o site por tua conta e risco.]]></string>
@@ -858,7 +858,7 @@
     <string name="maliciousSiteSettingLearnMore"><annotation type="learn_more_link">Sabe mais</annotation></string>
     <string name="maliciousSiteSettingDisabled">Desativar esta funcionalidade pode pôr em risco as tuas informações.</string>
     <string name="threatProtectionTitle">Proteção contra ameaças</string>
-    <string name="threatProtectionDescription">As proteções melhoradas do DuckDuckGo impedem ameaças comuns enquanto mantêm a tua ligação segura.</string>
+    <string name="threatProtectionDescription">As proteções melhoradas do Tragogo impedem ameaças comuns enquanto mantêm a tua ligação segura.</string>
     <string name="smarterEncryptionTitle">Encriptação mais inteligente</string>
     <string name="smarterEncryptionDescription"><![CDATA[Atualiza automaticamente links para HTTPS sempre que possível.<br><a href=\"\">Sabe mais</a>]]></string>
     <string name="scamBlockerTitle">Bloqueador de fraude</string>
@@ -870,7 +870,7 @@
     <string name="experimentHomeScreenWidgetBottomSheetDialogSubTitle">Adicione o nosso widget de pesquisa ao seu ecrã inicial para obter acesso rápido e fácil.</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogPrimaryButton">Adicionar widget</string>
     <string name="experimentHomeScreenWidgetBottomSheetDialogGhostButton">Agora não</string>
-    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Pesquisar no DuckDuckGo</string>
+    <string name="experimentHomeScreenWidgetBottomSheetDialogSearchText">Pesquisar no Tragogo</string>
 
     <!-- Change under remote feature flag: Widget as a Protection -->
     <string name="settingsAddHomeWidgetTitle">Widget da página principal</string>
@@ -892,19 +892,19 @@
 
     <!-- Widgets -->
     <string name="searchOnlyWidgetLabel" instruction="Label for the search-only widget">Pesquisar apenas</string>
-    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Inicia rapidamente uma pesquisa privada com o DuckDuckGo.</string>
-    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Pesquisa em privado com o DuckDuckGo ou pergunta ao Duck.ai. Pesquisa por voz e Duck.ai disponíveis se ativados.</string>
+    <string name="searchOnlyWidgetDescription" instruction="Description for the search-only widget">Inicia rapidamente uma pesquisa privada com o Tragogo.</string>
+    <string name="searchWidgetDescription" instruction="Description for the search widget, which may include Duck.ai and voice search">Pesquisa em privado com o Tragogo ou pergunta ao Duck.ai. Pesquisa por voz e Duck.ai disponíveis se ativados.</string>
     <string name="searchAndFavoritesWidgetDescription" instruction="Description for the search and favorites widget">Pesquisa ou visita os teus sites favoritos de forma privada com um toque. Pesquisa por voz e Duck.ai disponíveis se ativados.</string>
     <string name="duckAiOnlyPinShortcutLabel" instruction="Label for the Duck.ai pinned shortcut. Should be Duck.ai in all languages">Duck.ai</string>
 
     <!-- Sync Restore (onboarding) -->
     <string name="syncRestoreDialogTitle">Vamos continuar onde paraste</string>
-    <string name="syncRestoreDialogDescription">Queres restaurar os teus marcadores, palavras-passe e mais a partir da tua sincronização anterior com o DuckDuckGo?</string>
+    <string name="syncRestoreDialogDescription">Queres restaurar os teus marcadores, palavras-passe e mais a partir da tua sincronização anterior com o Tragogo?</string>
     <string name="syncRestoreDialogPrimaryCta">Restaurar as minhas coisas</string>
     <string name="syncRestoreDialogSecondaryCta">Ignorar</string>
 
     <!-- Sync Restore (brand-design onboarding) -->
-    <string name="syncRestoreDialogBrandDesignTitle">Vamos continuar onde paraste no DuckDuckGo.</string>
+    <string name="syncRestoreDialogBrandDesignTitle">Vamos continuar onde paraste no Tragogo.</string>
     <string name="syncRestoreDialogBrandDesignBody1">Os teus marcadores, palavras-passe e mais estão prontos.</string>
 
     <!-- PDF download tooltip -->
@@ -953,7 +953,7 @@
     <!-- Pre-onboarding: input demo screen -->
     <string name="preOnboardingInputModeDemoTitleCustomAi">Agora, experimenta um chat privado de IA!</string>
     <!-- Pre-onboarding: browser comparison screen -->
-    <string name="preOnboardingDaxDialog2TitleCustomAi">Queres tornar o DuckDuckGo o teu navegador predefinido?</string>
+    <string name="preOnboardingDaxDialog2TitleCustomAi">Queres tornar o Tragogo o teu navegador predefinido?</string>
 
     <!-- Pre-onboarding: widget prompt -->
     <string name="preOnboardingWidgetPromptTitle">Experimenta o nosso widget do ecrã inicial.</string>
@@ -987,7 +987,7 @@
     <string name="input_screen_user_pref_with_ai_updated">Alternar entre\nPesquisa e Duck.ai</string>
 
     <!-- New Address Bar Picker -->
-    <string name="newAddressBarPickerDuckDuckGo" translatable="false">DuckDuckGo</string>
+    <string name="newAddressBarPickerTragogo" translatable="false">Tragogo</string>
     <string name="newAddressBarPickerConfirm">Confirmar</string>
 
     <!-- App feedback -->
@@ -1013,7 +1013,7 @@
     <string name="downloadsCannotOpenFileErrorMessage">Não é possível abrir o ficheiro. Verificar se a aplicação é compatível.</string>
 
     <!-- Error pages -->
-    <string name="webViewErrorTitle" instruction="Title shown on the error pages">O DuckDuckGo não consegue carregar esta página</string>
+    <string name="webViewErrorTitle" instruction="Title shown on the error pages">O Tragogo não consegue carregar esta página</string>
     <string name="webViewErrorNoConnection" instruction="Message shown when the page fails to load because the device has no internet connection">A ligação à internet parece estar desligada.</string>
     <string name="webViewErrorBadUrl" instruction="Message shown when the hostname of the website could not be resolved">Não foi possível encontrar um servidor com o nome do anfitrião especificado.</string>
     <string name="webViewErrorSslProtocol" instruction="Message shown when the website&apos;s SSL certificate is invalid. Placeholder is the website&apos;s address"><![CDATA[O certificado deste servidor é inválido. Podes estar a ligar a um servidor que finge ser <b>%1$s</b>, o que pode colocar as tuas informações confidenciais em risco.]]></string>

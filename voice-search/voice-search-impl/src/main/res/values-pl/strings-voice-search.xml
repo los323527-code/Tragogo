@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -20,9 +20,9 @@
     <string name="voiceSearchError">Wystąpił błąd. Spróbuj ponownie później.</string>
     <string name="voiceSearchIconContentDescription">Wyszukiwanie głosowe</string>
     <string name="voiceSearchListening">Mów teraz</string>
-    <string name="voiceSearchListeningFooter">Dźwięk jest przetwarzany na urządzeniu. Dane nie są przechowywane ani udostępniane żadnym podmiotom, w tym DuckDuckGo.</string>
+    <string name="voiceSearchListeningFooter">Dźwięk jest przetwarzany na urządzeniu. Dane nie są przechowywane ani udostępniane żadnym podmiotom, w tym Tragogo.</string>
     <string name="voiceSearchNegativeAction">Anuluj</string>
-    <string name="voiceSearchMicAccessDeniedDialogTitle">DuckDuckGo potrzebuje dostępu do Twojego mikrofonu</string>
+    <string name="voiceSearchMicAccessDeniedDialogTitle">Tragogo potrzebuje dostępu do Twojego mikrofonu</string>
     <string name="voiceSearchMicAccessDeniedDialogMessage">Uprawnienia do mikrofonu są potrzebne, jeśli chcesz korzystać z naszego prywatnego wyszukiwania głosowego.</string>
     <string name="voiceSearchMicAccessDeniedDialogMessageDuckAi">Uprawnienia do mikrofonu są potrzebne, jeśli chcesz korzystać z naszych prywatnych funkcji głosowych.</string>
     <string name="voiceSearchMicAccessDeniedDialogChangePermissions">Zmień uprawnienia</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -18,7 +18,7 @@
 <!-- smartling.instruction_attributes = instruction -->
 <resources>
     <string name="broken_site_prompt_title">Mrežna lokacija ne funkcionira? Javi nam.</string>
-    <string name="broken_site_prompt_description">Ovo nam pomaže da poboljšamo preglednik DuckDuckGo.</string>
+    <string name="broken_site_prompt_description">Ovo nam pomaže da poboljšamo preglednik Tragogo.</string>
     <string name="broken_site_prompt_button_dismiss">Odbaci</string>
     <string name="broken_site_prompt_button_report">Prijavi neispravno web-mjesto</string>
 </resources>

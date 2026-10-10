@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2024 DuckDuckGo
+  ~ Copyright (c) 2024 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -21,9 +21,9 @@
     <string name="duck_player_cancel">Peruuta</string>
     <string name="duck_player_setting_title">Duck Player</string>
     <string name="duck_player_settings_activity_title">Duck Player</string>
-    <string name="duck_player_settings_activity_description">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia DuckDuckGossa, eivätkä katsomasi videot vaikuta suosituksiisi.<annotation type="learn_more_link">Lue lisää</annotation></string>
+    <string name="duck_player_settings_activity_description">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia Tragogossa, eivätkä katsomasi videot vaikuta suosituksiisi.<annotation type="learn_more_link">Lue lisää</annotation></string>
     <string name="duck_player_settings_video_preferences_header">Videoasetukset</string>
-    <string name="duck_player_settings_unavailable_description">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia DuckDuckGossa, eivätkä katsomasi videot vaikuta suosituksiisi.</string>
+    <string name="duck_player_settings_unavailable_description">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia Tragogossa, eivätkä katsomasi videot vaikuta suosituksiisi.</string>
     <string name="duck_player_mode_always">Aina</string>
     <string name="duck_player_mode_never">Ei koskaan</string>
     <string name="duck_player_mode_always_ask">Kysy joka kerta</string>
@@ -31,7 +31,7 @@
     <string name="duck_player_close_modal_content_description">Sulje</string>
     <string name="duck_player_info_modal_title_from_duck_player_page">Hukutko mainoksiin YouTubessa? Duck Playerin avulla et huku!</string>
     <string name="duck_player_info_modal_title_from_overlay">Hukutko mainoksiin YouTubessa? Kokeile Duck Playeria!</string>
-    <string name="duck_player_info_modal_text">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia DuckDuckGossa, eivätkä katsomasi videot vaikuta suosituksiisi.</string>
+    <string name="duck_player_info_modal_text">Duck Playerin avulla voit katsella YouTubea ilman kohdennettuja mainoksia Tragogossa, eivätkä katsomasi videot vaikuta suosituksiisi.</string>
     <string name="duck_player_info_modal_button">Selvä!</string>
     <string name="duck_player_unavailable">Duck Player ei ole käytettävissä</string>
     <string name="duck_player_unavailable_learn_more">Lue lisää</string>

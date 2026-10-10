@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2026 DuckDuckGo
+  ~ Copyright (c) 2026 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -19,8 +19,8 @@
 <resources>
     <string name="ad_blocking_settings_title">YouTube\'da Reklam Engelleme</string>
     <string name="ad_blocking_settings_toggle_title">YouTube\'da Reklamları engelleyin</string>
-    <string name="ad_blocking_settings_description_with_consent">DuckDuckGo, YouTube\'daki video reklamları engelleyerek videoları kesintisiz izlemenizi sağlar. \n\nEtkinleştirildiğinde, DuckDuckGo herkesin deneyimini iyileştirmek için reklam engelleme müdahalesini veya YouTube hatalarını anonim olarak algılar. DuckDuckGo, hangi videoları izlediğinizi veya kişisel olarak tanımlanabilir bilgileri asla görmez. <annotation type="learn_more_link">Daha fazla bilgi</annotation></string>
-    <string name="ad_blocking_settings_description">DuckDuckGo, YouTube\'daki video reklamlarını engelleyerek videoları kesintisiz izlemenizi sağlar. <annotation type="learn_more_link">Daha fazla bilgi</annotation></string>
+    <string name="ad_blocking_settings_description_with_consent">Tragogo, YouTube\'daki video reklamları engelleyerek videoları kesintisiz izlemenizi sağlar. \n\nEtkinleştirildiğinde, Tragogo herkesin deneyimini iyileştirmek için reklam engelleme müdahalesini veya YouTube hatalarını anonim olarak algılar. Tragogo, hangi videoları izlediğinizi veya kişisel olarak tanımlanabilir bilgileri asla görmez. <annotation type="learn_more_link">Daha fazla bilgi</annotation></string>
+    <string name="ad_blocking_settings_description">Tragogo, YouTube\'daki video reklamlarını engelleyerek videoları kesintisiz izlemenizi sağlar. <annotation type="learn_more_link">Daha fazla bilgi</annotation></string>
     <string name="ad_blocking_settings_duck_player_header">Duck Player</string>
     <string name="ad_blocking_settings_duck_player_description">Videoları, izlediğiniz içeriğin YouTube akışınızı etkilemesini engelleyen, dikkat dağıtıcı unsurlardan arındırılmış bir sinema moduyla açar.</string>
     <string name="ad_blocking_settings_title_v2">Reklam Engelleme</string>
@@ -37,7 +37,7 @@
     <string name="ad_blocking_menu_disable_until_relaunch">Yeniden başlatılana kadar devre dışı bırak</string>
     <string name="ad_blocking_menu_always_off">Her Zaman Kapalı</string>
     <string name="ad_blocking_disabled_popup_title">YouTube\'da reklam engelleme çalışmıyor mu?</string>
-    <string name="ad_blocking_disabled_popup_description">DuckDuckGo\'ya anonim bir rapor göndererek reklam engellemeyi herkes için daha iyi hale getirmemize yardımcı olun!</string>
+    <string name="ad_blocking_disabled_popup_description">Tragogo\'ya anonim bir rapor göndererek reklam engellemeyi herkes için daha iyi hale getirmemize yardımcı olun!</string>
     <string name="ad_blocking_disabled_primary_action">Hata Raporu Gönder</string>
     <string name="ad_blocking_disabled_secondary_action">İptal</string>
     <string name="ad_blocking_settings_disabled_until_relaunch">Yeniden başlatılana kadar devre dışı bırakıldı</string>

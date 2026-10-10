@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Lesezeichen %1$s löschen?"</string>
     <string name="addToFavorites">Zu Favoriten hinzufügen</string>
     <string name="editBookmark">Lesezeichen bearbeiten</string>
-    <string name="importBookmarksDescription">Wenn deine Lesezeichen in einem anderen Browser gespeichert sind,\nkannst du sie in DuckDuckGo importieren.</string>
+    <string name="importBookmarksDescription">Wenn deine Lesezeichen in einem anderen Browser gespeichert sind,\nkannst du sie in Tragogo importieren.</string>
     <string name="importBookmarks">Lesezeichen importieren</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Keine Ergebnisse für „%1$s“</string>
     <string name="removeFromFavorites">Aus Favoriten entfernen</string>

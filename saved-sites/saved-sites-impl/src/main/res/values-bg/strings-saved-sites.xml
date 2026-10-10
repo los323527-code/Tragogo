@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -87,7 +87,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Изтриване на %1$s отметки?"</string>
     <string name="addToFavorites">Добавяне към любими</string>
     <string name="editBookmark">Редактиране на отметка</string>
-    <string name="importBookmarksDescription">Ако имате запазени отметки в друг браузър, можете\nда ги импортирате в DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Ако имате запазени отметки в друг браузър, можете\nда ги импортирате в Tragogo.</string>
     <string name="importBookmarks">Импортиране на отметки</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Няма резултати за \'%1$s\'</string>
     <string name="removeFromFavorites">Премахване от любими</string>

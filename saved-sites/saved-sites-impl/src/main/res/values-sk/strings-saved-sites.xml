@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2023 DuckDuckGo
+  ~ Copyright (c) 2023 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -93,7 +93,7 @@
     <string name="deleteBookmark" instruction="%1$s is the bookmark name">"Zmazať záložku %1$s?"</string>
     <string name="addToFavorites">Pridať k obľúbeným</string>
     <string name="editBookmark">Upraviť záložku</string>
-    <string name="importBookmarksDescription">Ak sú vaše záložky uložené v inom prehliadači, môžete ich importovať do aplikácie DuckDuckGo.</string>
+    <string name="importBookmarksDescription">Ak sú vaše záložky uložené v inom prehliadači, môžete ich importovať do aplikácie Tragogo.</string>
     <string name="importBookmarks">Importovať záložky</string>
     <string name="noResultsFor" instruction="%1$s is the search term">Žiadne výsledky pre „%1$s”</string>
     <string name="removeFromFavorites">Odstrániť z obľúbených položiek</string>

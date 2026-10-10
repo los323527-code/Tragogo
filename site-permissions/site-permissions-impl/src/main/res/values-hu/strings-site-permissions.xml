@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2022 DuckDuckGo
+  ~ Copyright (c) 2022 Tragogo
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -30,9 +30,9 @@
     <string name="sitePermissionsDialogRememberMeCheckBox">Választott beállítás megjegyzése</string>
     <string name="preciseLocationDDGDialogSubtitle">Az anonim tartózkodási helyedet csak arra használjuk, hogy jobb, hozzád közelebbi találatokat tudjunk adni. A Beállításokban kezelheted az egyes webhelyeknek megadott helyhozzáférési engedélyeket.</string>
     <string name="preciseLocationSiteDialogSubtitle">Az egyes webhelyeknek megadott helyhozzáférési engedélyeket a Beállításokban kezelheted.</string>
-    <string name="systemPermissionDialogLocationDeniedTitle">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a tartózkodási helyhez ezen az eszközön</string>
-    <string name="systemPermissionDialogLocationDeniedContent">A webhelyek csak akkor használhatják a tartózkodási helyet, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérjen.</string>
-    <string name="sitePermissionsLocationDeniedSnackBarMessage">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a tartózkodási helyhez</string>
+    <string name="systemPermissionDialogLocationDeniedTitle">Engedélyezés, hogy a Tragogo hozzáférést kérjen a tartózkodási helyhez ezen az eszközön</string>
+    <string name="systemPermissionDialogLocationDeniedContent">A webhelyek csak akkor használhatják a tartózkodási helyet, ha engedélyezed, hogy a Tragogo hozzáférést kérjen.</string>
+    <string name="sitePermissionsLocationDeniedSnackBarMessage">Engedélyezés, hogy a Tragogo hozzáférést kérjen a tartózkodási helyhez</string>
 
     <!-- Site Permission -->
     <string name="settingsSitePermissions">Webhelyengedélyek</string>
@@ -45,16 +45,16 @@
     <string name="sitePermissionsDialogContent">A megadott engedélyek a beállításokban kezelhetők</string>
     <string name="sitePermissionsDialogDenyButton">Megtagadás</string>
     <string name="sitePermissionsDialogAllowButton">Engedélyezés</string>
-    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a kamerához és a mikrofonhoz</string>
-    <string name="sitePermissionsCameraDeniedSnackBarMessage">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a kamerához</string>
-    <string name="sitePermissionsMicDeniedSnackBarMessage">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a mikrofonhoz</string>
+    <string name="sitePermissionsCameraAndMicDeniedSnackBarMessage">Engedélyezés, hogy a Tragogo hozzáférést kérjen a kamerához és a mikrofonhoz</string>
+    <string name="sitePermissionsCameraDeniedSnackBarMessage">Engedélyezés, hogy a Tragogo hozzáférést kérjen a kamerához</string>
+    <string name="sitePermissionsMicDeniedSnackBarMessage">Engedélyezés, hogy a Tragogo hozzáférést kérjen a mikrofonhoz</string>
     <string name="sitePermissionsDeniedSnackBarAction">Engedélyezés</string>
-    <string name="systemPermissionDialogCameraDeniedTitle">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a kamerához ezen az eszközön</string>
-    <string name="systemPermissionDialogCameraDeniedContent">A webhelyek csak akkor használhatják a kamerát, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérjen.</string>
-    <string name="systemPermissionDialogAudioDeniedTitle">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a mikrofonhoz ezen az eszközön</string>
-    <string name="systemPermissionDialogAudioDeniedContent">A webhelyek csak akkor használhatják a mikrofont, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérjen.</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Engedélyezés, hogy a DuckDuckGo hozzáférést kérjen a kamerához és a mikrofonhoz ezen az eszközön</string>
-    <string name="systemPermissionDialogCameraAndAudioDeniedContent">A webhelyek csak akkor használhatják a kamerát és a mikrofont, ha engedélyezed, hogy a DuckDuckGo hozzáférést kérjen.</string>
+    <string name="systemPermissionDialogCameraDeniedTitle">Engedélyezés, hogy a Tragogo hozzáférést kérjen a kamerához ezen az eszközön</string>
+    <string name="systemPermissionDialogCameraDeniedContent">A webhelyek csak akkor használhatják a kamerát, ha engedélyezed, hogy a Tragogo hozzáférést kérjen.</string>
+    <string name="systemPermissionDialogAudioDeniedTitle">Engedélyezés, hogy a Tragogo hozzáférést kérjen a mikrofonhoz ezen az eszközön</string>
+    <string name="systemPermissionDialogAudioDeniedContent">A webhelyek csak akkor használhatják a mikrofont, ha engedélyezed, hogy a Tragogo hozzáférést kérjen.</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedTitle">Engedélyezés, hogy a Tragogo hozzáférést kérjen a kamerához és a mikrofonhoz ezen az eszközön</string>
+    <string name="systemPermissionDialogCameraAndAudioDeniedContent">A webhelyek csak akkor használhatják a kamerát és a mikrofont, ha engedélyezed, hogy a Tragogo hozzáférést kérjen.</string>
     <string name="systemPermissionsDeniedDialogPositiveButton">Beállítások megnyitása</string>
     <string name="systemPermissionsDeniedDialogNegativeButton">Mégsem</string>
     <string name="duckAiMicPermissionDeniedSnackBarMessage">A beszédhangfunkciókhoz mikrofonengedély szükséges</string>
@@ -94,7 +94,7 @@
     <string name="sitePermissionsTieredDrmDialogSubtitle">Ha nem engedélyezed, előfordulhat, hogy a webhelyen lévő videók nem lesznek lejátszhatók, de ez a webhely nem fog hozzáférni a DRM-szoftver által biztosított eszközazonosítókhoz.</string>
 
     <!-- Reminder dialog -->
-    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the DuckDuckGo permission settings in the Android system settings app">Engedélyek módosítása</string>
+    <string name="sitePermissionsDialogChangePermissionsButton" instruction="Button opening the Tragogo permission settings in the Android system settings app">Engedélyek módosítása</string>
     <string name="sitePermissionsTieredSystemDeniedLocationTitle">A DuckDuckGónak hozzá kell férnie a tartózkodási helyedhez</string>
     <string name="sitePermissionsTieredSystemDeniedLocationContent">Helyhozzáférési engedélyre van szükség, ha helyfunkciókat szeretnél használni ezen a webhelyen.</string>
     <string name="sitePermissionsTieredSystemDeniedCameraTitle">A DuckDuckGónak hozzá kell férnie a kamerádhoz</string>
@@ -105,10 +105,10 @@
     <string name="sitePermissionsTieredSystemDeniedCameraAndMicContent">Kamera- és mikrofonengedélyre van szükség, ha kamera- és mikrofonfunkciókat szeretnél használni ezen a webhelyen.</string>
 
     <!-- Denial snackbar -->
-    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">A DuckDuckGo nem tudta megosztani a tartózkodási helyet ezzel a webhellyel</string>
-    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">A DuckDuckGo nem tudott kamera-hozzáférést adni a webhelynek</string>
-    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">A DuckDuckGo nem tudott mikrofon-hozzáférést adni a webhelynek</string>
-    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">A DuckDuckGo nem tudott kamera- és mikrofon-hozzáférést adni a webhelynek</string>
+    <string name="sitePermissionsTieredLocationDeniedSnackBarMessage">A Tragogo nem tudta megosztani a tartózkodási helyet ezzel a webhellyel</string>
+    <string name="sitePermissionsTieredCameraDeniedSnackBarMessage">A Tragogo nem tudott kamera-hozzáférést adni a webhelynek</string>
+    <string name="sitePermissionsTieredMicDeniedSnackBarMessage">A Tragogo nem tudott mikrofon-hozzáférést adni a webhelynek</string>
+    <string name="sitePermissionsTieredCameraAndMicDeniedSnackBarMessage">A Tragogo nem tudott kamera- és mikrofon-hozzáférést adni a webhelynek</string>
 
     <!-- Permission settings redesign -->
     <string name="permissionSettingsAlwaysAllow" instruction="Permission setting option: the site gets the permission without asking">Engedélyezés mindig</string>
