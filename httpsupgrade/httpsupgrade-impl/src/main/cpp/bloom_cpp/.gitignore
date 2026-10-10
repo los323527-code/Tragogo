@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+build
+.swiftpm/
+.build/
+.DS_Store
+test-bloom-filter.bin
+
